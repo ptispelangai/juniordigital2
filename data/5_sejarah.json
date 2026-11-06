@@ -1,0 +1,452 @@
+[
+  {
+    "id": "sej5_001",
+    "soalan": "Sistem pemerintahan beraja di Malaysia mengamalkan konsep:",
+    "pilihan": ["Raja Berperlembagaan dan Demokrasi Berparlimen", "Monarki Mutlak", "Pemerintahan Diktator", "Republik Berpresiden"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_002",
+    "soalan": "Ketua Utama Negara bagi Persekutuan Malaysia ialah:",
+    "pilihan": ["Perdana Menteri", "Yang di-Pertuan Agong", "Yang di-Pertua Dewan Rakyat", "Ketua Hakim Negara"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_003",
+    "soalan": "Yang di-Pertuan Agong dipilih secara bergilir-gilir daripada kalangan sembilan orang Raja Melayu oleh:",
+    "pilihan": ["Dewan Rakyat", "Rakyat melalui pilihan raya", "Majlis Raja-Raja", "Kabinet Menteri"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_004",
+    "soalan": "Tempoh perkhidmatan bagi seseorang Yang di-Pertuan Agong yang dilantik ialah selama:",
+    "pilihan": ["3 tahun", "4 tahun", "10 tahun", "5 tahun"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_005",
+    "soalan": "Tengkolok Diraja yang dipakai oleh Seri Paduka Baginda Yang di-Pertuan Agong dinamakan:",
+    "pilihan": ["Solek Dendam Tak Sudah", "Solek Helang Menyusur Angin", "Solek Balung Ayam", "Solek Anak Gajah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_006",
+    "soalan": "Keris Pendek Diraja diperbuat daripada bilah keris lama dan bersarung gading bertatah:",
+    "pilihan": ["Perak", "Emas", "Berlian", "Tembaga"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_007",
+    "soalan": "Menurut Perlembagaan Persekutuan, agama rasmi Persekutuan Malaysia ialah agama:",
+    "pilihan": ["Kristian", "Buddha", "Islam", "Hindu"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_008",
+    "soalan": "Walaupun Islam adalah agama Persekutuan, penganut agama lain bebas untuk:",
+    "pilihan": ["Mengabaikan undang-undang", "Mengubah perlembagaan", "Mencipta mata wang sendiri", "Mengamalkan agama dan kepercayaan masing-masing dengan aman dan damai"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_009",
+    "soalan": "Kedudukan Bahasa Melayu termaktub dalam Perkara 152 Perlembagaan Persekutuan sebagai:",
+    "pilihan": ["Bahasa Kebangsaan dan Bahasa Rasmi", "Bahasa Pilihan", "Bahasa Kedua Negara", "Bahasa Perdagangan Asing"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_010",
+    "soalan": "Kuasa penjajah Barat yang terawal menawan Melaka pada tahun 1511 ialah kuasa:",
+    "pilihan": ["Belanda", "Portugis", "British", "Sepanyol"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_011",
+    "soalan": "Belanda telah mengalahkan Portugis dan menguasai Melaka pada tahun:",
+    "pilihan": ["1786", "1824", "1641", "1511"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_012",
+    "soalan": "Perjanjian London 1824 telah memecahkan kepulauan Alam Melayu antara dua kuasa penjajah iaitu:",
+    "pilihan": ["Perancis dan Jerman", "Sepanyol dan Amerika", "Siam dan Portugis", "British dan Belanda"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_013",
+    "soalan": "Tokoh pejuang dari Naning yang bangkit menentang pengenaan cukai satu persepuluh oleh British ialah:",
+    "pilihan": ["Dol Said", "Rentap", "Dato' Bahaman", "Tok Janggut"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_014",
+    "soalan": "Rentap yang terkenal dengan ungkapan 'Agi Idup, Agi Ngelaban' memimpin penentangan terhadap Brooke di kubu:",
+    "pilihan": ["Kubu Niah", "Bukit Sadok", "Kubu Alice", "Bukit Broga"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_015",
+    "soalan": "Mat Salleh memimpin penentangan gagah menentang Syarikat Borneo Utara British (SBUB) di negeri:",
+    "pilihan": ["Sarawak", "Johor", "Sabah", "Pahang"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_016",
+    "soalan": "Penentangan rakyat Pasir Puteh, Kelantan terhadap sistem cukai British dipimpin oleh tokoh ulama terkenal iaitu:",
+    "pilihan": ["Mat Kilau", "Dato' Maharaja Lela", "Haji Abdul Rahman Limbong", "Tok Janggut (Haji Mat Hassan)"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_017",
+    "soalan": "Residen British pertama di Perak yang dibunuh di Pasir Salak kerana mencampuri adat resam tempatan ialah:",
+    "pilihan": ["J.W.W. Birch", "Frank Swettenham", "Hugh Low", "James Brooke"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_018",
+    "soalan": "Dato' Maharaja Lela dan Seputum dihukum gantung oleh British kerana mempertahankan kedaulatan negeri:",
+    "pilihan": ["Selangor", "Perak", "Kedah", "Kelantan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_019",
+    "soalan": "Haji Abdul Rahman Limbong mengetuai Gerakan Petani menentang peraturan tanah dan pas kebenaran British di negeri:",
+    "pilihan": ["Pahang", "Kedah", "Terengganu", "Johor"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_020",
+    "soalan": "Dato' Bahaman, Tok Gajah dan Mat Kilau bersatu memimpin gerakan menentang British di negeri:",
+    "pilihan": ["Perak", "Negeri Sembilan", "Selangor", "Pahang"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_021",
+    "soalan": "Pendudukan tentera Jepun di Tanah Melayu bermula pada penghujung tahun 1941 dan berakhir pada tahun:",
+    "pilihan": ["1945", "1948", "1957", "1963"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_022",
+    "soalan": "Rancangan British yang ditentang hebat oleh orang Melayu pada tahun 1946 kerana menghapuskan kedaulatan Raja-Raja Melayu ialah:",
+    "pilihan": ["Persekutuan Tanah Melayu", "Malayan Union", "Sistem Ahli", "Dasar Buka Pintu"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_023",
+    "soalan": "Penubuhan UMNO di Istana Besar Johor Bahru pada tahun 1946 dipimpin oleh tokoh nasionalis agung iaitu:",
+    "pilihan": ["Tunku Abdul Rahman", "Tun Hussein Onn", "Dato' Onn Ja'afar", "Tun Abdul Razak"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_024",
+    "soalan": "Rombongan Kemerdekaan ke London pada tahun 1956 diketuai oleh:",
+    "pilihan": ["Tun Dr. Ismail", "Tun V.T. Sambanthan", "Tun H.S. Lee", "Tunku Abdul Rahman Putra Al-Haj"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_025",
+    "soalan": "Pengisytiharan tarikh Kemerdekaan Tanah Melayu mula diumumkan di khalayak ramai bertempat di:",
+    "pilihan": ["Padang Banda Hilir, Melaka", "Stadium Merdeka, Kuala Lumpur", "Padang Kelab Selangor", "Padang Kota Lama, Pulau Pinang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_026",
+    "soalan": "Stadium yang dibina khas untuk menyambut detik pemasyhuran kemerdekaan 31 Ogos 1957 ialah:",
+    "pilihan": ["Stadium Bukit Jalil", "Stadium Merdeka", "Stadium Shah Alam", "Stadium Negara"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_027",
+    "soalan": "Berapa kalikah Tunku Abdul Rahman melaungkan seruan keramat 'MERDEKA!' pada pagi 31 Ogos 1957?",
+    "pilihan": ["3 kali", "5 kali", "7 kali", "10 kali"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_028",
+    "soalan": "Tokoh pemimpin kaum Cina yang bekerjasama erat dalam Parti Perikatan menuntut kemerdekaan negara ialah:",
+    "pilihan": ["Tun Tan Siew Sin", "Tun Ling Liong Sik", "Lee Kuan Yew", "Tun Tan Cheng Lock dan Tun H.S. Lee"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_029",
+    "soalan": "Tokoh pemimpin kaum India yang turut menandatangani Perjanjian Kemerdekaan di London ialah:",
+    "pilihan": ["Tun V.T. Sambanthan", "D.S. Ramanathan", "K.L. Devaser", "E.E.C. Thuraisingham"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_030",
+    "soalan": "Yang di-Pertuan Agong pertama Persekutuan Tanah Melayu ialah:",
+    "pilihan": ["Sultan Hisamuddin Alam Shah", "Tuanku Abdul Rahman ibni Almarhum Tuanku Muhammad", "Tuanku Syed Putra Jamalullail", "Sultan Ismail Nasiruddin Shah"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_031",
+    "soalan": "Cogan kata yang tertera pada Jata Negara Malaysia ialah:",
+    "pilihan": ["Malaysia Boleh", "Bersih, Cekap dan Amanah", "Bersekutu Bertambah Mutu", "Rakyat Didahulukan, Pencapaian Diutamakan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_032",
+    "soalan": "Dua ekor harimau yang menyokong perisai pada Jata Negara melambangkan:",
+    "pilihan": ["Kekayaan fauna negara", "Kecepatan berlari", "Kekuatan ekonomi", "Keberanian dan ketangkasan"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_033",
+    "soalan": "Lima bilah keris yang terdapat pada Jata Negara melambangkan:",
+    "pilihan": ["Negeri-Negeri Melayu Tidak Bersekutu", "Rukun Negara", "Negeri Selat", "Negeri-Negeri Melayu Bersekutu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_034",
+    "soalan": "Empat jalur warna di bahagian tengah perisai Jata Negara (merah, hitam, putih, kuning) melambangkan:",
+    "pilihan": ["Negeri-Negeri Selat", "Negeri-Negeri Melayu Bersekutu (Perak, Selangor, N. Sembilan, Pahang)", "Negeri Sabah dan Sarawak", "Empat buah pelabuhan utama"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_035",
+    "soalan": "Warna biru tua pada bendera Jalur Gemilang melambangkan:",
+    "pilihan": ["Keberanian rakyat", "Kesucian akhlak", "Perpaduan rakyat yang berbilang kaum", "Kedaulatan Raja-Raja"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_036",
+    "soalan": "Warna merah pada Jalur Gemilang melambangkan:",
+    "pilihan": ["Kedamaian", "Kemakmuran", "Kesucian", "Keberanian dan kegagahan"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_037",
+    "soalan": "Pencipta asal reka bentuk bendera Persekutuan Tanah Melayu ialah seorang arkitek bernama:",
+    "pilihan": ["Mohamed Hamzah", "Saiful Bahri", "Zubir Said", "P. Ramlee"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_038",
+    "soalan": "Irama lagu kebangsaan 'Negaraku' diadaptasi daripada irama lagu negeri:",
+    "pilihan": ["Johor", "Perak (lagu Terang Bulan)", "Kedah", "Selangor"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_039",
+    "soalan": "Bunga Raya (Hibiscus rosa-sinensis) diisytiharkan secara rasmi sebagai Bunga Kebangsaan oleh Perdana Menteri Tunku Abdul Rahman pada tahun:",
+    "pilihan": ["1957", "1963", "1960", "1970"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_040",
+    "soalan": "Lima kelopak pada Bunga Raya melambangkan prinsip:",
+    "pilihan": ["Lima Waktu Solat", "Lima Benua Dunia", "Lima Rukun Islam", "Lima Prinsip Rukun Negara"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_041",
+    "soalan": "Alat kebesaran diraja yang melambangkan kebesaran dan kekuasaan Raja-Raja Melayu berbentuk tongkat perak berukir dinamakan:",
+    "pilihan": ["Cogan Alam dan Cogan Agama", "Pedang Kerajaan", "Keris Panjang", "Tombak Diraja"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_042",
+    "soalan": "Mahkota tiara yang dipakai oleh Seri Paduka Baginda Raja Permaisuri Agong dinamakan:",
+    "pilihan": ["Kalung Diraja", "Gandik Diraja", "Pending Emas", "Dokoh Diraja"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_043",
+    "soalan": "Apakah peranan institusi Yang di-Pertuan Agong terhadap Angkatan Tentera Malaysia?",
+    "pilihan": ["Panglima Angkatan Darat", "Menteri Pertahanan Awam", "Pemerintah Tertinggi Angkatan Tentera Persekutuan", "Ketua Operasi Hadapan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_044",
+    "soalan": "Konsep 'Daulat' dalam tradisi pemerintahan beraja Melayu membawa erti:",
+    "pilihan": ["Harta pusaka istana", "Keluasan jajahan takluk", "Senjata kebal diraja", "Lambang kekuasaan tertinggi, kewibawaan dan kehormatan seorang raja"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_045",
+    "soalan": "Rakyat yang melanggar titah perintah atau melawan raja dalam adat Melayu tradisional dianggap:",
+    "pilihan": ["Menderhaka dan boleh ditimpa tulah", "Wira bangsa", "Pejuang keadilan", "Bijaksana"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_046",
+    "soalan": "Sembilan buah negeri di Malaysia yang diperintah oleh Raja atau Sultan ialah:",
+    "pilihan": ["Perlis, Kedah, Perak, Selangor, N. Sembilan, Johor, Pahang, Terengganu, Kelantan", "Semua 13 buah negeri", "Pulau Pinang, Melaka, Sabah dan Sarawak sahaja", "Negeri-Negeri Selat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_047",
+    "soalan": "Empat buah negeri yang tidak mempunyai Sultan diketuai oleh:",
+    "pilihan": ["Menteri Besar", "Yang di-Pertua Negeri", "Perdana Menteri", "Penasihat British"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_048",
+    "soalan": "Gelaran rasmi bagi pemerintah tertinggi negeri Perlis ialah:",
+    "pilihan": ["Sultan", "Yang di-Pertuan Besar", "Raja", "Yang di-Pertua Negeri"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_049",
+    "soalan": "Gelaran rasmi bagi pemerintah tertinggi negeri Negeri Sembilan ialah:",
+    "pilihan": ["Raja", "Sultan", "Undang Luak", "Yang di-Pertuan Besar"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_050",
+    "soalan": "Batu Bersurat Terengganu bertarikh 1303 Masihi membuktikan kedatangan awal agama Islam di Semenanjung dengan tulisan:",
+    "pilihan": ["Jawi", "Rumi", "Sanskrit", "Pali"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_051",
+    "soalan": "Undang-undang bertulis era Kesultanan Melayu Melaka yang berlandaskan hukum syarak Islam ialah:",
+    "pilihan": ["Adat Temenggung", "Hukum Kanun Melaka dan Undang-Undang Laut Melaka", "Perlembagaan Persekutuan", "Adat Pepatih"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_052",
+    "soalan": "Bahasa Melayu memainkan peranan penting sebagai 'lingua franca' sejak zaman Melaka yang bermaksud:",
+    "pilihan": ["Bahasa keagamaan", "Bahasa istana sahaja", "Bahasa perantaraan komunikasi utama antara pelbagai bangsa", "Bahasa undang-undang sulit"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_053",
+    "soalan": "Agensi kerajaan yang ditubuhkan pada tahun 1956 untuk membina dan memperkaya bahasa kebangsaan ialah:",
+    "pilihan": ["Arkib Negara Malaysia", "Muzium Negara", "Jabatan Kebudayaan", "Dewan Bahasa dan Pustaka (DBP)"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_054",
+    "soalan": "Sebab utama James Brooke campur tangan di Sarawak pada tahun 1841 adalah untuk menyelesaikan:",
+    "pilihan": ["Pemberontakan penduduk tempatan menentang wakil Sultan Brunei", "Perang saudara di Pontianak", "Serangan lanun Bugis", "Perselisihan perlombongan emas"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_055",
+    "soalan": "Syarikat British yang mentadbir wilayah Borneo Utara (Sabah) dari tahun 1881 hingga 1946 ialah:",
+    "pilihan": ["Syarikat Hindia Timur Inggeris (SHTI)", "Syarikat Borneo Utara British (SBUB)", "Syarikat Guthrie", "Syarikat Pelayaran Negeri"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_056",
+    "soalan": "Dato' Bahaman menentang British di Semantan, Pahang kerana tindakan British:",
+    "pilihan": ["Membakar kebun kelapa sawit", "Membina jalan kereta api", "Membina balai polis tanpa izin dan melucutkan gelaran pembesar beliau", "Melarang aktiviti menangkap ikan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_057",
+    "soalan": "Tok Janggut terkorban dalam pertempuran menentang tentera British di Pasir Puteh pada tahun:",
+    "pilihan": ["1911", "1920", "1930", "1915"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_058",
+    "soalan": "Rosli Dhobi merupakan seorang pemuda nasionalis Sarawak yang berjuang menentang penyerahan Sarawak kepada British melalui kumpulan:",
+    "pilihan": ["Rukun 13", "Angkatan Pemuda Insaf", "Kesatuan Melayu Muda", "Parti Kebangsaan Melayu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_059",
+    "soalan": "Gabenor British kedua di Sarawak yang mati ditikam oleh pejuang muda Rosli Dhobi di Sibu ialah:",
+    "pilihan": ["Charles Brooke", "Duncan Stewart", "Gerald Templer", "J.W.W. Birch"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_060",
+    "soalan": "Slogan 'Asia untuk Orang Asia' digunakan oleh tentera Jepun untuk:",
+    "pilihan": ["Membantu negara Asia membina kilang", "Menyebarkan bahasa Jepun", "Menarik sokongan penduduk tempatan agar bangkit menentang penjajah Barat", "Membeli hasil getah tempatan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_061",
+    "soalan": "Kehidupan rakyat semasa zaman pendudukan tentera Jepun (1942-1945) amat menderita akibat kekurangan makanan dan penggunaan mata wang:",
+    "pilihan": ["Dolar Selat", "Mata wang syiling perak", "Wang emas ringgit", "Mata wang pokok pisang (wang kertas Jepun) yang jatuh nilai"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_062",
+    "soalan": "Hari Pahlawan disambut di Malaysia pada setiap 31 Julai bagi memperingati:",
+    "pilihan": ["Jasa dan pengorbanan perwira keselamatan yang gugur mempertahankan tanah air", "Pembukaan bandar Melaka", "Perjanjian London", "Kemenangan sukan negara"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_063",
+    "soalan": "Suruhanjaya yang ditugaskan merangka Perlembagaan Persekutuan Tanah Melayu sebelum merdeka dinamakan:",
+    "pilihan": ["Suruhanjaya Cobbold", "Suruhanjaya Reid", "Suruhanjaya Pilihan Raya", "Suruhanjaya Perkhidmatan Awam"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_064",
+    "soalan": "Siapakah wanita pejuang yang menyerahkan gelang emas peribadinya bagi membiayai tambang Tunku Abdul Rahman ke London?",
+    "pilihan": ["Ibu Zain", "Khadijah Sidek", "Siti Rahmah Kassim", "Shamsiah Fakeh"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_065",
+    "soalan": "Tepat jam 12:00 tengah malam 30 Ogos 1957, bendera Union Jack diturunkan dan bendera Persekutuan dinaikkan di:",
+    "pilihan": ["Padang Merdeka Melaka", "Batu Pahat, Johor", "Stadium Nasional", "Padang Kelab Selangor (kini Dataran Merdeka)"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_066",
+    "soalan": "Pohon Melaka dan pohon Pinang pada Jata Negara melambangkan negeri:",
+    "pilihan": ["Melaka dan Pulau Pinang", "Perak dan Kedah", "Pahang dan Terengganu", "Johor dan Selangor"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_067",
+    "soalan": "Jata bagi negeri Sabah dan Sarawak pada Jata Negara melambangkan:",
+    "pilihan": ["Hubungan dengan Brunei", "Penyertaan Sabah dan Sarawak dalam Persekutuan Malaysia", "Zaman pemerintahan Brooke", "Kawasan hutan simpan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_068",
+    "soalan": "Tingkah laku yang betul dan beretika semasa lagu 'Negaraku' dimainkan ialah:",
+    "pilihan": ["Bercakap dengan kawan di sebelah", "Berjalan perlahan ke depan", "Berdiri tegak, kedua-dua tangan di sisi dan menyanyi dengan bersemangat", "Melihat telefon pintar"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_069",
+    "soalan": "Bendera kebangsaan yang dikibarkan separuh tiang menandakan:",
+    "pilihan": ["Hari perayaan sukan", "Permulaan bulan merdeka", "Kedatangan pembesar asing", "Tanda berkabung negara atas kemangkatan Raja atau pemimpin negara"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_070",
+    "soalan": "Apakah nilai penting yang dapat dipelajari daripada perjuangan tokoh terdahulu menentang penjajah?",
+    "pilihan": ["Semangat setia, rela berkorban dan cinta akan tanah air", "Keinginan mengumpul harta musuh", "Menyerah kalah apabila diancam", "Bekerjasama dengan musuh penjajah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_071",
+    "soalan": "Perpaduan antara kaum Melayu, Cina, India, Iban dan Kadazandusun merupakan asas kepada:",
+    "pilihan": ["Kemunduran ekonomi", "Keharmonian, keamanan dan kemajuan berterusan negara", "Persaingan permusuhan kaum", "Pemisahan wilayah"],
+    "jawapan": 1
+  },
+  {
+    "id": "sej5_072",
+    "soalan": "Bangunan Parlimen Malaysia yang terletak di Kuala Lumpur merupakan simbol kepada sistem:",
+    "pilihan": ["Pemerintahan Komunis", "Monarki Mutlak", "Demokrasi Berparlimen", "Pemerintahan Ketenteraan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sej5_073",
+    "soalan": "Istana rasmi kediaman Seri Paduka Baginda Yang di-Pertuan Agong ialah:",
+    "pilihan": ["Istana Melawati, Putrajaya", "Istana Seri Menanti", "Istana Maziah", "Istana Negara, Jalan Tuanku Abdul Halim, Kuala Lumpur"],
+    "jawapan": 3
+  },
+  {
+    "id": "sej5_074",
+    "soalan": "Bulan Sabit berwarna kuning pada Jalur Gemilang menandakan:",
+    "pilihan": ["Islam sebagai agama Persekutuan", "Waktu malam yang indah", "Keberanian pahlawan", "Perpaduan rakyat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sej5_075",
+    "soalan": "Kedaulatan negara Malaysia yang kita nikmati hari ini mestilah dipertahankan dengan:",
+    "pilihan": ["Sikap sambil lewa", "Semangat patriotik, perpaduan jitu dan tanggungjawab setiap warganegara", "Mengharapkan bantuan negara asing semata-mata", "Mengabaikan sejarah silam"],
+    "jawapan": 1
+  }
+]
