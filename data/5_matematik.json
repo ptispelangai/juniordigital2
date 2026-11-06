@@ -1,0 +1,452 @@
+[
+  {
+    "id": "mat5_001",
+    "soalan": "Apakah nilai tempat bagi digit 8 dalam nombor 485,210?",
+    "pilihan": ["Ratus ribu", "Puluh ribu", "Ribu", "Ratus"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_002",
+    "soalan": "Antara nombor berikut, yang manakah merupakan nombor perdana?",
+    "pilihan": ["21", "27", "29", "35"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_003",
+    "soalan": "Bundarkan 654,892 kepada ratus ribu yang terdekat:",
+    "pilihan": ["650,000", "600,000", "655,000", "700,000"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_004",
+    "soalan": "Kira hasil tambah: 345,600 + 218,400 =",
+    "pilihan": ["564,000", "563,000", "554,000", "574,000"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_005",
+    "soalan": "Kira baki bagi: 800,000 - 345,200 =",
+    "pilihan": ["454,800", "455,800", "454,200", "464,800"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_006",
+    "soalan": "Selesaikan operasi mengikut hukum operasi: 120 + 80 × 5 =",
+    "pilihan": ["1,000", "520", "600", "480"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_007",
+    "soalan": "Kira hasil darab: 24,500 × 16 =",
+    "pilihan": ["392,000", "382,000", "390,000", "402,000"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_008",
+    "soalan": "Kira: 450,000 ÷ 1,000 =",
+    "pilihan": ["45", "4,500", "450", "45,000"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_009",
+    "soalan": "Kira: 2 1/4 + 1 2/3 =",
+    "pilihan": ["3 3/7", "3 11/12", "4 1/12", "3 5/12"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_010",
+    "soalan": "Kira: 3 1/2 - 1 3/4 =",
+    "pilihan": ["1 1/2", "1 1/4", "1 3/4", "2 1/4"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_011",
+    "soalan": "Cari hasil darab pecahan: 2/5 × 150 =",
+    "pilihan": ["60", "50", "45", "75"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_012",
+    "soalan": "Kira: 3/4 × 2/3 =",
+    "pilihan": ["5/7", "1/2", "6/12", "1/4"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_013",
+    "soalan": "Apakah nilai digit bagi angka 4 dalam nombor 72.348?",
+    "pilihan": ["4", "0.4", "0.04", "0.004"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_014",
+    "soalan": "Bundarkan 45.678 kepada dua tempat perpuluhan:",
+    "pilihan": ["45.67", "45.70", "45.60", "45.68"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_015",
+    "soalan": "Kira: 14.5 + 8.275 =",
+    "pilihan": ["22.775", "22.320", "22.785", "23.775"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_016",
+    "soalan": "Kira hasil tolak: 50 - 18.426 =",
+    "pilihan": ["32.574", "31.574", "31.674", "32.674"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_017",
+    "soalan": "Kira: 3.45 × 100 =",
+    "pilihan": ["34.5", "0.345", "345", "3,450"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_018",
+    "soalan": "Kira: 78.4 ÷ 100 =",
+    "pilihan": ["7.84", "784", "0.0784", "0.784"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_019",
+    "soalan": "Tukarkan nombor bercampur 1 1/2 kepada peratus:",
+    "pilihan": ["150%", "120%", "125%", "200%"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_020",
+    "soalan": "Cari nilai bagi 35% daripada RM 500:",
+    "pilihan": ["RM 165", "RM 175", "RM 185", "RM 150"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_021",
+    "soalan": "Harga kos sebuah komputer riba ialah RM 2,000. Komputer itu dijual dengan keuntungan RM 450. Berapakah harga jualnya?",
+    "pilihan": ["RM 1,550", "RM 2,550", "RM 2,450", "RM 2,400"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_022",
+    "soalan": "Harga kos sebuah telefon ialah RM 800. Telefon itu dijual pada harga RM 720. Apakah situasi kewangan peniaga tersebut?",
+    "pilihan": ["Untung RM 80", "Untung RM 70", "Rugi RM 70", "Rugi RM 80"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_023",
+    "soalan": "Harga asal sepasang kasut ialah RM 120. Peniaga memberi diskaun 25%. Berapakah nilai diskaun itu?",
+    "pilihan": ["RM 30", "RM 25", "RM 40", "RM 35"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_024",
+    "soalan": "Encik Halim menyimpan RM 10,000 di dalam bank dengan kadar faedah mudah 3% setahun. Berapakah nilai faedah yang diterima selepas 1 tahun?",
+    "pilihan": ["RM 30", "RM 300", "RM 3,000", "RM 150"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_025",
+    "soalan": "Sebuah bas bertolak dari Kuantan pada jam 0830 dan tiba di Kuala Lumpur pada jam 1215. Berapakah tempoh perjalanan bas itu?",
+    "pilihan": ["3 jam 30 minit", "4 jam 15 minit", "3 jam 45 minit", "4 jam 45 minit"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_026",
+    "soalan": "Tukarkan 2 dekad 4 tahun kepada unit tahun:",
+    "pilihan": ["20 tahun", "28 tahun", "204 tahun", "24 tahun"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_027",
+    "soalan": "1 abad bersamaan dengan berapa dekad?",
+    "pilihan": ["10 dekad", "100 dekad", "20 dekad", "50 dekad"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_028",
+    "soalan": "Kira: 3 abad 40 tahun + 1 abad 80 tahun =",
+    "pilihan": ["4 abad 20 tahun", "5 abad 20 tahun", "5 abad 40 tahun", "4 abad 80 tahun"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_029",
+    "soalan": "Tukarkan 3.25 km kepada unit meter (m):",
+    "pilihan": ["325 m", "3,250 m", "32,500 m", "3,025 m"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_030",
+    "soalan": "Tukarkan 1 3/4 kg kepada unit gram (g):",
+    "pilihan": ["1,340 g", "1,500 g", "1,750 g", "1,800 g"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_031",
+    "soalan": "Kira: 4.8 l - 1.95 l =",
+    "pilihan": ["2.95 l", "2.85 l", "3.15 l", "2.75 l"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_032",
+    "soalan": "Sebuah botol mengandungi 2 1/2 liter air. Berapakah isi padu air itu dalam mililiter?",
+    "pilihan": ["250 ml", "2,250 ml", "2,500 ml", "25,000 ml"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_033",
+    "soalan": "Poligon sekata yang mempunyai 8 sisi lurus yang sama panjang dinamakan:",
+    "pilihan": ["Heksagon", "Heptagon", "Pentagon", "Oktagon"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_034",
+    "soalan": "Berapakah sudut pedalaman bagi setiap sudut sebuah segi empat sama?",
+    "pilihan": ["90°", "60°", "120°", "180°"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_035",
+    "soalan": "Cari perimeter sebuah segi empat tepat yang berukuran panjang 12 cm dan lebar 7 cm:",
+    "pilihan": ["19 cm", "38 cm", "84 cm", "48 cm"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_036",
+    "soalan": "Cari luas sebuah segi tiga dengan tapak 10 cm dan tinggi 8 cm:",
+    "pilihan": ["80 cm²", "18 cm²", "40 cm²", "50 cm²"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_037",
+    "soalan": "Cari isi padu sebuah kubus yang bersisi 5 cm:",
+    "pilihan": ["25 cm³", "75 cm³", "100 cm³", "125 cm³"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_038",
+    "soalan": "Titik asalan pada satah Cartes mempunyai koordinat:",
+    "pilihan": ["(0, 0)", "(1, 1)", "(0, 1)", "(1, 0)"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_039",
+    "soalan": "Titik P berada 3 unit ke kanan dari asalan dan 5 unit ke atas. Apakah koordinat titik P?",
+    "pilihan": ["(5, 3)", "(3, 5)", "(3, 0)", "(0, 5)"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_040",
+    "soalan": "Di dalam sebuah kelas terdapat 15 orang murid lelaki dan 20 orang murid perempuan. Nyatakan nisbah bilangan murid lelaki kepada murid perempuan dalam bentuk termudah:",
+    "pilihan": ["4 : 3", "3 : 5", "3 : 4", "5 : 4"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_041",
+    "soalan": "Nilai yang paling kerap berulang dalam suatu set data dinamakan:",
+    "pilihan": ["Min", "Median", "Julat", "Mod"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_042",
+    "soalan": "Diberi set nombor: 4, 7, 7, 8, 9. Apakah mod bagi data tersebut?",
+    "pilihan": ["7", "4", "8", "9"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_043",
+    "soalan": "Nilai yang berada di tengah-tengah bagi data yang disusun mengikut tertib dinamakan:",
+    "pilihan": ["Min", "Median", "Mod", "Julat"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_044",
+    "soalan": "Cari median bagi set data: 3, 5, 8, 9, 12:",
+    "pilihan": ["5", "9", "8", "7"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_045",
+    "soalan": "Beza antara nilai terbesar dengan nilai terkecil dalam sesuatu set data dinamakan:",
+    "pilihan": ["Mod", "Median", "Min", "Julat"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_046",
+    "soalan": "Diberi data: 12, 15, 20, 25, 40. Berapakah julat bagi data tersebut?",
+    "pilihan": ["28", "25", "20", "30"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_047",
+    "soalan": "Cari min (purata) bagi nombor 10, 20 dan 30:",
+    "pilihan": ["15", "20", "25", "30"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_048",
+    "soalan": "Antara nombor berikut, yang manakah BUKAN nombor perdana?",
+    "pilihan": ["2", "3", "9", "11"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_049",
+    "soalan": "Kira: (450 + 150) ÷ (12 - 2) =",
+    "pilihan": ["50", "40", "70", "60"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_050",
+    "soalan": "Pecahan 9/4 ditulis sebagai nombor bercampur ialah:",
+    "pilihan": ["2 1/4", "2 3/4", "1 3/4", "3 1/4"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_051",
+    "soalan": "Kira: 4/5 - 1/2 =",
+    "pilihan": ["3/3", "3/10", "1/5", "2/10"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_052",
+    "soalan": "Kira: 2/3 daripada 360 biji epal:",
+    "pilihan": ["120", "180", "240", "300"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_053",
+    "soalan": "Nilai 0.08 dalam bentuk pecahan perseratus ialah:",
+    "pilihan": ["8/10", "8/1000", "80/100", "8/100"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_054",
+    "soalan": "Kira: 24.5 × 1.2 =",
+    "pilihan": ["29.4", "28.4", "29.45", "30.4"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_055",
+    "soalan": "Kira: 15.6 ÷ 4 =",
+    "pilihan": ["3.8", "3.9", "4.1", "3.6"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_056",
+    "soalan": "Tukarkan 240% kepada nombor bercampur:",
+    "pilihan": ["2 1/5", "2 3/5", "2 2/5", "1 4/5"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_057",
+    "soalan": "Faedah kompaun bermaksud faedah yang dihitung ke atas:",
+    "pilihan": ["Simpanan wang tunai harian", "Pinjaman bank semata-mata", "Hadiah wang tunai percuma", "Wang pokok dan faedah yang terkumpul sebelumnya"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_058",
+    "soalan": "Berapakah bilangan hari dari 1 Mac hingga 15 April tahun biasa?",
+    "pilihan": ["46 hari", "45 hari", "44 hari", "47 hari"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_059",
+    "soalan": "Kira: 5 dekad 6 tahun ÷ 4 =",
+    "pilihan": ["1 dekad 2 tahun", "1 dekad 4 tahun", "1 dekad 5 tahun", "2 dekad 1 tahun"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_060",
+    "soalan": "Tukarkan 4.08 km kepada unit meter:",
+    "pilihan": ["480 m", "4,800 m", "4,080 m", "40,800 m"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_061",
+    "soalan": "Jisim 5 buah bungkusan tepung yang serupa ialah 8.5 kg. Cari jisim satu bungkusan dalam gram:",
+    "pilihan": ["1,500 g", "1,600 g", "1,800 g", "1,700 g"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_062",
+    "soalan": "Kira: 3 l 250 ml × 6 =",
+    "pilihan": ["19.5 l", "18.5 l", "19.25 l", "18.25 l"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_063",
+    "soalan": "Sebuah heksagon sekata mempunyai berapa sisi lurus?",
+    "pilihan": ["5", "6", "7", "8"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_064",
+    "soalan": "Luas sebuah segi empat sama ialah 64 cm². Cari perimeternya:",
+    "pilihan": ["16 cm", "24 cm", "32 cm", "64 cm"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_065",
+    "soalan": "Sebuah kuboid berukuran panjang 8 cm, lebar 5 cm dan tinggi 4 cm. Cari isi padunya:",
+    "pilihan": ["120 cm³", "140 cm³", "180 cm³", "160 cm³"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_066",
+    "soalan": "Diberi titik A(2, 4) dan B(6, 4). Berapakah jarak mengufuk dari A ke B?",
+    "pilihan": ["4 unit", "3 unit", "2 unit", "5 unit"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_067",
+    "soalan": "Nisbah bilangan pemadam kepada bilangan pensel ialah 1 : 4. Jika terdapat 8 batang pensel, berapakah bilangan pemadam?",
+    "pilihan": ["1", "2", "3", "4"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_068",
+    "soalan": "Cari min bagi data: 4, 6, 8, 10, 12:",
+    "pilihan": ["6", "7", "8", "9"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_069",
+    "soalan": "Apakah nombor perdana terkecil?",
+    "pilihan": ["0", "1", "3", "2"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_070",
+    "soalan": "Kira: 1,000,000 - 450,800 =",
+    "pilihan": ["549,200", "550,200", "548,200", "559,200"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_071",
+    "soalan": "Kira: 2 1/2 × 4 =",
+    "pilihan": ["8", "10", "12", "6"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat5_072",
+    "soalan": "Kira: 45.6 ÷ 10 =",
+    "pilihan": ["456", "0.456", "4.56", "45.06"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat5_073",
+    "soalan": "Tukarkan 0.85 kepada peratus:",
+    "pilihan": ["8.5%", "850%", "0.85%", "85%"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat5_074",
+    "soalan": "Pelaburan bermaksud wang yang digunakan untuk:",
+    "pilihan": ["Mendapatkan pulangan atau keuntungan pada masa hadapan", "Membeli barang kehendak semata-mata", "Disimpan di dalam tabung tanpa faedah", "Membayar denda atau cukai"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat5_075",
+    "soalan": "Carta pai memaparkan pembahagian data dalam bentuk bulatan di mana satu bulatan penuh mewakili:",
+    "pilihan": ["50% atau 180°", "100% atau 360°", "200% atau 720°", "90% atau 100°"],
+    "jawapan": 1
+  }
+]
