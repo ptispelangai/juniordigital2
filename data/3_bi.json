@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bi3_001",
+    "soalan": "What is the past tense form of the verb 'GO'?",
+    "pilihan": ["Goes", "Gone", "Went", "Going"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_002",
+    "soalan": "Choose the correct comparative adjective: 'An elephant is ______ than a horse.'",
+    "pilihan": ["bigger", "big", "biggest", "more big"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_003",
+    "soalan": "A person who flies an aeroplane is called a ______.",
+    "pilihan": ["driver", "mechanic", "sailor", "pilot"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi3_004",
+    "soalan": "Choose the plural form of the noun 'Foot':",
+    "pilihan": ["Foots", "Feet", "Feets", "Footes"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_005",
+    "soalan": "What is the opposite of 'GENEROUS'?",
+    "pilihan": ["Kind", "Helpful", "Stingy", "Friendly"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_006",
+    "soalan": "She ______ playing badminton with her sister at the court yesterday.",
+    "pilihan": ["was", "is", "are", "were"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_007",
+    "soalan": "Choose the correct collective noun: 'A ______ of wolves hunted in the forest.'",
+    "pilihan": ["herd", "pack", "school", "swarm"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_008",
+    "soalan": "Which animal lives in an icy cold habitat and cannot fly?",
+    "pilihan": ["Parrot", "Penguin", "Eagle", "Duck"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_009",
+    "soalan": "What is the past tense of 'EAT'?",
+    "pilihan": ["Ate", "Eaten", "Eats", "Eating"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_010",
+    "soalan": "Choose the superlative adjective: 'Cheetah is the ______ land animal in the world.'",
+    "pilihan": ["fast", "faster", "fastest", "most fast"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_011",
+    "soalan": "A baker uses flour, yeast and sugar to bake ______.",
+    "pilihan": ["bread", "shoes", "chairs", "clothes"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_012",
+    "soalan": "Choose the plural form of 'Child':",
+    "pilihan": ["Childs", "Children", "Childrens", "Childes"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_013",
+    "soalan": "What is the opposite of 'BRAVE'?",
+    "pilihan": ["Courageous", "Bold", "Coward", "Smart"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_014",
+    "soalan": "They ______ dinner when the lights suddenly went out.",
+    "pilihan": ["were having", "is having", "have", "has"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_015",
+    "soalan": "Choose the correctly spelt word:",
+    "pilihan": ["Beutiful", "Beautiful", "Beatiful", "Beautifull"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_016",
+    "soalan": "The sun is a gigantic glowing ______ in space.",
+    "pilihan": ["planet", "star", "moon", "comet"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_017",
+    "soalan": "What is the past tense form of 'SEE'?",
+    "pilihan": ["Seen", "Saw", "Sees", "Seeing"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_018",
+    "soalan": "Choose the correct conjunction: 'He wore a sweater ______ it was raining cold.'",
+    "pilihan": ["because", "or", "but", "so that"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_019",
+    "soalan": "A veterinarian is a doctor who specializes in treating sick ______.",
+    "pilihan": ["people", "animals", "plants", "trees"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_020",
+    "soalan": "Choose the plural form of 'Tooth':",
+    "pilihan": ["Tooths", "Teeth", "Toothes", "Teethes"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_021",
+    "soalan": "What is the opposite of 'SMOOTH'?",
+    "pilihan": ["Soft", "Shiny", "Rough", "Bright"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_022",
+    "soalan": "Choose the adverb in the sentence: 'The tortoise walked slowly along the grass.'",
+    "pilihan": ["tortoise", "grass", "slowly", "along"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_023",
+    "soalan": "We keep refrigerated food fresh inside the ______.",
+    "pilihan": ["oven", "refrigerator", "cupboard", "wardrobe"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_024",
+    "soalan": "What is the past tense of 'DRINK'?",
+    "pilihan": ["Drank", "Drunk", "Drinks", "Drinking"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_025",
+    "soalan": "Choose the collective noun: 'A ______ of bees flew towards the hive.'",
+    "pilihan": ["swarm", "school", "pack", "herd"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_026",
+    "soalan": "Which vehicle travels underwater in deep oceans?",
+    "pilihan": ["Submarine", "Helicopter", "Sailboat", "Yacht"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_027",
+    "soalan": "Choose the correct preposition: 'The cat jumped ______ the brick wall.'",
+    "pilihan": ["under", "between", "over", "into inside"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_028",
+    "soalan": "What is the opposite of 'EXPENSIVE'?",
+    "pilihan": ["Costly", "Cheap", "Valuable", "Heavy"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_029",
+    "soalan": "Identify the past tense of 'WRITE':",
+    "pilihan": ["Written", "Wrote", "Writing", "Writes"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_030",
+    "soalan": "Choose the plural of 'Mouse':",
+    "pilihan": ["Mouses", "Mice", "Mices", "Mousen"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_031",
+    "soalan": "A carpenter builds furniture mainly using ______.",
+    "pilihan": ["glass", "wood", "water", "paper"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_032",
+    "soalan": "What does the idiom 'a piece of cake' mean?",
+    "pilihan": ["Something very sweet", "Something very easy", "A birthday gift", "Something very hard"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_033",
+    "soalan": "Identify the adjective: 'The little puppy is playing happily.'",
+    "pilihan": ["Little", "Puppy", "Playing", "Happily"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_034",
+    "soalan": "What is the past tense of 'BUY'?",
+    "pilihan": ["Buyed", "Bought", "Buying", "Brought"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_035",
+    "soalan": "Choose the opposite of 'NOISY':",
+    "pilihan": ["Loud", "Active", "Quiet", "Bright"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_036",
+    "soalan": "A compass needle always points towards the ______.",
+    "pilihan": ["North", "South", "East", "West"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_037",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Dinasour", "Dinosaur", "Dinosour", "Dinosar"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_038",
+    "soalan": "How many months are there in one year?",
+    "pilihan": ["10 months", "11 months", "12 months", "14 months"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_039",
+    "soalan": "What is the past tense of 'FLY'?",
+    "pilihan": ["Flew", "Flown", "Flying", "Flyed"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_040",
+    "soalan": "Choose the opposite of 'EMPTY':",
+    "pilihan": ["Bare", "Blank", "Full", "Hollow"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_041",
+    "soalan": "A library is a quiet place where people borrow and read ______.",
+    "pilihan": ["books", "food", "clothes", "toys"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_042",
+    "soalan": "Choose the plural of 'Leaf':",
+    "pilihan": ["Leafs", "Leaves", "Leafies", "Leaven"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_043",
+    "soalan": "What is the past tense of 'RUN'?",
+    "pilihan": ["Ran", "Running", "Runs", "Runned"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_044",
+    "soalan": "Choose the adverb in the sentence: 'She sang sweetly during the concert.'",
+    "pilihan": ["She", "Sang", "Sweetly", "Concert"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_045",
+    "soalan": "What is the opposite of 'CLEVER'?",
+    "pilihan": ["Smart", "Foolish", "Wise", "Sharp"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_046",
+    "soalan": "Which animal carries its baby inside a front pouch?",
+    "pilihan": ["Kangaroo", "Lion", "Zebra", "Tiger"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_047",
+    "soalan": "Choose the correct past tense of 'SWIM':",
+    "pilihan": ["Swam", "Swum", "Swimming", "Swimmed"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_048",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Hospital", "Hospitle", "Hospitel", "Hosptal"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_049",
+    "soalan": "What is the opposite of 'ANCIENT'?",
+    "pilihan": ["Old", "Historic", "Modern", "Classic"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_050",
+    "soalan": "A person whose job is to put out fires is a ______.",
+    "pilihan": ["police officer", "firefighter", "soldier", "sailor"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_051",
+    "soalan": "What is the past tense of 'TAKE'?",
+    "pilihan": ["Took", "Taken", "Taking", "Takes"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_052",
+    "soalan": "Choose the plural of 'Fish':",
+    "pilihan": ["Fishes", "Fish", "Fishs", "Fishies"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_053",
+    "soalan": "Complete: 'Prevention is better than ______.'",
+    "pilihan": ["medicine", "cure", "treatment", "doctor"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_054",
+    "soalan": "Choose the opposite of 'LIGHT' (weight):",
+    "pilihan": ["Bright", "Heavy", "Soft", "Thin"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_055",
+    "soalan": "What instrument is used to see tiny bacteria and cells?",
+    "pilihan": ["Telescope", "Microscope", "Periscope", "Binoculars"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_056",
+    "soalan": "What is the past tense of 'SLEEP'?",
+    "pilihan": ["Slept", "Sleeped", "Sleeping", "Sleeps"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_057",
+    "soalan": "Choose the adjective: 'Hakim found an ancient gold coin.'",
+    "pilihan": ["Hakim", "Found", "Ancient", "Coin"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi3_058",
+    "soalan": "What is the opposite of 'DEEP'?",
+    "pilihan": ["Shallow", "Wide", "Narrow", "Bottom"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_059",
+    "soalan": "Which sea animal has eight flexible arms and shoots black ink?",
+    "pilihan": ["Shark", "Octopus", "Whale", "Dolphin"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_060",
+    "soalan": "What is the past tense of 'FIND'?",
+    "pilihan": ["Found", "Finded", "Finding", "Finds"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_061",
+    "soalan": "Choose the plural of 'Sheep':",
+    "pilihan": ["Sheeps", "Sheep", "Sheepes", "Shop"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_062",
+    "soalan": "Choose the correctly spelt word:",
+    "pilihan": ["Elephant", "Elephent", "Eliphant", "Elefant"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_063",
+    "soalan": "What is the opposite of 'POLITE'?",
+    "pilihan": ["Rude", "Gentle", "Kind", "Helpful"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_064",
+    "soalan": "We celebrate National Day of Malaysia on the thirty-first of ______.",
+    "pilihan": ["July", "August", "September", "December"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_065",
+    "soalan": "What is the past tense of 'SING'?",
+    "pilihan": ["Sang", "Sung", "Singed", "Singing"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_066",
+    "soalan": "Choose the collective noun: 'A ______ of cattle grazed peacefully.'",
+    "pilihan": ["pack", "herd", "flock", "school"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_067",
+    "soalan": "What is the opposite of 'SAFE'?",
+    "pilihan": ["Dangerous", "Secure", "Protected", "Calm"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_068",
+    "soalan": "Which planet in the solar system is known as the Red Planet?",
+    "pilihan": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_069",
+    "soalan": "What is the past tense of 'GIVE'?",
+    "pilihan": ["Gave", "Given", "Gives", "Gived"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_070",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Tomorrow", "Tomorow", "To-morrow", "Tommorow"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_071",
+    "soalan": "What is the opposite of 'SWEET'?",
+    "pilihan": ["Bitter", "Tasty", "Delicious", "Sugary"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_072",
+    "soalan": "A clock has three hands: the hour hand, the minute hand and the ______ hand.",
+    "pilihan": ["second", "day", "night", "week"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_073",
+    "soalan": "What is the past tense of 'BRING'?",
+    "pilihan": ["Brought", "Bought", "Brings", "Brang"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi3_074",
+    "soalan": "Choose the plural of 'Woman':",
+    "pilihan": ["Womans", "Women", "Womens", "Womin"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi3_075",
+    "soalan": "Complete the proverb: 'Practice makes ______.'",
+    "pilihan": ["easy", "good", "perfect", "smart"],
+    "jawapan": 2
+  }
+]
