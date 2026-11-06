@@ -1,0 +1,452 @@
+[
+  {
+    "id": "mat2_001",
+    "soalan": "Apakah nilai tempat bagi digit 7 dalam nombor 74?",
+    "pilihan": ["Sa", "Puluh", "Ratus", "Ribu"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_002",
+    "soalan": "Nombor 85 ditulis dalam perkataan ialah:",
+    "pilihan": ["Lapan ratus lima", "Lima puluh lapan", "Lapan puluh lima", "Lapan lima"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_003",
+    "soalan": "Kira hasil tambah ini: 34 + 25 =",
+    "pilihan": ["58", "60", "57", "59"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_004",
+    "soalan": "Kira hasil tolak ini: 68 - 23 =",
+    "pilihan": ["45", "43", "46", "44"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_005",
+    "soalan": "Berapakah hasil darab bagi: 4 × 3 =",
+    "pilihan": ["10", "12", "14", "16"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_006",
+    "soalan": "Selesaikan operasi bahagi: 15 ÷ 3 =",
+    "pilihan": ["3", "4", "5", "6"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_007",
+    "soalan": "Antara nombor berikut, yang manakah nombor genap?",
+    "pilihan": ["13", "27", "35", "42"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_008",
+    "soalan": "Nombor yang terletak tepat sebelum nombor 100 ialah:",
+    "pilihan": ["99", "98", "101", "90"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_009",
+    "soalan": "Berapakah bilangan sisi lurus bagi sebuah segi empat sama?",
+    "pilihan": ["3", "4", "5", "6"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_010",
+    "soalan": "Pecahan satu perdua ditulis dalam bentuk angka sebagai:",
+    "pilihan": ["1/4", "2/1", "1/2", "3/4"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_011",
+    "soalan": "Berapakah nilai 5 keping syiling 10 sen?",
+    "pilihan": ["20 sen", "40 sen", "60 sen", "50 sen"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_012",
+    "soalan": "Kira hasil tambah: 48 + 36 =",
+    "pilihan": ["84", "82", "74", "94"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_013",
+    "soalan": "Kira baki bagi: 90 - 45 =",
+    "pilihan": ["55", "45", "35", "50"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_014",
+    "soalan": "Berapakah hasil darab: 5 × 6 =",
+    "pilihan": ["25", "35", "30", "40"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_015",
+    "soalan": "Selesaikan operasi bahagi: 24 ÷ 4 =",
+    "pilihan": ["8", "7", "5", "6"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_016",
+    "soalan": "Bundarkan nombor 67 kepada puluh yang terdekat:",
+    "pilihan": ["70", "60", "80", "65"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_017",
+    "soalan": "Berapakah bilangan bucu bagi sebuah bulatan?",
+    "pilihan": ["1", "0", "2", "4"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_018",
+    "soalan": "Pukul berapakah jarum pendek di angka 8 dan jarum panjang di angka 12?",
+    "pilihan": ["Pukul 12:00", "Pukul 8:30", "Pukul 8:00", "Pukul 9:00"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_019",
+    "soalan": "Satu jam mempunyai berapa minit?",
+    "pilihan": ["30 minit", "100 minit", "50 minit", "60 minit"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_020",
+    "soalan": "Jumlahkan wang ini: RM 4.00 + RM 2.50 =",
+    "pilihan": ["RM 6.50", "RM 6.00", "RM 7.00", "RM 5.50"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_021",
+    "soalan": "Kira baki wang: RM 10.00 - RM 3.00 =",
+    "pilihan": ["RM 6.00", "RM 7.00", "RM 8.00", "RM 5.00"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_022",
+    "soalan": "Berapakah hasil darab: 2 × 9 =",
+    "pilihan": ["16", "20", "18", "27"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_023",
+    "soalan": "Selesaikan operasi bahagi: 18 ÷ 2 =",
+    "pilihan": ["6", "7", "8", "9"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_024",
+    "soalan": "Bentuk tiga dimensi yang mempunyai 6 permukaan segi empat sama ialah:",
+    "pilihan": ["Kubus", "Silinder", "Kon", "Sfera"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_025",
+    "soalan": "Pecahan satu perempat ditulis dalam bentuk angka sebagai:",
+    "pilihan": ["1/2", "1/4", "3/4", "4/1"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_026",
+    "soalan": "Nombor pola menaik lima-lima: 15, 20, 25, ______.",
+    "pilihan": ["26", "28", "30", "35"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_027",
+    "soalan": "Kira hasil tambah: 52 + 19 =",
+    "pilihan": ["69", "70", "72", "71"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_028",
+    "soalan": "Kira hasil tolak: 75 - 38 =",
+    "pilihan": ["37", "39", "47", "35"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_029",
+    "soalan": "Berapakah hasil darab: 10 × 4 =",
+    "pilihan": ["14", "40", "44", "400"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_030",
+    "soalan": "Selesaikan operasi bahagi: 20 ÷ 5 =",
+    "pilihan": ["2", "3", "4", "5"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_031",
+    "soalan": "Antara nombor berikut, yang manakah nombor ganjil?",
+    "pilihan": ["24", "48", "60", "37"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_032",
+    "soalan": "Nilai digit bagi angka 6 dalam nombor 63 ialah:",
+    "pilihan": ["60", "6", "600", "3"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_033",
+    "soalan": "Satu meter bersamaan dengan berapa sentimeter?",
+    "pilihan": ["10 cm", "100 cm", "1000 cm", "50 cm"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_034",
+    "soalan": "Berapa keping syiling 50 sen yang bernilai sama dengan RM 2.00?",
+    "pilihan": ["2 keping", "3 keping", "4 keping", "5 keping"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_035",
+    "soalan": "Kira hasil tambah tiga nombor ini: 12 + 8 + 15 =",
+    "pilihan": ["30", "33", "34", "35"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_036",
+    "soalan": "Kira hasil tolak: 84 - 50 =",
+    "pilihan": ["34", "24", "44", "30"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_037",
+    "soalan": "Kira: 3 × 8 =",
+    "pilihan": ["21", "24", "27", "18"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_038",
+    "soalan": "Kira: 16 ÷ 4 =",
+    "pilihan": ["2", "3", "4", "5"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_039",
+    "soalan": "Bongkah tiga dimensi yang mempunyai satu permukaan melengkung dan tiada bucu ialah:",
+    "pilihan": ["Kuboid", "Piramid", "Kon", "Sfera"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_040",
+    "soalan": "Antara nombor berikut, yang manakah nilainya paling besar?",
+    "pilihan": ["96", "89", "69", "92"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_041",
+    "soalan": "Antara nombor berikut, yang manakah nilainya paling kecil?",
+    "pilihan": ["31", "19", "25", "40"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_042",
+    "soalan": "1 kilogram bersamaan dengan berapa gram?",
+    "pilihan": ["10 g", "100 g", "1000 g", "500 g"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_043",
+    "soalan": "Setengah jam bersamaan dengan berapa minit?",
+    "pilihan": ["15 minit", "20 minit", "45 minit", "30 minit"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_044",
+    "soalan": "Kira: 26 + 43 =",
+    "pilihan": ["69", "68", "70", "59"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_045",
+    "soalan": "Kira: 62 - 27 =",
+    "pilihan": ["45", "35", "33", "37"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_046",
+    "soalan": "Berapakah hasil darab: 5 × 5 =",
+    "pilihan": ["20", "30", "25", "15"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_047",
+    "soalan": "Kira: 21 ÷ 3 =",
+    "pilihan": ["6", "8", "9", "7"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_048",
+    "soalan": "Pecahan tiga perempat ditulis dalam bentuk angka sebagai:",
+    "pilihan": ["3/4", "1/4", "2/4", "4/3"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_049",
+    "soalan": "Berapakah bilangan hari dalam tempoh dua minggu penuh?",
+    "pilihan": ["10 hari", "14 hari", "12 hari", "16 hari"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_050",
+    "soalan": "Kira: RM 8.20 + RM 1.50 =",
+    "pilihan": ["RM 9.50", "RM 9.60", "RM 9.70", "RM 8.70"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_051",
+    "soalan": "Kira baki bagi: RM 5.00 - RM 1.80 =",
+    "pilihan": ["RM 3.50", "RM 4.20", "RM 3.00", "RM 3.20"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_052",
+    "soalan": "Berapakah bucu yang ada pada sebuah piramid bertapak segi empat?",
+    "pilihan": ["5", "4", "6", "8"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_053",
+    "soalan": "Berapakah hasil darab: 4 × 8 =",
+    "pilihan": ["28", "32", "36", "24"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_054",
+    "soalan": "Kira: 27 ÷ 3 =",
+    "pilihan": ["7", "8", "9", "6"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_055",
+    "soalan": "Bundarkan nombor 42 kepada puluh yang terdekat:",
+    "pilihan": ["50", "45", "30", "40"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_056",
+    "soalan": "Sebuah segi tiga mempunyai berapa sisi?",
+    "pilihan": ["3", "4", "2", "5"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_057",
+    "soalan": "Kira hasil tambah: 64 + 18 =",
+    "pilihan": ["72", "82", "84", "80"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_058",
+    "soalan": "Kira hasil tolak: 95 - 41 =",
+    "pilihan": ["52", "56", "54", "44"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_059",
+    "soalan": "Berapakah hasil darab: 6 × 2 =",
+    "pilihan": ["8", "14", "16", "12"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_060",
+    "soalan": "Selesaikan operasi bahagi: 30 ÷ 5 =",
+    "pilihan": ["6", "5", "7", "4"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_061",
+    "soalan": "Pukul 4:30 boleh disebut sebagai:",
+    "pilihan": ["Pukul empat suku", "Pukul empat setengah", "Pukul lima", "Pukul tiga setengah"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_062",
+    "soalan": "Danial membeli sebuah buku berharga RM 3.00 dan sebatang pensel RM 1.20. Berapakah jumlah bayarannya?",
+    "pilihan": ["RM 4.00", "RM 4.50", "RM 4.20", "RM 3.80"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_063",
+    "soalan": "Berapakah bilangan permukaan rata yang ada pada sebuah kubus?",
+    "pilihan": ["4", "8", "12", "6"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_064",
+    "soalan": "Kira hasil tambah: 37 + 43 =",
+    "pilihan": ["80", "70", "90", "79"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_065",
+    "soalan": "Kira hasil tolak: 70 - 25 =",
+    "pilihan": ["55", "45", "35", "50"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_066",
+    "soalan": "Kira: 2 × 7 =",
+    "pilihan": ["12", "16", "14", "18"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_067",
+    "soalan": "Kira: 12 ÷ 2 =",
+    "pilihan": ["4", "5", "7", "6"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_068",
+    "soalan": "Nombor yang berada di antara nombor 58 dan 60 ialah:",
+    "pilihan": ["59", "57", "61", "56"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_069",
+    "soalan": "Sebuah silinder mempunyai berapa permukaan rata?",
+    "pilihan": ["1", "2", "3", "0"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_070",
+    "soalan": "Kira hasil tambah: 55 + 35 =",
+    "pilihan": ["80", "85", "90", "95"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_071",
+    "soalan": "Kira baki bagi: 88 - 34 =",
+    "pilihan": ["52", "44", "56", "54"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat2_072",
+    "soalan": "Berapakah hasil darab: 10 × 7 =",
+    "pilihan": ["70", "17", "700", "77"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat2_073",
+    "soalan": "Selesaikan operasi bahagi: 35 ÷ 5 =",
+    "pilihan": ["6", "7", "8", "5"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat2_074",
+    "soalan": "Apakah unit piawai yang paling sesuai digunakan untuk mengukur panjang sebuah buku tulis?",
+    "pilihan": ["Meter (m)", "Kilometer (km)", "Sentimeter (cm)", "Kilogram (kg)"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat2_075",
+    "soalan": "Berapakah jumlah wang ini: RM 5.00 + RM 10.00 + RM 2.00 =",
+    "pilihan": ["RM 15.00", "RM 16.00", "RM 18.00", "RM 17.00"],
+    "jawapan": 3
+  }
+]
