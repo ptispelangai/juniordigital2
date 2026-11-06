@@ -1,0 +1,452 @@
+[
+  {
+    "id": "sn3_001",
+    "soalan": "Set gigi susu manusia mengandungi sejumlah berapa batang gigi?",
+    "pilihan": ["20 batang", "32 batang", "28 batang", "24 batang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_002",
+    "soalan": "Set gigi kekal manusia dewasa mengandungi berapa batang gigi?",
+    "pilihan": ["32 batang", "20 batang", "30 batang", "36 batang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_003",
+    "soalan": "Gigi yang berfungsi untuk memotong makanan ialah gigi:",
+    "pilihan": ["Kacip", "Taring", "Geraham", "Susu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_004",
+    "soalan": "Gigi yang berbentuk runcing dan berfungsi untuk mengoyak makanan berdaging ialah gigi:",
+    "pilihan": ["Taring", "Kacip", "Geraham", "Bongsu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_005",
+    "soalan": "Gigi geraham berfungsi untuk melumatkan dan ______ makanan.",
+    "pilihan": ["mengunyah/menghancurkan", "memotong", "mengoyak", "menelan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_006",
+    "soalan": "Lapisan paling luar yang keras dan melindungi gigi manusia dinamakan:",
+    "pilihan": ["Enamel", "Dentin", "Gusi", "Saraf"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_007",
+    "soalan": "Kumpulan haiwan karnivor ialah haiwan yang hanya memakan:",
+    "pilihan": ["Haiwan lain (daging)", "Tumbuh-tumbuhan sahaja", "Tumbuhan dan daging", "Buah-buahan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_008",
+    "soalan": "Haiwan herbivor ialah haiwan yang makan:",
+    "pilihan": ["Tumbuh-tumbuhan sahaja", "Daging sahaja", "Bangkai haiwan", "Daging dan tumbuhan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_009",
+    "soalan": "Haiwan omnivor ialah haiwan yang makan:",
+    "pilihan": ["Tumbuhan dan haiwan lain", "Daging sahaja", "Daun kayu sahaja", "Ikan sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_010",
+    "soalan": "Antara haiwan berikut, yang manakah tergolong dalam kumpulan omnivor?",
+    "pilihan": ["Ayam dan monyet", "Harimau dan singa", "Lembu dan kambing", "Ular dan buaya"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_011",
+    "soalan": "Haiwan karnivor mempunyai gigi ______ yang lebih tajam dan melengkung.",
+    "pilihan": ["taring", "kacip", "geraham rata", "susu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_012",
+    "soalan": "Tumbuhan paku pakis membiak melalui penghasilan:",
+    "pilihan": ["Spora", "Biji benih", "Anak pokok", "Keratan batang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_013",
+    "soalan": "Pokok pisang dan pokok keladi membiak melalui:",
+    "pilihan": ["Anak pokok", "Biji benih", "Spora", "Daun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_014",
+    "soalan": "Pokok ubi kayu dan bunga raya boleh dibiakkan melalui keratan:",
+    "pilihan": ["Batang", "Daun", "Akar", "Bunga"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_015",
+    "soalan": "Pokok setawar dan begonia membiak melalui bahagian:",
+    "pilihan": ["Daun", "Biji benih", "Batang", "Spora"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_016",
+    "soalan": "Mengapakah tumbuhan perlu membiak?",
+    "pilihan": ["Mengekalkan kemandirian spesiesnya agar tidak pupus", "Supaya layu cepat", "Menghasilkan racun", "Mengurangkan oksigen"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_017",
+    "soalan": "Bahan yang berasa masam dan menukarkan kertas litmus biru kepada merah ialah bahan:",
+    "pilihan": ["Berasid", "Beralkali", "Neutral", "Bermanis"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_018",
+    "soalan": "Bahan yang berasa pahit, licin apabila disentuh dan menukarkan litmus merah ke biru ialah:",
+    "pilihan": ["Beralkali", "Berasid", "Neutral", "Masam"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_019",
+    "soalan": "Bahan yang tidak mengubah warna kedua-dua kertas litmus merah dan biru dinamakan bahan:",
+    "pilihan": ["Neutral", "Berasid", "Beralkali", "Pekat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_020",
+    "soalan": "Antara cecair berikut, yang manakah bersifat berasid?",
+    "pilihan": ["Jus limau nipis dan cuka", "Air sabun dan peluntur", "Air garam dan air gula", "Ubat gigi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_021",
+    "soalan": "Antara cecair berikut, yang manakah bersifat beralkali?",
+    "pilihan": ["Air sabun pencuci", "Jus oren", "Asam jawa", "Minyak masak"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_022",
+    "soalan": "Larutan garam dan larutan gula merupakan contoh bahan bersifat:",
+    "pilihan": ["Neutral", "Berasid", "Beralkali", "Berbisa"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_023",
+    "soalan": "Sistem Suria kita berpusat pada sebuah bintang gergasi iaitu:",
+    "pilihan": ["Matahari", "Bumi", "Bulan", "Marikh"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_024",
+    "soalan": "Planet yang paling dekat kedudukannya dengan Matahari ialah:",
+    "pilihan": ["Utarid", "Zuhrah", "Bumi", "Marikh"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_025",
+    "soalan": "Planet yang paling panas dalam sistem suria kerana atmosfera tebalnya ialah:",
+    "pilihan": ["Zuhrah", "Utarid", "Bumi", "Zuhal"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_026",
+    "soalan": "Planet ketiga dari Matahari yang mempunyai hidupan dan air ialah:",
+    "pilihan": ["Bumi", "Marikh", "Musytari", "Utarid"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_027",
+    "soalan": "Planet terbesar dalam Sistem Suria kita ialah:",
+    "pilihan": ["Musytari", "Zuhal", "Uranus", "Neptun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_028",
+    "soalan": "Planet yang terkenal dengan sistem gelang yang cantik diperbuat daripada ais dan debu ialah:",
+    "pilihan": ["Zuhal", "Marikh", "Utarid", "Bumi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_029",
+    "soalan": "Planet yang paling jauh dan paling sejuk dalam senarai lapan planet ialah:",
+    "pilihan": ["Neptun", "Uranus", "Zuhal", "Marikh"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_030",
+    "soalan": "Laluan tetap yang dilalui oleh setiap planet semasa mengelilingi matahari dipanggil:",
+    "pilihan": ["Orbit", "Paksi", "Kompas", "Garis lintang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_031",
+    "soalan": "Takal ialah satu contoh mesin ringkas yang mengandungi seutas tali dan roda yang mempunyai:",
+    "pilihan": ["Alur", "Gigi tajam", "Paku", "Bilah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_032",
+    "soalan": "Kegunaan utama takal dalam kehidupan seharian adalah untuk memudahkan kerja:",
+    "pilihan": ["Mengangkat beban yang berat ke tempat tinggi", "Memotong kayu balak", "Menyiram pokok", "Menerangi kawasan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_033",
+    "soalan": "Aktiviti harian di sekolah yang menggunakan sistem takal ialah:",
+    "pilihan": ["Menaikkan bendera pada tiang bendera", "Membuka pintu kelas", "Menyapu lantai", "Menulis di papan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_034",
+    "soalan": "Mesin kren di tapak pembinaan menggunakan takal untuk mengangkat bahan berat seperti:",
+    "pilihan": ["Besi konkrit dan simen", "Air hujan", "Pasir kering halus sahaja", "Bunga hiasan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_035",
+    "soalan": "Proses pencernaan makanan manusia bermula di dalam organ:",
+    "pilihan": ["Mulut", "Perut", "Esofagus", "Usus kecil"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_036",
+    "soalan": "Saluran berotot yang menghubungkan mulut ke bahagian perut dinamakan:",
+    "pilihan": ["Esofagus", "Usus besar", "Trakea", "Dubur"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_037",
+    "soalan": "Di manakah nutrien makanan yang telah dicerna diserap ke dalam aliran darah tubuh?",
+    "pilihan": ["Usus kecil", "Mulut", "Esofagus", "Paru-paru"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_038",
+    "soalan": "Makanan yang tidak tercerna akan diserap airnya di usus besar dan disingkirkan melalui:",
+    "pilihan": ["Dubur (sebagai tinja)", "Mulut", "Hidung", "Telinga"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_039",
+    "soalan": "Amalan pemakanan yang baik untuk menjaga kesihatan sistem pencernaan ialah:",
+    "pilihan": ["Makan secara perlahan dan mengunyah makanan sehingga hancur", "Makan sambil berlari", "Makan makanan basi", "Minum air manis berlebihan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_040",
+    "soalan": "Tabiat makan yang tergesa-gesa tanpa mengunyah lumat boleh menyebabkan kita:",
+    "pilihan": ["Tersedak dan sakit perut", "Lebih sihat", "Cepat pintar", "Tumbuh gigi baru"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_041",
+    "soalan": "Gigi manusia terdiri daripada enamel, dentin, gusi, saluran darah dan:",
+    "pilihan": ["Saraf", "Rambut", "Kulit", "Kuku"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_042",
+    "soalan": "Makanan manis dan melekit yang dibiarkan pada gigi boleh menyebabkan pembiakan:",
+    "pilihan": ["Bakteria yang merosakkan gigi (karies gigi)", "Enamel menjadi tebal", "Gigi menjadi putih berkilat", "Gigi susu berganda"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_043",
+    "soalan": "Kita disyorkan untuk membuat pemeriksaan gigi di klinik pergigian sekurang-kurangnya:",
+    "pilihan": ["6 bulan sekali", "5 tahun sekali", "10 tahun sekali", "Setiap minggu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_044",
+    "soalan": "Haiwan herbivor seperti lembu mempunyai gigi geraham yang besar dan rata untuk:",
+    "pilihan": ["Mengisar dan melumatkan rumput kering", "Mengoyak daging pejal", "Menangkap ikan di sungai", "Mematuk biji benih"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_045",
+    "soalan": "Singa mempunyai gigi taring yang sangat kuat untuk membantunya:",
+    "pilihan": ["Mengoyak daging mangsa", "Mengunyah daun pokok", "Menghisap madu bunga", "Mengikis lumut"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_046",
+    "soalan": "Pokok cendawan dan kulat membiak menggunakan:",
+    "pilihan": ["Spora", "Biji benih", "Anak pokok", "Keratan daun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_047",
+    "soalan": "Pokok mangga dan pokok durian membiak melalui penanaman:",
+    "pilihan": ["Biji benih", "Spora", "Daun", "Keratan akar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_048",
+    "soalan": "Pokok halia dan pokok kunyit membiak melalui bahagian:",
+    "pilihan": ["Batang bawah tanah (rizom)", "Spora", "Daun", "Bunga"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_049",
+    "soalan": "Kertas litmus merah bertukar menjadi biru apabila diuji dengan:",
+    "pilihan": ["Ubat gigi beralkali", "Air cuka masam", "Jus peria", "Minyak masak"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_050",
+    "soalan": "Kertas litmus biru bertukar menjadi merah apabila diuji dengan cecair:",
+    "pilihan": ["Asid askorbik (Vitamin C)", "Air sabun mandi", "Air sirap neutral", "Ubat batuk"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_051",
+    "soalan": "Apakah rasa kebanyakan bahan yang bersifat asid?",
+    "pilihan": ["Masam", "Pahit", "Manis", "Tawar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_052",
+    "soalan": "Apakah rasa kebanyakan bahan yang bersifat alkali?",
+    "pilihan": ["Pahit", "Masam", "Manis", "Pedas"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_053",
+    "soalan": "Bumi mengambil masa kira-kira berapa lama untuk membuat satu pusingan lengkap mengelilingi Matahari?",
+    "pilihan": ["1 tahun (365 1/4 hari)", "1 hari (24 jam)", "1 bulan (30 hari)", "10 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_054",
+    "soalan": "Berapakah bilangan planet utama yang terdapat dalam Sistem Suria kita?",
+    "pilihan": ["8 planet", "9 planet", "7 planet", "10 planet"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_055",
+    "soalan": "Objek semula jadi di angkasa yang mengelilingi sesebuah planet dipanggil:",
+    "pilihan": ["Satelit semula jadi (Bulan)", "Komet", "Asteroid", "Bintang kerdil"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_056",
+    "soalan": "Satelit semula jadi bagi planet Bumi ialah:",
+    "pilihan": ["Bulan", "Matahari", "Komet Halley", "Stesen Angkasa"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_057",
+    "soalan": "Takal tetap mempunyai roda yang dilekatkan pada kedudukan yang:",
+    "pilihan": ["Tetap dan tidak bergerak bersama beban", "Bergerak naik turun bersama beban", "Berputar tanpa henti", "Tergelincir"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_058",
+    "soalan": "Tali pada takal ditarik ke bawah supaya beban terangkat ke arah:",
+    "pilihan": ["Atas", "Bawah", "Kiri", "Kanan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_059",
+    "soalan": "Dalam mulut kita, makanan dihancurkan oleh gigi dan dibasahi oleh:",
+    "pilihan": ["Air liur", "Air jus", "Hembusan nafas", "Peluh"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_060",
+    "soalan": "Di dalam organ perut, makanan dicerna lebih lanjut dengan bantuan cecair:",
+    "pilihan": ["Jus gastrik berasid", "Air liur manis", "Minyak pelincir", "Udara sejuk"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_061",
+    "soalan": "Gigi susu mula tumbuh pada bayi sekitar usia:",
+    "pilihan": ["6 bulan", "2 tahun", "10 tahun", "1 bulan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_062",
+    "soalan": "Gigi susu kanak-kanak akan mula tanggal secara beransur-ansur sekitar usia:",
+    "pilihan": ["6 tahun", "12 tahun", "1 tahun", "15 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_063",
+    "soalan": "Tupai dan arnab memakan kekacang dan sayur, oleh itu mereka dikelaskan sebagai:",
+    "pilihan": ["Herbivor", "Karnivor", "Omnivor", "Parasit"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_064",
+    "soalan": "Helang memburu anak ayam dan ular, oleh itu ia tergolong dalam kumpulan:",
+    "pilihan": ["Karnivor", "Herbivor", "Omnivor", "Pengurai"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_065",
+    "soalan": "Kucing dan beruang memakan ikan serta buah, menjadikan mereka kumpulan:",
+    "pilihan": ["Omnivor", "Herbivor", "Karnivor", "Insektivor"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_066",
+    "soalan": "Pokok getah membiak melalui penyebaran:",
+    "pilihan": ["Biji benih melalui mekanisme letupan", "Spora", "Daun", "Anak pokok"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_067",
+    "soalan": "Pokok bawang merah membiak melalui bahagian:",
+    "pilihan": ["Bebawang (batang bawah tanah)", "Spora", "Daun kering", "Biji angin"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_068",
+    "soalan": "Ubat gigi mengandungi bahan bersifat alkali untuk meneutralkan asid yang dihasilkan oleh:",
+    "pilihan": ["Bakteria di dalam mulut", "Makanan masam", "Air liur", "Lidah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_069",
+    "soalan": "Air mineral semula jadi mempunyai nilai sifat kimia iaitu:",
+    "pilihan": ["Neutral", "Sangat berasid", "Sangat beralkali", "Pahit"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_070",
+    "soalan": "Planet manakah yang mempunyai jarak paling dekat dengan planet Bumi?",
+    "pilihan": ["Zuhrah dan Marikh", "Utarid dan Musytari", "Zuhal dan Uranus", "Neptun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_071",
+    "soalan": "Semakin jauh jarak sebuah planet dari Matahari, semakin ______ masa yang diambil untuk mengelilinginya.",
+    "pilihan": ["lama", "singkat", "cepat", "sedikit"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_072",
+    "soalan": "Apakah alat yang membolehkan ahli astronomi memerhati planet dengan jelas?",
+    "pilihan": ["Teleskop", "Mikroskop", "Stetoskop", "Periskop"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_073",
+    "soalan": "Takal majmuk terdiri daripada gabungan takal tetap dan takal:",
+    "pilihan": ["Bergerak", "Berputar", "Terbakar", "Kaku"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_074",
+    "soalan": "Tali pancing pada joran pancing menggunakan prinsip roda bergandar dan sistem:",
+    "pilihan": ["Takal penggulung", "Satah condong", "Skru", "Baji"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn3_075",
+    "soalan": "Sebelum meninggalkan bilik sains, sampah dan sisa eksperimen cecair mestilah dibuang mengikut:",
+    "pilihan": ["Peraturan keselamatan bilik sains yang betul", "Kehendak sendiri", "Tingkap bilik", "Laci meja"],
+    "jawapan": 0
+  }
+]
