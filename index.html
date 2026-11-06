@@ -581,15 +581,18 @@
       loadQuestion();
     }
 
-    function exitQuiz() {
+ function exitQuiz() {
       playClickSound();
       if (confirm('Adakah adik pasti mahu keluar dari sesi ini?')) {
+        localStorage.removeItem('active_quiz_session'); // Padam sesi aktif
         showScreen('screenSubjects');
       }
     }
 
     function submitQuiz() {
       playSuccessSound();
+      localStorage.removeItem('active_quiz_session'); // Padam sesi aktif kerana kuiz telah selesai
+
       let correct = 0;
       currentQuestions.forEach((q, idx) => {
         if (answers[idx] === q.jawapan) correct++;
@@ -598,10 +601,10 @@
       const totalQ = currentQuestions.length;
       let totalMarks = 0;
       if (isSpecialGrammar) {
-        totalMarks = correct * 10; // 10 soalan x 10 markah = 100%
+        totalMarks = correct * 10;
         document.getElementById('resScoreFraction').innerText = `${correct} / ${totalQ} Betul (10 markah/soalan)`;
       } else {
-        totalMarks = correct * 4;  // 25 soalan x 4 markah = 100%
+        totalMarks = correct * 4;
         document.getElementById('resScoreFraction').innerText = `${correct} / ${totalQ} Betul (4 markah/soalan)`;
       }
 
