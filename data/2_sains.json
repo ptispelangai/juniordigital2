@@ -1,0 +1,452 @@
+[
+  {
+    "id": "sn2_001",
+    "soalan": "Antara berikut, yang manakah merupakan keperluan asas bagi manusia untuk terus hidup?",
+    "pilihan": ["Makanan, air dan udara", "Rumah dan kereta", "Pakaian dan wang", "Buku dan pensel"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_002",
+    "soalan": "Haiwan manakah yang membiak secara melahirkan anak?",
+    "pilihan": ["Ayam", "Kucing", "Katak", "Penyu"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_003",
+    "soalan": "Haiwan manakah yang bertelur dengan bilangan yang sangat banyak?",
+    "pilihan": ["Gajah", "Kuda", "Katak", "Kambing"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_004",
+    "soalan": "Tumbuh-tumbuhan memerlukan cahaya matahari, udara dan ______ untuk menghasilkan makanannya sendiri.",
+    "pilihan": ["tanah liat", "batu", "pasu", "air"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_005",
+    "soalan": "Apakah deria yang digunakan untuk melihat warna warni pelangi?",
+    "pilihan": ["Deria penglihatan", "Deria pendengaran", "Deria rasa", "Deria bau"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_006",
+    "soalan": "Organ manusia yang berfungsi untuk mengesan rasa makanan ialah:",
+    "pilihan": ["Hidung", "Lidah", "Telinga", "Kulit"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_007",
+    "soalan": "Apakah sumber cahaya semula jadi yang utama bagi bumi pada waktu siang?",
+    "pilihan": ["Bulan", "Lilin", "Matahari", "Lampu suluh"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_008",
+    "soalan": "Bayang-bayang akan terbentuk apabila cahaya dihalang oleh objek ______.",
+    "pilihan": ["lut sinar", "jernih", "nipis", "legap"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_009",
+    "soalan": "Antara objek berikut, yang manakah akan terapung di atas permukaan air?",
+    "pilihan": ["Bongkah span", "Paku besi", "Duit syiling", "Batu kerikil"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_010",
+    "soalan": "Antara objek berikut, yang manakah akan tenggelam apabila dimasukkan ke dalam air?",
+    "pilihan": ["Bola pingpong", "Kunci besi", "Gabus", "Daun kering"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_011",
+    "soalan": "Bahan manakah yang berupaya menyerap air dengan cepat?",
+    "pilihan": ["Beg plastik", "Pembaris kaca", "Tuala kapas", "Kepingan zink"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_012",
+    "soalan": "Bahan manakah yang kalis air (tidak menyerap air langsung)?",
+    "pilihan": ["Kertas tisu", "Kain pelekat", "Span mandi", "Baju hujan plastik"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_013",
+    "soalan": "Komponen elektrik yang membekalkan tenaga elektrik di dalam litar mudah ialah:",
+    "pilihan": ["Sel kering (bateri)", "Mentol", "Suis", "Wayar penyambung"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_014",
+    "soalan": "Fungsi suis di dalam sesuatu litar elektrik adalah untuk:",
+    "pilihan": ["Menghasilkan cahaya", "Menyambung atau memutuskan litar", "Membekalkan tenaga", "Menghalang arus"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_015",
+    "soalan": "Bahan yang membenarkan arus elektrik melaluinya dan menyalakan mentol dinamakan:",
+    "pilihan": ["Penebat elektrik", "Sel kering", "Konduktor elektrik", "Suis litar"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_016",
+    "soalan": "Antara objek berikut, yang manakah merupakan penebat elektrik?",
+    "pilihan": ["Paku besi", "Klip kertas dawai", "Sudu logam", "Pembaris plastik"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_017",
+    "soalan": "Kitaran hidup rama-rama bermula daripada fasa ______.",
+    "pilihan": ["telur", "beluncas", "kepompong", "dewasa"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_018",
+    "soalan": "Anak katak yang baru menetas daripada telur dan hidup di dalam air dipanggil:",
+    "pilihan": ["Anak ayam", "Berudu", "Ulat", "Jejentik"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_019",
+    "soalan": "Tumbuh-tumbuhan membiak melalui pelbagai cara. Pokok pisang membiak melalui:",
+    "pilihan": ["Biji benih", "Spora", "Anak pokok", "Keratan batang"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_020",
+    "soalan": "Pokok cili dan pokok betik membiak melalui ______.",
+    "pilihan": ["daun", "anak pokok", "spora", "biji benih"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_021",
+    "soalan": "Tanah yang paling sesuai digunakan untuk menanam pokok bunga hiasan ialah:",
+    "pilihan": ["Tanah kebun", "Pasir pantai", "Tanah liat", "Batu kerikil"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_022",
+    "soalan": "Tanah liat mempunyai zarah tanah yang sangat halus dan air melaluinya dengan amat:",
+    "pilihan": ["laju", "lambat", "deras", "kering"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_023",
+    "soalan": "Campuran bahan seperti pasir dan serpihan daun kering boleh diasingkan menggunakan kaedah:",
+    "pilihan": ["Mendidih", "Menyejuk", "Mengayak", "Membeku"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_024",
+    "soalan": "Untuk mengasingkan campuran klip kertas besi daripada serbuk kayu, alat yang paling sesuai ialah:",
+    "pilihan": ["Penyaring", "Kertas turas", "Kanta pembesar", "Magnet"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_025",
+    "soalan": "Bahan manakah yang boleh larut sepenuhnya di dalam segelas air suam?",
+    "pilihan": ["Gula pasir", "Pasir sungai", "Batu kerikil", "Klip kertas"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_026",
+    "soalan": "Gula akan larut dengan lebih cepat di dalam air jika kita menggunakan air yang ______.",
+    "pilihan": ["sejuk beku", "panas", "berais", "pekat"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_027",
+    "soalan": "Selain suhu air, gula juga larut lebih pantas sekiranya air tersebut ______.",
+    "pilihan": ["dibiarkan tenang", "dibekukan", "dikacau menggunakan sudu", "diletak di tempat gelap"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_028",
+    "soalan": "Udara yang bergerak dari satu tempat ke tempat lain dipanggil:",
+    "pilihan": ["Hujan", "Awan", "Ribut petir", "Angin"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_029",
+    "soalan": "Angin yang bertiup memberi manfaat kepada manusia untuk menerbangkan:",
+    "pilihan": ["Layang-layang", "Kereta", "Rumah", "Buku"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_030",
+    "soalan": "Udara mengandungi gas yang diperlukan manusia dan haiwan untuk bernafas iaitu:",
+    "pilihan": ["Karbon dioksida", "Oksigen", "Helium", "Gas metana"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_031",
+    "soalan": "Set binaan model biasanya dipasang mengikut panduan yang terdapat dalam:",
+    "pilihan": ["Kamus", "Buku cerita", "Manual bergambar", "Surat khabar"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_032",
+    "soalan": "Selepas selesai membina model daripada set binaan, komponen hendaklah disimpan di dalam:",
+    "pilihan": ["Tong sampah", "Bawah katil", "Luar rumah", "Kotak asalnya"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_033",
+    "soalan": "Anak mewarisi ciri rupa paras daripada ibu bapanya seperti warna ______.",
+    "pilihan": ["iris mata", "baju", "kasut", "beg"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_034",
+    "soalan": "Jenis rambut yang boleh diwarisi daripada ibu atau bapa antaranya ialah rambut:",
+    "pilihan": ["berkilat", "kerinting", "panjang", "palsu"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_035",
+    "soalan": "Haiwan yang melahirkan anak dan menjaga anaknya sehingga membesar ialah:",
+    "pilihan": ["Ikan mas", "Katak", "Lembu", "Kura-kura"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_036",
+    "soalan": "Haiwan manakah yang bertelur sedikit dan menjaga telurnya dengan baik?",
+    "pilihan": ["Nyamuk", "Ikan", "Katak", "Burung merpati"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_037",
+    "soalan": "Apakah deria yang digunakan untuk mendengar siren ambulan?",
+    "pilihan": ["Deria pendengaran", "Deria bau", "Deria sentuh", "Deria rasa"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_038",
+    "soalan": "Organ yang terlibat dengan deria sentuhan pada tubuh manusia ialah:",
+    "pilihan": ["Lidah", "Kulit", "Telinga", "Mata"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_039",
+    "soalan": "Objek manakah yang merupakan sumber cahaya buatan manusia?",
+    "pilihan": ["Bintang", "Matahari", "Lampu meja", "Bulan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_040",
+    "soalan": "Cermin mata diperbuat daripada kaca yang bersifat:",
+    "pilihan": ["legap", "berkilat", "hitam", "lut sinar"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_041",
+    "soalan": "Mentol di dalam litar elektrik akan menyala apabila litar berada dalam keadaan:",
+    "pilihan": ["Lengkap", "Terbuka", "Rosak", "Terputus"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_042",
+    "soalan": "Apakah wayar yang berfungsi menyambungkan setiap komponen elektrik dalam litar?",
+    "pilihan": ["Tali benang", "Wayar penyambung", "Getah gelang", "Pita pelekat"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_043",
+    "soalan": "Objek manakah yang dapat menyerap tumpahan sos tomato di atas meja?",
+    "pilihan": ["Pembaris besi", "Beg plastik", "Kain tuala", "Kepingan kaca"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_044",
+    "soalan": "Kasut getah sangat sesuai dipakai semasa hujan lebat kerana getah bersifat:",
+    "pilihan": ["mudah koyak", "menyerap air", "lembut menyerap", "kalis air"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_045",
+    "soalan": "Pokok paku pakis membiak melalui:",
+    "pilihan": ["Spora", "Biji benih", "Anak pokok", "Batang bawah tanah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_046",
+    "soalan": "Pokok lidah buaya (aloe vera) boleh membiak melalui keratan ______.",
+    "pilihan": ["bunga", "daun", "buah", "akar"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_047",
+    "soalan": "Tanah pasir biasanya banyak dijumpai di kawasan:",
+    "pilihan": ["Bendang padi", "Kebun sayur", "Pantai dan gurun", "Puncak gunung"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_048",
+    "soalan": "Tanah yang sangat sesuai digunakan untuk membuat pasu bunga tembikar ialah:",
+    "pilihan": ["Tanah kebun", "Pasir sungai", "Batu kerikil", "Tanah liat"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_049",
+    "soalan": "Garam halus akan larut sepenuhnya di dalam air dan menghasilkan:",
+    "pilihan": ["Larutan jernih", "Campuran mendap", "Bongkah ais", "Wap tebal"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_050",
+    "soalan": "Bahan manakah yang TIDAK larut di dalam air walaupun dikacau lama?",
+    "pilihan": ["Serbuk koko", "Pasir", "Gula merah", "Garam halus"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_051",
+    "soalan": "Benda hidup memerlukan udara untuk proses:",
+    "pilihan": ["Membeku", "Mencair", "Pernafasan", "Menyejuk"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_052",
+    "soalan": "Angin kencang yang bertiup kencang semasa ribut boleh menyebabkan:",
+    "pilihan": ["Tanaman tumbuh subur", "Air kolam jernih", "Udara menjadi panas", "Pokok tumbang dan kerosakan rumah"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_053",
+    "soalan": "Apakah deria yang digunakan untuk menghidu bau masakan sup ayam?",
+    "pilihan": ["Deria bau", "Deria sentuh", "Deria lihat", "Deria dengar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_054",
+    "soalan": "Antara haiwan berikut, yang manakah menyerupai rupa induknya sejak kecil?",
+    "pilihan": ["Katak", "Kuda", "Rama-rama", "Nyamuk"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_055",
+    "soalan": "Kitaran hidup nyamuk bermula dari telur, kemudian menjadi:",
+    "pilihan": ["Ulat beluncas", "Berudu", "Jejentik", "Kumbang"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_056",
+    "soalan": "Pokok ubi kayu boleh ditanam semula menggunakan kaedah keratan ______.",
+    "pilihan": ["daun", "akar", "buah", "batang"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_057",
+    "soalan": "Tumbuh-tumbuhan yang kekurangan air akan mengalami keadaan:",
+    "pilihan": ["Layu dan mati", "Tumbuh lebih cepat", "Berbuah lebat", "Daun bertukar hijau"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_058",
+    "soalan": "Apabila mentol di dalam litar terbakar, mentol tersebut:",
+    "pilihan": ["Akan menyala lebih terang", "Tidak akan menyala langsung", "Akan berkedip-kedip", "Akan berbunyi"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_059",
+    "soalan": "Klip kertas logam boleh menyalakan mentol kerana ia bersifat sebagai:",
+    "pilihan": ["Penebat elektrik", "Sumber cahaya", "Konduktor elektrik", "Suis keselamatan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_060",
+    "soalan": "Payung biasanya diperbuat daripada fabrik nilon sintetik kerana ia:",
+    "pilihan": ["Menyerap air", "Mudah koyak", "Murah", "Kalis air"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_061",
+    "soalan": "Gabus terapung di atas air kerana ketumpatannya adalah:",
+    "pilihan": ["Kurang daripada ketumpatan air", "Lebih daripada ketumpatan air", "Sama dengan batu", "Sangat berat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_062",
+    "soalan": "Duit syiling tenggelam ke dasar air kerana ia bersifat:",
+    "pilihan": ["Ringan", "Lebih tumpat daripada air", "Kalis air", "Lut sinar"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_063",
+    "soalan": "Campuran serbuk teh dan air teh boleh diasingkan menggunakan:",
+    "pilihan": ["Magnet", "Cermin", "Penapis teh", "Penyepit"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_064",
+    "soalan": "Kincir angin berputar dengan laju apabila digerakkan oleh tenaga:",
+    "pilihan": ["Air terjun", "Bateri elektrik", "Cahaya matahari", "Angin yang bertiup"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_065",
+    "soalan": "Udara wujud di sekeliling kita walaupun ia:",
+    "pilihan": ["Tidak dapat dilihat dengan mata kasar", "Berwarna hitam", "Sangat berat", "Berbau busuk"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_066",
+    "soalan": "Tumbuhan memerlukan tanah untuk menyokong dan mencengkam:",
+    "pilihan": ["Buahnya", "Akarnya", "Bunganya", "Pucuknya"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_067",
+    "soalan": "Apakah deria yang digunakan untuk merasa kemanisan buah mangga masak?",
+    "pilihan": ["Deria bau", "Deria lihat", "Deria rasa", "Deria sentuh"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_068",
+    "soalan": "Cahaya matahari pada waktu tengah hari menghasilkan bayang-bayang yang:",
+    "pilihan": ["Sangat panjang", "Berwarna warni", "Paling terang", "Paling pendek"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_069",
+    "soalan": "Bahan manakah yang menyerap air dengan kuantiti paling banyak?",
+    "pilihan": ["Span basuh pinggan", "Kertas tulis", "Kain sutera nipis", "Daun pisang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_070",
+    "soalan": "Tanah kebun mengandungi campuran butiran tanah, pasir dan:",
+    "pilihan": ["Minyak masak", "Humus (sisa reputan haiwan dan tumbuhan)", "Besi waja", "Plastik"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_071",
+    "soalan": "Alat yang digunakan untuk membesarkan imej butiran tanah halus ialah:",
+    "pilihan": ["Teleskop", "Cermin muka", "Kanta pembesar", "Termometer"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn2_072",
+    "soalan": "Gula pasir akan larut lebih cepat jika saiz butirannya lebih:",
+    "pilihan": ["Kasar", "Besar", "Keras", "Halus"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn2_073",
+    "soalan": "Belon yang ditiup menjadi membesar kerana diisi dengan:",
+    "pilihan": ["Udara", "Air", "Batu", "Minyak"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn2_074",
+    "soalan": "Paku karat yang ditarik oleh magnet menunjukkan bahawa paku tersebut diperbuat daripada bahan:",
+    "pilihan": ["Plastik", "Logam bermagnet (besi)", "Kayu", "Kaca"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn2_075",
+    "soalan": "Setelah selesai menjalankan eksperimen di bilik sains, kita mestilah membersihkan dan ______ peralatan.",
+    "pilihan": ["Membuang", "Merosakkan", "Menyimpan di tempat asalnya", "Membakar"],
+    "jawapan": 2
+  }
+]
