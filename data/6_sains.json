@@ -1,0 +1,452 @@
+[
+  {
+    "id": "sn6_001",
+    "soalan": "Antara haiwan berikut, yang manakah telah pupus sepenuhnya dari muka bumi?",
+    "pilihan": ["Burung Dodo", "Badak Sumbu Sumatera", "Penyu Belimbing", "Orang Utan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_002",
+    "soalan": "Aktiviti mengekalkan keadaan asal haiwan dan tumbuhan daripada musnah dinamakan:",
+    "pilihan": ["Pembalakan", "Pemeliharaan", "Pemuliharaan", "Penerokaan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_003",
+    "soalan": "Usaha mengembalikan haiwan atau tumbuhan kepada keadaan asal yang terganggu dikenali sebagai:",
+    "pilihan": ["Penyelidikan", "Pemburuan", "Pemuliharaan", "Penebangan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_004",
+    "soalan": "Interaksi antara dua hidupan yang memberi manfaat kepada kedua-dua pihak dinamakan:",
+    "pilihan": ["Komensalisme", "Parasitisme", "Persaingan", "Mutualisme"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_005",
+    "soalan": "Hubungan antara burung tiung dengan kerbau merupakan contoh simbiosis jenis:",
+    "pilihan": ["Mutualisme", "Komensalisme", "Parasitisme", "Mangsa-pemangsa"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_006",
+    "soalan": "Ikan remora yang menumpang pada badan ikan yu tanpa merugikan atau menguntungkan ikan yu adalah contoh:",
+    "pilihan": ["Parasitisme", "Komensalisme", "Mutualisme", "Persaingan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_007",
+    "soalan": "Kutu yang menghisap darah pada badan kucing merupakan contoh interaksi jenis:",
+    "pilihan": ["Komensalisme", "Mutualisme", "Parasitisme", "Pengeluar"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_008",
+    "soalan": "Haiwan yang hidup bersendirian (solitori) antaranya ialah:",
+    "pilihan": ["Semut", "Gajah", "Lebah", "Harimau"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_009",
+    "soalan": "Faktor yang menyebabkan persaingan antara haiwan daripada spesies yang sama (intraspesies) ialah:",
+    "pilihan": ["Makanan, air, tempat tinggal/ruang dan pasangan", "Cahaya matahari dan baja", "Udara dan warna bulu", "Karbon dioksida dan tanah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_010",
+    "soalan": "Penggunaan burung hantu untuk mengawal populasi tikus di ladang kelapa sawit dinamakan kaedah:",
+    "pilihan": ["Racun kimia", "Kawalan biologi", "Penebangan pokok", "Penyemburan herbisid"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_011",
+    "soalan": "Tolakan atau tarikan yang bertindak ke atas sesuatu objek dikenali sebagai:",
+    "pilihan": ["Kelajuan", "Tenaga", "Daya", "Tekanan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_012",
+    "soalan": "Aktiviti manakah yang hanya melibatkan daya tolakan?",
+    "pilihan": ["Membuka laci meja", "Menimba air perigi", "Memakai sarung kaki", "Menekan suis lampu"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_013",
+    "soalan": "Daya yang menentang pergerakan objek apabila dua permukaan bersentuhan dinamakan:",
+    "pilihan": ["Daya geseran", "Daya graviti", "Daya magnet", "Daya apungan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_014",
+    "soalan": "Daya geseran akan bertambah sekiranya permukaan yang bersentuhan adalah:",
+    "pilihan": ["Sangat licin dan berminyak", "Kasar dan kesat", "Rata dan basah", "Sempit dan bercahaya"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_015",
+    "soalan": "Kebaikan daya geseran dalam kehidupan harian antaranya ialah membolehkan kita:",
+    "pilihan": ["Membakar tayar kenderaan", "Menghauskan tapak kasut", "Berjalan tanpa tergelincir", "Membazirkan tenaga"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_016",
+    "soalan": "Corak bunga tayar pada kereta berfungsi untuk:",
+    "pilihan": ["Mencantikkan rupa kenderaan", "Menjimatkan bahan api minyak", "Mempercepatkan kehausan getah", "Menambah daya geseran dan cengkaman di atas jalan basah"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_017",
+    "soalan": "Kadar pergerakan sesuatu objek atau ukuran kepantasan objek bergerak dinamakan:",
+    "pilihan": ["Kelajuan", "Jarak", "Masa", "Pecutan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_018",
+    "soalan": "Formula untuk mengira kelajuan sesuatu objek ialah:",
+    "pilihan": ["Jarak × Masa", "Jarak ÷ Masa", "Masa ÷ Jarak", "Jarak + Masa"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_019",
+    "soalan": "Sebuah bas bergerak sejauh 180 km dalam masa 2 jam. Berapakah kelajuan bas tersebut?",
+    "pilihan": ["70 km/j", "80 km/j", "90 km/j", "100 km/j"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_020",
+    "soalan": "Unit piawai bagi kelajuan kenderaan di atas jalan raya ialah:",
+    "pilihan": ["Sentimeter per saat (cm/s)", "Meter per minit (m/min)", "Kilometer sahaja (km)", "Kilometer per jam (km/j)"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_021",
+    "soalan": "Ciri makanan yang telah rosak akibat tindakan mikroorganisma antaranya ialah:",
+    "pilihan": ["Berbau busuk, berubah rasa masam dan berkulat", "Kelihatan segar dan berbau harum", "Rasa manis dan rangup", "Warna kekal cerah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_022",
+    "soalan": "Kaedah pengawetan susu melalui pemanasan pada suhu tertentu diikuti penyejukan segera dinamakan:",
+    "pilihan": ["Penjerukan", "Pempasteuran", "Pengasapan", "Pengetinan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_023",
+    "soalan": "Ikan masin diawet dengan kaedah penyingkiran air melalui penggunaan garam pekat dan:",
+    "pilihan": ["Pembungkusan vakum", "Pendidihan", "Pengeringan di bawah cahaya matahari", "Penyejukbekuan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_024",
+    "soalan": "Tujuan utama makanan disimpan di dalam peti sejuk beku ialah untuk:",
+    "pilihan": ["Membunuh semua bakteria dengan cepat", "Menjadikan makanan lebih manis", "Menambahkan udara dalam makanan", "Memperlahankan atau menghentikan aktiviti pertumbuhan mikroorganisma"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_025",
+    "soalan": "Bahan buangan yang boleh diuraikan oleh mikroorganisma secara semula jadi dikelaskan sebagai:",
+    "pilihan": ["Terbiodegradasi", "Tidak terbiodegradasi", "Sisa toksik", "Plastik sintetik"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_026",
+    "soalan": "Antara bahan buangan berikut, yang manakah TIDAK terbiodegradasi?",
+    "pilihan": ["Sisa makanan", "Botol kaca dan bekas plastik", "Kertas surat khabar", "Daun-daun kering"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_027",
+    "soalan": "Amalan 5R dalam pengurusan sisa pepejal merangkumi:",
+    "pilihan": ["Run, Read, Rest, Relax, Repeat", "Reap, Root, Rain, Rise, Real", "Refuse, Reduce, Reuse, Recycle, Rot", "Redo, Remove, Refill, Recheck, Report"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_028",
+    "soalan": "Fenomena Gerhana Bulan berlaku apabila kedudukan:",
+    "pilihan": ["Bulan berada di antara Matahari dan Bumi", "Matahari berada di antara Bumi dan Bulan", "Bumi berada di belakang Matahari", "Bumi berada di antara Matahari dan Bulan dalam satu garis lurus"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_029",
+    "soalan": "Gerhana Bulan hanya berlaku pada fasa bulan:",
+    "pilihan": ["Purnama", "Anak bulan", "Sabit", "Separa"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_030",
+    "soalan": "Fenomena Gerhana Matahari berlaku apabila kedudukan:",
+    "pilihan": ["Bumi berada di antara Matahari dan Bulan", "Bulan berada di antara Matahari dan Bumi dalam satu garis lurus", "Matahari berada di antara Bulan dan Bumi", "Bulan menjauhi orbit Bumi"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_031",
+    "soalan": "Bahagian bayang-bayang yang gelap sepenuhnya semasa kejadian gerhana dinamakan:",
+    "pilihan": ["Penumbra", "Korona", "Umbra", "Atmosfera"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_032",
+    "soalan": "Bahagian bayang-bayang yang separa gelap di sekeliling kawasan gelap penuh dipanggil:",
+    "pilihan": ["Kawah", "Fasa", "Orbit", "Penumbra"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_033",
+    "soalan": "Dua sifat cahaya yang membolehkan fenomena gerhana berlaku ialah cahaya bergerak lurus dan:",
+    "pilihan": ["Cahaya tidak dapat menembusi objek legap", "Cahaya boleh dibiaskan", "Cahaya boleh dipantulkan", "Cahaya bergerak sangat perlahan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_034",
+    "soalan": "Mesin kompleks terdiri daripada gabungan beberapa jenis:",
+    "pilihan": ["Alat elektrik", "Mesin ringkas", "Bahan buangan", "Logam berat"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_035",
+    "soalan": "Sebuah basikal menggabungkan beberapa mesin ringkas antaranya ialah:",
+    "pilihan": ["Baji dan takal sahaja", "Satah condong dan skru sahaja", "Roda dan gandar, tuas serta gear", "Piston dan magnet"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_036",
+    "soalan": "Pengokot (stapler) mengaplikasikan gabungan mesin ringkas jenis:",
+    "pilihan": ["Takal dan gear", "Roda dan gandar", "Satah condong", "Tuas dan baji"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_037",
+    "soalan": "Harimau Tasmania dan Quagga pupus kerana aktiviti manusia yang tidak terkawal iaitu:",
+    "pilihan": ["Pemburuan berlebihan dan kemusnahan habitat", "Perubahan iklim zaman ais", "Bencana gempa bumi", "Kekurangan bekalan oksigen"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_038",
+    "soalan": "Pokok periuk kera dan bunga Rafflesia terancam pupus disebabkan oleh:",
+    "pilihan": ["Banjir kilat", "Penyahhutanan dan pengambilan haram oleh manusia", "Kekurangan serangga", "Penyakit kulat"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_039",
+    "soalan": "Pusat konservasi penyu di Rantau Abang, Terengganu ditubuhkan bertujuan untuk:",
+    "pilihan": ["Menangkap penyu liar", "Menjual cengkerang penyu", "Menyelamat, mengeramkan telur dan melindungi penyu daripada kepupusan", "Menjadikan penyu sebagai bahan makanan"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_040",
+    "soalan": "Tumbuhan bersaing antara satu sama lain di dalam hutan tebal untuk mendapatkan:",
+    "pilihan": ["Baja kimia dan racun", "Oksigen dan angin", "Tanah liat dan batu", "Cahaya matahari, air, nutrien dan ruang"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_041",
+    "soalan": "Pokok dedalu yang menumpang pada batang pokok mangga dan menyerap nutrien daripada pokok tersebut adalah contoh:",
+    "pilihan": ["Parasitisme", "Mutualisme", "Komensalisme", "Kemandirian"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_042",
+    "soalan": "Paku pakis langsuir yang melekat pada dahan pokok besar untuk mendapatkan cahaya matahari tanpa memudaratkan pokok tersebut ialah contoh:",
+    "pilihan": ["Parasitisme", "Komensalisme", "Mutualisme", "Pengurai"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_043",
+    "soalan": "Apakah yang berlaku kepada bentuk plastisin apabila dikenakan daya mampatan?",
+    "pilihan": ["Bentuknya kekal tidak berubah", "Plastisin hilang", "Bentuk plastisin berubah", "Plastisin menjadi keras seperti batu"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_044",
+    "soalan": "Penjaga gol yang menangkap bola bola sepak yang sedang meluncur laju membuktikan daya boleh:",
+    "pilihan": ["Mengubah warna objek", "Menambah jisim objek", "Memanaskan permukaan objek", "Memberhentikan objek yang sedang bergerak"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_045",
+    "soalan": "Minyak pelincir atau gris disapu pada bahagian engsel pintu dan rantai basikal untuk:",
+    "pilihan": ["Mengurangkan daya geseran dan mengelakkan kehausan", "Menambah daya geseran", "Menjadikan rantai lebih berat", "Membersihkan kotoran"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_046",
+    "soalan": "Pelapik brek pada roda basikal berfungsi dengan cara:",
+    "pilihan": ["Menghapuskan geseran sepenuhnya", "Mengenakan daya geseran pada rim untuk memperlahankan pergerakan basikal", "Menyejukkan tayar getah", "Meningkatkan kelajuan basikal"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_047",
+    "soalan": "Seorang murid berlari sejauh 100 meter dalam tempoh 20 saat. Berapakah kelajuan lariannya?",
+    "pilihan": ["4 m/s", "6 m/s", "5 m/s", "8 m/s"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_048",
+    "soalan": "Antara kenderaan berikut, yang manakah biasanya mempunyai kelajuan paling tinggi?",
+    "pilihan": ["Basikal bukit", "Kereta sedan", "Kereta api laju elektrik", "Kapal terbang jet komersial"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_049",
+    "soalan": "Bakteria dan kulat memerlukan beberapa syarat untuk membiak pada makanan iaitu:",
+    "pilihan": ["Air, udara, suhu yang sesuai, nutrien dan keasidan yang sesuai", "Suhu yang terlalu beku dan gelap", "Keadaan vakum tanpa oksigen", "Garam pekat tanpa air"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_050",
+    "soalan": "Penjerukan buah mangga menggunakan larutan gula dan garam pekat untuk mengawet makanan kerana:",
+    "pilihan": ["Gula menambah bilangan bakteria", "Larutan pekat menyingkirkan air daripada sel mikroorganisma", "Mangsa menjadi terlalu beku", "Garam menghasilkan oksigen"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_051",
+    "soalan": "Pembungkusan vakum mengawet makanan dengan cara:",
+    "pilihan": ["Menambah gas karbon dioksida", "Membekukan makanan dalam ketulan ais", "Menyingkirkan udara sepenuhnya daripada bekas atau plastik pembungkus", "Memanaskan makanan berulang kali"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_052",
+    "soalan": "Makanan dalam tin yang kemek, berkarat atau menggelembung tidak boleh dimakan langsung kerana:",
+    "pilihan": ["Tin itu sukar dibuka", "Rasanya menjadi terlalu manis", "Warna tin telah pudar", "Terdapat pertumbuhan bakteria toksik berbahaya di dalamnya"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_053",
+    "soalan": "Kesan pembuangan sisa bahan buangan secara tidak terancang ke dalam sungai menyebabkan:",
+    "pilihan": ["Pencemaran air, kematian hidupan akuatik dan banjir kilat", "Air sungai menjadi semakin jernih", "Populasi ikan bertambah", "Aliran sungai menjadi lancar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_054",
+    "soalan": "Sisa bahan buangan kimia daripada kilang industri perlu dirawat terlebih dahulu sebelum:",
+    "pilihan": ["Disimpan di rumah", "Dilepaskan ke dalam sistem perparitan awam atau sungai", "Dibakar di tempat terbuka", "Ditanam di kebun sayur"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_055",
+    "soalan": "Gerhana Matahari penuh hanya boleh disaksikan dari kawasan bumi yang berada di dalam:",
+    "pilihan": ["Zon penumbra luas", "Kawasan atmosfera atas", "Zon bayang-bayang umbra yang sempit", "Semua kawasan waktu malam"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_056",
+    "soalan": "Melihat fenomena Gerhana Matahari secara terus dengan mata kasar tanpa perlindungan khas boleh menyebabkan:",
+    "pilihan": ["Demam panas", "Sakit kepala ringan", "Rambut gugur", "Kerosakan kekal pada retina mata"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_057",
+    "soalan": "Warna Bulan semasa fenomena Gerhana Bulan penuh biasanya kelihatan kemerah-merahan kerana:",
+    "pilihan": ["Cahaya merah matahari dibiaskan oleh atmosfera bumi ke permukaan bulan", "Bulan menjadi sangat panas dan terbakar", "Bulan menghasilkan cahaya merah sendiri", "Bulan memantulkan cahaya planet Marikh"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_058",
+    "soalan": "Ciri mesin lestari yang direka cipta untuk kegunaan masa depan antaranya ialah:",
+    "pilihan": ["Menggunakan bahan api petroleum yang banyak", "Mesra alam, tahan lama, kos rendah dan jimat tenaga", "Sukar dibaiki dan mudah rosak", "Mengeluarkan asap tebal"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_059",
+    "soalan": "Gunting ialah sejenis mesin yang menggabungkan prinsip mesin ringkas jenis:",
+    "pilihan": ["Takal dan satah condong", "Gear dan roda gandar", "Tuas dan baji", "Skru dan takal"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_060",
+    "soalan": "Haiwan yang pupus akibat pemburuan gading secara besar-besaran pada zaman ais ialah:",
+    "pilihan": ["Dinosaur T-Rex", "Burung Moa", "Singa laut", "Mamot berbulu tebal"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_061",
+    "soalan": "Hutan simpan paya bakau di pesisir pantai sangat penting dipelihara kerana berperanan sebagai:",
+    "pilihan": ["Benteng pemecah ombak semula jadi dan tempat pembiakan anak ikan serta ketam", "Kawasan pembinaan resort", "Tapak pelupusan sampah", "Kawasan perlombongan emas"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_062",
+    "soalan": "Alga dan kulat yang hidup bersama membentuk liken adalah contoh interaksi jenis:",
+    "pilihan": ["Parasitisme", "Mutualisme", "Komensalisme", "Persaingan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_063",
+    "soalan": "Daya boleh mengubah arah pergerakan sesuatu objek. Situasi yang menunjukkan kesan daya ini ialah:",
+    "pilihan": ["Menolak kotak berat ke hadapan", "Memegang gelas air", "Pemain tenis memukul bola yang datang ke arah lain", "Menjatuhkan pemadam ke lantai"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_064",
+    "soalan": "Sebuah lori mengambil masa 4 jam untuk sampai ke destinasi sejauh 240 km. Hitung kelajuan purata lori itu:",
+    "pilihan": ["50 km/j", "55 km/j", "65 km/j", "60 km/j"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_065",
+    "soalan": "Minyak lilin disapu pada permukaan buah epal import untuk tujuan:",
+    "pilihan": ["Melambatkan kehilangan air dan menghalang serangan mikroorganisma", "Menambah rasa masam", "Menjadikan epal lebih lembut", "Mewarnakan buah menjadi biru"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_066",
+    "soalan": "Sisa pepejal sisa makanan dari dapur boleh dikitar semula secara mesra alam untuk menghasilkan:",
+    "pilihan": ["Plastik sintetik", "Baja kompos organik", "Minyak petrol", "Batu bata konkrit"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_067",
+    "soalan": "Semasa fenomena Gerhana Matahari anulus (cincin), kawasan tengah Matahari dilindungi oleh Bulan manakala bahagian tepinya membentuk:",
+    "pilihan": ["Garis lurus", "Segi empat terang", "Gelang cincin bercahaya", "Kegelapan total"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_068",
+    "soalan": "Sebuah jam mekanikal klasik berfungsi menggunakan gabungan mesin ringkas jenis:",
+    "pilihan": ["Baji dan takal", "Satah condong dan tuas", "Skru dan tali", "Gear, roda dan gandar"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_069",
+    "soalan": "Ikan paus pembunuh (Orca) memburu secara berkumpulan untuk:",
+    "pilihan": ["Menewaskan mangsa yang bersaiz besar seperti paus biru", "Mencari lumut laut", "Bermain ombak", "Menghangatkan badan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_070",
+    "soalan": "Permukaan brek kenderaan yang telah haus perlu diganti baharu kerana:",
+    "pilihan": ["Warnanya menjadi pudar", "Daya geseran telah berkurangan dan membahayakan keselamatan brek", "Menambah kelajuan tayar", "Mengeluarkan minyak wangi"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_071",
+    "soalan": "Masa yang diambil oleh seorang pelari pecut untuk menamatkan larian akan berkurang sekiranya lariannya:",
+    "pilihan": ["Semakin perlahan", "Mempunyai rehat yang lama", "Semakin laju", "Mengikut laluan berliku"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn6_072",
+    "soalan": "Penyalaian ikan atau daging di atas asap kayu mengawet makanan kerana asap mengandungi bahan yang:",
+    "pilihan": ["Menyejukkan makanan secara mendadak", "Menambah air ke dalam makanan", "Mengasidkan makanan seperti cuka", "Mengeringkan makanan dan menghalang pertumbuhan bakteria"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn6_073",
+    "soalan": "Pelupusan sampah menggunakan insinerator moden berfungsi untuk:",
+    "pilihan": ["Membakar sisa buangan pada suhu amat tinggi tanpa mencemarkan udara", "Membuang sisa ke dasar laut", "Menanam sisa di kawasan perumahan", "Mengisar plastik menjadi habuk"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn6_074",
+    "soalan": "Gerhana Bulan biasanya berlangsung dalam tempoh beberapa jam, manakala Gerhana Matahari penuh hanya berlangsung selama:",
+    "pilihan": ["Sehari suntuk", "Beberapa minit sahaja (kurang 7 minit)", "Dua hari berturut-turut", "24 jam"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn6_075",
+    "soalan": "Penciptaan dron pertanian untuk menyembur baja tanaman merupakan kemajuan bidang teknologi yang dapat:",
+    "pilihan": ["Meningkatkan kos perbelanjaan", "Menambah penggunaan tenaga buruh manual", "Menjimatkan masa, tenaga pekerja dan meningkatkan kecekapan ladang", "Merosakkan tanaman"],
+    "jawapan": 2
+  }
+]
