@@ -1,0 +1,452 @@
+[
+  {
+    "id": "mat4_001",
+    "soalan": "Apakah nilai tempat bagi digit 7 dalam nombor 74,528?",
+    "pilihan": ["Puluh ribu", "Ribu", "Ratus", "Puluh"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_002",
+    "soalan": "Nombor 80,405 ditulis dalam perkataan ialah:",
+    "pilihan": ["Lapan puluh ribu empat puluh lima", "Lapan puluh ribu empat ratus lima", "Lapan puluh ribu empat ratus lima puluh", "Lapan puluh empat ribu lima"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_003",
+    "soalan": "Bundarkan 47,682 kepada ribu yang terdekat:",
+    "pilihan": ["47,000", "47,700", "48,000", "50,000"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_004",
+    "soalan": "Kira hasil tambah: 32,450 + 18,230 =",
+    "pilihan": ["50,680", "50,780", "51,680", "49,680"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_005",
+    "soalan": "Kira hasil tolak: 60,000 - 24,350 =",
+    "pilihan": ["35,750", "35,650", "36,650", "34,650"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_006",
+    "soalan": "Kira hasil darab: 1,425 × 6 =",
+    "pilihan": ["8,520", "8,550", "8,650", "8,450"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_007",
+    "soalan": "Selesaikan operasi bahagi: 28,400 ÷ 100 =",
+    "pilihan": ["284", "2,840", "28.4", "28,400"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_008",
+    "soalan": "Selesaikan operasi bergabung mengikut peraturan BODMAS: 20 + 5 × 4 =",
+    "pilihan": ["100", "40", "45", "60"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_009",
+    "soalan": "Tukarkan pecahan tak wajar 7/3 kepada nombor bercampur:",
+    "pilihan": ["2 1/3", "1 2/3", "3 1/3", "2 2/3"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_010",
+    "soalan": "Tukarkan nombor bercampur 3 1/4 kepada pecahan tak wajar:",
+    "pilihan": ["12/4", "13/4", "7/4", "11/4"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_011",
+    "soalan": "Kira hasil tambah pecahan: 1/2 + 1/4 =",
+    "pilihan": ["2/6", "1/8", "3/4", "2/4"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_012",
+    "soalan": "Kira hasil tolak pecahan: 5/6 - 1/3 =",
+    "pilihan": ["4/3", "1/2", "4/6", "2/3"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_013",
+    "soalan": "Apakah nilai digit bagi angka 6 dalam nombor 34.568?",
+    "pilihan": ["6", "0.6", "0.06", "0.006"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_014",
+    "soalan": "Bundarkan 12.376 kepada dua tempat perpuluhan:",
+    "pilihan": ["12.38", "12.37", "12.40", "12.30"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_015",
+    "soalan": "Kira: 4.56 + 12.38 =",
+    "pilihan": ["16.84", "16.94", "17.04", "16.92"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_016",
+    "soalan": "Kira: 20.5 - 7.68 =",
+    "pilihan": ["12.82", "13.82", "12.92", "13.18"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_017",
+    "soalan": "Kira hasil darab perpuluhan: 3.42 × 10 =",
+    "pilihan": ["0.342", "34.2", "342", "3.420"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_018",
+    "soalan": "Kira: 56.8 ÷ 100 =",
+    "pilihan": ["0.568", "5.68", "568", "0.0568"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_019",
+    "soalan": "Tukarkan 3/5 kepada peratusan:",
+    "pilihan": ["35%", "50%", "60%", "75%"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_020",
+    "soalan": "Kira 20% daripada 150:",
+    "pilihan": ["30", "20", "25", "35"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_021",
+    "soalan": "Kira jumlah wang ini: RM 24,500 + RM 15,350 =",
+    "pilihan": ["RM 39,850", "RM 39,750", "RM 40,850", "RM 38,850"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_022",
+    "soalan": "Kira baki wang: RM 50,000 - RM 18,460 =",
+    "pilihan": ["RM 32,540", "RM 31,540", "RM 31,640", "RM 30,540"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_023",
+    "soalan": "Kira: RM 3,450 × 8 =",
+    "pilihan": ["RM 27,600", "RM 26,600", "RM 28,600", "RM 27,400"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_024",
+    "soalan": "Selesaikan: RM 42,000 ÷ 7 =",
+    "pilihan": ["RM 600", "RM 6,000", "RM 60,000", "RM 7,000"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_025",
+    "soalan": "Tukarkan jam 1745 kepada sistem 12 jam:",
+    "pilihan": ["5:45 pagi", "7:45 petang", "5:45 petang", "4:45 petang"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_026",
+    "soalan": "Tukarkan pukul 9:20 malam kepada sistem 24 jam:",
+    "pilihan": ["Jam 0920", "Jam 2120", "Jam 2020", "Jam 2220"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_027",
+    "soalan": "Cari tempoh masa dari jam 0830 hingga jam 1115 pada hari yang sama:",
+    "pilihan": ["2 jam 45 minit", "3 jam 15 minit", "2 jam 30 minit", "3 jam 45 minit"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_028",
+    "soalan": "1 dekad bersamaan dengan berapa tahun?",
+    "pilihan": ["5 tahun", "10 tahun", "50 tahun", "100 tahun"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_029",
+    "soalan": "1 abad bersamaan dengan berapa dekad?",
+    "pilihan": ["10 dekad", "100 dekad", "5 dekad", "20 dekad"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_030",
+    "soalan": "Tukarkan 3 km 45 m kepada unit meter (m):",
+    "pilihan": ["345 m", "3,450 m", "3,045 m", "30,045 m"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_031",
+    "soalan": "Kira: 4 km 250 m + 2 km 800 m =",
+    "pilihan": ["7 km 50 m", "6 km 50 m", "7 km 150 m", "6 km 1,050 m"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_032",
+    "soalan": "Tukarkan 4.5 kg kepada unit gram (g):",
+    "pilihan": ["450 g", "4,500 g", "45,000 g", "405 g"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_033",
+    "soalan": "Kira: 5 kg 200 g - 1 kg 800 g =",
+    "pilihan": ["4 kg 400 g", "3 kg 400 g", "3 kg 600 g", "4 kg 600 g"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_034",
+    "soalan": "Tukarkan 2 l 350 ml kepada unit mililiter (ml):",
+    "pilihan": ["2,350 ml", "235 ml", "2,035 ml", "23,500 ml"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_035",
+    "soalan": "Kira: 3 l 400 ml × 4 =",
+    "pilihan": ["13 l 600 ml", "12 l 600 ml", "13 l 400 ml", "12 l 400 ml"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_036",
+    "soalan": "Sudut yang nilainya tepat 90° dinamakan:",
+    "pilihan": ["Sudut tirus", "Sudut cakah", "Sudut tegak", "Sudut refleks"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_037",
+    "soalan": "Sudut yang ukurannya kurang daripada 90° ialah:",
+    "pilihan": ["Sudut tirus", "Sudut cakah", "Sudut tegak", "Sudut lurus"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_038",
+    "soalan": "Dua garis lurus yang bersilang membentuk sudut tepat 90° dipanggil:",
+    "pilihan": ["Garis selari", "Garis serenjang", "Garis condong", "Garis lurus"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_039",
+    "soalan": "Dua garisan yang mempunyai jarak yang sentiasa sama dan tidak akan bertemu dinamakan:",
+    "pilihan": ["Garis serenjang", "Garis selari", "Garis lintang", "Garis putus"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_040",
+    "soalan": "Cari perimeter bagi sebuah segi empat sama yang mempunyai panjang sisi 7 cm:",
+    "pilihan": ["14 cm", "21 cm", "28 cm", "49 cm"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_041",
+    "soalan": "Cari luas sebuah segi empat tepat dengan panjang 8 cm dan lebar 5 cm:",
+    "pilihan": ["40 cm²", "26 cm²", "13 cm²", "45 cm²"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_042",
+    "soalan": "Kira isi padu sebuah kubus yang bersisi 3 cm:",
+    "pilihan": ["9 cm³", "18 cm³", "27 cm³", "36 cm³"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_043",
+    "soalan": "Nilai 1/100 dalam bentuk nombor perpuluhan ialah:",
+    "pilihan": ["0.1", "0.01", "0.001", "1.0"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_044",
+    "soalan": "Pola nombor menaik sepuluh ribu-sepuluh ribu: 20,000, 30,000, 40,000, ______.",
+    "pilihan": ["45,000", "50,000", "60,000", "100,000"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_045",
+    "soalan": "Kira: 84 - 24 ÷ 6 =",
+    "pilihan": ["10", "80", "70", "82"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_046",
+    "soalan": "Pecahan tak wajar bagi 2 3/5 ialah:",
+    "pilihan": ["11/5", "13/5", "10/5", "7/5"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_047",
+    "soalan": "Kira: 2/3 × 18 =",
+    "pilihan": ["12", "6", "9", "15"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_048",
+    "soalan": "Tukarkan 0.75 kepada pecahan termudah:",
+    "pilihan": ["75/10", "3/4", "1/4", "7/10"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_049",
+    "soalan": "Kira: 8.04 + 15.6 =",
+    "pilihan": ["23.64", "23.10", "24.64", "23.04"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_050",
+    "soalan": "Kira: 50 - 12.45 =",
+    "pilihan": ["37.55", "38.55", "37.45", "38.45"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_051",
+    "soalan": "Tukarkan 8% kepada pecahan perseratus:",
+    "pilihan": ["8/10", "8/100", "80/100", "8/1000"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_052",
+    "soalan": "Harga asal sebuah basikal ialah RM 300. Diskaun 10% diberi. Berapakah nilai diskaun itu?",
+    "pilihan": ["RM 20", "RM 30", "RM 40", "RM 50"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_053",
+    "soalan": "Gaji bulanan Puan Siti ialah RM 3,500. Berapakah jumlah gajinya untuk 6 bulan?",
+    "pilihan": ["RM 21,000", "RM 20,500", "RM 21,500", "RM 18,000"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_054",
+    "soalan": "Tukarkan 3 hari kepada bilangan jam:",
+    "pilihan": ["36 jam", "48 jam", "72 jam", "60 jam"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_055",
+    "soalan": "Berapakah bilangan hari dalam tahun lompat?",
+    "pilihan": ["365 hari", "366 hari", "364 hari", "360 hari"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_056",
+    "soalan": "Kira: 5 m 40 cm ÷ 6 =",
+    "pilihan": ["90 cm", "80 cm", "95 cm", "85 cm"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_057",
+    "soalan": "Jisim sebuah kotak ialah 2,400 g. Nyatakan jisimnya dalam kg dan g:",
+    "pilihan": ["24 kg", "2 kg 400 g", "2 kg 40 g", "20 kg 400 g"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_058",
+    "soalan": "Sebuah botol mengandungi 1.5 l jus oren. Berapakah isi padu jus itu dalam mililiter?",
+    "pilihan": ["150 ml", "1,500 ml", "15,000 ml", "15 ml"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_059",
+    "soalan": "Sudut cakah mempunyai nilai sudut yang:",
+    "pilihan": ["Kurang daripada 90°", "Tepat 90°", "Lebih daripada 90° dan kurang 180°", "Tepat 180°"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_060",
+    "soalan": "Perimeter sebuah segi tiga sama sisi yang sisinya 9 cm ialah:",
+    "pilihan": ["18 cm", "27 cm", "36 cm", "81 cm"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_061",
+    "soalan": "Luas sebuah segi empat sama ialah 36 cm². Berapakah panjang sisinya?",
+    "pilihan": ["6 cm", "9 cm", "4 cm", "12 cm"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_062",
+    "soalan": "Piktograf menggunakan petunjuk: 1 gambar mewakili 50 buah buku. Jika ada 6 gambar, jumlah buku ialah:",
+    "pilihan": ["250 buah", "300 buah", "350 buah", "400 buah"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_063",
+    "soalan": "Cari beza antara nombor 72,000 dengan 45,600:",
+    "pilihan": ["26,400", "27,400", "26,500", "27,500"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_064",
+    "soalan": "Kira: (120 + 80) × 5 =",
+    "pilihan": ["1,000", "520", "600", "900"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_065",
+    "soalan": "Pecahan setara bagi 3/4 ialah:",
+    "pilihan": ["6/8", "5/8", "9/16", "4/3"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_066",
+    "soalan": "Kira: 3 1/2 + 2 1/4 =",
+    "pilihan": ["5 2/6", "5 3/4", "5 1/4", "6 1/4"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_067",
+    "soalan": "Tukarkan 1/8 kepada bentuk perpuluhan:",
+    "pilihan": ["0.125", "0.25", "0.8", "0.18"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_068",
+    "soalan": "Kira: 7.2 × 5 =",
+    "pilihan": ["35.2", "36.0", "36.2", "35.0"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_069",
+    "soalan": "Tukarkan 0.4 kepada peratus:",
+    "pilihan": ["4%", "40%", "44%", "0.4%"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_070",
+    "soalan": "Faizal menyimpan RM 250 sebulan. Berapakah jumlah simpanannya dalam tempoh 2 tahun?",
+    "pilihan": ["RM 3,000", "RM 5,000", "RM 6,000", "RM 5,500"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat4_071",
+    "soalan": "Tempoh 1 minggu 4 hari bersamaan dengan:",
+    "pilihan": ["10 hari", "11 hari", "12 hari", "14 hari"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_072",
+    "soalan": "Kira: 15 km ÷ 5 =",
+    "pilihan": ["3 km", "300 m", "30 km", "3,500 m"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_073",
+    "soalan": "Jisim 8 bungkusan gula yang serupa ialah 16 kg. Berapakah jisim satu bungkusan?",
+    "pilihan": ["1 kg", "2 kg", "3 kg", "4 kg"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat4_074",
+    "soalan": "Sebuah kuboid mempunyai panjang 5 cm, lebar 4 cm dan tinggi 3 cm. Cari isi padunya:",
+    "pilihan": ["60 cm³", "50 cm³", "40 cm³", "70 cm³"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat4_075",
+    "soalan": "Carta palang menunjukkan bilangan murid mengikut kelab. Tinggi palang mewakili:",
+    "pilihan": ["Kekerapan / kuantiti", "Masa aktiviti", "Nama kelab", "Gred peperiksaan"],
+    "jawapan": 0
+  }
+]
