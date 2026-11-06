@@ -314,7 +314,7 @@
       window.scrollTo(0, 0);
     }
 
-    function handleLogin() {
+  function handleLogin() {
       playClickSound();
       const nama = document.getElementById('inputNama').value.trim();
       const darjah = parseInt(document.getElementById('selectDarjah').value);
@@ -326,16 +326,28 @@
       }
 
       userData = { nama, darjah, kelas };
-      document.getElementById('navUserBadge').classList.remove('hidden');
-      document.getElementById('navUserBadge').classList.add('flex');
-      document.getElementById('navUserName').innerText = nama;
-      document.getElementById('displayNama').innerText = nama;
-      document.getElementById('badgeDarjah').innerText = `Tahun ${darjah} • ${kelas}`;
 
+      // Simpan data murid ke memori pelayar supaya tidak hilang bila refresh
+      localStorage.setItem('junior_user', JSON.stringify(userData));
+
+      applyUserData();
       renderSubjects();
       showScreen('screenSubjects');
     }
 
+    // Fungsi pembantu untuk memaparkan profil murid pada antaramuka
+    function applyUserData() {
+      document.getElementById('navUserBadge').classList.remove('hidden');
+      document.getElementById('navUserBadge').classList.add('flex');
+      document.getElementById('navUserName').innerText = userData.nama;
+      document.getElementById('displayNama').innerText = userData.nama;
+      document.getElementById('badgeDarjah').innerText = `Tahun ${userData.darjah} • ${userData.kelas}`;
+
+      // Kemas kini nilai pada borang login sekiranya murid mahu edit kemudian
+      document.getElementById('inputNama').value = userData.nama;
+      document.getElementById('selectDarjah').value = userData.darjah;
+      document.getElementById('inputKelas').value = userData.kelas;
+    }
     function renderSubjects() {
       const grid = document.getElementById('subjectGrid');
       grid.innerHTML = '';
