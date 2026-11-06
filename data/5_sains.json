@@ -1,0 +1,452 @@
+[
+  {
+    "id": "sn5_001",
+    "soalan": "Antara mikroorganisma berikut, yang manakah merupakan hidupan seni paling halus dan hanya boleh dilihat menggunakan mikroskop elektron?",
+    "pilihan": ["Virus", "Bakteria", "Kulat", "Protozoa"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_002",
+    "soalan": "Yis yang digunakan dalam pembuatan roti merupakan contoh mikroorganisma jenis:",
+    "pilihan": ["Alga", "Kulat", "Bakteria", "Protozoa"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_003",
+    "soalan": "Doh roti mengembang apabila ditambah yis kerana yis membebaskan gas:",
+    "pilihan": ["Oksigen", "Nitrogen", "Karbon dioksida", "Helium"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_004",
+    "soalan": "Mikroorganisma menjalankan proses hidup seperti:",
+    "pilihan": ["Membuat baju dan alat", "Bercakap dan membaca", "Membina sarang konkrit", "Bernafas, bertumbuh dan bergerak"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_005",
+    "soalan": "Penyakit batuk kering (tibi) dan sakit perut (kolera) disebabkan oleh jangkitan:",
+    "pilihan": ["Bakteria", "Alga", "Protozoa", "Kulat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_006",
+    "soalan": "Antara berikut, yang manakah merupakan faedah mikroorganisma dalam kehidupan seharian?",
+    "pilihan": ["Menyebabkan pereputan gigi", "Pembuatan yogurt, tempe dan baja kompos", "Merosakkan makanan di dapur", "Menyebabkan keracunan makanan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_007",
+    "soalan": "Kemandirian spesies haiwan bermaksud keupayaan haiwan untuk:",
+    "pilihan": ["Membina sarang yang tinggi", "Berlari lebih laju daripada musuh", "Mengekalkan kewujudan spesiesnya agar tidak pupus", "Memanjat pokok yang tinggi"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_008",
+    "soalan": "Kangaroo menjaga anaknya dengan cara:",
+    "pilihan": ["Menimbus anak di dalam pasir", "Meninggalkan anak di celah rumput", "Memberi anak makan ikan", "Membawa anaknya di dalam kantung abdomen"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_009",
+    "soalan": "Penyu memastikan kemandirian spesiesnya bertelur dengan cara:",
+    "pilihan": ["Menimbus telur di dalam pasir pantai pada waktu malam", "Mengeram telurnya sehingga menetas", "Membawa telur di atas belakangnya", "Menyimpan telur di dalam air tawar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_010",
+    "soalan": "Dalam satu rantai makanan, pengeluar mestilah terdiri daripada:",
+    "pilihan": ["Haiwan karnivor", "Tumbuhan hijau yang membuat makanan sendiri", "Haiwan herbivor", "Pengurai bakteria"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_011",
+    "soalan": "Apakah peranan haiwan karnivor dalam sesuatu rantai makanan?",
+    "pilihan": ["Pengeluar tenaga suria", "Pengurai sisa organik", "Pengguna sekunder atau tertier", "Pembekal karbon dioksida"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_012",
+    "soalan": "Biji benih pokok kelapa dipencarkan melalui agen:",
+    "pilihan": ["Angin", "Haiwan", "Mekanisme letupan", "Air"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_013",
+    "soalan": "Biji benih pokok lalang dan pokok meranti dipencarkan melalui agen angin kerana mempunyai ciri:",
+    "pilihan": ["Ringan, kecil dan bersayap atau berbulu halus", "Kulit yang tebal dan berair", "Bau yang harum dan isi manis", "Lenggai yang kering dan merekah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_014",
+    "soalan": "Buah keembung dan buah bendir memencarkan biji benihnya melalui:",
+    "pilihan": ["Agen air", "Mekanisme letupan", "Bantuan angin", "Bantuan haiwan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_015",
+    "soalan": "Buah rambutan dan mangga dipencarkan oleh haiwan kerana mempunyai ciri:",
+    "pilihan": ["Bersayap nipis", "Terapung di atas air", "Isi yang manis, sedap dimakan dan warna menarik", "Biji yang melekit pada daun"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_016",
+    "soalan": "Sumber tenaga elektrik yang menukarkan tenaga kinetik putaran roda basikal kepada tenaga elektrik ialah:",
+    "pilihan": ["Sel kering", "Akumulator", "Sel suria", "Dinamo"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_017",
+    "soalan": "Dalam litar bersiri, jika satu mentol terbakar, apakah yang akan berlaku kepada mentol yang lain?",
+    "pilihan": ["Semua mentol lain akan turut padam", "Mentol lain akan menyala lebih terang", "Mentol lain akan berkelip-kelip", "Mentol lain tidak terjejas"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_018",
+    "soalan": "Kelebihan utama litar selari berbanding litar bersiri ialah:",
+    "pilihan": ["Memerlukan wayar yang sangat sedikit", "Jika satu mentol padam, mentol pada cabang lain masih menyala", "Bateri akan tahan lebih lama", "Semua suis mesti ditutup serentak"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_019",
+    "soalan": "Darjah kepanasan atau kesejukan sesuatu bahan disukat menggunakan alat:",
+    "pilihan": ["Barometer", "Pembaris meter", "Termometer", "Stetoskop"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_020",
+    "soalan": "Unit piawai yang digunakan untuk menyukat suhu di Malaysia ialah:",
+    "pilihan": ["Joule (J)", "Gram (g)", "Kelvin (K)", "Darjah Celsius (°C)"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_021",
+    "soalan": "Takat didih bagi air tulen pada tekanan normal ialah:",
+    "pilihan": ["100°C", "0°C", "80°C", "120°C"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_022",
+    "soalan": "Takat beku bagi air tulen ialah pada suhu:",
+    "pilihan": ["100°C", "0°C", "10°C", "-5°C"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_023",
+    "soalan": "Kabel elektrik dipasang kendur sedikit di antara tiang-tiang elektrik untuk mengelakkannya daripada:",
+    "pilihan": ["Dipijak oleh burung", "Ditiup angin kencang", "Putus apabila ia mengecut pada waktu malam yang sejuk", "Menjadi terlalu panas pada waktu siang"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_024",
+    "soalan": "Ruang kecil yang sengaja ditinggalkan pada sambungan landasan kereta api bertujuan untuk:",
+    "pilihan": ["Memudahkan air hujan mengalir keluar", "Mengurangkan bunyi bising kereta api", "Menjimatkan penggunaan besi landasan", "Memberi ruang untuk landasan mengembang pada hari panas"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_025",
+    "soalan": "Jirim wujud dalam tiga keadaan asas iaitu:",
+    "pilihan": ["Pepejal, cecair dan gas", "Ais, air dan wap sahaja", "Logam, plastik dan kayu", "Asid, alkali dan neutral"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_026",
+    "soalan": "Bahan dalam keadaan cecair mempunyai ciri:",
+    "pilihan": ["Bentuk tetap dan isi padu tetap", "Isi padu tetap tetapi bentuknya mengikut bekas", "Bentuk tetap tetapi isi padu berubah", "Boleh dimampatkan dengan mudah"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_027",
+    "soalan": "Proses perubahan jirim daripada keadaan cecair kepada keadaan gas pada sebarang suhu dinamakan:",
+    "pilihan": ["Peleburan", "Pendidihan", "Penyejatan", "Kondensasi"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_028",
+    "soalan": "Titisan air yang terbentuk pada permukaan luar gelas berisi ais adalah disebabkan oleh proses:",
+    "pilihan": ["Peleburan", "Pendidihan", "Pembekuan", "Kondensasi wap air"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_029",
+    "soalan": "Kitaran air semula jadi mengekalkan bekalan air tawar di bumi melalui dua proses utama iaitu:",
+    "pilihan": ["Penyejatan dan kondensasi", "Peleburan dan pembekuan", "Pendidihan dan fotosintesis", "Perkumuhan dan penyahtinjaan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_030",
+    "soalan": "Bahan berasid akan menukarkan warna kertas litmus:",
+    "pilihan": ["Merah kepada biru", "Biru kepada merah", "Biru kepada hijau", "Merah kepada kuning"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_031",
+    "soalan": "Bahan beralkali mempunyai sifat fizik iaitu:",
+    "pilihan": ["Berasa masam dan mengakis", "Manis dan melekit", "Berasa pahit dan licin apabila disentuh", "Tawar dan tidak mengubah litmus"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_032",
+    "soalan": "Antara bahan dapur berikut, yang manakah bersifat neutral?",
+    "pilihan": ["Cuka makan", "Air kapur", "Ubat gigi", "Minyak masak dan larutan garam"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_033",
+    "soalan": "Bumi berputar pada paksinya dari arah barat ke timur mengambil tempoh masa selama:",
+    "pilihan": ["24 jam (1 hari)", "12 jam", "365 1/4 hari", "30 hari"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_034",
+    "soalan": "Kesan daripada peredaran Bumi mengelilingi Matahari selama setahun ialah:",
+    "pilihan": ["Kejadian siang dan malam", "Kejadian empat musim di kawasan hemisfera", "Perubahan panjang bayang-bayang harian", "Gerhana bulan setiap bulan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_035",
+    "soalan": "Fasa Bulan di mana bahagian Bulan yang disinari matahari menghadap sepenuhnya ke Bumi dikenali sebagai:",
+    "pilihan": ["Anak bulan", "Bulan sabit", "Bulan purnama", "Bulan separa"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_036",
+    "soalan": "Gugusan bintang yang kelihatan membentuk corak atau bentuk tertentu di langit malam dinamakan:",
+    "pilihan": ["Planetoid", "Komet", "Galaksi", "Buruj"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_037",
+    "soalan": "Buruj Pari sentiasa menunjuk ke arah kutub:",
+    "pilihan": ["Selatan", "Utara", "Timur", "Barat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_038",
+    "soalan": "Buruj Biduk yang menyerupai bentuk gayung atau senduk menunjuk ke arah:",
+    "pilihan": ["Selatan", "Utara", "Kiblat", "Barat"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_039",
+    "soalan": "Buruj yang kelihatan menyerupai seorang pemburu memakai tali pinggang dengan pedang ialah:",
+    "pilihan": ["Buruj Pari", "Buruj Biduk", "Buruj Belantik", "Buruj Skorpio"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_040",
+    "soalan": "Dua faktor utama yang mempengaruhi kestabilan sesuatu objek atau struktur ialah:",
+    "pilihan": ["Warna cat dan harga bahan", "Berat beban dan kelajuan angin", "Bentuk objek dan kilauan permukaan", "Luas tapak dan ketinggian pusat graviti"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_041",
+    "soalan": "Sesuatu objek akan menjadi lebih stabil sekiranya objek itu mempunyai:",
+    "pilihan": ["Luas tapak yang besar dan kedudukan yang rendah", "Tapak yang sempit dan sangat tinggi", "Bentuk sfera bulat yang licin", "Bahan binaan yang nipis dan ringan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_042",
+    "soalan": "Kekuatan sesuatu struktur binaan dipengaruhi oleh:",
+    "pilihan": ["Warna permukaan struktur", "Jenis bahan binaan dan bentuk struktur", "Ketinggian tiang bendera", "Suhu persekitaran semasa membina"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_043",
+    "soalan": "Mikroorganisma jenis protozoa seperti Paramecium dan Amoeba biasanya hidup di habitat:",
+    "pilihan": ["Udara kering", "Tanah pasir panas", "Kawasan air tawar bertakung seperti kolam", "Bongkah ais kering"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_044",
+    "soalan": "Amalan mencuci tangan dengan sabun dan air bersih bertujuan untuk:",
+    "pilihan": ["Menjadikan tangan lebih putih", "Menghilangkan cap jari", "Menjimatkan masa mandi", "Mencegah penularan kuman dan mikroorganisma berbahaya"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_045",
+    "soalan": "Haiwan yang hidup secara berkumpulan untuk melindungi diri daripada ancaman musuh antaranya ialah:",
+    "pilihan": ["Gajah, lembu dan rusa", "Harimau dan helang", "Tenggiling dan beruang", "Ular sawa dan labah-labah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_046",
+    "soalan": "Mentadak dan sesumpah melindungi diri daripada pemangsa menggunakan kaedah:",
+    "pilihan": ["Memutuskan ekor", "Penyamaran menyamai warna persekitaran", "Menghasilkan bau busuk", "Mempunyai cangkerang keras"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_047",
+    "soalan": "Pokok tebu dan pokok buluh melindungi diri daripada musuh menggunakan:",
+    "pilihan": ["Getah melekit", "Duri yang tajam", "Bulu halus yang miang dan gatal", "Bau yang amat busuk"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_048",
+    "soalan": "Pokok getah dan pokok nangka menghasilkan cecair putih untuk menghalang musuh iaitu:",
+    "pilihan": ["Minyak wangi", "Racun serangga", "Air manis", "Getah yang melekit"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_049",
+    "soalan": "Susunan litar yang membolehkan mentol dikawal oleh suis berasingan ialah:",
+    "pilihan": ["Litar selari", "Litar bersiri", "Litar pintas", "Litar terbuka"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_050",
+    "soalan": "Mengapakah mentol dalam litar bersiri menyala lebih malap apabila bilangan mentol ditambah?",
+    "pilihan": ["Bateri menjadi lebih sejuk", "Tenaga elektrik dikongsi antara semua mentol", "Arus elektrik terputus sepenuhnya", "Wayar litar menjadi terlalu panjang"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_051",
+    "soalan": "Bahan manakah yang mengalami pengecutan apabila haba disingkirkan (disejukkan)?",
+    "pilihan": ["Pepejal sahaja", "Cecair sahaja", "Semua jirim (pepejal, cecair dan gas)", "Gas sahaja"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_052",
+    "soalan": "Bebola logam yang tidak dapat melepasi gelung besi selepas dipanaskan membuktikan bahawa pepejal:",
+    "pilihan": ["Mengecut apabila dipanaskan", "Menjadi lebih ringan", "Berubah menjadi gas", "Mengembang apabila menerima haba"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_053",
+    "soalan": "Proses perubahan daripada cecair menjadi pepejal dikenali sebagai proses:",
+    "pilihan": ["Pembekuan", "Peleburan", "Penyejatan", "Kondensasi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_054",
+    "soalan": "Ais yang mencair menjadi air pada suhu bilik melibatkan proses penyerapan haba yang dinamakan:",
+    "pilihan": ["Pendidihan", "Peleburan", "Pembekuan", "Penyejatan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_055",
+    "soalan": "Gas tidak mempunyai bentuk dan isi padu yang tetap kerana zarah gas:",
+    "pilihan": ["Tersusun amat padat", "Melekat antara satu sama lain", "Bebas bergerak dan memenuhi seluruh ruang bekas", "Sangat berat dan mendap ke dasar"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_056",
+    "soalan": "Penunjuk asid-alkali semula jadi boleh diekstrak daripada bahan harian seperti:",
+    "pilihan": ["Air garam dapur", "Minyak masak kelapa sawit", "Cuka makan jernih", "Ekstrak kubis ungu, kunyit dan bunga raya"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_057",
+    "soalan": "Ubat gigi beralkali digunakan setiap hari untuk:",
+    "pilihan": ["Meneutralkan asid yang dihasilkan oleh bakteria di dalam mulut", "Mengasidkan air liur", "Memutihkan bibir", "Membunuh sel darah putih"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_058",
+    "soalan": "Fasa Bulan di mana permukaan Bulan langsung tidak kelihatan dari Bumi dikenali sebagai:",
+    "pilihan": ["Bulan separa", "Anak bulan", "Bulan sabit", "Bulan purnama"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_059",
+    "soalan": "Tempoh masa yang diambil oleh Bulan untuk melengkapkan satu fasa peredaran mengelilingi Bumi ialah kira-kira:",
+    "pilihan": ["24 jam", "7 hari", "29 1/2 hari (1 bulan qamari)", "365 hari"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_060",
+    "soalan": "Pada zaman dahulu, para pelaut dan pengembara menggunakan buruj di langit sebagai:",
+    "pilihan": ["Sumber cahaya utama", "Tanda amaran ribut ombak", "Alat meramal cuaca esok", "Panduan arah penunjuk kiblat dan laluan pelayaran"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_061",
+    "soalan": "Buruj Skorpio yang kelihatan seperti kala jengking biasanya muncul di langit malam pada bulan:",
+    "pilihan": ["Jun hingga Ogos", "Disember hingga Februari", "Januari sahaja", "November hingga Disember"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_062",
+    "soalan": "Bentuk jambatan yang diperkukuh dengan corak segi tiga pada kerangkanya menggunakan konsep:",
+    "pilihan": ["Kecantikan hiasan", "Kekuatan struktur yang kukuh menahan beban", "Pengurangan kos cat", "Peredaran angin laju"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_063",
+    "soalan": "Konkrit bertetulang besi digunakan dalam pembinaan bangunan tinggi kerana sifatnya yang:",
+    "pilihan": ["Sangat ringan terapung", "Mudah lentur mengikut angin", "Sangat kuat, tahan mampatan dan tahan tarikan", "Boleh terbakar dengan mudah"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_064",
+    "soalan": "Makanan yang ditumbuhi kulat tidak boleh dimakan langsung kerana mengandungi bahan berbahaya iaitu:",
+    "pilihan": ["Vitamin berlebihan", "Protein pekat", "Garam asid tinggi", "Toksin yang boleh meracuni tubuh"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_065",
+    "soalan": "Vaksin yang disuntik ke dalam badan manusia diperbuat daripada:",
+    "pilihan": ["Mikroorganisma yang telah dilemahkan atau dimatikan", "Racun serangga cair", "Garam mineral buatan", "Antibiotik dos maksimum"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_066",
+    "soalan": "Hubungan saling bersandaran antara beberapa rantai makanan di dalam sesuatu habitat dinamakan:",
+    "pilihan": ["Habitat tunggal", "Siratan makanan", "Simbiosis haiwan", "Kitaran hayat"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_067",
+    "soalan": "Apakah yang akan berlaku jika populasi katak berkurang secara mendadak di sawah padi?",
+    "pilihan": ["Populasi ular bertambah laju", "Hasil padi meningkat berlipat kali ganda", "Populasi serangga perosak akan meningkat dengan banyak", "Rumput sawah akan mati serta-merta"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_068",
+    "soalan": "Biji benih buah tembikai susu dan tomato dipencarkan melalui najis haiwan kerana bijinya bersifat:",
+    "pilihan": ["Terlalu besar", "Sangat lembut dan larut air", "Berbau wangi", "Keras dan tidak tercerna dalam perut haiwan"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_069",
+    "soalan": "Alat pemutus litar automatik (MCB) di rumah berfungsi untuk:",
+    "pilihan": ["Memutuskan bekalan elektrik apabila berlaku arus elektrik berlebihan", "Menambah kelajuan kipas siling", "Mengurangkan bayaran bil elektrik", "Menyimpan tenaga elektrik simpanan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_070",
+    "soalan": "Merkuri atau alkohol berwarna digunakan di dalam termometer kaca kerana cecair ini:",
+    "pilihan": ["Murah dan banyak", "Mengembang dan mengecut secara sekata dengan perubahan suhu", "Mendidih pada suhu bilik", "Membeku dengan sangat pantas"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_071",
+    "soalan": "Kabus nipis pada waktu pagi di kawasan tanah tinggi terbentuk melalui proses:",
+    "pilihan": ["Peleburan ais", "Pendidihan titisan air", "Kondensasi wap air menjadi titisan air halus", "Pembekuan udara"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn5_072",
+    "soalan": "Tanah pertanian yang terlalu berasid akibat penggunaan baja kimia boleh dirawat dengan menabur bahan beralkali iaitu:",
+    "pilihan": ["Garam halus", "Cuka makan", "Asid sulfurik", "Kapur pertanian (serbuk kalsium oksida)"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn5_073",
+    "soalan": "Bayang-bayang tiang bendera pada waktu petang akan terbentuk menghala ke arah:",
+    "pilihan": ["Timur", "Barat", "Selatan", "Utara"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn5_074",
+    "soalan": "Kren pembinaan menggunakan prinsip kestabilan dengan meletakkan bongkah konkrit pemberat pada bahagian:",
+    "pilihan": ["Hujung cangkuk pengangkat", "Tapak dan bahagian belakang kren", "Atas kabin pemandu", "Roda tayar sahaja"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn5_075",
+    "soalan": "Botol sos yang sukar dibuka penutup logamnya boleh dibuka dengan lebih mudah jika bahagian penutupnya:",
+    "pilihan": ["Dibalut dengan ais sejuk", "Dibiarkan di dalam bilik gelap", "Direndam sebentar di dalam mangkuk air panas", "Disapu minyak gris"],
+    "jawapan": 2
+  }
+]
