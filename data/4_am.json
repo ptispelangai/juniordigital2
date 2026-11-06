@@ -1,0 +1,452 @@
+[
+  {
+    "id": "am4_001",
+    "soalan": "Menara Berkembar Petronas (KLCC) yang tersohor terletak di:",
+    "pilihan": ["Kuala Lumpur", "Putrajaya", "Cyberjaya", "George Town"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_002",
+    "soalan": "Pusat pentadbiran kerajaan Persekutuan Malaysia terletak di:",
+    "pilihan": ["Shah Alam", "Putrajaya", "Kuala Lumpur", "Petaling Jaya"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_003",
+    "soalan": "Gunung tertinggi di Malaysia dan Kepulauan Borneo ialah:",
+    "pilihan": ["Gunung Tahan", "Gunung Ledang", "Gunung Kinabalu", "Gunung Jerai"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_004",
+    "soalan": "Bunga kebangsaan Malaysia ialah sejenis bunga merah iaitu bunga:",
+    "pilihan": ["Mawar", "Kertas", "Melur", "Raya"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_005",
+    "soalan": "Berapakah bilangan negeri yang membentuk negara Persekutuan Malaysia?",
+    "pilihan": ["13 negeri", "14 negeri", "12 negeri", "15 negeri"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_006",
+    "soalan": "Berapakah bilangan Wilayah Persekutuan di Malaysia?",
+    "pilihan": ["2 wilayah", "3 wilayah", "4 wilayah", "5 wilayah"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_007",
+    "soalan": "Ibu negeri bagi negeri Pahang Darul Makmur ialah:",
+    "pilihan": ["Temerloh", "Pekan", "Kuantan", "Bentong"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_008",
+    "soalan": "Ibu negeri bagi negeri Perak Darul Ridzuan ialah:",
+    "pilihan": ["Taiping", "Teluk Intan", "Kuala Kangsar", "Ipoh"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_009",
+    "soalan": "Ibu negeri bagi negeri Sarawak Bumi Kenyalang ialah:",
+    "pilihan": ["Kuching", "Miri", "Sibu", "Bintulu"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_010",
+    "soalan": "Ibu negeri bagi negeri Sabah Negeri di Bawah Bayu ialah:",
+    "pilihan": ["Sandakan", "Kota Kinabalu", "Tawau", "Keningau"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_011",
+    "soalan": "Nama rasmi bendera kebangsaan Malaysia yang diisytiharkan pada tahun 1997 ialah:",
+    "pilihan": ["Sang Saka Merah Putih", "Harimau Malaya", "Jalur Gemilang", "Bulan Bintang"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_012",
+    "soalan": "Berapakah bilangan jalur merah dan putih yang terdapat pada bendera Jalur Gemilang?",
+    "pilihan": ["12 jalur", "13 jalur", "15 jalur", "14 jalur"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_013",
+    "soalan": "Warna kuning pada lambang Jata Negara dan Jalur Gemilang melambangkan kedaulatan:",
+    "pilihan": ["Raja-Raja Melayu", "Rakyat jelata", "Angkatan tentera", "Menteri Kabinet"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_014",
+    "soalan": "Bulan sabit pada bendera Malaysia merupakan simbol bagi agama:",
+    "pilihan": ["Kristian", "Islam", "Buddha", "Hindu"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_015",
+    "soalan": "Bintang pecah berapa yang terdapat pada bendera Jalur Gemilang?",
+    "pilihan": ["Bintang pecah 12", "Bintang pecah 13", "Bintang pecah 14", "Bintang pecah 15"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_016",
+    "soalan": "Apakah mata wang rasmi yang diguna pakai di Malaysia?",
+    "pilihan": ["Dolar", "Rupiah", "Baht", "Ringgit Malaysia"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_017",
+    "soalan": "Siapakah Bapa Kemerdekaan Malaysia?",
+    "pilihan": ["Tunku Abdul Rahman Putra Al-Haj", "Tun Abdul Razak", "Tun Hussein Onn", "Tun Dr. Mahathir Mohamad"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_018",
+    "soalan": "Hari Kebangsaan Malaysia disambut pada setiap tahun pada tarikh:",
+    "pilihan": ["16 September", "31 Ogos", "1 Mei", "1 Januari"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_019",
+    "soalan": "Hari Malaysia disambut pada setiap tahun sempena pembentukan Malaysia pada tarikh:",
+    "pilihan": ["31 Ogos", "31 Julai", "16 September", "25 Disember"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_020",
+    "soalan": "Berapakah bilangan prinsip yang terkandung dalam Rukun Negara?",
+    "pilihan": ["4 prinsip", "6 prinsip", "7 prinsip", "5 prinsip"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_021",
+    "soalan": "Prinsip pertama dalam Rukun Negara ialah:",
+    "pilihan": ["Kepercayaan kepada Tuhan", "Kesetiaan kepada Raja dan Negara", "Keluhuran Perlembagaan", "Kedaulatan Undang-Undang"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_022",
+    "soalan": "Lagu kebangsaan Malaysia bertajuk:",
+    "pilihan": ["Jalur Gemilang", "Negaraku", "Malaysia Berjaya", "Tanah Pusaka"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_023",
+    "soalan": "Mata wang rasmi bagi negara Thailand ialah:",
+    "pilihan": ["Rupiah", "Dong", "Baht", "Peso"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_024",
+    "soalan": "Mata wang rasmi bagi negara Indonesia ialah:",
+    "pilihan": ["Ringgit", "Kyat", "Yen", "Rupiah"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_025",
+    "soalan": "Mata wang rasmi bagi negara Jepun ialah:",
+    "pilihan": ["Yen", "Won", "Yuan", "Dollar"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_026",
+    "soalan": "Ibu negara bagi negara Singapura ialah:",
+    "pilihan": ["Kuala Lumpur", "Singapura", "Jakarta", "Bangkok"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_027",
+    "soalan": "Ibu negara bagi negara Thailand ialah:",
+    "pilihan": ["Manila", "Hanoi", "Bangkok", "Vientiane"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_028",
+    "soalan": "Benua terbesar di dunia mengikut keluasan tanah dan populasi penduduk ialah benua:",
+    "pilihan": ["Afrika", "Eropah", "Amerika Utara", "Asia"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_029",
+    "soalan": "Lautan terluas dan terdalam di muka bumi ialah:",
+    "pilihan": ["Lautan Pasifik", "Lautan Atlantik", "Lautan Hindi", "Lautan Artik"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_030",
+    "soalan": "Sungai terpanjang di semenanjung Malaysia ialah:",
+    "pilihan": ["Sungai Perak", "Sungai Pahang", "Sungai Kelantan", "Sungai Muar"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_031",
+    "soalan": "Sungai terpanjang di Malaysia yang terletak di negeri Sarawak ialah:",
+    "pilihan": ["Sungai Kinabatangan", "Sungai Baram", "Sungai Rajang", "Sungai Sadong"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_032",
+    "soalan": "Haiwan mamalia terbesar yang hidup di lautan bumi ialah:",
+    "pilihan": ["Jerung Putih", "Gajah Laut", "Penyu Belimbing", "Paus Biru"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_033",
+    "soalan": "Planet yang paling dekat dengan Matahari dalam Sistem Suria ialah:",
+    "pilihan": ["Utarid", "Zuhrah", "Bumi", "Marikh"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_034",
+    "soalan": "Planet yang terkenal dengan jolokan 'Planet Merah' ialah:",
+    "pilihan": ["Zuhrah", "Marikh", "Musytari", "Zuhal"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_035",
+    "soalan": "Planet terbesar dalam Sistem Suria kita ialah:",
+    "pilihan": ["Uranus", "Neptun", "Musytari", "Zuhal"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_036",
+    "soalan": "Bunga terbesar di dunia yang tumbuh di hutan Sabah dan Sarawak ialah:",
+    "pilihan": ["Bunga Raya", "Orkid Selipar", "Cempaka Hutan", "Rafflesia (Bunga Pakma)"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_037",
+    "soalan": "Burung Kenyalang merupakan lambang kebanggaan bagi negeri:",
+    "pilihan": ["Sarawak", "Sabah", "Perak", "Terengganu"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_038",
+    "soalan": "Alat muzik tradisional petik kaum Orang Ulu di Sarawak dinamakan:",
+    "pilihan": ["Gamelan", "Sape'", "Angklung", "Rebab"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_039",
+    "soalan": "Perayaan Pesta Kaamatan yang disambut di Sabah merupakan pesta:",
+    "pilihan": ["Musim Menangkap Ikan", "Tahun Baharu", "Menuai Padi", "Pesta Bunga"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_040",
+    "soalan": "Perayaan Hari Gawai Dayak disambut meriah di negeri:",
+    "pilihan": ["Sabah", "Johor", "Pahang", "Sarawak"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_041",
+    "soalan": "Kereta nasional pertama buatan Malaysia yang dilancarkan pada tahun 1985 ialah:",
+    "pilihan": ["Proton Saga", "Perodua Kancil", "Proton Wira", "Perodua Myvi"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_042",
+    "soalan": "Angkasawan pertama negara Malaysia yang berlepas ke Stesen Angkasa Antarabangsa (ISS) ialah:",
+    "pilihan": ["Dr. Faiz Khaleed", "Dato' Dr. Sheikh Muszaphar Shukor", "Mejar Patricia Yapp", "Tan Sri Michelle Yeoh"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_043",
+    "soalan": "Berapakah bilangan pemain dalam satu pasukan bola sepak di atas padang semasa perlawanan?",
+    "pilihan": ["9 orang", "10 orang", "11 orang", "12 orang"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_044",
+    "soalan": "Jaguh badminton legenda Malaysia yang memenangi tiga pingat perak Sukan Olimpik ialah:",
+    "pilihan": ["Datuk Misbun Sidek", "Lee Zii Jia", "Rashid Sidek", "Datuk Lee Chong Wei"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_045",
+    "soalan": "Ratu skuasy dunia dari Malaysia yang pernah memegang takhta nombor 1 dunia selama 9 tahun ialah:",
+    "pilihan": ["Datuk Nicol Ann David", "Pandelela Rinong", "Nur Dhabitah", "Sivasangari"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_046",
+    "soalan": "Menara condong yang terkenal di Malaysia terletak di daerah:",
+    "pilihan": ["Taiping, Perak", "Teluk Intan, Perak", "Kuala Kangsar, Perak", "Batu Gajah, Perak"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_047",
+    "soalan": "Jambatan Pulau Pinang yang pertama menghubungkan tanah besar Seberang Perai dengan:",
+    "pilihan": ["Bayan Lepas", "Tanjung Tokong", "Gelugor", "Georgetown"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_048",
+    "soalan": "Tugu Peringatan Negara (Tugu Negara) dibina untuk memperingati jasa perwira yang gugur di:",
+    "pilihan": ["Putrajaya", "Shah Alam", "Melaka", "Kuala Lumpur"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_049",
+    "soalan": "Tahun lompat yang mempunyai 366 hari berlaku sekali dalam setiap tempoh:",
+    "pilihan": ["4 tahun", "2 tahun", "5 tahun", "10 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_050",
+    "soalan": "Takat didih air tulen pada aras laut biasa ialah:",
+    "pilihan": ["80°C", "100°C", "120°C", "50°C"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_051",
+    "soalan": "Takat beku air tulen ialah pada suhu:",
+    "pilihan": ["10°C", "5°C", "0°C", "-10°C"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_052",
+    "soalan": "Gas yang paling banyak terdapat dalam udara atmosfera bumi ialah:",
+    "pilihan": ["Oksigen", "Karbon dioksida", "Helium", "Nitrogen"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_053",
+    "soalan": "Organ utama di dalam badan manusia yang berfungsi mengepam darah ke seluruh badan ialah:",
+    "pilihan": ["Jantung", "Peparu", "Hati", "Ginjal"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_054",
+    "soalan": "Apakah jenis makanan tradisi masyarakat Cina yang dinikmati semasa Tahun Baharu Cina sebagai lambang kemakmuran?",
+    "pilihan": ["Ketupat", "Yee Sang", "Murukku", "Rendang"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_055",
+    "soalan": "Perayaan Deepavali turut dikenali sebagai pesta:",
+    "pilihan": ["Pesta Menuai", "Pesta Tanglung", "Pesta Cahaya", "Pesta Air"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_056",
+    "soalan": "Seni mempertahankan diri tradisional Melayu dinamakan:",
+    "pilihan": ["Taekwondo", "Karate", "Judo", "Silat"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_057",
+    "soalan": "Permainan tradisional Melayu yang dimainkan di atas papan berlubang dengan buah getah atau guli ialah:",
+    "pilihan": ["Congkak", "Batu Seremban", "Gasing", "Wau"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_058",
+    "soalan": "Wau Bulan merupakan sejenis layang-layang tradisional yang terkenal dari negeri:",
+    "pilihan": ["Johor", "Kelantan", "Perlis", "Melaka"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_059",
+    "soalan": "Makanan tradisional kaum Iban yang dimasak di dalam ruas buluh dinamakan:",
+    "pilihan": ["Lemang pulut", "Hinava", "Ayam Pansuh", "Umai"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_060",
+    "soalan": "Makanan tradisi kaum Kadazandusun di Sabah berasaskan ikan segar yang diperap bersama jus limau dinamakan:",
+    "pilihan": ["Pansuh", "Ambuyat", "Rojak", "Hinava"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_061",
+    "soalan": "Lapangan terbang antarabangsa utama Malaysia yang terletak di Sepang, Selangor dinamakan:",
+    "pilihan": ["KLIA (Kuala Lumpur International Airport)", "Senai Airport", "Subang Skypark", "Penang International Airport"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_062",
+    "soalan": "Tasik air tawar semula jadi yang terbesar di Semenanjung Malaysia ialah:",
+    "pilihan": ["Tasik Kenyir", "Tasik Bera", "Tasik Chini", "Tasik Temenggor"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_063",
+    "soalan": "Sukan Olimpik Musim Panas diadakan secara berkala pada setiap tempoh:",
+    "pilihan": ["2 tahun", "3 tahun", "4 tahun", "5 tahun"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_064",
+    "soalan": "Persatuan Negara-negara Asia Tenggara dikenali dengan singkatan nama:",
+    "pilihan": ["PBB", "UNESCO", "APEC", "ASEAN"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_065",
+    "soalan": "Berapakah bilangan anggota negara dalam pertubuhan ASEAN pada masa kini?",
+    "pilihan": ["10 buah negara", "8 buah negara", "12 buah negara", "15 buah negara"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_066",
+    "soalan": "Gua batu kapur di Selangor yang menjadi tumpuan perayaan Thaipusam ialah:",
+    "pilihan": ["Gua Kelam", "Batu Caves", "Gua Tempurung", "Gua Niah"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_067",
+    "soalan": "Matahari terbit dari arah mana?",
+    "pilihan": ["Barat", "Utara", "Timur", "Selatan"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_068",
+    "soalan": "Kompas sentiasa menunjukkan jarum penunjuk ke arah kutub:",
+    "pilihan": ["Selatan", "Barat", "Timur", "Utara"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_069",
+    "soalan": "Warna asas (primer) dalam seni visual terdiri daripada:",
+    "pilihan": ["Merah, Biru dan Kuning", "Hitam, Putih dan Kelabu", "Hijau, Ungu dan Jingga", "Coklat, Merah dan Hijau"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_070",
+    "soalan": "Pencampuran warna biru dan kuning akan menghasilkan warna:",
+    "pilihan": ["Ungu", "Hijau", "Jingga", "Coklat"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_071",
+    "soalan": "Pencampuran warna merah dan biru akan menghasilkan warna:",
+    "pilihan": ["Hijau", "Kuning", "Ungu", "Jingga"],
+    "jawapan": 2
+  },
+  {
+    "id": "am4_072",
+    "soalan": "Haiwan nokturnal ialah haiwan yang aktif bergerak pada waktu:",
+    "pilihan": ["Pagi", "Tengah hari", "Petang", "Malam"],
+    "jawapan": 3
+  },
+  {
+    "id": "am4_073",
+    "soalan": "Apakah nama hidangan mi sup berempah santan yang terkenal di negeri Sarawak?",
+    "pilihan": ["Laksa Sarawak", "Mee Kolok", "Kolo Mee Goreng", "Laksa Johor"],
+    "jawapan": 0
+  },
+  {
+    "id": "am4_074",
+    "soalan": "Pusat peranginan tanah tinggi tertua di semenanjung Malaysia yang terkenal dengan ladang teh dan strawberi ialah:",
+    "pilihan": ["Genting Highlands", "Cameron Highlands", "Bukit Fraser", "Bukit Larut"],
+    "jawapan": 1
+  },
+  {
+    "id": "am4_075",
+    "soalan": "Orang utan liar hanya terdapat di dua pulau di dunia iaitu Sumatera dan:",
+    "pilihan": ["Jawa", "Sulawesi", "Borneo", "Filipina"],
+    "jawapan": 2
+  }
+]
