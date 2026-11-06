@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bm2_001",
+    "soalan": "Pilih Kata Nama Am bagi benda:",
+    "pilihan": ["Si Tompok", "Cikgu Aisyah", "Meja", "Proton Saga"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_002",
+    "soalan": "Pilih Kata Nama Khas bagi orang yang dieja dengan betul:",
+    "pilihan": ["encik hakim", "Encik Hakim", "cikgu halim", "doktor siti"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_003",
+    "soalan": "Adik suka bermain dengan anak kucing yang diberi nama ______.",
+    "pilihan": ["batu", "pokok", "kasut", "Si Comel"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_004",
+    "soalan": "Ibu memotong bawang menggunakan se______ pisau yang tajam.",
+    "pilihan": ["keping", "bilah", "batang", "pucuk"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_005",
+    "soalan": "Ayah membaca se______ surat khabar di ruang tamu.",
+    "pilihan": ["helai", "keping", "buah", "naskhah"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_006",
+    "soalan": "Kakak memakai se______ kasut sekolah berwarna hitam.",
+    "pilihan": ["pasang", "utas", "keping", "helai"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_007",
+    "soalan": "Pak Cik Samad membeli dua ______ pisang di pasar tani.",
+    "pilihan": ["batang", "keping", "sikat", "pintu"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_008",
+    "soalan": "Nenek makan dua ______ roti bakar bersama secawan teh.",
+    "pilihan": ["biji", "batang", "keping", "ulas"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_009",
+    "soalan": "Pekebun itu menjamah beberapa ______ durian yang manis.",
+    "pilihan": ["ulas", "ketul", "buku", "bilah"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_010",
+    "soalan": "Abang memancing ikan di tepi sungai menggunakan se______ joran.",
+    "pilihan": ["pucuk", "batang", "bilah", "keping"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_011",
+    "soalan": "Polis itu membawa se______ pistol semasa bertugas.",
+    "pilihan": ["laras", "bilah", "batang", "pucuk"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_012",
+    "soalan": "Mak Mah menjahit baju menggunakan se______ jarum.",
+    "pilihan": ["utas", "bilah", "keping", "pasang"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_013",
+    "soalan": "Di hadapan rumah datuk ada dua ______ pokok kelapa.",
+    "pilihan": ["pucuk", "buah", "pintu", "batang"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_014",
+    "soalan": "\"______ berjanji akan belajar bersungguh-sungguh,\" kata Ali kepada ibunya.",
+    "pilihan": ["Mereka", "Dia", "Saya", "Beliau"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_015",
+    "soalan": "\"Bolehkah ______ tolong ambilkan buku itu?\" tanya Cikgu Linda kepada Amin.",
+    "pilihan": ["kamu", "saya", "beliau", "kami"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_016",
+    "soalan": "Ahmad dan Raju berkawan baik. ______ selalu bermain bola bersama-sama.",
+    "pilihan": ["Dia", "Mereka", "Awak", "Saya"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_017",
+    "soalan": "\"______ hendak ke mana, kawan-kawan?\" tanya Danial.",
+    "pilihan": ["Dia", "Beliau", "Baginda", "Kalian"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_018",
+    "soalan": "Guru Besar sangat dihormati kerana ______ seorang yang adil.",
+    "pilihan": ["beliau", "dia", "mereka", "awak"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_019",
+    "soalan": "Sultan Melaka berangkat ke istana. ______ diiringi oleh para pembesar.",
+    "pilihan": ["Beliau", "Baginda", "Tuanku", "Dia"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_020",
+    "soalan": "Burung layang-layang itu terbang ______ di dada langit.",
+    "pilihan": ["rendah", "pendek", "tinggi", "sempit"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_021",
+    "soalan": "Air teh yang baru dibancuh oleh ibu itu sangat ______.",
+    "pilihan": ["beku", "pedas", "masin", "panas"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_022",
+    "soalan": "Lawan bagi perkataan 'Bersih' ialah ______.",
+    "pilihan": ["Wangi", "Kotor", "Kemas", "Cantik"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_023",
+    "soalan": "Lawan bagi perkataan 'Rajin' ialah ______.",
+    "pilihan": ["Pintar", "Cerdik", "Malas", "Kecil"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_024",
+    "soalan": "Gajah liar itu mempunyai badan yang sangat ______.",
+    "pilihan": ["besar", "kurus", "kerdil", "nipis"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_025",
+    "soalan": "Kura-kura berjalan dengan amat ______.",
+    "pilihan": ["laju", "lambat", "pantas", "deras"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_026",
+    "soalan": "Peria ialah sejenis sayur yang rasanya ______.",
+    "pilihan": ["manis", "masam", "kelat", "pahit"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_027",
+    "soalan": "Bunga cempaka yang mekar itu berbau sangat ______.",
+    "pilihan": ["busuk", "harum", "hanyir", "tengik"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_028",
+    "soalan": "Papan hitam di dalam kelas kami berbentuk segi empat ______.",
+    "pilihan": ["bulat", "bujur", "tepat", "segi tiga"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_029",
+    "soalan": "Jalan raya di kawasan lereng bukit itu amat ______.",
+    "pilihan": ["sempit", "pendek", "lembut", "nipis"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_030",
+    "soalan": "Pak Ali ______ rumput di halaman rumahnya dengan tajak.",
+    "pilihan": ["menyiram", "menjemur", "merumput", "melipat"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_031",
+    "soalan": "Kakak sedang ______ lantai dapur yang basah dengan mop.",
+    "pilihan": ["memasak", "membakar", "makan", "mengelap"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_032",
+    "soalan": "Murid-murid sedang ______ buku di perpustakaan sekolah.",
+    "pilihan": ["membaca", "melompat", "berlari", "menyanyi"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_033",
+    "soalan": "Ibu ______ ikan di dalam kuali yang panas.",
+    "pilihan": ["merebus", "menggoreng", "membuat", "mencuci"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_034",
+    "soalan": "Haziq ______ basikal baharunya ke taman permainan.",
+    "pilihan": ["memandu", "menaiki", "menunggang", "menolak"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_035",
+    "soalan": "Burung merpati itu ______ sayapnya untuk terbang.",
+    "pilihan": ["menghayunkan", "melipat", "memotong", "mengepakkan"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_036",
+    "soalan": "Adik pandai ______ namanya sendiri pada sehelai kertas.",
+    "pilihan": ["menulis", "mengoyak", "melipat", "membaca"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_037",
+    "soalan": "Pilih Kata Ganda Penuh yang betul bagi manusia:",
+    "pilihan": ["Dedalu", "Sesiku", "Kanak-kanak", "Kekisi"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_038",
+    "soalan": "Semua ______ tersusun kemas di atas rak buku itu.",
+    "pilihan": ["buku", "rak-rak", "kertas", "buku-buku"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_039",
+    "soalan": "Beberapa ekor ______ berterbangan di taman bunga yang indah.",
+    "pilihan": ["ayam-ayam", "rama-rama", "ikan-ikan", "kucing-kucing"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_040",
+    "soalan": "Pilih ayat yang mempunyai Kata Ganda yang tepat:",
+    "pilihan": ["Murid-murid sedang beratur di kantin.", "Murid sedang beratur di kantin-kantin.", "Murid-murid sedang beratur di kantin-kantin.", "Semua murid-murid beratur."],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_041",
+    "soalan": "Ali suka makan epal ______ adiknya pula suka makan oren.",
+    "pilihan": ["lalu", "kerana", "tetapi", "supaya"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_042",
+    "soalan": "Amir tidak hadir ke sekolah ______ dia demam panas.",
+    "pilihan": ["tetapi", "kerana", "sambil", "lalu"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_043",
+    "soalan": "Awak hendak minum jus tembikai ______ susu segar?",
+    "pilihan": ["dan", "kerana", "lalu", "atau"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_044",
+    "soalan": "Ayah membaca surat khabar ______ mendengar siaran radio.",
+    "pilihan": ["sambil", "lalu", "tetapi", "atau"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_045",
+    "soalan": "Pencuri itu terjun ke dalam parit ______ melarikan diri.",
+    "pilihan": ["kerana", "atau", "lalu", "supaya"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_046",
+    "soalan": "Kita mesti rajin belajar ______ berjaya dalam hidup.",
+    "pilihan": ["tetapi", "kerana", "atau", "supaya"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_047",
+    "soalan": "Aina rajin mengulang kaji pelajaran ______ dia seorang murid yang pintar.",
+    "pilihan": ["maka", "tetapi", "walaupun", "lalu"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_048",
+    "soalan": "Kucing comel itu sedang tidur di ______ kerusi malas.",
+    "pilihan": ["atas", "bawah", "luar", "antara"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_049",
+    "soalan": "Buku latihan saya tertinggal di ______ beg sekolah adik.",
+    "pilihan": ["luar", "atas", "dalam", "bawah"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_050",
+    "soalan": "Rumah saya terletak di ______ sekolah dan masjid kampung.",
+    "pilihan": ["dalam", "atas", "bawah", "antara"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_051",
+    "soalan": "Pilih simpulan bahasa bagi orang yang gemar membaca:",
+    "pilihan": ["Kaki bangku", "Ringan tulang", "Ulat buku", "Hati batu"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_052",
+    "soalan": "Orang yang rajin menolong dan bekerja diistilahkan sebagai ______.",
+    "pilihan": ["berat tulang", "telinga kuali", "kaki ayam", "ringan tulang"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_053",
+    "soalan": "Maksud simpulan bahasa 'kaki ayam' ialah ______.",
+    "pilihan": ["tidak memakai alas kasut", "berlari sangat laju", "pandai menyepak bola", "kaki berbulu lebat"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_054",
+    "soalan": "Aiman digelar 'kaki bangku' kerana dia ______.",
+    "pilihan": ["suka berjalan kaki", "tidak pandai bermain bola", "suka membuat bangku", "cepat berasa letih"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_055",
+    "soalan": "Pak Kassim membawa ______ apabila pulang dari bandar.",
+    "pilihan": ["kaki ayam", "ulat buku", "buah tangan", "tanda mata"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_056",
+    "soalan": "Murid yang sombong itu bersikap ______ apabila ditegur guru.",
+    "pilihan": ["hidung tinggi", "rendah hati", "besar kepala", "hati batu"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_057",
+    "soalan": "Pilih ayat seruan yang menunjukkan rasa kagum:",
+    "pilihan": ["Aduhai, malangnya nasib anak kucing itu!", "Wah, cantiknya pemandangan di pulau ini!", "Cis, berani kamu mencuri barang saya!", "Eh, bila kamu sampai di sini?"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_058",
+    "soalan": "Kata seru yang digunakan apabila berasa sakit ialah ______.",
+    "pilihan": ["Wah", "Syabas", "Nah", "Aduh"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_059",
+    "soalan": "\"______, kamu berjaya memenangi pertandingan ini!\" kata Cikgu Faris.",
+    "pilihan": ["Syabas", "Cis", "Aduhai", "Amboi"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_060",
+    "soalan": "Pilih ayat perintah jenis suruhan yang betul:",
+    "pilihan": ["Jangan bermain di tepi sungai yang dalam.", "Jemputlah minum air teh ini.", "Tolong buangkan bungkusan sampah ini.", "Usah menangis lagi wahai adikku."],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_061",
+    "soalan": "\"______ beratur semasa membeli makanan di kantin,\" pesan pengawas.",
+    "pilihan": ["Jangan", "Sila", "Usah", "Minta"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_062",
+    "soalan": "Kata tanya yang digunakan untuk menanyakan manusia ialah ______.",
+    "pilihan": ["Apa", "Bila", "Mana", "Siapa"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_063",
+    "soalan": "\"______kah harga sebatang pensel ini?\" tanya Sarah kepada jurujual.",
+    "pilihan": ["Berapa", "Siapa", "Mana", "Mengapa"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_064",
+    "soalan": "\"______kah bas sekolah akan tiba di perhentian ini?\" tanya Kamal.",
+    "pilihan": ["Siapa", "Bila", "Apa", "Bagaimana"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_065",
+    "soalan": "Tanda baca yang mesti diletakkan pada akhir ayat tanya ialah ______.",
+    "pilihan": ["Tanda noktah (.)", "Tanda seru (!)", "Tanda soal (?)", "Tanda koma (,)"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_066",
+    "soalan": "Pilih ayat dengan penggunaan huruf besar dan tanda noktah yang betul:",
+    "pilihan": ["puan rohana mengajar di sekolah kebangsaan melati.", "Puan rohana mengajar Di Sekolah kebangsaan melati", "Puan Rohana Mengajar Di Sekolah Kebangsaan Melati?", "Puan Rohana mengajar di Sekolah Kebangsaan Melati."],
+    "jawapan": 3
+  },
+  {
+    "id": "bm2_067",
+    "soalan": "Lawan bagi perkataan 'Tinggi' ialah ______.",
+    "pilihan": ["Panjang", "Rendah", "Kurus", "Kecil"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_068",
+    "soalan": "Lawan bagi perkataan 'Tebal' ialah ______.",
+    "pilihan": ["Kecil", "Pendek", "Nipis", "Sempit"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_069",
+    "soalan": "Lawan bagi perkataan 'Terang' ialah ______.",
+    "pilihan": ["Gelap", "Kelam", "Hitam", "Suram"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_070",
+    "soalan": "Lawan bagi perkataan 'Kenyang' ialah ______.",
+    "pilihan": ["Dahaga", "Haus", "Lapar", "Penuh"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_071",
+    "soalan": "Bapa memandu kereta dengan ______ kerana hari hujan lebat.",
+    "pilihan": ["laju", "cermat", "deras", "kencang"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_072",
+    "soalan": "Murid-murid menyanyikan lagu Negaraku dengan penuh ______.",
+    "pilihan": ["semangat", "malas", "bising", "sedih"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm2_073",
+    "soalan": "Pilih perkataan berimbuhan awalan 'meN-' yang betul bagi kata dasar 'tari':",
+    "pilihan": ["Mentari", "Mengtari", "Menari", "Memtari"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm2_074",
+    "soalan": "Kata dasar bagi perkataan 'memasak' ialah ______.",
+    "pilihan": ["memas", "masak", "pemasak", "masakan"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm2_075",
+    "soalan": "Lengkapkan pantun: 'Pulau Pandan jauh ke tengah, Di balik Pulau Angsa;'",
+    "pilihan": ["Pisang emas dibawa belayar, Masak sebiji di atas peti.", "Kalau ada jarum yang patah, Jangan simpan di dalam peti.", "Tumbuh melata si pohon keladi, Mari kutip buat ulaman.", "Hancur badan dikandung tanah, Budi yang baik dikenang juga."],
+    "jawapan": 3
+  }
+]
