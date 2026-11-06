@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bi2_001",
+    "soalan": "Choose the correct spelling for the number 12:",
+    "pilihan": ["Twelf", "Twelve", "Twelv", "Twelwe"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_002",
+    "soalan": "A baby cat is called a ______.",
+    "pilihan": ["puppy", "calf", "kitten", "chick"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_003",
+    "soalan": "What is the opposite of 'HOT'?",
+    "pilihan": ["Cold", "Warm", "Boiling", "Spicy"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_004",
+    "soalan": "My brother ______ to school by bus every morning.",
+    "pilihan": ["go", "going", "gone", "goes"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_005",
+    "soalan": "We use our ______ to see the beautiful rainbow.",
+    "pilihan": ["ears", "eyes", "nose", "tongue"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_006",
+    "soalan": "Which animal can fly high in the sky?",
+    "pilihan": ["Elephant", "Tiger", "Eagle", "Crocodile"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_007",
+    "soalan": "Choose the correct plural form of 'Apple':",
+    "pilihan": ["Apples", "Appless", "Applees", "Applis"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_008",
+    "soalan": "An elephant is ______ than a monkey.",
+    "pilihan": ["smaller", "bigger", "shorter", "thinner"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_009",
+    "soalan": "The sun rises in the ______.",
+    "pilihan": ["west", "north", "east", "south"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_010",
+    "soalan": "Choose the correct pronoun: '______ is my English teacher, Miss Aina.'",
+    "pilihan": ["He", "It", "They", "She"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_011",
+    "soalan": "What day comes immediately after Friday?",
+    "pilihan": ["Saturday", "Sunday", "Thursday", "Monday"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_012",
+    "soalan": "Choose the vegetable from the list below:",
+    "pilihan": ["Apple", "Carrot", "Banana", "Grape"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_013",
+    "soalan": "A dog lives in a ______.",
+    "pilihan": ["stable", "nest", "kennel", "coop"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_014",
+    "soalan": "Choose the opposite of 'CLEAN':",
+    "pilihan": ["Neat", "Tidy", "Bright", "Dirty"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_015",
+    "soalan": "How many days are there in a week?",
+    "pilihan": ["Seven", "Five", "Ten", "Twelve"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_016",
+    "soalan": "Choose the correct preposition: 'The ball is ______ the table.'",
+    "pilihan": ["under", "between", "among", "inside of"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_017",
+    "soalan": "A baker bakes fresh ______ every morning.",
+    "pilihan": ["shoes", "bread", "chairs", "books"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_018",
+    "soalan": "Choose the correct article: 'I eat ______ orange every day.'",
+    "pilihan": ["a", "the two", "an", "many"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_019",
+    "soalan": "What sound does a cow make?",
+    "pilihan": ["Quack", "Meow", "Baa", "Moo"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_020",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Pencil", "Pensil", "Pencle", "Pensel"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_021",
+    "soalan": "Fish swim in the river using their ______.",
+    "pilihan": ["wings", "fins", "legs", "ears"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_022",
+    "soalan": "What is the opposite of 'HAPPY'?",
+    "pilihan": ["Glad", "Cheerful", "Sad", "Excited"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_023",
+    "soalan": "They ______ playing football in the field right now.",
+    "pilihan": ["is", "am", "was", "are"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_024",
+    "soalan": "A frog can jump and swim in the ______.",
+    "pilihan": ["water", "fire", "cloud", "oil"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_025",
+    "soalan": "Which vehicle has only two wheels?",
+    "pilihan": ["Car", "Bicycle", "Bus", "Lorry"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_026",
+    "soalan": "Sugar tastes ______.",
+    "pilihan": ["salty", "sour", "sweet", "bitter"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_027",
+    "soalan": "Choose the correct plural form of 'Box':",
+    "pilihan": ["Boxs", "Boxies", "Boxen", "Boxes"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_028",
+    "soalan": "We brush our ______ twice a day.",
+    "pilihan": ["teeth", "hair", "shoes", "bags"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_029",
+    "soalan": "What is the opposite of 'TALL'?",
+    "pilihan": ["Long", "Short", "Fat", "Wide"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_030",
+    "soalan": "The national flower of Malaysia is the Hibiscus. It is usually ______.",
+    "pilihan": ["blue", "black", "red", "purple"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_031",
+    "soalan": "A clock shows us the ______.",
+    "pilihan": ["weather", "speed", "weight", "time"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_032",
+    "soalan": "Choose the action verb from the words below:",
+    "pilihan": ["Run", "Table", "Yellow", "Heavy"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_033",
+    "soalan": "A doctor works in a ______.",
+    "pilihan": ["school", "hospital", "kitchen", "farm"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_034",
+    "soalan": "Rabbits love to eat crunchy ______.",
+    "pilihan": ["bones", "fish", "carrots", "meat"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_035",
+    "soalan": "Choose the correct conjunction: 'He is small ______ very strong.'",
+    "pilihan": ["or", "so", "because", "but"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_036",
+    "soalan": "What is the color of fresh grass?",
+    "pilihan": ["Green", "Pink", "Orange", "Brown"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_037",
+    "soalan": "A pilot flies an ______ in the sky.",
+    "pilihan": ["aeroplane", "boat", "train", "lorry"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_038",
+    "soalan": "Choose the opposite of 'FAST':",
+    "pilihan": ["Quick", "Slow", "Swift", "Rapid"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_039",
+    "soalan": "Birds lay their eggs in a ______.",
+    "pilihan": ["burrow", "stable", "nest", "den"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_040",
+    "soalan": "I write notes in my exercise book using a ______.",
+    "pilihan": ["ruler", "eraser", "scissor", "pencil"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_041",
+    "soalan": "Choose the correct spelling for the color:",
+    "pilihan": ["Purple", "Purpel", "Perple", "Purpul"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_042",
+    "soalan": "What is the opposite of 'HEAVY'?",
+    "pilihan": ["Dark", "Light", "Hard", "Soft"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_043",
+    "soalan": "Which month comes first in a calendar year?",
+    "pilihan": ["December", "March", "January", "June"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_044",
+    "soalan": "Look at the stars! They shine brightly at ______.",
+    "pilihan": ["noon", "morning", "afternoon", "night"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_045",
+    "soalan": "We smell sweet flowers with our ______.",
+    "pilihan": ["nose", "mouth", "feet", "ears"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_046",
+    "soalan": "Choose the correct plural form of 'Child':",
+    "pilihan": ["Childs", "Children", "Childrens", "Childes"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_047",
+    "soalan": "A firefighter helps to put out ______.",
+    "pilihan": ["water", "wind", "fire", "smoke"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_048",
+    "soalan": "Choose the punctuation mark used at the end of a question:",
+    "pilihan": ["Full stop (.)", "Comma (,)", "Exclamation mark (!)", "Question mark (?)"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_049",
+    "soalan": "The opposite of 'DARK' is ______.",
+    "pilihan": ["Bright", "Dim", "Black", "Gloomy"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_050",
+    "soalan": "Snakes move forward by ______ on the ground.",
+    "pilihan": ["running", "slithering", "hopping", "flying"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_051",
+    "soalan": "Which room do we use for taking a shower?",
+    "pilihan": ["Kitchen", "Bedroom", "Bathroom", "Living room"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_052",
+    "soalan": "Complete the phrase: 'As busy as a ______.'",
+    "pilihan": ["snail", "tortoise", "sloth", "bee"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_053",
+    "soalan": "Choose the adjective that describes size:",
+    "pilihan": ["Small", "Run", "Quickly", "Sing"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_054",
+    "soalan": "A spider has ______ legs.",
+    "pilihan": ["six", "eight", "four", "ten"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_055",
+    "soalan": "What is the opposite of 'NOISY'?",
+    "pilihan": ["Loud", "Busy", "Quiet", "Cheerful"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_056",
+    "soalan": "She ______ drinking a glass of fresh milk now.",
+    "pilihan": ["are", "am", "were", "is"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_057",
+    "soalan": "Horses eat ______.",
+    "pilihan": ["grass", "meat", "fish", "insects"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_058",
+    "soalan": "Which word begins with a vowel sound?",
+    "pilihan": ["Table", "Umbrella", "Book", "Chair"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_059",
+    "soalan": "Choose the opposite of 'RICH':",
+    "pilihan": ["Wealthy", "Kind", "Poor", "Generous"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_060",
+    "soalan": "A tailor sews ______ using a sewing machine.",
+    "pilihan": ["shoes", "baskets", "cakes", "clothes"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_061",
+    "soalan": "What is the young of a duck called?",
+    "pilihan": ["Duckling", "Cub", "Foal", "Lamb"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_062",
+    "soalan": "Choose the correct past simple of 'PLAY':",
+    "pilihan": ["Playing", "Played", "Plays", "Player"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_063",
+    "soalan": "Monkeys love swinging on the ______ of trees.",
+    "pilihan": ["roots", "leaves", "branches", "bark"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_064",
+    "soalan": "Choose the opposite of 'HARD':",
+    "pilihan": ["Rough", "Tough", "Solid", "Soft"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_065",
+    "soalan": "We taste sweet honey with our ______.",
+    "pilihan": ["tongue", "ears", "eyes", "hands"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_066",
+    "soalan": "Which animal lives in water and has sharp teeth?",
+    "pilihan": ["Rabbit", "Shark", "Deer", "Monkey"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_067",
+    "soalan": "Choose the correct pronoun: 'Ali and I are cousins. ______ live together.'",
+    "pilihan": ["They", "You", "We", "He"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_068",
+    "soalan": "What is the opposite of 'NEAR'?",
+    "pilihan": ["Close", "Next", "Beside", "Far"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_069",
+    "soalan": "A butterfly develops from a ______.",
+    "pilihan": ["caterpillar", "tadpole", "chick", "fry"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_070",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Shool", "School", "Scool", "Sckool"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_071",
+    "soalan": "A zebra has black and white ______ all over its body.",
+    "pilihan": ["spots", "circles", "stripes", "triangles"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi2_072",
+    "soalan": "The opposite of 'EMPTY' is ______.",
+    "pilihan": ["hollow", "clear", "blank", "full"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi2_073",
+    "soalan": "Which tool is used for cutting paper neatly?",
+    "pilihan": ["Scissors", "Pencil", "Ruler", "Glue"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi2_074",
+    "soalan": "Choose the animal that can swim very fast in the ocean:",
+    "pilihan": ["Camel", "Dolphin", "Giraffe", "Elephant"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi2_075",
+    "soalan": "Complete the polite phrase: '______ you very much for the lovely gift.'",
+    "pilihan": ["Please", "Sorry", "Thank", "Excuse"],
+    "jawapan": 2
+  }
+]
