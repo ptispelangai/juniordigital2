@@ -1,0 +1,452 @@
+[
+  {
+    "id": "mat3_001",
+    "soalan": "Apakah nilai tempat bagi digit 4 dalam nombor 4,528?",
+    "pilihan": ["Ribu", "Ratus", "Puluh", "Sa"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_002",
+    "soalan": "Nombor 7,032 ditulis dalam perkataan ialah:",
+    "pilihan": ["Tujuh puluh tiga puluh dua", "Tujuh ribu tiga puluh dua", "Tujuh ratus tiga puluh dua", "Tujuh ribu tiga ratus dua"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat3_003",
+    "soalan": "Kira hasil tambah: 3,450 + 2,120 =",
+    "pilihan": ["5,570", "5,580", "5,470", "5,670"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_004",
+    "soalan": "Kira hasil tolak: 6,890 - 2,430 =",
+    "pilihan": ["4,460", "4,360", "4,560", "4,450"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_005",
+    "soalan": "Berapakah hasil darab: 125 × 4 =",
+    "pilihan": ["500", "450", "550", "600"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_006",
+    "soalan": "Selesaikan operasi bahagi: 480 ÷ 6 =",
+    "pilihan": ["80", "70", "90", "60"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_007",
+    "soalan": "Tukarkan pecahan 2/4 kepada pecahan setara dalam bentuk termudah:",
+    "pilihan": ["1/2", "1/4", "3/4", "2/1"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_008",
+    "soalan": "Kira hasil tambah pecahan: 1/5 + 2/5 =",
+    "pilihan": ["3/10", "3/5", "2/5", "4/5"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat3_009",
+    "soalan": "Kira hasil tolak pecahan: 7/8 - 3/8 =",
+    "pilihan": ["4/8", "4/16", "3/8", "5/8"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_010",
+    "soalan": "Tukarkan 3/10 kepada nombor perpuluhan:",
+    "pilihan": ["0.03", "0.3", "3.0", "0.33"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat3_011",
+    "soalan": "Apakah nilai peratus bagi pecahan 25/100?",
+    "pilihan": ["25%", "50%", "2.5%", "75%"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_012",
+    "soalan": "Kira jumlah wang ini: RM 450 + RM 230 =",
+    "pilihan": ["RM 680", "RM 670", "RM 690", "RM 780"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_013",
+    "soalan": "Kira baki wang: RM 1,000 - RM 350 =",
+    "pilihan": ["RM 650", "RM 750", "RM 600", "RM 550"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_014",
+    "soalan": "Berapakah minit dalam tempoh 2 jam?",
+    "pilihan": ["120 minit", "100 minit", "90 minit", "60 minit"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_015",
+    "soalan": "Tukarkan 1 hari kepada bilangan jam:",
+    "pilihan": ["24 jam", "12 jam", "48 jam", "36 jam"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_016",
+    "soalan": "Satu meter bersamaan dengan berapa sentimeter?",
+    "pilihan": ["100 cm", "10 cm", "1000 cm", "50 cm"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_017",
+    "soalan": "Berapakah nilai 3 kilogram dalam unit gram?",
+    "pilihan": ["3000 g", "300 g", "30 g", "3500 g"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_018",
+    "soalan": "1 liter bersamaan dengan berapa mililiter?",
+    "pilihan": ["1000 ml", "100 ml", "10 ml", "500 ml"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_019",
+    "soalan": "Sebuah poligon sekata yang mempunyai enam sisi lurus dinamakan:",
+    "pilihan": ["Heksagon", "Pentagon", "Oktagon", "Heptagon"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_020",
+    "soalan": "Sebuah poligon yang mempunyai lima sisi lurus dinamakan:",
+    "pilihan": ["Pentagon", "Heksagon", "Segi empat", "Oktagon"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_021",
+    "soalan": "Bundarkan 5,682 kepada ribu yang terdekat:",
+    "pilihan": ["6,000", "5,000", "5,700", "5,600"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_022",
+    "soalan": "Kira: 4,000 + 300 + 50 + 6 =",
+    "pilihan": ["4,356", "4,536", "4,365", "4,056"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_023",
+    "soalan": "Antara nombor berikut, yang manakah nilainya paling besar?",
+    "pilihan": ["8,945", "8,954", "8,594", "8,495"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat3_024",
+    "soalan": "Kira hasil tolak: 5,000 - 1,250 =",
+    "pilihan": ["3,750", "3,850", "3,650", "4,750"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_025",
+    "soalan": "Kira: 24 × 10 =",
+    "pilihan": ["240", "2400", "204", "420"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_026",
+    "soalan": "Kira: 700 ÷ 100 =",
+    "pilihan": ["7", "70", "700", "0.7"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_027",
+    "soalan": "Apakah nilai perpuluhan bagi 65/100?",
+    "pilihan": ["0.65", "0.065", "6.5", "65.0"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_028",
+    "soalan": "Bandingkan: 0.4 ______ 0.08",
+    "pilihan": ["lebih besar daripada", "lebih kecil daripada", "sama nilai dengan", "separuh daripada"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_029",
+    "soalan": "Kira: 0.3 + 0.5 =",
+    "pilihan": ["0.8", "0.08", "8.0", "0.35"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_030",
+    "soalan": "Kira: 0.9 - 0.4 =",
+    "pilihan": ["0.5", "0.05", "5.0", "0.45"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_031",
+    "soalan": "Tukarkan 45% kepada pecahan perseratus:",
+    "pilihan": ["45/100", "45/10", "4/5", "100/45"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_032",
+    "soalan": "Kira: RM 56.40 + RM 23.20 =",
+    "pilihan": ["RM 79.60", "RM 79.50", "RM 80.60", "RM 78.60"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_033",
+    "soalan": "Kira baki bagi: RM 80.00 - RM 45.50 =",
+    "pilihan": ["RM 34.50", "RM 35.50", "RM 34.00", "RM 44.50"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_034",
+    "soalan": "Darab nilai wang: RM 15 × 5 =",
+    "pilihan": ["RM 75", "RM 65", "RM 85", "RM 70"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_035",
+    "soalan": "Bahagi wang: RM 100 ÷ 4 =",
+    "pilihan": ["RM 25", "RM 20", "RM 30", "RM 15"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_036",
+    "soalan": "Pukul 3:45 petang boleh disebut sebagai:",
+    "pilihan": ["Pukul tiga empat puluh lima petang", "Pukul empat suku", "Pukul tiga setengah", "Pukul tiga suku"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_037",
+    "soalan": "Berapakah bilangan hari dalam bulan Januari?",
+    "pilihan": ["31 hari", "30 hari", "28 hari", "29 hari"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_038",
+    "soalan": "Kira: 2 m 45 cm + 1 m 30 cm =",
+    "pilihan": ["3 m 75 cm", "3 m 85 cm", "4 m 75 cm", "3 m 65 cm"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_039",
+    "soalan": "Kira: 5 kg 500 g - 2 kg 200 g =",
+    "pilihan": ["3 kg 300 g", "3 kg 200 g", "3 kg 700 g", "2 kg 300 g"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_040",
+    "soalan": "Kira: 4 l 250 ml + 3 l 100 ml =",
+    "pilihan": ["7 l 350 ml", "7 l 250 ml", "8 l 350 ml", "7 l 450 ml"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_041",
+    "soalan": "Berapakah bilangan bucu bagi sebuah prisma segi tiga?",
+    "pilihan": ["6", "5", "8", "4"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_042",
+    "soalan": "Sebuah kuboid mempunyai berapa sisi lurus?",
+    "pilihan": ["12", "8", "6", "10"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_043",
+    "soalan": "Poligon lapan sisi dinamakan:",
+    "pilihan": ["Oktagon", "Heksagon", "Heptagon", "Pentagon"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_044",
+    "soalan": "Garis lurus yang membahagikan sesuatu bentuk kepada dua bahagian yang sama simetri dinamakan:",
+    "pilihan": ["Paksi simetri", "Diameter", "Jejari", "Tangen"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_045",
+    "soalan": "Carta palang digunakan untuk memaparkan maklumat atau ______.",
+    "pilihan": ["data", "lagu", "gambar peta", "masa"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_046",
+    "soalan": "Kira: 1,234 + 5,678 =",
+    "pilihan": ["6,912", "6,812", "7,012", "6,922"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_047",
+    "soalan": "Kira: 9,000 - 3,456 =",
+    "pilihan": ["5,544", "5,644", "5,444", "6,544"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_048",
+    "soalan": "Kira hasil darab: 54 × 6 =",
+    "pilihan": ["324", "314", "334", "304"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_049",
+    "soalan": "Kira hasil bahagi: 72 ÷ 8 =",
+    "pilihan": ["9", "8", "7", "6"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_050",
+    "soalan": "Pecahan wajar ialah pecahan yang pengangkanya ______ daripada penyebutnya.",
+    "pilihan": ["lebih kecil", "lebih besar", "sama dengan", "dua kali ganda"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_051",
+    "soalan": "Tukarkan 0.7 kepada bentuk pecahan persepuluh:",
+    "pilihan": ["7/10", "7/100", "70/10", "1/7"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_052",
+    "soalan": "Nilai 80% dalam bentuk pecahan termudah ialah:",
+    "pilihan": ["4/5", "8/100", "80/10", "3/4"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_053",
+    "soalan": "Ibu ada RM 50. Beliau membeli sayur berharga RM 18.50. Berapakah baki wangnya?",
+    "pilihan": ["RM 31.50", "RM 32.50", "RM 30.50", "RM 31.00"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_054",
+    "soalan": "Sebuah jam analog menunjukkan jarum panjang di angka 6 dan jarum pendek di antara 4 dan 5. Masa itu ialah:",
+    "pilihan": ["Pukul 4:30", "Pukul 5:30", "Pukul 6:20", "Pukul 4:00"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_055",
+    "soalan": "Panjang sebatang pensel ialah 15 ______.",
+    "pilihan": ["sentimeter (cm)", "meter (m)", "kilometer (km)", "milimeter (mm)"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_056",
+    "soalan": "Jisim sebiji tembikai ialah 3 ______.",
+    "pilihan": ["kilogram (kg)", "gram (g)", "miligram (mg)", "liter (l)"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_057",
+    "soalan": "Isi padu sebotol minyak masak ialah 2 ______.",
+    "pilihan": ["liter (l)", "mililiter (ml)", "gram (g)", "meter (m)"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_058",
+    "soalan": "Berapakah bilangan permukaan rata bagi sebuah piramid bertapak segi empat?",
+    "pilihan": ["5", "4", "6", "8"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_059",
+    "soalan": "Sebuah segi empat sama mempunyai berapa paksi simetri?",
+    "pilihan": ["4", "2", "1", "0"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_060",
+    "soalan": "Apakah nilai digit bagi angka 8 dalam nombor 7,852?",
+    "pilihan": ["800", "80", "8", "8000"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_061",
+    "soalan": "Kira: 3,500 + 4,500 =",
+    "pilihan": ["8,000", "7,000", "8,500", "7,500"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_062",
+    "soalan": "Kira: 6,400 - 3,200 =",
+    "pilihan": ["3,200", "3,100", "3,300", "3,000"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_063",
+    "soalan": "Kira: 12 × 8 =",
+    "pilihan": ["96", "86", "106", "94"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_064",
+    "soalan": "Kira: 81 ÷ 9 =",
+    "pilihan": ["9", "8", "7", "6"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_065",
+    "soalan": "Pecahan termudah bagi 4/8 ialah:",
+    "pilihan": ["1/2", "1/4", "2/4", "3/4"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_066",
+    "soalan": "Kira: 0.25 + 0.50 =",
+    "pilihan": ["0.75", "0.70", "0.85", "0.65"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_067",
+    "soalan": "Tukarkan 50% kepada bentuk perpuluhan:",
+    "pilihan": ["0.5", "0.05", "5.0", "0.55"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_068",
+    "soalan": "Kira: RM 200 - RM 75.50 =",
+    "pilihan": ["RM 124.50", "RM 125.50", "RM 124.00", "RM 134.50"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_069",
+    "soalan": "Berapakah saat dalam tempoh 1 minit?",
+    "pilihan": ["60 saat", "100 saat", "30 saat", "50 saat"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_070",
+    "soalan": "Tukarkan 5 m kepada sentimeter:",
+    "pilihan": ["500 cm", "50 cm", "5000 cm", "5 cm"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_071",
+    "soalan": "Tukarkan 2,000 g kepada kilogram:",
+    "pilihan": ["2 kg", "20 kg", "200 kg", "0.2 kg"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_072",
+    "soalan": "Tukarkan 3 liter kepada mililiter:",
+    "pilihan": ["3000 ml", "300 ml", "30 ml", "3500 ml"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_073",
+    "soalan": "Bentuk dua dimensi yang mempunyai 7 sisi lurus dinamakan:",
+    "pilihan": ["Heptagon", "Heksagon", "Oktagon", "Pentagon"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_074",
+    "soalan": "Piktograf ialah carta yang menggunakan ______ untuk mewakili kuantiti data.",
+    "pilihan": ["simbol atau gambar", "garisan panjang", "bulatan jam", "warna"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat3_075",
+    "soalan": "Sebuah kotak ada 120 batang pensel. 4 buah kotak yang sama ada berapa batang pensel?",
+    "pilihan": ["480 batang", "450 batang", "500 batang", "440 batang"],
+    "jawapan": 0
+  }
+]
