@@ -42,12 +42,11 @@
           <h1 class="font-kids text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
             Junior Digital 2
           </h1>
-          <p class="text-[11px] text-slate-500 font-semibold leading-tight">Uji Minda 25 Soalan Santai (100% Markah)</p>
+          <p class="text-[11px] text-slate-500 font-semibold leading-tight">Uji Minda Pintar Sekolah Rendah</p>
         </div>
       </div>
       
       <div class="flex items-center space-x-2">
-        <!-- Audio Toggle Button -->
         <button id="btnSound" onclick="toggleSound()" class="p-2 rounded-xl bg-amber-100 hover:bg-amber-200 text-amber-800 text-sm font-bold flex items-center gap-1 transition">
           <span id="soundIcon">🔊</span>
           <span class="text-xs hidden sm:inline">Bunyi</span>
@@ -67,7 +66,7 @@
     <div id="screenLogin" class="w-full bg-white rounded-3xl shadow-xl border-4 border-yellow-200 p-6 sm:p-8 text-center">
       <div class="inline-block p-4 bg-yellow-100 rounded-3xl mb-4 text-5xl">🦁</div>
       <h2 class="font-kids text-2xl sm:text-3xl font-bold text-slate-800 mb-2">Selamat Datang Adik!</h2>
-      <p class="text-sm text-slate-500 mb-6">Taip nama dan pilih darjah untuk mulakan 25 soalan kuiz.</p>
+      <p class="text-sm text-slate-500 mb-6">Taip nama dan pilih darjah untuk memulakan kuiz minda.</p>
 
       <div class="max-w-md mx-auto space-y-4 text-left">
         <div>
@@ -118,16 +117,60 @@
         </button>
       </div>
 
-      <p class="text-xs text-slate-500 mt-4 mb-2">Pilih subjek untuk memuatkan 25 soalan rawak tanpa ulangan:</p>
+      <p class="text-xs text-slate-500 mt-4 mb-2">Pilih subjek pembelajaran adik:</p>
       <div id="subjectGrid" class="grid grid-cols-1 sm:grid-cols-2 gap-3.5 my-4"></div>
     </div>
 
-    <!-- SCREEN 3: KUIZ AKTIF (25 SOALAN) -->
+    <!-- SCREEN 2.5: SESI PEMBELAJARAN GRAMMAR KHAS -->
+    <div id="screenGrammarLesson" class="w-full bg-white rounded-3xl shadow-xl border-4 border-purple-200 p-5 sm:p-8 hidden">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-100">
+        <div class="flex items-center gap-2">
+          <span class="text-3xl">💡</span>
+          <div>
+            <h3 class="font-kids font-bold text-slate-800 text-lg">Fun Grammar Corner!</h3>
+            <p class="text-xs text-purple-600 font-bold">Ulang Kaji Asas Sebelum Mula Kuiz (10 Soalan)</p>
+          </div>
+        </div>
+        <button onclick="showScreen('screenSubjects')" class="text-xs text-slate-400 hover:text-red-600 font-bold px-2 py-1 rounded-lg">
+          ✕ Kembali
+        </button>
+      </div>
+
+      <!-- Kad Nota Ringkas -->
+      <div class="my-5 space-y-3 max-h-[350px] overflow-y-auto pr-1 text-left text-xs sm:text-sm">
+        <div class="p-3.5 rounded-2xl bg-amber-50 border border-amber-200">
+          <h4 class="font-kids font-bold text-amber-900 mb-1">1. Pronouns (Kata Ganti Diri)</h4>
+          <p class="text-slate-600"><b>He</b> (lelaki), <b>She</b> (perempuan), <b>It</b> (haiwan/benda), <b>They</b> (mereka), <b>We</b> (kami/kita).</p>
+        </div>
+
+        <div class="p-3.5 rounded-2xl bg-blue-50 border border-blue-200">
+          <h4 class="font-kids font-bold text-blue-900 mb-1">2. Verb 'to be' (is / am / are)</h4>
+          <p class="text-slate-600">I ➔ <b>am</b> | He / She / It ➔ <b>is</b> | You / We / They ➔ <b>are</b>.</p>
+        </div>
+
+        <div class="p-3.5 rounded-2xl bg-emerald-50 border border-emerald-200">
+          <h4 class="font-kids font-bold text-emerald-900 mb-1">3. Articles (a / an)</h4>
+          <p class="text-slate-600">Gunakan <b>an</b> untuk huruf vokal (a, e, i, o, u): <i>an apple, an egg, an umbrella</i>. Gunakan <b>a</b> untuk huruf lain: <i>a cat, a book</i>.</p>
+        </div>
+
+        <div class="p-3.5 rounded-2xl bg-pink-50 border border-pink-200">
+          <h4 class="font-kids font-bold text-pink-900 mb-1">4. Plural Nouns (Banyak)</h4>
+          <p class="text-slate-600">Tambah <b>-s</b> atau <b>-es</b>: <i>cat ➔ cats, box ➔ boxes</i>.<br>Bentuk istimewa: <i>child ➔ children, tooth ➔ teeth, foot ➔ feet</i>.</p>
+        </div>
+      </div>
+
+      <button onclick="startGrammarQuizNow()" 
+        class="bubbly-btn w-full py-3.5 rounded-2xl bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white font-kids text-base font-bold shadow-lg shadow-purple-500/20">
+        Saya Dah Faham, Mula Kuiz (10 Soalan)! 🚀
+      </button>
+    </div>
+
+    <!-- SCREEN 3: KUIZ AKTIF -->
     <div id="screenQuiz" class="w-full bg-white rounded-3xl shadow-xl border-4 border-indigo-200 p-5 sm:p-8 hidden">
       <div class="flex items-center justify-between pb-3 border-b border-slate-100">
         <div>
           <h3 id="quizSubjekTitle" class="font-kids font-bold text-slate-800 text-base sm:text-lg">Bahasa Melayu</h3>
-          <span id="quizBadge" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-indigo-100 text-indigo-700">Tahun 2 • 25 Soalan</span>
+          <span id="quizBadge" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-indigo-100 text-indigo-700">Tahun 2</span>
         </div>
         <button onclick="exitQuiz()" class="text-xs text-slate-400 hover:text-red-600 font-bold px-2.5 py-1.5 rounded-lg border border-slate-200">
           ✕ Keluar
@@ -137,7 +180,7 @@
       <!-- Progress -->
       <div class="mt-4">
         <div class="flex justify-between items-center text-xs font-bold text-slate-600 mb-1">
-          <span>Soalan <span id="currentQNum" class="text-indigo-600 text-base">1</span> / 25</span>
+          <span>Soalan <span id="currentQNum" class="text-indigo-600 text-base">1</span> / <span id="totalQNum">25</span></span>
           <span id="quizProgressPercent" class="text-indigo-600">4%</span>
         </div>
         <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden border border-slate-200">
@@ -182,7 +225,7 @@
       <div class="w-36 h-36 mx-auto mb-5 flex flex-col items-center justify-center rounded-full bg-gradient-to-tr from-emerald-100 to-sky-100 border-4 border-emerald-300 shadow-inner">
         <span class="text-xs font-bold text-slate-400 uppercase">Markah Penuh</span>
         <span id="resMarksPercent" class="font-kids text-4xl font-extrabold text-emerald-600">100%</span>
-        <span id="resScoreFraction" class="text-xs font-bold text-slate-500 mt-1">25 / 25 Betul</span>
+        <span id="resScoreFraction" class="text-xs font-bold text-slate-500 mt-1">Betul</span>
       </div>
 
       <div class="bg-slate-50 border border-slate-200 rounded-2xl p-4 max-w-sm mx-auto mb-6 text-left text-xs font-semibold space-y-1.5 text-slate-600">
@@ -193,8 +236,8 @@
       </div>
 
       <div class="flex flex-col sm:flex-row gap-2 max-w-sm mx-auto">
-        <button onclick="restartQuizWithNew25()" class="bubbly-btn flex-1 py-3 rounded-2xl bg-indigo-600 hover:bg-indigo-700 text-white font-kids font-bold text-sm">
-          🔄 25 Soalan Baharu
+        <button onclick="restartQuizWithNewSet()" class="bubbly-btn flex-1 py-3 rounded-2xl bg-indigo-600 hover:bg-indigo-700 text-white font-kids font-bold text-sm">
+          🔄 Soalan Baharu
         </button>
         <button onclick="showScreen('screenSubjects')" class="bubbly-btn flex-1 py-3 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-kids font-bold text-sm">
           📚 Subjek Lain
@@ -221,9 +264,7 @@
       if (!soundEnabled) return;
       try {
         initAudio();
-        if (audioCtx.state === 'suspended') {
-          audioCtx.resume();
-        }
+        if (audioCtx.state === 'suspended') audioCtx.resume();
         setTimeout(() => {
           const osc = audioCtx.createOscillator();
           const gain = audioCtx.createGain();
@@ -259,13 +300,14 @@
     let userData = { nama: '', darjah: 2, kelas: '' };
     let currentSubjectKey = '';
     let currentSubjectName = '';
+    let isSpecialGrammar = false;
     let rawBankQuestions = [];
-    let current25Questions = [];
+    let currentQuestions = [];
     let currentIndex = 0;
     let answers = {};
 
     function showScreen(id) {
-      ['screenLogin', 'screenSubjects', 'screenQuiz', 'screenResult'].forEach(s => {
+      ['screenLogin', 'screenSubjects', 'screenGrammarLesson', 'screenQuiz', 'screenResult'].forEach(s => {
         document.getElementById(s).classList.add('hidden');
       });
       document.getElementById(id).classList.remove('hidden');
@@ -294,54 +336,104 @@
       showScreen('screenSubjects');
     }
 
-  function renderSubjects() {
+    function renderSubjects() {
       const grid = document.getElementById('subjectGrid');
       grid.innerHTML = '';
 
       let list = [];
       if (userData.darjah <= 3) {
+        // TAHAP 1: 4 Subjek Biasa + 1 Mod Khas BI Grammar Learning
         list = [
-          { key: 'bm', name: 'Bahasa Melayu', icon: '📖' },
-          { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤' },
-          { key: 'matematik', name: 'Matematik', icon: '🔢' },
-          { key: 'sains', name: 'Sains', icon: '🔬' }
+          { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '25 Soalan • 100% Markah' },
+          { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '25 Soalan • 100% Markah' },
+          { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '25 Soalan • 100% Markah' },
+          { key: 'sains', name: 'Sains', icon: '🔬', desc: '25 Soalan • 100% Markah' },
+          { key: 'grammar', name: 'BI Grammar (Asas)', icon: '⭐', desc: 'Nota Ringkas + 10 Soalan', special: true }
         ];
       } else {
+        // TAHAP 2: 6 Subjek
         list = [
-          { key: 'bm', name: 'Bahasa Melayu', icon: '📖' },
-          { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤' },
-          { key: 'matematik', name: 'Matematik', icon: '🔢' },
-          { key: 'sains', name: 'Sains', icon: '🔬' },
-          { key: 'sejarah', name: 'Sejarah', icon: '🏛️' },
-          { key: 'am', name: 'Pengetahuan Am', icon: '🌍' }
+          { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '25 Soalan • 100% Markah' },
+          { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '25 Soalan • 100% Markah' },
+          { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '25 Soalan • 100% Markah' },
+          { key: 'sains', name: 'Sains', icon: '🔬', desc: '25 Soalan • 100% Markah' },
+          { key: 'sejarah', name: 'Sejarah', icon: '🏛️', desc: '25 Soalan • 100% Markah' },
+          { key: 'am', name: 'Pengetahuan Am', icon: '🌍', desc: '25 Soalan • 100% Markah' }
         ];
       }
 
       list.forEach(sub => {
         const btn = document.createElement('div');
-        btn.className = "bubbly-btn bg-slate-50 border-2 border-slate-200 hover:border-indigo-500 p-4 rounded-2xl cursor-pointer flex items-center justify-between";
+        const isGrammar = (sub.key === 'grammar');
+        btn.className = `bubbly-btn p-4 rounded-2xl cursor-pointer flex items-center justify-between border-2 transition ${
+          isGrammar 
+            ? 'bg-purple-50/80 border-purple-300 hover:border-purple-500 shadow-sm' 
+            : 'bg-slate-50 border-slate-200 hover:border-indigo-500'
+        }`;
         btn.onclick = () => {
           playClickSound();
-          loadSubjectJSON(sub.key, sub.name, btn);
+          if (isGrammar) {
+            prepareGrammarLesson(btn);
+          } else {
+            loadSubjectJSON(sub.key, sub.name, btn);
+          }
         };
         btn.innerHTML = `
           <div class="flex items-center space-x-3">
             <span class="text-3xl">${sub.icon}</span>
             <div>
-              <h4 class="font-kids text-base font-bold text-slate-800">${sub.name}</h4>
-              <p class="text-[11px] text-slate-400 font-semibold">25 Soalan • 100% Markah</p>
+              <h4 class="font-kids text-base font-bold ${isGrammar ? 'text-purple-900' : 'text-slate-800'}">${sub.name}</h4>
+              <p class="text-[11px] ${isGrammar ? 'text-purple-600 font-bold' : 'text-slate-400 font-semibold'}">${sub.desc}</p>
             </div>
           </div>
-          <span class="text-xs font-bold text-indigo-600 bg-indigo-50 px-3 py-1 rounded-xl">Mula ➡</span>
+          <span class="text-xs font-bold ${isGrammar ? 'text-purple-700 bg-purple-100' : 'text-indigo-600 bg-indigo-50'} px-3 py-1 rounded-xl">Mula ➡</span>
         `;
         grid.appendChild(btn);
       });
     }
 
-    // TARIK FAIL JSON DARIPADA FOLDER data/
+    // TARIK FAIL JSON GRAMMAR KHAS TAHAP 1
+    async function prepareGrammarLesson(btnElement) {
+      currentSubjectKey = 't1_grammar';
+      currentSubjectName = 'BI Grammar Learning (Tahap 1)';
+      isSpecialGrammar = true;
+
+      if (btnElement) {
+        btnElement.style.pointerEvents = 'none';
+        btnElement.style.opacity = '0.6';
+      }
+
+      try {
+        const res = await fetch(`data/t1_grammar.json?t=${Date.now()}`, { cache: 'no-cache' });
+        if (!res.ok) throw new Error();
+        rawBankQuestions = await res.json();
+      } catch (err) {
+        alert('Gagal memuatkan fail data/t1_grammar.json. Sila pastikan fail wujud di dalam folder data/ di GitHub.');
+        if (btnElement) {
+          btnElement.style.pointerEvents = 'auto';
+          btnElement.style.opacity = '1';
+        }
+        return;
+      }
+
+      if (btnElement) {
+        btnElement.style.pointerEvents = 'auto';
+        btnElement.style.opacity = '1';
+      }
+
+      showScreen('screenGrammarLesson');
+    }
+
+    function startGrammarQuizNow() {
+      playClickSound();
+      initQuizSession(10);
+    }
+
+    // TARIK FAIL JSON SUBJEK LAIN
     async function loadSubjectJSON(subKey, subName, btnElement) {
       currentSubjectKey = `${userData.darjah}_${subKey}`;
       currentSubjectName = subName;
+      isSpecialGrammar = false;
 
       if (btnElement) {
         btnElement.style.pointerEvents = 'none';
@@ -366,47 +458,43 @@
         btnElement.style.opacity = '1';
       }
 
-      init25Session();
+      initQuizSession(25);
     }
 
-    // PILIH 25 SOALAN RAWAK BEBAS ULANGAN (SISTEM MEMORI)
-    function init25Session() {
+    // PILIH SOALAN RAWAK BEBAS ULANGAN (10 SOALAN GRAMMAR / 25 SOALAN SUBJEK LAIN)
+    function initQuizSession(soalanCount) {
       const historyKey = `hist_${userData.nama}_${currentSubjectKey}`;
       let answeredIds = JSON.parse(localStorage.getItem(historyKey) || '[]');
 
-      // Tapis soalan yang belum dijawab
       let pool = rawBankQuestions.filter(q => !answeredIds.includes(q.id));
 
-      // Jika baki kurang daripada 25 soalan, set semula sejarah
-      if (pool.length < 25) {
+      if (pool.length < soalanCount) {
         answeredIds = [];
         pool = [...rawBankQuestions];
       }
 
-      // Rawakkan pool
       pool.sort(() => Math.random() - 0.5);
 
-      // Ambil tepat 25 soalan (atau baki jika bank kurang 25)
-      const count = Math.min(25, pool.length);
-      current25Questions = pool.slice(0, count);
+      const count = Math.min(soalanCount, pool.length);
+      currentQuestions = pool.slice(0, count);
 
-      // Simpan sejarah ID yang sudah dikeluarkan
-      const newHistory = answeredIds.concat(current25Questions.map(q => q.id));
+      const newHistory = answeredIds.concat(currentQuestions.map(q => q.id));
       localStorage.setItem(historyKey, JSON.stringify(newHistory));
 
       currentIndex = 0;
       answers = {};
 
       document.getElementById('quizSubjekTitle').innerText = currentSubjectName;
-      document.getElementById('quizBadge').innerText = `Tahun ${userData.darjah} • 25 Soalan`;
+      document.getElementById('quizBadge').innerText = isSpecialGrammar ? 'Tahap 1 • 10 Soalan' : `Tahun ${userData.darjah} • 25 Soalan`;
+      document.getElementById('totalQNum').innerText = currentQuestions.length;
 
       loadQuestion();
       showScreen('screenQuiz');
     }
 
     function loadQuestion() {
-      const q = current25Questions[currentIndex];
-      const total = current25Questions.length;
+      const q = currentQuestions[currentIndex];
+      const total = currentQuestions.length;
 
       document.getElementById('currentQNum').innerText = currentIndex + 1;
       const pct = Math.round(((currentIndex + 1) / total) * 100);
@@ -459,23 +547,29 @@
 
     function exitQuiz() {
       playClickSound();
-      if (confirm('Adakah adik pasti mahu keluar dari kuiz ini?')) {
+      if (confirm('Adakah adik pasti mahu keluar dari sesi ini?')) {
         showScreen('screenSubjects');
       }
     }
 
-    // PENGIRAAN: 1 SOALAN = 4 MARKAH (25 SOALAN = 100%)
     function submitQuiz() {
       playSuccessSound();
       let correct = 0;
-      current25Questions.forEach((q, idx) => {
+      currentQuestions.forEach((q, idx) => {
         if (answers[idx] === q.jawapan) correct++;
       });
 
-      const totalMarks = correct * 4; // 25 x 4 = 100%
+      const totalQ = currentQuestions.length;
+      let totalMarks = 0;
+      if (isSpecialGrammar) {
+        totalMarks = correct * 10; // 10 soalan x 10 markah = 100%
+        document.getElementById('resScoreFraction').innerText = `${correct} / ${totalQ} Betul (10 markah/soalan)`;
+      } else {
+        totalMarks = correct * 4;  // 25 soalan x 4 markah = 100%
+        document.getElementById('resScoreFraction').innerText = `${correct} / ${totalQ} Betul (4 markah/soalan)`;
+      }
 
       document.getElementById('resMarksPercent').innerText = `${totalMarks}%`;
-      document.getElementById('resScoreFraction').innerText = `${correct} / 25 Betul (4 markah/soalan)`;
       document.getElementById('resNama').innerText = userData.nama;
       document.getElementById('resKelas').innerText = `${userData.kelas} (Tahun ${userData.darjah})`;
       document.getElementById('resSubjek').innerText = currentSubjectName;
@@ -496,12 +590,11 @@
       showScreen('screenResult');
     }
 
-    function restartQuizWithNew25() {
+    function restartQuizWithNewSet() {
       playClickSound();
-      init25Session();
+      initQuizSession(isSpecialGrammar ? 10 : 25);
     }
 
-    // Aktifkan Audio Context pada klik pertama murid
     document.addEventListener('click', function unlockAudio() {
       initAudio();
       document.removeEventListener('click', unlockAudio);
