@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bm3_001",
+    "soalan": "Pilih simpulan bahasa yang membawa maksud 'orang yang amat disayangi':",
+    "pilihan": ["Kaki ayam", "Anak emas", "Ulat buku", "Ringan tulang"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_002",
+    "soalan": "Pilih perkataan berimbuhan apitan 'ke-...-an' yang betul:",
+    "pilihan": ["Membuatkan", "Kejayaan", "Membaca", "Berlari"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_003",
+    "soalan": "Ayah menghadiahkan se______ jam tangan kepada abang sempena hari lahirnya.",
+    "pilihan": ["utas", "bilah", "keping", "helai"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_004",
+    "soalan": "Pilih ayat seruan yang menunjukkan perasaan kagum:",
+    "pilihan": ["Amboi, cantiknya pemandangan di puncak bukit ini!", "Tolong tutup pintu itu sekarang.", "Apakah hobi kegemaran kamu?", "Saya suka membaca buku cerita."],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_005",
+    "soalan": "Lawan bagi perkataan 'Tenggelam' ialah ______.",
+    "pilihan": ["Karam", "Hanyut", "Timbul", "Hilang"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_006",
+    "soalan": "Pilih kata hubung pancangan yang sesuai: 'Amir rajin mengulang kaji pelajaran ______ beroleh kejayaan.'",
+    "pilihan": ["tetapi", "supaya", "atau", "lalu"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_007",
+    "soalan": "Simpulan bahasa 'ringan tulang' bermaksud orang yang ______.",
+    "pilihan": ["malas bekerja", "kurus kering", "rajin menolong", "mudah letih"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_008",
+    "soalan": "Pilih penjodoh bilangan bagi se______ senapang patah:",
+    "pilihan": ["bilah", "laras", "pucuk", "batang"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_009",
+    "soalan": "Kata dasar bagi perkataan 'penyapu' ialah ______.",
+    "pilihan": ["sapu", "nyapu", "penyap", "sapuan"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_010",
+    "soalan": "Pilih kata sendi nama yang menunjukkan tempat atau arah pergerakan keluar:",
+    "pilihan": ["kepada", "pada", "dari", "daripada"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_011",
+    "soalan": "\"______ berdua mestilah sentiasa bertolak ansur,\" pesan ibu kepada Hakim dan adiknya.",
+    "pilihan": ["Kalian", "Mereka", "Dia", "Baginda"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_012",
+    "soalan": "Pilih Kata Ganda Berentak yang betul:",
+    "pilihan": ["Buku-buku", "Kuih-muih", "Murid-murid", "Meja-meja"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_013",
+    "soalan": "Maksud simpulan bahasa 'kera sumbang' ialah orang yang ______.",
+    "pilihan": ["suka menari", "tidak suka bergaul dengan orang lain", "sangat cerdik", "pandai menyanyi"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_014",
+    "soalan": "Pilih kata adjektif pancaindera dengar:",
+    "pilihan": ["Manis", "Bising", "Harum", "Kasar"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_015",
+    "soalan": "Ibu memotong kek span menggunakan se______ pisau yang tajam.",
+    "pilihan": ["keping", "batang", "bilah", "utas"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_016",
+    "soalan": "Pilih ayat perintah jenis larangan:",
+    "pilihan": ["Usah bermain di kawasan yang curam itu.", "Jemputlah makan hidangan ini.", "Tolong susun kerusi di dewan.", "Sila masuk ke perpustakaan."],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_017",
+    "soalan": "Lawan bagi perkataan 'Tulin' atau 'Asli' ialah ______.",
+    "pilihan": ["Lama", "Bersih", "Palsu", "Mahal"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_018",
+    "soalan": "Pilih kata ganti nama diri ketiga yang digunakan bagi orang terhormat atau guru:",
+    "pilihan": ["Beliau", "Dia", "Mereka", "Baginda"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_019",
+    "soalan": "Lengkapkan peribahasa: 'Bagai aur dengan ______.'",
+    "pilihan": ["tebing", "sungai", "batu", "pokok"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_020",
+    "soalan": "Encik Tan membeli dua ______ tikar mengkuang di bazar kraftangan.",
+    "pilihan": ["helai", "bidang", "keping", "pucuk"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_021",
+    "soalan": "Pilih perkataan yang mengandungi diftong:",
+    "pilihan": ["Pantai", "Makan", "Buku", "Rumput"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_022",
+    "soalan": "Sikap 'berat mulut' membawa erti orang yang ______.",
+    "pilihan": ["pendiam atau susah bercakap", "suka berbohong", "mulutnya besar", "banyak makan"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_023",
+    "soalan": "Pilih ayat yang menggunakan kata seru dengan betul:",
+    "pilihan": ["Cis, cantiknya baju ini!", "Wahai, bila kamu sampai?", "Aduhai, berani kamu menipu saya!", "Wah, hebatnya lukisan kamu!"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm3_024",
+    "soalan": "Lawan bagi perkataan 'Zalim' ialah ______.",
+    "pilihan": ["Adil", "Garang", "Keras", "Jahat"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_025",
+    "soalan": "Pilih imbuhan awalan 'meN-' yang betul bagi kata dasar 'sapu':",
+    "pilihan": ["Mensapu", "Menysapu", "Menyapu", "Memsapu"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_026",
+    "soalan": "Kakak melipat se______ selimut tebal selepas bangun tidur.",
+    "pilihan": ["helai", "bilah", "laras", "keping"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_027",
+    "soalan": "Maksud simpulan bahasa 'makan angin' ialah ______.",
+    "pilihan": ["berjalan-jalan untuk berehat", "berada dalam kelaparan", "bernafas kencang", "bercakap kosong"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_028",
+    "soalan": "Pilih kata tanya yang sesuai: '______kah cara membuat kuih karipap ini?'",
+    "pilihan": ["Siapa", "Bagaimana", "Berapa", "Mana"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_029",
+    "soalan": "Pak Ali menyabit rumput ternakan dengan menggunakan se______ sabit.",
+    "pilihan": ["batang", "bilah", "keping", "helai"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_030",
+    "soalan": "Pilih ayat majmuk gabungan yang tepat:",
+    "pilihan": ["Siti membaca buku dan adiknya melukis gambar.", "Ali tidak hadir kerana demam.", "Kereta yang laju itu berwarna merah.", "Ibu memasak gulai di dapur."],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_031",
+    "soalan": "Lawan bagi perkataan 'Murah' ialah ______.",
+    "pilihan": ["Kaya", "Banyak", "Mahal", "Tinggi"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_032",
+    "soalan": "Simpulan bahasa 'alas perut' bermaksud ______.",
+    "pilihan": ["kain pelapik meja", "makan sedikit untuk menahan lapar", "sakit perut yang teruk", "tali pinggang"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_033",
+    "soalan": "Pilih perkataan berimbuhan akhiran '-an':",
+    "pilihan": ["Membeli", "Lukisan", "Bermain", "Terjatuh"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_034",
+    "soalan": "Adik menangis kerana belonnya telah ______.",
+    "pilihan": ["pecah", "jatuh", "rosak", "terbang"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_035",
+    "soalan": "Pilih penjodoh bilangan bagi dua ______ pistol:",
+    "pilihan": ["pucuk", "bilah", "laras", "keping"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_036",
+    "soalan": "Kata ganda separa bagi perkataan 'kuda' ialah ______.",
+    "pilihan": ["Kuda-kuda", "Kekuda", "Kuda-kudi", "Sekuda"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_037",
+    "soalan": "Lawan bagi perkataan 'Sempit' ialah ______.",
+    "pilihan": ["Luas", "Pendek", "Tinggi", "Kecil"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_038",
+    "soalan": "Pilih kata arah yang menunjukkan kedudukan:",
+    "pilihan": ["Belakang", "Berlari", "Buku", "Cantik"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_039",
+    "soalan": "Nenek makan dua ______ sirih bersama secalit kapur.",
+    "pilihan": ["keping", "helai", "biji", "batang"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_040",
+    "soalan": "Simpulan bahasa 'tangkai jering' bermaksud orang yang ______.",
+    "pilihan": ["sangat kedekut", "rajin berkebun", "suka makan jering", "murah hati"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_041",
+    "soalan": "Pilih ayat penyata yang lengkap tata bahasanya:",
+    "pilihan": ["Kami sekeluarga berkelah di Pantai Port Dickson.", "Di manakah beg sekolah saya?", "Wah, cantiknya kereta itu!", "Tolong jangan bising."],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_042",
+    "soalan": "Lawan bagi perkataan 'Kasap' atau 'Kasar' ialah ______.",
+    "pilihan": ["Tebal", "Licin", "Halus", "Keras"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_043",
+    "soalan": "Pilih kata seru yang meluahkan perasaan sedih atau kecewa:",
+    "pilihan": ["Aduhai", "Syabas", "Wah", "Amboi"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_044",
+    "soalan": "Adik memakai se______ rantai emas di lehernya.",
+    "pilihan": ["bilah", "utas", "keping", "helai"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_045",
+    "soalan": "Pilih perkataan berimbuhan apitan 'peN-...-an':",
+    "pilihan": ["Pendengaran", "Mendengar", "Didengar", "Terdengar"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_046",
+    "soalan": "Maksud simpulan bahasa 'paku belanda' ialah ______.",
+    "pilihan": ["harga barangan yang tetap dan tidak boleh ditawar", "paku yang berkarat", "orang dari Belanda", "senjata lama"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_047",
+    "soalan": "Lawan bagi perkataan 'Pekat' ialah ______.",
+    "pilihan": ["Cair", "Tebal", "Keras", "Manis"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_048",
+    "soalan": "Pilih kata majmuk mantap yang dieja bercantum:",
+    "pilihan": ["Kerjasama", "Beg tangan", "Bilik darjah", "Buku teks"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_049",
+    "soalan": "Datuk duduk berehat di ______ pohon beringin yang rendang.",
+    "pilihan": ["bawah", "atas", "dalam", "antara"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_050",
+    "soalan": "Pak Kassim mengasah parangnya dengan se______ batu asah.",
+    "pilihan": ["keping", "ketul", "biji", "batang"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_051",
+    "soalan": "Lawan bagi perkataan 'Sombong' ialah ______.",
+    "pilihan": ["Rendah hati", "Kasar", "Tinggi diri", "Garang"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_052",
+    "soalan": "Pilih kata adjektif bentuk:",
+    "pilihan": ["Bulat", "Merah", "Wangi", "Pantas"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_053",
+    "soalan": "Orang yang suka membuat bising diistilahkan sebagai 'mulut ______'.",
+    "pilihan": ["tempayan", "manis", "murah", "murai"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm3_054",
+    "soalan": "Pilih ayat yang menggunakan tanda koma (,) dengan tepat:",
+    "pilihan": ["Ibu membeli ikan, sayur, dan buah di pasar.", "Ibu, membeli ikan sayur dan buah di pasar.", "Ibu membeli, ikan sayur, dan buah di pasar.", "Ibu membeli ikan sayur dan buah, di pasar."],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_055",
+    "soalan": "Lawan bagi perkataan 'Jernih' ialah ______.",
+    "pilihan": ["Keruh", "Bersih", "Terang", "Cerah"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_056",
+    "soalan": "Pilih kata bilangan himpunan:",
+    "pilihan": ["Kedua-dua", "Satu", "Separuh", "Setiap"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_057",
+    "soalan": "Pak Samad menjala ikan menggunakan se______ jala.",
+    "pilihan": ["rawan", "helai", "pucuk", "keping"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_058",
+    "soalan": "Simpulan bahasa 'campur tangan' bermaksud ______.",
+    "pilihan": ["mencampurkan tangan", "turut campur dalam urusan orang lain", "mencuci tangan", "berjabat tangan"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_059",
+    "soalan": "Pilih kata sendi nama yang tepat: 'Hadiah ini diberikan ______ Cikgu Aina.'",
+    "pilihan": ["kepada", "dari", "daripada", "pada"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_060",
+    "soalan": "Lawan bagi perkataan 'Kenyal' ialah ______.",
+    "pilihan": ["Keras", "Lembut", "Liat", "Rapuh"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm3_061",
+    "soalan": "Pilih kata hubung berpasangan yang betul:",
+    "pilihan": ["Sama ada ... atau", "Kerana ... tetapi", "Dan ... lalu", "Supaya ... jika"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_062",
+    "soalan": "Petani itu memakai se______ topi mengkuang untuk menahan terik matahari.",
+    "pilihan": ["bidang", "helai", "terendak", "biji"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_063",
+    "soalan": "Peribahasa 'melentur buluh biarlah dari ______'.",
+    "pilihan": ["akarnya", "daunnya", "batangnya", "rebungnya"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm3_064",
+    "soalan": "Lawan bagi perkataan 'Tewas' ialah ______.",
+    "pilihan": ["Menang", "Kalah", "Gagal", "Jatuh"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_065",
+    "soalan": "Pilih perkataan yang membawa maksud 'kata seerti' bagi 'gembira':",
+    "pilihan": ["Sedih", "Duka", "Girang", "Benci"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_066",
+    "soalan": "Pegawai polis itu memakai se______ lencana di dadanya.",
+    "pilihan": ["keping", "helai", "biji", "butir"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_067",
+    "soalan": "Maksud simpulan bahasa 'panjang tangan' ialah orang yang suka ______.",
+    "pilihan": ["mencuri", "menolong", "berkelahi", "memberi"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_068",
+    "soalan": "Pilih imbuhan pinjaman bahasa Sanskrit yang betul:",
+    "pilihan": ["Tatabahasa", "Subtopik", "Autograf", "Antibiotik"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_069",
+    "soalan": "Lawan bagi perkataan 'Wangi' ialah ______.",
+    "pilihan": ["Harum", "Busuk", "Segar", "Manis"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm3_070",
+    "soalan": "Kakak menyuap bubur ke mulut adik dengan se______ sudu kecil.",
+    "pilihan": ["bilah", "keping", "batang", "pucuk"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm3_071",
+    "soalan": "Pilih ayat pasif yang gramatis:",
+    "pilihan": ["Buku cerita itu dibaca oleh Ali semalam.", "Ali membaca buku cerita itu semalam.", "Semalam membaca Ali buku cerita itu.", "Membaca Ali buku cerita semalam."],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_072",
+    "soalan": "Kata ganda berentak bagi perkataan 'gunung' ialah ______.",
+    "pilihan": ["Gunung-ganang", "Gunung-gunung", "Kegunungan", "Gunung-titiwangsa"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_073",
+    "soalan": "Lawan bagi perkataan 'Moden' ialah ______.",
+    "pilihan": ["Tradisional", "Baharu", "Canggih", "Maju"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_074",
+    "soalan": "Bapa membelikan abang se______ kamus tebal.",
+    "pilihan": ["naskhah", "helai", "keping", "batang"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm3_075",
+    "soalan": "Simpulan bahasa 'cuci tangan' bermaksud ______.",
+    "pilihan": ["tidak mahu bertanggungjawab atas sesuatu perkara", "membasuh tangan dengan sabun", "makan kenduri", "bermain air"],
+    "jawapan": 0
+  }
+]
