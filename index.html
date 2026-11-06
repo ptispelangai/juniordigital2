@@ -46,9 +46,16 @@
         </div>
       </div>
       
-      <div id="navUserBadge" class="hidden items-center bg-indigo-50 border border-indigo-200 px-3 py-1 rounded-full">
-        <span class="text-sm">🌟</span>
-        <span id="navUserName" class="text-xs font-bold text-indigo-800 ml-1 truncate max-w-[120px]">Murid</span>
+      <div class="flex items-center space-x-2">
+        <!-- Audio Toggle Button -->
+        <button id="btnSound" onclick="toggleSound()" class="p-2 rounded-xl bg-amber-100 hover:bg-amber-200 text-amber-800 text-sm font-bold flex items-center gap-1 transition">
+          <span id="soundIcon">🔊</span>
+          <span class="text-xs hidden sm:inline">Bunyi</span>
+        </button>
+        <div id="navUserBadge" class="hidden items-center bg-indigo-50 border border-indigo-200 px-3 py-1 rounded-full">
+          <span class="text-sm">🌟</span>
+          <span id="navUserName" class="text-xs font-bold text-indigo-800 ml-1 truncate max-w-[120px]">Murid</span>
+        </div>
       </div>
     </div>
   </header>
@@ -198,6 +205,57 @@
   </main>
 
   <script>
+    /* =========================================================
+       PENGURUSAN BUNYI (WEB AUDIO API SYNTH)
+       ========================================================= */
+    let soundEnabled = true;
+    let audioCtx = null;
+
+    function initAudio() {
+      if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      }
+    }
+
+    function playTone(freq, type, duration, delay = 0) {
+      if (!soundEnabled) return;
+      try {
+        initAudio();
+        if (audioCtx.state === 'suspended') {
+          audioCtx.resume();
+        }
+        setTimeout(() => {
+          const osc = audioCtx.createOscillator();
+          const gain = audioCtx.createGain();
+          osc.type = type;
+          osc.frequency.setValueAtTime(freq, audioCtx.currentTime);
+          gain.gain.setValueAtTime(0.12, audioCtx.currentTime);
+          gain.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + duration);
+          osc.connect(gain);
+          gain.connect(audioCtx.destination);
+          osc.start();
+          osc.stop(audioCtx.currentTime + duration);
+        }, delay);
+      } catch (e) {}
+    }
+
+    function playClickSound() { playTone(587.33, 'sine', 0.1); }
+    function playSelectSound() { playTone(880, 'sine', 0.12); }
+    function playSuccessSound() {
+      playTone(523.25, 'triangle', 0.15, 0);
+      playTone(659.25, 'triangle', 0.15, 120);
+      playTone(783.99, 'triangle', 0.25, 240);
+      playTone(1046.50, 'triangle', 0.4, 360);
+    }
+
+    function toggleSound() {
+      soundEnabled = !soundEnabled;
+      document.getElementById('soundIcon').innerText = soundEnabled ? '🔊' : '🔇';
+    }
+
+    /* =========================================================
+       DATA PENGGUNA & KUIZ
+       ========================================================= */
     let userData = { nama: '', darjah: 2, kelas: '' };
     let currentSubjectKey = '';
     let currentSubjectName = '';
@@ -215,6 +273,7 @@
     }
 
     function handleLogin() {
+      playClickSound();
       const nama = document.getElementById('inputNama').value.trim();
       const darjah = parseInt(document.getElementById('selectDarjah').value);
       const kelas = document.getElementById('inputKelas').value.trim();
@@ -235,7 +294,7 @@
       showScreen('screenSubjects');
     }
 
-   function renderSubjects() {
+    function renderSubjects() {
       const grid = document.getElementById('subjectGrid');
       grid.innerHTML = '';
 
@@ -261,7 +320,10 @@
       list.forEach(sub => {
         const btn = document.createElement('div');
         btn.className = "bubbly-btn bg-slate-50 border-2 border-slate-200 hover:border-indigo-500 p-4 rounded-2xl cursor-pointer flex items-center justify-between";
-        btn.onclick = () => loadSubjectJSON(sub.key, sub.name);
+        btn.onclick = () => {
+          playClickSound();
+          loadSubjectJSON(sub.key, sub.name);
+        };
         btn.innerHTML = `
           <div class="flex items-center space-x-3">
             <span class="text-3xl">${sub.icon}</span>
@@ -352,6 +414,7 @@
             : 'bg-white hover:bg-indigo-50 border-slate-200 text-slate-800'
         }`;
         btn.onclick = () => {
+          playSelectSound();
           answers[currentIndex] = idx;
           loadQuestion();
         };
@@ -375,11 +438,13 @@
     }
 
     function navigateQ(step) {
+      playClickSound();
       currentIndex += step;
       loadQuestion();
     }
 
     function exitQuiz() {
+      playClickSound();
       if (confirm('Adakah adik pasti mahu keluar dari kuiz ini?')) {
         showScreen('screenSubjects');
       }
@@ -387,6 +452,7 @@
 
     // PENGIRAAN: 1 SOALAN = 4 MARKAH (25 SOALAN = 100%)
     function submitQuiz() {
+      playSuccessSound();
       let correct = 0;
       current25Questions.forEach((q, idx) => {
         if (answers[idx] === q.jawapan) correct++;
@@ -417,8 +483,15 @@
     }
 
     function restartQuizWithNew25() {
+      playClickSound();
       init25Session();
     }
+
+    // Aktifkan Audio Context pada klik pertama murid
+    document.addEventListener('click', function unlockAudio() {
+      initAudio();
+      document.removeEventListener('click', unlockAudio);
+    }, { once: true });
   </script>
 </body>
 </html>
