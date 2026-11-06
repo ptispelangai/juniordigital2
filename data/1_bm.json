@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bm1_001",
+    "soalan": "Pilih huruf vokal yang betul:",
+    "pilihan": ["B", "a", "M", "K"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_002",
+    "soalan": "Lengkapkan suku kata bagi gambar buku: bu + ______",
+    "pilihan": ["la", "ta", "ku", "sa"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_003",
+    "soalan": "Pilih perkataan dengan ejaan yang betul:",
+    "pilihan": ["baju", "bjau", "bajuu", "bja"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_004",
+    "soalan": "Ibu membasuh pinggan di ruang ______.",
+    "pilihan": ["halaman", "dapur", "bumbung", "bilik tidur"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_005",
+    "soalan": "Adik suka minum susu yang berasa ______.",
+    "pilihan": ["pahit", "pedas", "manis", "masin"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_006",
+    "soalan": "Pilih kata nama am bagi haiwan:",
+    "pilihan": ["Kereta", "Kucing", "Meja", "Pensel"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_007",
+    "soalan": "Ayah memakai se______ kasut semasa ke tempat kerja.",
+    "pilihan": ["pasang", "utas", "helai", "bilah"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_008",
+    "soalan": "Burung terbang tinggi di dada ______.",
+    "pilihan": ["bumi", "laut", "langit", "kolam"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_009",
+    "soalan": "Lawan bagi perkataan 'Besar' ialah ______.",
+    "pilihan": ["Tinggi", "Luas", "Panjang", "Kecil"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_010",
+    "soalan": "Kata ganti nama diri untuk diri sendiri yang bercakap ialah ______.",
+    "pilihan": ["Saya", "Dia", "Mereka", "Awak"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_011",
+    "soalan": "Gajah mempunyai sepasang telinga yang amat ______.",
+    "pilihan": ["sempit", "lebar", "pendek", "nipis"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_012",
+    "soalan": "Lengkapkan suku kata: ci + ______ = ciku",
+    "pilihan": ["ka", "ki", "ku", "ko"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_013",
+    "soalan": "Murid-murid belajar membaca buku di dalam ______.",
+    "pilihan": ["parit", "padang", "jalan", "kelas"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_014",
+    "soalan": "Pilih warna bagi buah pisang yang telah masak:",
+    "pilihan": ["Kuning", "Biru", "Hitam", "Ungu"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_015",
+    "soalan": "Lawan bagi perkataan 'Tinggi' ialah ______.",
+    "pilihan": ["Panjang", "Rendah", "Kurus", "Gemuk"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_016",
+    "soalan": "Adik menangis kerana kakinya ______ terseliuh.",
+    "pilihan": ["gembira", "kenyang", "sakit", "lazat"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_017",
+    "soalan": "Pilih kata kerja bagi perbuatan:",
+    "pilihan": ["Bunga", "Kasut", "Buku", "Lari"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_018",
+    "soalan": "Ali mencuci tangan menggunakan air dan ______.",
+    "pilihan": ["sabun", "minyak", "tanah", "pasir"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_019",
+    "soalan": "Pilih perkataan yang bermula dengan huruf 'm':",
+    "pilihan": ["Kuda", "Meja", "Bola", "Roti"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_020",
+    "soalan": "Lawan bagi perkataan 'Siang' ialah ______.",
+    "pilihan": ["Pagi", "Petang", "Malam", "Senja"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_021",
+    "soalan": "Pak Mat memotong dahan pokok menggunakan se______ parang.",
+    "pilihan": ["keping", "batang", "helai", "bilah"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_022",
+    "soalan": "Kakak menyiram pokok bunga pada waktu ______ yang redup.",
+    "pilihan": ["petang", "malam", "tengah malam", "buta"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_023",
+    "soalan": "Pilih ejaan yang betul bagi buah ini:",
+    "pilihan": ["Epal", "Epall", "Apel", "Apal"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_024",
+    "soalan": "Ikan berenang di dalam ______ yang jernih.",
+    "pilihan": ["batu", "air", "tanah", "awan"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_025",
+    "soalan": "Pilih ayat penyata yang lengkap:",
+    "pilihan": ["Siapakah nama kamu?", "Wah, cantiknya baju ini!", "Saya suka makan nasi lemak.", "Tolong senyap."],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_026",
+    "soalan": "Lawan bagi perkataan 'Bersih' ialah ______.",
+    "pilihan": ["Kemas", "Harum", "Cantik", "Kotor"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_027",
+    "soalan": "Ayam jantan berkokok pada waktu ______ hari.",
+    "pilihan": ["pagi", "malam", "hujan", "gelap"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_028",
+    "soalan": "Bunga mawar di taman berbau sangat ______.",
+    "pilihan": ["masam", "wangi", "hanyir", "kelat"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_029",
+    "soalan": "Lengkapkan suku kata: ro + ______ = roti",
+    "pilihan": ["ta", "ku", "ti", "sa"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_030",
+    "soalan": "Pilih penjodoh bilangan bagi dua ______ epal:",
+    "pilihan": ["batang", "keping", "helai", "biji"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_031",
+    "soalan": "Kucing itu mengejar seekor ______ di bawah meja.",
+    "pilihan": ["tikus", "gajah", "singa", "unta"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_032",
+    "soalan": "Kata ganti nama diri untuk orang yang kita ajak bercakap ialah ______.",
+    "pilihan": ["Saya", "Awak", "Dia", "Mereka"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_033",
+    "soalan": "Lawan bagi perkataan 'Panas' ialah ______.",
+    "pilihan": ["Suam", "Hangat", "Sejuk", "Kering"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_034",
+    "soalan": "Cikgu menulis perkataan pada papan hitam menggunakan sebatang ______.",
+    "pilihan": ["pensel", "pembaris", "pemadam", "kapur"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_035",
+    "soalan": "Pilih perkataan berimbuhan awalan 'ber-':",
+    "pilihan": ["Bermain", "Makanan", "Membaca", "Tulisan"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_036",
+    "soalan": "Lengkapkan suku kata: bo + ______ = bola",
+    "pilihan": ["lu", "la", "li", "le"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_037",
+    "soalan": "Ibu membelikan adik se______ baju kurung baharu.",
+    "pilihan": ["pucuk", "bilah", "helai", "batang"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_038",
+    "soalan": "Rasa buah limau nipis adalah sangat ______.",
+    "pilihan": ["manis", "pedas", "masin", "masam"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_039",
+    "soalan": "Pilih huruf konsonan dalam senarai berikut:",
+    "pilihan": ["K", "A", "I", "U"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_040",
+    "soalan": "Lawan bagi perkataan 'Buka' ialah ______.",
+    "pilihan": ["Tolak", "Tutup", "Tarik", "Lepas"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_041",
+    "soalan": "Ahmad suka melukis gambar pemandangan di dalam buku ______.",
+    "pilihan": ["tulis", "cerita", "lukisan", "resit"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_042",
+    "soalan": "Pilih kata hubung yang betul: 'Ali ______ Abu bermain layang-layang.'",
+    "pilihan": ["tetapi", "kerana", "lalu", "dan"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_043",
+    "soalan": "Kura-kura berjalan dengan sangat ______.",
+    "pilihan": ["lambat", "laju", "deras", "kencang"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_044",
+    "soalan": "Pilih perkataan dengan ejaan yang betul:",
+    "pilihan": ["kreta", "kereta", "krta", "kaereta"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_045",
+    "soalan": "Lengkapkan suku kata: su + ______ = susu",
+    "pilihan": ["sa", "si", "su", "se"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_046",
+    "soalan": "Lawan bagi perkataan 'Tebal' ialah ______.",
+    "pilihan": ["Kecil", "Pendek", "Sempit", "Nipis"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_047",
+    "soalan": "Pilih perkataan yang tergolong sebagai anggota badan manusia:",
+    "pilihan": ["Tangan", "Kerusi", "Pintu", "Baju"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_048",
+    "soalan": "Tanda baca yang mesti diletakkan pada akhir ayat soalan ialah:",
+    "pilihan": ["Tanda noktah (.)", "Tanda soal (?)", "Tanda seru (!)", "Tanda koma (,)"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_049",
+    "soalan": "Adik tidur di atas ______ yang empuk.",
+    "pilihan": ["bumbung", "lantai dapur", "katil", "tangga"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_050",
+    "soalan": "Lawan bagi perkataan 'Terang' ialah ______.",
+    "pilihan": ["Cerah", "Pagi", "Siang", "Gelap"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_051",
+    "soalan": "Pilih kata seru yang meluahkan perasaan kagum:",
+    "pilihan": ["Wah", "Aduh", "Cis", "Nah"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_052",
+    "soalan": "Lengkapkan suku kata: ma + ______ = mata",
+    "pilihan": ["ti", "ta", "tu", "to"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_053",
+    "soalan": "Arnab mempunyai sepasang telinga yang ______.",
+    "pilihan": ["pendek", "bulat", "panjang", "kecil"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_054",
+    "soalan": "Pilih kata nama khas bagi manusia:",
+    "pilihan": ["murid", "abang", "budak", "Ali"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_055",
+    "soalan": "Datuk menyapu sampah di halaman rumah menggunakan sebatang ______.",
+    "pilihan": ["penyapu", "pensel", "pembaris", "sudu"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_056",
+    "soalan": "Lawan bagi perkataan 'Rajin' ialah ______.",
+    "pilihan": ["Pintar", "Malas", "Cepat", "Kemas"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_057",
+    "soalan": "Ibu menggoreng ikan di dalam sebuah ______.",
+    "pilihan": ["cawan", "piring", "kuali", "gelas"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_058",
+    "soalan": "Lengkapkan suku kata: gi + ______ = gigi",
+    "pilihan": ["ga", "gu", "ge", "gi"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_059",
+    "soalan": "Lawan bagi perkataan 'Kenyang' ialah ______.",
+    "pilihan": ["Lapar", "Dahaga", "Haus", "Penuh"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_060",
+    "soalan": "Pak Belalang bersembunyi di celah ______ hijau.",
+    "pilihan": ["air", "rumput", "awan", "batu bata"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_061",
+    "soalan": "Pilih perkataan dengan ejaan yang betul:",
+    "pilihan": ["kuki", "kusi", "kerusi", "krusi"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_062",
+    "soalan": "Haziq menunggang ______ baharu ke taman permainan.",
+    "pilihan": ["kereta", "kapal terbang", "lori", "basikal"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_063",
+    "soalan": "Pilih kata tanya untuk menanyakan tempat:",
+    "pilihan": ["Mana", "Berapa", "Bila", "Siapa"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_064",
+    "soalan": "Lawan bagi perkataan 'Laju' ialah ______.",
+    "pilihan": ["Pantas", "Perlahan", "Deras", "Kencang"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_065",
+    "soalan": "Lengkapkan suku kata: da + ______ = dadu",
+    "pilihan": ["da", "di", "du", "de"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_066",
+    "soalan": "Cikgu Rohana mengajar kami menyanyi lagu ______.",
+    "pilihan": ["tidur", "hujan", "malam", "Negaraku"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_067",
+    "soalan": "Air sungai mengalir menuju ke ______.",
+    "pilihan": ["laut", "bumbung", "langit", "bilik"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_068",
+    "soalan": "Lawan bagi perkataan 'Kering' ialah ______.",
+    "pilihan": ["Panas", "Basah", "Sejuk", "Keras"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_069",
+    "soalan": "Pilih ayat seruan yang menunjukkan rasa sakit:",
+    "pilihan": ["Wah, lazatnya kuih ini!", "Syabas, kamu menang!", "Aduh, sakitnya jariku!", "Hai, selamat pagi!"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_070",
+    "soalan": "Lengkapkan perkataan: ka + ______ = kasut",
+    "pilihan": ["pot", "mat", "lat", "sut"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_071",
+    "soalan": "Pilih perkataan berawalan 'me-':",
+    "pilihan": ["Menari", "Berjalan", "Terbang", "Makanan"],
+    "jawapan": 0
+  },
+  {
+    "id": "bm1_072",
+    "soalan": "Lawan bagi perkataan 'Penuh' ialah ______.",
+    "pilihan": ["Banyak", "Kosong", "Padat", "Sarat"],
+    "jawapan": 1
+  },
+  {
+    "id": "bm1_073",
+    "soalan": "Adik memakai ______ tidur sebelum masuk ke bilik.",
+    "pilihan": ["beg", "kasut", "baju", "topi"],
+    "jawapan": 2
+  },
+  {
+    "id": "bm1_074",
+    "soalan": "Setiap hari kita perlu memberus ______ supaya sentiasa bersih.",
+    "pilihan": ["rambut", "kuku", "baju", "gigi"],
+    "jawapan": 3
+  },
+  {
+    "id": "bm1_075",
+    "soalan": "Pilih huruf yang berada selepas huruf 'D':",
+    "pilihan": ["E", "C", "B", "A"],
+    "jawapan": 0
+  }
+]
