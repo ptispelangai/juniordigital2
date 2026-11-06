@@ -1,0 +1,452 @@
+[
+  {
+    "id": "sn4_001",
+    "soalan": "Organ utama yang terlibat dalam sistem pernafasan manusia ialah:",
+    "pilihan": ["Peparu", "Jantung", "Perut", "Hati"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_002",
+    "soalan": "Semasa manusia menarik nafas, udara disedut melalui laluan:",
+    "pilihan": ["Hidung -> Peparu -> Trakea", "Hidung -> Trakea -> Peparu", "Trakea -> Hidung -> Peparu", "Peparu -> Trakea -> Hidung"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_003",
+    "soalan": "Kandungan gas yang lebih banyak terdapat dalam udara sedutan berbanding udara hembusan ialah:",
+    "pilihan": ["Karbon dioksida", "Nitrogen oksida", "Oksigen", "Wap air"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_004",
+    "soalan": "Apakah yang berlaku kepada dada manusia semasa menghembus nafas?",
+    "pilihan": ["Dada bergerak ke atas dan mengembang", "Dada tidak bergerak langsung", "Dada mengembang dan menegang", "Dada bergerak ke bawah dan mengempis"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_005",
+    "soalan": "Aktiviti manakah yang menunjukkan kadar pernafasan paling tinggi?",
+    "pilihan": ["Berlari pecut 100 meter", "Membaca buku cerita", "Tidur di atas katil", "Duduk menonton televisyen"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_006",
+    "soalan": "Penyingkiran bahan buangan seperti air kencing, peluh dan karbon dioksida daripada badan dinamakan:",
+    "pilihan": ["Penyahtinjaan", "Perkumuhan", "Pencernaan", "Fotosintesis"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_007",
+    "soalan": "Organ perkumuhan manusia yang menyingkirkan peluh ialah:",
+    "pilihan": ["Peparu", "Ginjal", "Kulit", "Usus besar"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_008",
+    "soalan": "Sisa makanan yang tidak tercerna disingkirkan melalui dubur sebagai tinja melalui proses:",
+    "pilihan": ["Pernafasan", "Perkumuhan", "Penyejatan", "Penyahtinjaan"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_009",
+    "soalan": "Apakah gerak balas spontan manusia apabila tangan tersentuh cerek yang mendidih panas?",
+    "pilihan": ["Menarik tangan dengan serta-merta", "Memegang cerek tersebut lebih kuat", "Menutup mata perlahan-lahan", "Berdiam diri tanpa bergerak"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_010",
+    "soalan": "Haiwan manakah yang bernafas menggunakan struktur spirakel?",
+    "pilihan": ["Kucing", "Belalang", "Ikan keli", "Katak"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_011",
+    "soalan": "Cacing tanah dan lintah bernafas menyerap oksigen melalui:",
+    "pilihan": ["Insang luar", "Peparu", "Kulit lembap", "Spirakel"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_012",
+    "soalan": "Katak mempunyai dua organ pernafasan bergantung pada persekitarannya, iaitu:",
+    "pilihan": ["Insang dan sirip", "Spirakel dan trakea", "Kulit dan insang", "Peparu dan kulit lembap"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_013",
+    "soalan": "Haiwan vertebrata ialah haiwan yang mempunyai:",
+    "pilihan": ["Tulang belakang", "Sayap untuk terbang", "Cangkerang luar", "Darah berwarna putih"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_014",
+    "soalan": "Antara berikut, haiwan manakah yang dikelaskan sebagai haiwan invertebrata?",
+    "pilihan": ["Burung pipit", "Semut", "Kambing", "Ular senduk"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_015",
+    "soalan": "Ciri khas haiwan mamalia antaranya ialah:",
+    "pilihan": ["Bernafas menggunakan insang", "Mempunyai sisik berlendir", "Mempunyai bulu atau rambut dan menyusukan anak", "Semuanya membiak secara bertelur"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_016",
+    "soalan": "Kumpulan haiwan berdarah sejuk yang bertelur, mempunyai kulit berlendir dan boleh hidup di darat serta air ialah:",
+    "pilihan": ["Mamalia", "Reptilia", "Burung", "Amfibia"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_017",
+    "soalan": "Bahagian akar tumbuhan bergerak balas secara positif terhadap tarikan:",
+    "pilihan": ["Graviti dan air", "Cahaya matahari", "Sentuhan manusia", "Angin kencang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_018",
+    "soalan": "Pucuk tumbuhan bergerak balas tumbuh menghadap ke arah punca:",
+    "pilihan": ["Graviti bumi", "Cahaya matahari", "Batu kapur", "Kegelapan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_019",
+    "soalan": "Daun pokok semalu menguncup apabila disentuh menunjukkan gerak balas terhadap:",
+    "pilihan": ["Air", "Graviti", "Sentuhan", "Cahaya"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_020",
+    "soalan": "Proses tumbuhan hijau membuat makanannya sendiri menggunakan cahaya dinamakan:",
+    "pilihan": ["Perkumuhan", "Pernafasan", "Transpirasi", "Fotosintesis"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_021",
+    "soalan": "Keperluan utama bagi proses fotosintesis ialah:",
+    "pilihan": ["Klorofil, cahaya matahari, air dan karbon dioksida", "Klorofil, tanah liat, minyak dan oksigen", "Baja kimia, karbon monoksida dan angin", "Bakteria, ais, gula dan garam"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_022",
+    "soalan": "Hasil akhir daripada proses fotosintesis tumbuhan ialah:",
+    "pilihan": ["Air dan garam", "Glukosa (kanji) dan gas oksigen", "Baja dan karbon dioksida", "Asid dan debunga"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_023",
+    "soalan": "Pernyataan manakah yang membuktikan cahaya bergerak lurus?",
+    "pilihan": ["Cahaya boleh dibengkokkan melalui getah paip melengkung", "Cahaya memantul pada dinding hitam legap", "Pembentukan bayang-bayang apabila cahaya dihalang objek legap", "Cahaya bergerak lebih perlahan dalam udara"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_024",
+    "soalan": "Bayang-bayang terbentuk paling jelas dan gelap apabila cahaya dihalang oleh objek:",
+    "pilihan": ["Lut sinar", "Jernih", "Lut cahaya", "Legap"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_025",
+    "soalan": "Alat manakah yang mengaplikasikan prinsip pantulan cahaya untuk membolehkan doktor gigi melihat bahagian belakang gigi?",
+    "pilihan": ["Cermin pergigian", "Kanta pembesar", "Teleskop astronomi", "Prisma kaca"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_026",
+    "soalan": "Fenomena penyedut minuman kelihatan bengkok apabila dimasukkan ke dalam gelas berisi air berlaku disebabkan oleh:",
+    "pilihan": ["Pantulan cahaya", "Pembiasan cahaya", "Penyerapan cahaya", "Pencairan plastik"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_027",
+    "soalan": "Pelangi terbentuk di langit selepas hujan melalui fenomena pembiasan dan penyebaran:",
+    "pilihan": ["Wap panas", "Angin kencang", "Cahaya matahari oleh titisan air", "Gelombang bunyi"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_028",
+    "soalan": "Bunyi dihasilkan apabila sesuatu objek mengalami:",
+    "pilihan": ["Pemanasan", "Pembekuan", "Pergerakan lurus", "Getaran"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_029",
+    "soalan": "Bunyi yang dipantulkan semula apabila mengenai permukaan keras dan luas dinamakan:",
+    "pilihan": ["Gema", "Pic bunyi", "Getaran perlahan", "Sonar mati"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_030",
+    "soalan": "Haiwan nokturnal manakah yang menggunakan pantulan bunyi (ekolokasi) untuk memburu mangsa dalam gelap?",
+    "pilihan": ["Kucing", "Kelawar", "Harimau", "Ular sawa"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_031",
+    "soalan": "Kesan buruk akibat pencemaran bunyi yang berlebihan kepada manusia antaranya ialah:",
+    "pilihan": ["Meningkatkan daya ingatan", "Menjadikan badan lebih bertenaga", "Tekanan emosi dan kerosakan pendengaran", "Penglihatan bertambah tajam"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_032",
+    "soalan": "Sumber tenaga utama bagi seluruh hidupan di muka bumi ialah:",
+    "pilihan": ["Petroleum", "Arang batu", "Angin", "Matahari"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_033",
+    "soalan": "Tenaga yang tersimpan di dalam makanan, bahan api fosil dan bateri dinamakan:",
+    "pilihan": ["Tenaga kimia", "Tenaga kinetik", "Tenaga haba", "Tenaga suria"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_034",
+    "soalan": "Objek yang sedang bergerak laju mempunyai bentuk tenaga:",
+    "pilihan": ["Tenaga keupayaan", "Tenaga kinetik", "Tenaga nuklear", "Tenaga kimia"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_035",
+    "soalan": "Perubahan bentuk tenaga yang berlaku apabila televisyen dihidupkan ialah:",
+    "pilihan": ["Tenaga kimia -> Tenaga haba", "Tenaga kinetik -> Tenaga bunyi", "Tenaga elektrik -> Tenaga cahaya + Tenaga bunyi", "Tenaga keupayaan -> Tenaga suria"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_036",
+    "soalan": "Antara berikut, yang manakah merupakan sumber tenaga yang boleh dibaharui (tidak akan habis)?",
+    "pilihan": ["Arang batu", "Gas asli", "Petroleum", "Matahari dan angin"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_037",
+    "soalan": "Sumber bahan asas daripada batuan dan tanih digunakan untuk menghasilkan:",
+    "pilihan": ["Kaca dan seramik", "Kain sutera", "Tayar getah", "Kertas tulis"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_038",
+    "soalan": "Fabrik bulu yang lembut dan tebal diperoleh daripada sumber haiwan iaitu:",
+    "pilihan": ["Ulat sutera", "Biri-biri", "Lembu", "Buaya"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_039",
+    "soalan": "Bahan plastik sintetik diperoleh daripada pemprosesan bahan:",
+    "pilihan": ["Kayu balak", "Kulit haiwan", "Petroleum", "Batu kapur"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_040",
+    "soalan": "Bahan yang membenarkan arus elektrik mengalir melaluinya dengan baik dikenali sebagai:",
+    "pilihan": ["Penebat elektrik", "Konduktor haba", "Penebat haba", "Konduktor elektrik"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_041",
+    "soalan": "Pemegang kuali memasak biasanya diperbuat daripada kayu atau plastik kerana sifatnya sebagai:",
+    "pilihan": ["Penebat haba yang baik", "Konduktor haba yang pantas", "Bahan mudah terbakar", "Bahan penyerap minyak"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_042",
+    "soalan": "Sifat bahan yang boleh diregangkan dan kembali semula ke bentuk asal dinamakan:",
+    "pilihan": ["Kekerasan", "Kekenyalan", "Ketumpatan", "Kebolehlenturan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_043",
+    "soalan": "Daya yang menarik semua objek jatuh ke arah pusat Bumi dinamakan:",
+    "pilihan": ["Daya geseran", "Daya tolakan", "Daya graviti bumi", "Daya magnet"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_044",
+    "soalan": "Kesan kewujudan daya graviti bumi membolehkan manusia dan objek:",
+    "pilihan": ["Terapung di udara tanpa jatuh", "Bergerak lebih pantas daripada cahaya", "Berputar tanpa henti", "Kekal berada pada kedudukannya di atas permukaan bumi"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_045",
+    "soalan": "Bumi berputar pada paksinya dari arah:",
+    "pilihan": ["Barat ke timur", "Timur ke barat", "Utara ke selatan", "Selatan ke utara"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_046",
+    "soalan": "Putaran Bumi pada paksinya selama 24 jam mengakibatkan berlakunya kejadian:",
+    "pilihan": ["Empat musim", "Siang dan malam", "Gerhana matahari penuh", "Banjir kilat"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_047",
+    "soalan": "Beredarnya Bumi mengelilingi Matahari mengikut orbitnya mengambil tempoh selama:",
+    "pilihan": ["24 jam", "30 hari", "365 1/4 hari (1 tahun)", "10 tahun"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_048",
+    "soalan": "Mesin ringkas yang terdiri daripada sebatang rod yang berputar pada satu titik tetap (fulkrum) ialah:",
+    "pilihan": ["Gear", "Baji", "Takal", "Tuas"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_049",
+    "soalan": "Contoh alat yang menggunakan prinsip tuas ialah:",
+    "pilihan": ["Gunting dan jongkang-jongkit", "Pisau dapur", "Tangga rumah", "Skru kayu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_050",
+    "soalan": "Permukaan rata yang disendengkan untuk memudahkan kerja memindahkan beban ke tempat tinggi ialah:",
+    "pilihan": ["Baji", "Satah condong", "Tuas", "Roda"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_051",
+    "soalan": "Alat seperti kapak, paku dan bilah pisau berfungsi berdasarkan prinsip mesin ringkas jenis:",
+    "pilihan": ["Tuas", "Gear", "Baji", "Takal"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_052",
+    "soalan": "Roda bergerigi yang saling bercantum untuk mengubah kelajuan atau arah pergerakan dinamakan:",
+    "pilihan": ["Takal", "Baji", "Skru", "Gear"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_053",
+    "soalan": "Kereta sorong merupakan contoh mesin kompleks kerana menggabungkan mesin ringkas seperti:",
+    "pilihan": ["Tuas, roda dan gandar", "Baji dan skru sahaja", "Gear dan satah condong", "Takal dan spring"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_054",
+    "soalan": "Organ perkumuhan ginjal manusia berfungsi menyingkirkan bahan buangan berupa:",
+    "pilihan": ["Karbondioksida", "Air kencing (urin)", "Peluh masin", "Tinja pejal"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_055",
+    "soalan": "Sekiranya bahan toksik daripada perkumuhan tidak disingkirkan daripada badan manusia, ia boleh menyebabkan:",
+    "pilihan": ["Badan menjadi lebih bertenaga", "Deria bertambah tajam", "Penyakit kronik dan keracunan badan", "Tulang menjadi lebih kuat"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_056",
+    "soalan": "Tabiat buruk manusia yang boleh merosakkan organ peparu ialah:",
+    "pilihan": ["Bersenam di padang", "Minum air kosong secukupnya", "Tidur awal setiap malam", "Menghisap rokok"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_057",
+    "soalan": "Ikan paus dan lumba-lumba tergolong dalam kumpulan mamalia kerana bernafas melalui:",
+    "pilihan": ["Peparu", "Insang dalam", "Kulit lembap", "Spirakel"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_058",
+    "soalan": "Platipus dan tenggiling adalah contoh mamalia unik kerana:",
+    "pilihan": ["Mempunyai insang", "Platipus bertelur tetapi menyusukan anaknya", "Tidak bernafas", "Boleh terbang di udara"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_059",
+    "soalan": "Bahan klorofil hijau pada daun tumbuhan berfungsi menyerap tenaga daripada:",
+    "pilihan": ["Air tanah", "Baja fosfat", "Cahaya matahari", "Oksigen udara"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_060",
+    "soalan": "Stoma pada daun tumbuhan berfungsi sebagai liang untuk:",
+    "pilihan": ["Menyerap baja kimia", "Menghasilkan akar tunjang", "Menyerap cahaya matahari", "Pertukaran gas karbon dioksida dan oksigen"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_061",
+    "soalan": "Mengapakah fotosintesis tumbuhan sangat penting bagi manusia dan haiwan?",
+    "pilihan": ["Membekalkan gas oksigen dan sumber makanan", "Menyerap seluruh air hujan", "Menghalang gempa bumi", "Memanaskan atmosfera bumi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_062",
+    "soalan": "Apakah yang terjadi kepada saiz bayang-bayang jika jarak objek dengan sumber cahaya semakin dekat?",
+    "pilihan": ["Saiz bayang-bayang menjadi lebih kecil", "Saiz bayang-bayang menjadi lebih besar", "Saiz bayang-bayang tidak berubah", "Bayang-bayang hilang serta-merta"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_063",
+    "soalan": "Periskop yang digunakan pada kapal selam menggunakan prinsip sifat cahaya:",
+    "pilihan": ["Pembiasan cahaya", "Penyerapan haba", "Pantulan cahaya oleh cermin", "Penyebaran warna"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_064",
+    "soalan": "Kanta pembesar menggunakan prinsip sifat cahaya:",
+    "pilihan": ["Pantulan cahaya", "Cahaya bergerak lurus", "Penyerapan cahaya", "Pembiasan cahaya"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_065",
+    "soalan": "Teknologi sonar yang digunakan oleh nelayan untuk mengesan kedudukan ikan di laut berasaskan:",
+    "pilihan": ["Pantulan gelombang bunyi", "Cahaya laser merah", "Magnetik bumi", "Suhu air laut"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_066",
+    "soalan": "Bunyi tidak dapat merambat melintasi kawasan:",
+    "pilihan": ["Air sungai", "Ruang vakum (hampa udara)", "Bongkah kayu padu", "Kepingan besi"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_067",
+    "soalan": "Tenaga yang tersimpan pada gelang getah yang diregangkan ialah:",
+    "pilihan": ["Tenaga haba", "Tenaga kinetik", "Tenaga keupayaan kenyal", "Tenaga suria"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_068",
+    "soalan": "Mengapakah kita perlu mengamalkan penggunaan tenaga elektrik secara berhemah?",
+    "pilihan": ["Supaya bil elektrik bertambah", "Menghabiskan bekalan bahan api", "Merangsang pemanasan global", "Menjimatkan kos dan memelihara sumber alam yang tidak boleh dibaharui"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_069",
+    "soalan": "Bahan manakah yang bersifat konduktor haba yang sangat baik?",
+    "pilihan": ["Aluminium dan besi", "Kain kapas", "Kayu getah", "Gabus"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_070",
+    "soalan": "Kaca digunakan untuk membuat mentol dan cermin tingkap kerana sifatnya yang:",
+    "pilihan": ["Kalis haba", "Lut sinar dan membenarkan cahaya melaluinya", "Kenyal dan mudah lentur", "Ringan dan terapung"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_071",
+    "soalan": "Apakah yang akan berlaku jika bumi tidak mempunyai daya tarikan graviti?",
+    "pilihan": ["Semua benda akan menjadi lebih berat", "Bumi akan berputar lebih laju", "Semua objek dan hidupan akan terapung ke angkasa lepas", "Hujan akan turun lebih lebat"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn4_072",
+    "soalan": "Kedudukan Matahari kelihatan berubah-ubah dari arah timur ke barat disebabkan oleh:",
+    "pilihan": ["Peredaran bulan", "Pergerakan awan mendung", "Matahari mengelilingi bumi", "Putaran Bumi pada paksinya dari barat ke timur"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn4_073",
+    "soalan": "Panjang bayang-bayang objek pada waktu tengah hari adalah paling:",
+    "pilihan": ["Pendek", "Panjang", "Gelap", "Condong"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn4_074",
+    "soalan": "Tuas kelas pertama mempunyai kedudukan bahagian:",
+    "pilihan": ["Beban di tengah", "Fulkrum berada di antara beban dan daya", "Daya di tengah", "Tiada fulkrum langsung"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn4_075",
+    "soalan": "Apakah mesin ringkas yang terdapat pada penutup botol berulir?",
+    "pilihan": ["Takal", "Tuas", "Skru", "Baji"],
+    "jawapan": 2
+  }
+]
