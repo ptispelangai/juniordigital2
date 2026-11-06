@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bi1_001",
+    "soalan": "Choose the letter that comes after 'B':",
+    "pilihan": ["A", "C", "D", "E"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_002",
+    "soalan": "What is the color of a ripe apple?",
+    "pilihan": ["Blue", "Black", "Red", "Purple"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_003",
+    "soalan": "A baby cat is called a ______.",
+    "pilihan": ["puppy", "cub", "chick", "kitten"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_004",
+    "soalan": "What is the opposite of 'BIG'?",
+    "pilihan": ["Small", "Tall", "Fat", "Long"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_005",
+    "soalan": "Choose the correct spelling for the number 1:",
+    "pilihan": ["Won", "One", "On", "Oen"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_006",
+    "soalan": "We use our ______ to see things.",
+    "pilihan": ["ears", "nose", "eyes", "teeth"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_007",
+    "soalan": "Which animal barks and wags its tail?",
+    "pilihan": ["Duck", "Cat", "Fish", "Dog"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_008",
+    "soalan": "Choose the greeting for the morning:",
+    "pilihan": ["Good morning", "Good night", "Good evening", "Goodbye"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_009",
+    "soalan": "What is the opposite of 'HOT'?",
+    "pilihan": ["Warm", "Cold", "Spicy", "Boiling"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_010",
+    "soalan": "Which of the following is a fruit?",
+    "pilihan": ["Carrot", "Potato", "Banana", "Onion"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_011",
+    "soalan": "A bird flies using its ______.",
+    "pilihan": ["tail", "fins", "ears", "wings"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_012",
+    "soalan": "Choose the correct pronoun: '______ is a boy.'",
+    "pilihan": ["He", "She", "It", "They"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_013",
+    "soalan": "What is the color of fresh grass?",
+    "pilihan": ["Yellow", "Green", "Pink", "Orange"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_014",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Bok", "Buke", "Book", "Boku"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_015",
+    "soalan": "We hear sounds with our ______.",
+    "pilihan": ["eyes", "nose", "hands", "ears"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_016",
+    "soalan": "Choose the opposite of 'UP':",
+    "pilihan": ["Down", "Left", "Right", "Back"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_017",
+    "soalan": "How many days are there in a week?",
+    "pilihan": ["Five", "Seven", "Ten", "Twelve"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_018",
+    "soalan": "A duck says: '______!'",
+    "pilihan": ["Moo", "Meow", "Quack", "Baa"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_019",
+    "soalan": "We write on paper using a ______.",
+    "pilihan": ["ruler", "eraser", "bag", "pencil"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_020",
+    "soalan": "What is the opposite of 'HAPPY'?",
+    "pilihan": ["Sad", "Glad", "Fun", "Sweet"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_021",
+    "soalan": "Choose the correct spelling for the number 3:",
+    "pilihan": ["Tree", "Three", "Thee", "Tre"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_022",
+    "soalan": "A fish lives and swims in the ______.",
+    "pilihan": ["sky", "tree", "water", "sand"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_023",
+    "soalan": "What is the color of the clear sky during the day?",
+    "pilihan": ["Black", "Red", "Green", "Blue"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_024",
+    "soalan": "Choose the article: 'This is ______ apple.'",
+    "pilihan": ["an", "a", "two", "the one"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_025",
+    "soalan": "What is the opposite of 'YES'?",
+    "pilihan": ["Sure", "No", "Okay", "Please"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_026",
+    "soalan": "We smell pleasant flowers with our ______.",
+    "pilihan": ["mouth", "feet", "nose", "ears"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_027",
+    "soalan": "Choose the plural form of 'Cat':",
+    "pilihan": ["Cates", "Catis", "Catten", "Cats"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_028",
+    "soalan": "Which animal produces milk for humans?",
+    "pilihan": ["Cow", "Lion", "Tiger", "Fox"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_029",
+    "soalan": "What is the opposite of 'TALL'?",
+    "pilihan": ["Long", "Short", "Fat", "Wide"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_030",
+    "soalan": "Choose the correct word: 'I sit on a ______.'",
+    "pilihan": ["table", "plate", "chair", "cup"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_031",
+    "soalan": "Which number comes after four (4)?",
+    "pilihan": ["Two", "Three", "Six", "Five"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_032",
+    "soalan": "What is the color of milk?",
+    "pilihan": ["White", "Black", "Pink", "Yellow"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_033",
+    "soalan": "A baby dog is called a ______.",
+    "pilihan": ["kitten", "puppy", "calf", "duckling"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_034",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Duk", "Dack", "Duck", "Docke"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_035",
+    "soalan": "What is the opposite of 'FAST'?",
+    "pilihan": ["Quick", "Rapid", "Swift", "Slow"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_036",
+    "soalan": "We taste ice cream with our ______.",
+    "pilihan": ["tongue", "ears", "eyes", "hair"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_037",
+    "soalan": "Choose the pronoun: '______ is a girl.'",
+    "pilihan": ["He", "She", "It", "They"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_038",
+    "soalan": "An elephant has a long ______.",
+    "pilihan": ["wing", "fin", "trunk", "beak"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_039",
+    "soalan": "What is the opposite of 'IN'?",
+    "pilihan": ["On", "At", "Under", "Out"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_040",
+    "soalan": "Choose the correct spelling for the number 5:",
+    "pilihan": ["Five", "Fiv", "Fife", "Fiev"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_041",
+    "soalan": "We sleep on our bed at ______ time.",
+    "pilihan": ["noon", "night", "morning", "afternoon"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_042",
+    "soalan": "Which animal hops on land?",
+    "pilihan": ["Fish", "Snake", "Rabbit", "Turtle"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_043",
+    "soalan": "What is the opposite of 'CLEAN'?",
+    "pilihan": ["Neat", "Fresh", "Bright", "Dirty"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_044",
+    "soalan": "Birds build their eggs inside a ______.",
+    "pilihan": ["nest", "kennel", "stable", "cage"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_045",
+    "soalan": "Choose the correct word: 'I drink water from a ______.'",
+    "pilihan": ["plate", "glass", "fork", "spoon"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_046",
+    "soalan": "What color is a ripe banana?",
+    "pilihan": ["Red", "Blue", "Yellow", "Purple"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_047",
+    "soalan": "What is the opposite of 'GO'?",
+    "pilihan": ["Run", "Walk", "Jump", "Stop"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_048",
+    "soalan": "Choose the plural form of 'Dog':",
+    "pilihan": ["Dogs", "Doges", "Dogis", "Doggen"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_049",
+    "soalan": "The sun rises in the ______.",
+    "pilihan": ["west", "morning", "night", "winter"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_050",
+    "soalan": "Which room do we cook food in?",
+    "pilihan": ["Bedroom", "Bathroom", "Kitchen", "Garden"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_051",
+    "soalan": "What is the opposite of 'DARK'?",
+    "pilihan": ["Black", "Dim", "Gloomy", "Light"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_052",
+    "soalan": "A frog can swim in water and jump on ______.",
+    "pilihan": ["land", "fire", "cloud", "sun"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_053",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Fis", "Fish", "Fihs", "Fiss"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_054",
+    "soalan": "How many fingers do you have on one hand?",
+    "pilihan": ["Ten", "Four", "Five", "Six"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_055",
+    "soalan": "What is the opposite of 'OPEN'?",
+    "pilihan": ["Push", "Pull", "Start", "Close"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_056",
+    "soalan": "A car travels on the ______.",
+    "pilihan": ["road", "river", "sea", "air"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_057",
+    "soalan": "Choose the action verb:",
+    "pilihan": ["Table", "Jump", "Yellow", "Book"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_058",
+    "soalan": "What sound does a cat make?",
+    "pilihan": ["Baa", "Moo", "Meow", "Quack"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_059",
+    "soalan": "What is the opposite of 'OLD'?",
+    "pilihan": ["Ancient", "Weak", "Tired", "Young"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_060",
+    "soalan": "Choose the correct spelling for the number 10:",
+    "pilihan": ["Ten", "Tan", "Tne", "Teen"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_061",
+    "soalan": "We wear shoes on our ______.",
+    "pilihan": ["hands", "feet", "ears", "head"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_062",
+    "soalan": "An aeroplane flies in the ______.",
+    "pilihan": ["ocean", "ground", "sky", "tunnel"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_063",
+    "soalan": "What is the opposite of 'HARD'?",
+    "pilihan": ["Tough", "Rocky", "Solid", "Soft"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_064",
+    "soalan": "Choose the polite word to ask for help:",
+    "pilihan": ["Please", "Go", "Stop", "No"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_065",
+    "soalan": "Sugar tastes ______.",
+    "pilihan": ["salty", "sweet", "sour", "bitter"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_066",
+    "soalan": "A monkey loves eating ______.",
+    "pilihan": ["fish", "meat", "bananas", "bones"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_067",
+    "soalan": "What is the opposite of 'DAY'?",
+    "pilihan": ["Sun", "Morning", "Afternoon", "Night"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_068",
+    "soalan": "Choose the vowel in the list:",
+    "pilihan": ["A", "B", "C", "D"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_069",
+    "soalan": "We carry textbooks in our school ______.",
+    "pilihan": ["bottle", "bag", "box", "pocket"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_070",
+    "soalan": "What is the opposite of 'GIRL'?",
+    "pilihan": ["Sister", "Mother", "Boy", "Aunt"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_071",
+    "soalan": "Complete the word: 's + u + n = ______'",
+    "pilihan": ["son", "sin", "san", "sun"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi1_072",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Tree", "Tre", "Trree", "Trea"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi1_073",
+    "soalan": "Ice cream is very ______.",
+    "pilihan": ["hot", "cold", "spicy", "warm"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi1_074",
+    "soalan": "What is the opposite of 'HEAVY'?",
+    "pilihan": ["Dark", "Hard", "Light", "Strong"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi1_075",
+    "soalan": "Complete the polite phrase: 'Thank ______ very much.'",
+    "pilihan": ["me", "he", "she", "you"],
+    "jawapan": 3
+  }
+]
