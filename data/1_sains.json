@@ -1,0 +1,452 @@
+[
+  {
+    "id": "sn1_001",
+    "soalan": "Antara berikut, yang manakah merupakan benda hidup?",
+    "pilihan": ["Kucing", "Batu", "Pensel", "Kereta"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_002",
+    "soalan": "Antara berikut, yang manakah merupakan benda bukan hidup?",
+    "pilihan": ["Pokok bunga", "Kerusi kayu", "Burung", "Ikan"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_003",
+    "soalan": "Benda hidup memerlukan makanan, air dan ______ untuk terus hidup.",
+    "pilihan": ["batu", "tanah", "udara", "api"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_004",
+    "soalan": "Organ manusia yang digunakan untuk melihat keindahan alam ialah:",
+    "pilihan": ["Telinga", "Hidung", "Lidah", "Mata"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_005",
+    "soalan": "Deria pendengaran berfungsi menggunakan organ:",
+    "pilihan": ["Telinga", "Mata", "Kulit", "Lidah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_006",
+    "soalan": "Organ lidah digunakan untuk mengesan rasa makanan melalui deria ______.",
+    "pilihan": ["bau", "rasa", "sentuh", "lihat"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_007",
+    "soalan": "Apakah deria yang digunakan untuk menghidu bau wangi sabun?",
+    "pilihan": ["Deria rasa", "Deria lihat", "Deria bau", "Deria sentuh"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_008",
+    "soalan": "Kita menggunakan kulit pada tubuh untuk deria ______.",
+    "pilihan": ["penglihatan", "pendengaran", "bau", "sentuhan"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_009",
+    "soalan": "Haiwan manakah yang mempunyai cangkerang keras untuk melindungi diri?",
+    "pilihan": ["Kura-kura", "Kucing", "Kambing", "Burung"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_010",
+    "soalan": "Bahagian tubuh burung yang digunakan untuk terbang di udara ialah:",
+    "pilihan": ["Kaki", "Sayap", "Paruh", "Ekor"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_011",
+    "soalan": "Ikan berenang di dalam air menggunakan sirip dan ______.",
+    "pilihan": ["telinga", "kaki", "ekor", "sayap"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_012",
+    "soalan": "Lembu dan kambing mempunyai bahagian kepala yang tajam iaitu:",
+    "pilihan": ["Paruh", "Sesungut", "Sirip", "Tanduk"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_013",
+    "soalan": "Bahagian tumbuhan yang menyerap air dari dalam tanah ialah:",
+    "pilihan": ["Akar", "Daun", "Bunga", "Buah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_014",
+    "soalan": "Bahagian tumbuhan yang biasanya berwarna hijau dan menghasilkan makanan ialah:",
+    "pilihan": ["Akar", "Daun", "Batang", "Biji"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_015",
+    "soalan": "Pokok mawar mempunyai bahagian pelindung pada batangnya iaitu:",
+    "pilihan": ["Daun lebar", "Buah manis", "Duri tajam", "Akar serabut"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_016",
+    "soalan": "Magnet mempunyai dua kutub iaitu Kutub Utara dan Kutub ______.",
+    "pilihan": ["Timur", "Barat", "Tengah", "Selatan"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_017",
+    "soalan": "Objek manakah yang dapat ditarik oleh magnet?",
+    "pilihan": ["Klip kertas besi", "Pembaris plastik", "Kertas lukisan", "Pemadam getah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_018",
+    "soalan": "Objek manakah yang TIDAK dapat ditarik oleh magnet?",
+    "pilihan": ["Paku besi", "Pembaris plastik", "Jarum jahit", "Gunting logam"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_019",
+    "soalan": "Dua kutub magnet yang sama (Utara dan Utara) apabila didekatkan akan:",
+    "pilihan": ["Menarik rapat", "Melekat kuat", "Menolak antara satu sama lain", "Patah dua"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_020",
+    "soalan": "Dua kutub magnet yang berlainan (Utara dan Selatan) apabila didekatkan akan:",
+    "pilihan": ["Menolak", "Menjadi panas", "Mencair", "Menarik antara satu sama lain"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_021",
+    "soalan": "Bahan manakah yang berupaya menyerap air?",
+    "pilihan": ["Tuala kain", "Plastik pembalut", "Kaca tingkap", "Pembaris besi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_022",
+    "soalan": "Bahan manakah yang kalis air (tidak menyerap air)?",
+    "pilihan": ["Kertas tisu", "Beg plastik", "Span basuh", "Kain kapas"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_023",
+    "soalan": "Objek yang digunakan untuk mengelap tumpahan air di atas meja ialah:",
+    "pilihan": ["Plastik", "Cermin", "Kain tuala", "Paku"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_024",
+    "soalan": "Payung diperbuat daripada bahan kalis air supaya kita tidak basah semasa hari ______.",
+    "pilihan": ["panas terik", "angin sepoi", "malam gelap", "hujan lebat"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_025",
+    "soalan": "Bentuk muka bumi yang tinggi dan mempunyai lereng curam dinamakan:",
+    "pilihan": ["Gunung", "Pantai", "Lembah", "Tasik"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_026",
+    "soalan": "Kawasan perairan yang luas dan airnya berasa masin ialah:",
+    "pilihan": ["Kolam", "Lautan", "Sungai", "Parit"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_027",
+    "soalan": "Bentuk muka bumi tanah rendah yang terletak di antara bukit atau gunung ialah:",
+    "pilihan": ["Pantai", "Puncak", "Lembah", "Pulau"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_028",
+    "soalan": "Daratan yang dikelilingi sepenuhnya oleh air laut dipanggil:",
+    "pilihan": ["Bukit", "Gunung", "Lembah", "Pulau"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_029",
+    "soalan": "Tanah yang mengandungi batu kerikil dan pasir halus biasanya terdapat di:",
+    "pilihan": ["Pantai", "Sawah padi", "Bawah tanah liat", "Hutan tebal"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_030",
+    "soalan": "Tanah yang sangat halus dan melekit apabila basah ialah:",
+    "pilihan": ["Pasir pantai", "Tanah liat", "Tanah kebun", "Batu kerikil"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_031",
+    "soalan": "Tanah yang paling sesuai untuk menanam pokok bunga dan sayur ialah:",
+    "pilihan": ["Pasir", "Tanah liat", "Tanah kebun", "Batu kapur"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_032",
+    "soalan": "Bongkah tiga dimensi yang mempunyai bentuk bulat seperti bola dinamakan:",
+    "pilihan": ["Kubus", "Silinder", "Piramid", "Sfera"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_033",
+    "soalan": "Bongkah tiga dimensi yang mempunyai 6 permukaan segi empat sama ialah:",
+    "pilihan": ["Kubus", "Kon", "Sfera", "Prisma"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_034",
+    "soalan": "Topi hari jadi kanak-kanak biasanya menyerupai bentuk tiga dimensi:",
+    "pilihan": ["Silinder", "Kon", "Kubus", "Sfera"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_035",
+    "soalan": "Tin minuman ringan menyerupai bentuk tiga dimensi:",
+    "pilihan": ["Kuboid", "Piramid", "Silinder", "Kon"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_036",
+    "soalan": "Manusia dan haiwan memerlukan makanan untuk mendapatkan:",
+    "pilihan": ["Tidur", "Air", "Nafas", "Tenaga"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_037",
+    "soalan": "Haiwan yang hidup di dalam air dan bernafas menggunakan insang ialah:",
+    "pilihan": ["Ikan", "Kucing", "Ayam", "Burung"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_038",
+    "soalan": "Apakah rasa garam dapur apabila dirasa dengan lidah?",
+    "pilihan": ["Manis", "Masin", "Pahit", "Masam"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_039",
+    "soalan": "Apakah rasa peria apabila dimakan?",
+    "pilihan": ["Manis", "Masin", "Pahit", "Tawar"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_040",
+    "soalan": "Bahan manakah yang menyerap air dengan sangat cepat?",
+    "pilihan": ["Plastik", "Kaca", "Besi", "Span"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_041",
+    "soalan": "Bahan manakah yang kalis air?",
+    "pilihan": ["Baju hujan getah", "Kain pelekat", "Kertas tulis", "Tisu dapur"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_042",
+    "soalan": "Kucing melindungi badannya daripada kesejukan dengan adanya:",
+    "pilihan": ["Sisik", "Bulu halus", "Cangkerang", "Sayap"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_043",
+    "soalan": "Badan buaya dan ikan diliputi oleh struktur keras iaitu:",
+    "pilihan": ["Bulu pelepah", "Cangkerang", "Sisik", "Duri"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_044",
+    "soalan": "Bebek dan itik mempunyai kaki selaput renang untuk memudahkan pergerakan di dalam:",
+    "pilihan": ["Udara", "Pokok", "Tanah", "Air"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_045",
+    "soalan": "Akar pokok tumbuh ke arah bawah untuk mencari:",
+    "pilihan": ["Air", "Batu", "Udara", "Cahaya matahari"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_046",
+    "soalan": "Pucuk tumbuhan tumbuh ke arah atas menghadap punca:",
+    "pilihan": ["Tanah liat", "Cahaya matahari", "Batu kerikil", "Baja"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_047",
+    "soalan": "Bunga pokok bunga raya mempunyai warna kelopak yang:",
+    "pilihan": ["Hitam", "Biru gelap", "Merah", "Kelabu"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_048",
+    "soalan": "Magnet bentuk cincin mempunyai lubang di bahagian:",
+    "pilihan": ["Tepi", "Bawah", "Bucu", "Tengah"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_049",
+    "soalan": "Magnet bar mempunyai bentuk seperti sebatang:",
+    "pilihan": ["Blok lurus panjang", "Cincin bulat", "Bintang", "Segi tiga"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_050",
+    "soalan": "Magnet bentuk ladam kuda menyerupai huruf:",
+    "pilihan": ["O", "U", "V", "S"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_051",
+    "soalan": "Gunting besi boleh ditarik oleh magnet kerana gunting diperbuat daripada:",
+    "pilihan": ["Plastik", "Kayu", "Besi atau logam", "Kaca"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_052",
+    "soalan": "Saputangan kain kapas boleh menyerap peluh kerana ia bersifat:",
+    "pilihan": ["Kalis air", "Keras", "Licin", "Menyerap air"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_053",
+    "soalan": "Botol susu bayi diperbuat daripada kaca atau plastik kerana sifatnya yang:",
+    "pilihan": ["Kalis air", "Menyerap air", "Mudah koyak", "Lembut"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_054",
+    "soalan": "Tanah liat sesuai digunakan untuk membina tembikar kerana zarahnya sangat:",
+    "pilihan": ["Kasar", "Halus dan melekat", "Kering", "Berbatu"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_055",
+    "soalan": "Air mengalir dari kawasan tanah tinggi ke kawasan tanah:",
+    "pilihan": ["Kering", "Panas", "Rendah", "Curam"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_056",
+    "soalan": "Apakah deria yang digunakan untuk mengetahui permukaan ais itu sejuk?",
+    "pilihan": ["Deria bau", "Deria lihat", "Deria dengar", "Deria sentuh"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_057",
+    "soalan": "Bunyi guruh semasa hujan lebat didengar melalui deria:",
+    "pilihan": ["Pendengaran", "Penglihatan", "Rasa", "Bau"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_058",
+    "soalan": "Warna bunga mawar merah dikesan melalui deria:",
+    "pilihan": ["Bau", "Penglihatan", "Rasa", "Sentuh"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_059",
+    "soalan": "Gula-gula berasa manis dikesan menggunakan tunas rasa pada:",
+    "pilihan": ["Hidung", "Gigi", "Lidah", "Bibir"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_060",
+    "soalan": "Bau wangi minyak wangi dikesan menggunakan organ:",
+    "pilihan": ["Mata", "Lidah", "Telinga", "Hidung"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_061",
+    "soalan": "Haiwan yang melahirkan anak ialah:",
+    "pilihan": ["Kucing", "Ayam", "Burung", "Penyu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_062",
+    "soalan": "Haiwan yang bertelur ialah:",
+    "pilihan": ["Kuda", "Ayam", "Lembu", "Kambing"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_063",
+    "soalan": "Pokok kelapa mempunyai urat daun yang tersusun secara:",
+    "pilihan": ["Jejala", "Bulat", "Selari", "Bintang"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_064",
+    "soalan": "Pokok bunga keembung mempunyai akar jenis akar:",
+    "pilihan": ["Tunjang", "Gantung", "Banjir", "Serabut"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_065",
+    "soalan": "Tumbuhan memerlukan udara untuk bernafas dan membuat:",
+    "pilihan": ["Akar", "Makanan", "Batu", "Tanah"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_066",
+    "soalan": "Kekuatan magnet yang lebih kuat dapat menarik lebih banyak klip kertas pada bahagian:",
+    "pilihan": ["Tengahnya", "Tepi nipis", "Kutubnya", "Bawahnya"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_067",
+    "soalan": "Bahan manakah yang menyerap air paling sedikit?",
+    "pilihan": ["Span tebal", "Tuala kapas", "Kertas surat khabar", "Kertas lilin"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_068",
+    "soalan": "Kolam ikan hiasan merupakan kawasan air bertakung yang bersaiz:",
+    "pilihan": ["Kecil", "Sangat luas seperti laut", "Dalam seperti lautan", "Berombak besar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_069",
+    "soalan": "Pantai ialah kawasan pasir yang berdekatan dengan:",
+    "pilihan": ["Puncak gunung", "Laut", "Hutan tebal", "Lembah"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_070",
+    "soalan": "Tanah liat apabila dibakar dalam relau panas akan menjadi:",
+    "pilihan": ["Lembek", "Cair", "Keras (tembikar)", "Berpasir"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_071",
+    "soalan": "Bongkah tiga dimensi kuboid mempunyai 6 permukaan segi empat:",
+    "pilihan": ["Bulat", "Sama sisi sahaja", "Sfera", "Tepat"],
+    "jawapan": 3
+  },
+  {
+    "id": "sn1_072",
+    "soalan": "Piramid mempunyai puncak yang berbentuk:",
+    "pilihan": ["Tajam (bucu)", "Bulat sfera", "Rata melengkung", "Silinder"],
+    "jawapan": 0
+  },
+  {
+    "id": "sn1_073",
+    "soalan": "Semasa menjalankan uji kaji di bilik sains, kita mestilah mendengar arahan daripada:",
+    "pilihan": ["Kawan", "Guru sains", "Murid lain", "Ketua kelas"],
+    "jawapan": 1
+  },
+  {
+    "id": "sn1_074",
+    "soalan": "Sisa pepejal sains hendaklah dibuang ke dalam:",
+    "pilihan": ["Singki air", "Bawah meja", "Tong sampah", "Tingkap"],
+    "jawapan": 2
+  },
+  {
+    "id": "sn1_075",
+    "soalan": "Bilik sains hendaklah sentiasa berada dalam keadaan bersih dan ______.",
+    "pilihan": ["Bising", "Kotor", "Gelap", "Kemas"],
+    "jawapan": 3
+  }
+]
