@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Junior Digital 2 - Uji Minda Sekolah Rendah</title>
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts: Fredoka & Quicksand -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Quicksand:wght@600;700&display=swap" rel="stylesheet">
+  <!-- Confetti -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+
+  <style>
+    body {
+      font-family: 'Quicksand', sans-serif;
+      background: linear-gradient(135deg, #E0F2FE 0%, #FDF4FF 50%, #FEF9C3 100%);
+      min-height: 100vh;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .font-kids {
+      font-family: 'Fredoka', cursive, sans-serif;
+    }
+    .bubbly-btn {
+      transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+    .bubbly-btn:active {
+      transform: scale(0.96);
+    }
+  </style>
+</head>
+<body class="text-slate-800 antialiased flex flex-col justify-between selection:bg-pink-300">
+
+  <!-- TOP BAR -->
+  <header class="w-full bg-white/80 backdrop-blur-md shadow-sm sticky top-0 z-50 border-b-2 border-indigo-100">
+    <div class="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
+      <div class="flex items-center space-x-2">
+        <span class="text-3xl">🚀</span>
+        <div>
+          <h1 class="font-kids text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+            Junior Digital 2
+          </h1>
+          <p class="text-[11px] text-slate-500 font-semibold leading-tight">Uji Minda 25 Soalan Santai (100% Markah)</p>
+        </div>
+      </div>
+      
+      <div id="navUserBadge" class="hidden items-center bg-indigo-50 border border-indigo-200 px-3 py-1 rounded-full">
+        <span class="text-sm">🌟</span>
+        <span id="navUserName" class="text-xs font-bold text-indigo-800 ml-1 truncate max-w-[120px]">Murid</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN CONTAINER -->
+  <main class="flex-grow flex items-center justify-center p-3 sm:p-6 w-full max-w-3xl mx-auto">
+
+    <!-- SCREEN 1: LOGIN RINGKAS -->
+    <div id="screenLogin" class="w-full bg-white rounded-3xl shadow-xl border-4 border-yellow-200 p-6 sm:p-8 text-center">
+      <div class="inline-block p-4 bg-yellow-100 rounded-3xl mb-4 text-5xl">🦁</div>
+      <h2 class="font-kids text-2xl sm:text-3xl font-bold text-slate-800 mb-2">Selamat Datang Adik!</h2>
+      <p class="text-sm text-slate-500 mb-6">Taip nama dan pilih darjah untuk mulakan 25 soalan kuiz.</p>
+
+      <div class="max-w-md mx-auto space-y-4 text-left">
+        <div>
+          <label class="block text-xs font-bold uppercase tracking-wider text-slate-600 mb-1">Nama Panggilan Adik:</label>
+          <input type="text" id="inputNama" placeholder="Contoh: Danial Afiq" 
+            class="w-full px-4 py-3 rounded-2xl border-2 border-slate-200 focus:border-blue-500 outline-none font-semibold text-slate-700 bg-slate-50">
+        </div>
+
+        <div>
+          <label class="block text-xs font-bold uppercase tracking-wider text-slate-600 mb-1">Darjah / Tahun:</label>
+          <select id="selectDarjah" 
+            class="w-full px-4 py-3 rounded-2xl border-2 border-slate-200 focus:border-blue-500 outline-none font-semibold text-slate-700 bg-slate-50 cursor-pointer">
+            <optgroup label="Tahap 1">
+              <option value="1">Tahun 1</option>
+              <option value="2" selected>Tahun 2</option>
+              <option value="3">Tahun 3</option>
+            </optgroup>
+            <optgroup label="Tahap 2">
+              <option value="4">Tahun 4</option>
+              <option value="5">Tahun 5</option>
+              <option value="6">Tahun 6</option>
+            </optgroup>
+          </select>
+        </div>
+
+        <div>
+          <label class="block text-xs font-bold uppercase tracking-wider text-slate-600 mb-1">Nama Kelas:</label>
+          <input type="text" id="inputKelas" placeholder="Contoh: 2 Cerdik" 
+            class="w-full px-4 py-3 rounded-2xl border-2 border-slate-200 focus:border-blue-500 outline-none font-semibold text-slate-700 bg-slate-50">
+        </div>
+
+        <button onclick="handleLogin()" 
+          class="bubbly-btn w-full mt-4 py-3.5 rounded-2xl bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-kids text-lg font-bold shadow-lg shadow-blue-500/20">
+          Pilih Subjek ➡
+        </button>
+      </div>
+    </div>
+
+    <!-- SCREEN 2: PILIHAN SUBJEK -->
+    <div id="screenSubjects" class="w-full bg-white rounded-3xl shadow-xl border-4 border-blue-200 p-6 sm:p-8 hidden">
+      <div class="flex items-center justify-between pb-4 border-b border-slate-100">
+        <div>
+          <span id="badgeDarjah" class="text-xs font-bold bg-blue-100 text-blue-700 px-3 py-1 rounded-full">Tahun 2</span>
+          <h2 class="font-kids text-xl font-bold text-slate-800 mt-1">Hai, <span id="displayNama" class="text-blue-600">Adik</span>! 👋</h2>
+        </div>
+        <button onclick="showScreen('screenLogin')" class="text-xs font-bold text-slate-400 hover:text-red-500 bg-slate-100 px-3 py-1.5 rounded-xl">
+          Tukar Nama
+        </button>
+      </div>
+
+      <p class="text-xs text-slate-500 mt-4 mb-2">Pilih subjek untuk memuatkan 25 soalan rawak tanpa ulangan:</p>
+      <div id="subjectGrid" class="grid grid-cols-1 sm:grid-cols-2 gap-3.5 my-4"></div>
+    </div>
+
+    <!-- SCREEN 3: KUIZ AKTIF (25 SOALAN) -->
+    <div id="screenQuiz" class="w-full bg-white rounded-3xl shadow-xl border-4 border-indigo-200 p-5 sm:p-8 hidden">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-100">
+        <div>
+          <h3 id="quizSubjekTitle" class="font-kids font-bold text-slate-800 text-base sm:text-lg">Bahasa Melayu</h3>
+          <span id="quizBadge" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-indigo-100 text-indigo-700">Tahun 2 • 25 Soalan</span>
+        </div>
+        <button onclick="exitQuiz()" class="text-xs text-slate-400 hover:text-red-600 font-bold px-2.5 py-1.5 rounded-lg border border-slate-200">
+          ✕ Keluar
+        </button>
+      </div>
+
+      <!-- Progress -->
+      <div class="mt-4">
+        <div class="flex justify-between items-center text-xs font-bold text-slate-600 mb-1">
+          <span>Soalan <span id="currentQNum" class="text-indigo-600 text-base">1</span> / 25</span>
+          <span id="quizProgressPercent" class="text-indigo-600">4%</span>
+        </div>
+        <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden border border-slate-200">
+          <div id="progressBar" class="bg-indigo-600 h-full rounded-full transition-all duration-300 w-[4%]"></div>
+        </div>
+      </div>
+
+      <!-- Question Text -->
+      <div class="mt-5 min-h-[100px] p-4 sm:p-5 rounded-2xl bg-indigo-50/70 border border-indigo-100 flex flex-col justify-center">
+        <h4 id="questionText" class="font-kids text-lg sm:text-xl font-bold text-slate-800 leading-snug">
+          Memuatkan soalan...
+        </h4>
+      </div>
+
+      <!-- Options -->
+      <div id="optionsContainer" class="flex flex-col gap-2.5 mt-5"></div>
+
+      <!-- Footer Buttons -->
+      <div class="flex items-center justify-between mt-6 pt-4 border-t border-slate-100 gap-2">
+        <button id="btnPrev" onclick="navigateQ(-1)" 
+          class="bubbly-btn px-4 py-2.5 rounded-xl border-2 border-slate-200 text-slate-600 font-bold text-xs hover:bg-slate-50 disabled:opacity-40">
+          ⬅ Sebelumnya
+        </button>
+        <button id="btnNext" onclick="navigateQ(1)" 
+          class="bubbly-btn px-6 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs sm:text-sm">
+          Seterusnya ➡
+        </button>
+        <button id="btnFinish" onclick="submitQuiz()" 
+          class="bubbly-btn hidden px-6 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-kids font-bold text-sm">
+          Hantar Jawapan ✅
+        </button>
+      </div>
+    </div>
+
+    <!-- SCREEN 4: KEPUTUSAN -->
+    <div id="screenResult" class="w-full bg-white rounded-3xl shadow-xl border-4 border-emerald-200 p-6 sm:p-8 text-center hidden">
+      <div class="text-6xl mb-2">🏆</div>
+      <h2 class="font-kids text-2xl sm:text-3xl font-bold text-slate-800">Tahniah Telah Selesai!</h2>
+      <p class="text-sm text-slate-500 mb-5">Berikut adalah markah latihan sesi ini:</p>
+
+      <!-- Score Box -->
+      <div class="w-36 h-36 mx-auto mb-5 flex flex-col items-center justify-center rounded-full bg-gradient-to-tr from-emerald-100 to-sky-100 border-4 border-emerald-300 shadow-inner">
+        <span class="text-xs font-bold text-slate-400 uppercase">Markah Penuh</span>
+        <span id="resMarksPercent" class="font-kids text-4xl font-extrabold text-emerald-600">100%</span>
+        <span id="resScoreFraction" class="text-xs font-bold text-slate-500 mt-1">25 / 25 Betul</span>
+      </div>
+
+      <div class="bg-slate-50 border border-slate-200 rounded-2xl p-4 max-w-sm mx-auto mb-6 text-left text-xs font-semibold space-y-1.5 text-slate-600">
+        <div class="flex justify-between"><span>Nama:</span> <b id="resNama" class="text-slate-800">-</b></div>
+        <div class="flex justify-between"><span>Kelas:</span> <b id="resKelas" class="text-slate-800">-</b></div>
+        <div class="flex justify-between"><span>Subjek:</span> <b id="resSubjek" class="text-slate-800">-</b></div>
+        <div class="flex justify-between"><span>Gred:</span> <b id="resGred" class="text-emerald-600 font-extrabold">Cemerlang</b></div>
+      </div>
+
+      <div class="flex flex-col sm:flex-row gap-2 max-w-sm mx-auto">
+        <button onclick="restartQuizWithNew25()" class="bubbly-btn flex-1 py-3 rounded-2xl bg-indigo-600 hover:bg-indigo-700 text-white font-kids font-bold text-sm">
+          🔄 25 Soalan Baharu
+        </button>
+        <button onclick="showScreen('screenSubjects')" class="bubbly-btn flex-1 py-3 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-kids font-bold text-sm">
+          📚 Subjek Lain
+        </button>
+      </div>
+    </div>
+
+  </main>
+
+  <script>
+    let userData = { nama: '', darjah: 2, kelas: '' };
+    let currentSubjectKey = '';
+    let currentSubjectName = '';
+    let rawBankQuestions = [];
+    let current25Questions = [];
+    let currentIndex = 0;
+    let answers = {};
+
+    function showScreen(id) {
+      ['screenLogin', 'screenSubjects', 'screenQuiz', 'screenResult'].forEach(s => {
+        document.getElementById(s).classList.add('hidden');
+      });
+      document.getElementById(id).classList.remove('hidden');
+      window.scrollTo(0, 0);
+    }
+
+    function handleLogin() {
+      const nama = document.getElementById('inputNama').value.trim();
+      const darjah = parseInt(document.getElementById('selectDarjah').value);
+      const kelas = document.getElementById('inputKelas').value.trim();
+
+      if (!nama || !kelas) {
+        alert('Sila isikan nama dan kelas adik terlebih dahulu ya!');
+        return;
+      }
+
+      userData = { nama, darjah, kelas };
+      document.getElementById('navUserBadge').classList.remove('hidden');
+      document.getElementById('navUserBadge').classList.add('flex');
+      document.getElementById('navUserName').innerText = nama;
+      document.getElementById('displayNama').innerText = nama;
+      document.getElementById('badgeDarjah').innerText = `Tahun ${darjah} • ${kelas}`;
+
+      renderSubjects();
+      showScreen('screenSubjects');
+    }
+
+    function renderSubjects() {
+      const grid = document.getElementById('subjectGrid');
+      grid.innerHTML = '';
+
+      let list = [];
+      if (userData.darjah <= 3) {
+        list = [
+          { key: 'bm', name: 'Bahasa Melayu', icon: '📖' },
+          { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤' },
+          { key: 'matematik', name: 'Matematik', icon: '🔢' },
+          { key: 'sains', name: 'Sains', icon: '🔬' }
+        ];
+      } else {
+        list = [
+          { key: 'bm', name: 'Bahasa Melayu', icon: '📖' },
+          { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤' },
+          { key: 'matematik', name: 'Matematik', icon: '🔢' },
+          { key: 'sejarah', name: 'Sejarah', icon: '🏛️' },
+          { key: 'am', name: 'Pengetahuan Am', icon: '🌍' }
+        ];
+      }
+
+      list.forEach(sub => {
+        const btn = document.createElement('div');
+        btn.className = "bubbly-btn bg-slate-50 border-2 border-slate-200 hover:border-indigo-500 p-4 rounded-2xl cursor-pointer flex items-center justify-between";
+        btn.onclick = () => loadSubjectJSON(sub.key, sub.name);
+        btn.innerHTML = `
+          <div class="flex items-center space-x-3">
+            <span class="text-3xl">${sub.icon}</span>
+            <div>
+              <h4 class="font-kids text-base font-bold text-slate-800">${sub.name}</h4>
+              <p class="text-[11px] text-slate-400 font-semibold">25 Soalan • 100% Markah</p>
+            </div>
+          </div>
+          <span class="text-xs font-bold text-indigo-600 bg-indigo-50 px-3 py-1 rounded-xl">Mula ➡</span>
+        `;
+        grid.appendChild(btn);
+      });
+    }
+
+    // TARIK FAIL JSON DARIPADA FOLDER data/
+    async function loadSubjectJSON(subKey, subName) {
+      currentSubjectKey = `${userData.darjah}_${subKey}`;
+      currentSubjectName = subName;
+
+      try {
+        const res = await fetch(`data/${currentSubjectKey}.json`);
+        if (!res.ok) throw new Error();
+        rawBankQuestions = await res.json();
+      } catch (err) {
+        alert(`Fail data/${currentSubjectKey}.json belum dimuat naik di GitHub. Sila pastikan fail JSON diletakkan dalam folder data/.`);
+        return;
+      }
+
+      init25Session();
+    }
+
+    // PILIH 25 SOALAN RAWAK BEBAS ULANGAN (SISTEM MEMORI)
+    function init25Session() {
+      const historyKey = `hist_${userData.nama}_${currentSubjectKey}`;
+      let answeredIds = JSON.parse(localStorage.getItem(historyKey) || '[]');
+
+      // Tapis soalan yang belum dijawab
+      let pool = rawBankQuestions.filter(q => !answeredIds.includes(q.id));
+
+      // Jika baki kurang daripada 25 soalan, set semula sejarah
+      if (pool.length < 25) {
+        answeredIds = [];
+        pool = [...rawBankQuestions];
+      }
+
+      // Rawakkan pool
+      pool.sort(() => Math.random() - 0.5);
+
+      // Ambil tepat 25 soalan (atau baki jika bank kurang 25)
+      const count = Math.min(25, pool.length);
+      current25Questions = pool.slice(0, count);
+
+      // Simpan sejarah ID yang sudah dikeluarkan
+      const newHistory = answeredIds.concat(current25Questions.map(q => q.id));
+      localStorage.setItem(historyKey, JSON.stringify(newHistory));
+
+      currentIndex = 0;
+      answers = {};
+
+      document.getElementById('quizSubjekTitle').innerText = currentSubjectName;
+      document.getElementById('quizBadge').innerText = `Tahun ${userData.darjah} • 25 Soalan`;
+
+      loadQuestion();
+      showScreen('screenQuiz');
+    }
+
+    function loadQuestion() {
+      const q = current25Questions[currentIndex];
+      const total = current25Questions.length;
+
+      document.getElementById('currentQNum').innerText = currentIndex + 1;
+      const pct = Math.round(((currentIndex + 1) / total) * 100);
+      document.getElementById('quizProgressPercent').innerText = `${pct}%`;
+      document.getElementById('progressBar').style.width = `${pct}%`;
+
+      document.getElementById('questionText').innerText = q.soalan;
+
+      const cont = document.getElementById('optionsContainer');
+      cont.innerHTML = '';
+      const letters = ['A', 'B', 'C', 'D'];
+
+      q.pilihan.forEach((opt, idx) => {
+        const isSelected = (answers[currentIndex] === idx);
+        const btn = document.createElement('button');
+        btn.className = `bubbly-btn w-full text-left p-3.5 rounded-2xl border-2 flex items-center space-x-3 transition-all ${
+          isSelected 
+            ? 'bg-indigo-600 text-white border-indigo-600 font-bold' 
+            : 'bg-white hover:bg-indigo-50 border-slate-200 text-slate-800'
+        }`;
+        btn.onclick = () => {
+          answers[currentIndex] = idx;
+          loadQuestion();
+        };
+        btn.innerHTML = `
+          <span class="w-7 h-7 rounded-lg text-xs font-bold flex items-center justify-center ${
+            isSelected ? 'bg-white text-indigo-600' : 'bg-slate-100 text-slate-600'
+          }">${letters[idx]}</span>
+          <span class="text-sm font-semibold flex-1">${opt}</span>
+        `;
+        cont.appendChild(btn);
+      });
+
+      document.getElementById('btnPrev').disabled = (currentIndex === 0);
+      if (currentIndex === total - 1) {
+        document.getElementById('btnNext').classList.add('hidden');
+        document.getElementById('btnFinish').classList.remove('hidden');
+      } else {
+        document.getElementById('btnNext').classList.remove('hidden');
+        document.getElementById('btnFinish').classList.add('hidden');
+      }
+    }
+
+    function navigateQ(step) {
+      currentIndex += step;
+      loadQuestion();
+    }
+
+    function exitQuiz() {
+      if (confirm('Adakah adik pasti mahu keluar dari kuiz ini?')) {
+        showScreen('screenSubjects');
+      }
+    }
+
+    // PENGIRAAN: 1 SOALAN = 4 MARKAH (25 SOALAN = 100%)
+    function submitQuiz() {
+      let correct = 0;
+      current25Questions.forEach((q, idx) => {
+        if (answers[idx] === q.jawapan) correct++;
+      });
+
+      const totalMarks = correct * 4; // 25 x 4 = 100%
+
+      document.getElementById('resMarksPercent').innerText = `${totalMarks}%`;
+      document.getElementById('resScoreFraction').innerText = `${correct} / 25 Betul (4 markah/soalan)`;
+      document.getElementById('resNama').innerText = userData.nama;
+      document.getElementById('resKelas').innerText = `${userData.kelas} (Tahun ${userData.darjah})`;
+      document.getElementById('resSubjek').innerText = currentSubjectName;
+
+      const gred = document.getElementById('resGred');
+      if (totalMarks >= 80) {
+        gred.innerText = "Cemerlang 🌟";
+        gred.className = "text-emerald-600 font-extrabold";
+        if (typeof confetti === 'function') confetti({ particleCount: 70, spread: 60 });
+      } else if (totalMarks >= 60) {
+        gred.innerText = "Baik 👍";
+        gred.className = "text-blue-600 font-extrabold";
+      } else {
+        gred.innerText = "Usaha Lagi 💪";
+        gred.className = "text-amber-600 font-extrabold";
+      }
+
+      showScreen('screenResult');
+    }
+
+    function restartQuizWithNew25() {
+      init25Session();
+    }
+  </script>
+</body>
+</html>
