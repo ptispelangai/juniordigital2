@@ -1,0 +1,452 @@
+[
+  {
+    "id": "grm_001",
+    "soalan": "Sarah is my sister. ______ is seven years old.",
+    "pilihan": ["She", "He", "It", "They"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_002",
+    "soalan": "Choose the correct article: 'I eat ______ apple every morning.'",
+    "pilihan": ["a", "an", "the", "many"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_003",
+    "soalan": "The cat is sleeping ______ the table.",
+    "pilihan": ["under", "between", "among", "into"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_004",
+    "soalan": "They ______ playing football in the field now.",
+    "pilihan": ["is", "am", "are", "was"],
+    "jawapan": 2
+  },
+  {
+    "id": "grm_005",
+    "soalan": "What is the plural of 'child'?",
+    "pilihan": ["childs", "childrens", "childes", "children"],
+    "jawapan": 3
+  },
+  {
+    "id": "grm_006",
+    "soalan": "Ali ______ to school by bus every day.",
+    "pilihan": ["go", "goes", "going", "gone"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_007",
+    "soalan": "______ is a pencil on my desk.",
+    "pilihan": ["This", "These", "Those", "They"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_008",
+    "soalan": "I ______ a storybook yesterday.",
+    "pilihan": ["read", "reads", "reading", "am read"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_009",
+    "soalan": "What is the plural of 'box'?",
+    "pilihan": ["boxs", "boxes", "boxies", "boxen"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_010",
+    "soalan": "Aisyah has ______ umbrella.",
+    "pilihan": ["a", "an", "the", "two"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_011",
+    "soalan": "Look at ______ birds flying in the sky over there!",
+    "pilihan": ["this", "these", "those", "that"],
+    "jawapan": 2
+  },
+  {
+    "id": "grm_012",
+    "soalan": "My father ______ a cup of coffee every morning.",
+    "pilihan": ["drink", "drinks", "drinking", "drank"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_013",
+    "soalan": "The books are ______ the school bag.",
+    "pilihan": ["inside", "on", "over", "across"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_014",
+    "soalan": "We ______ happy to meet our new English teacher.",
+    "pilihan": ["is", "am", "are", "was"],
+    "jawapan": 2
+  },
+  {
+    "id": "grm_015",
+    "soalan": "What is the plural of 'tooth'?",
+    "pilihan": ["tooths", "teeth", "toothes", "teeths"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_016",
+    "soalan": "Hakim and Danial are brothers. ______ go to SK Pelangai.",
+    "pilihan": ["We", "You", "They", "He"],
+    "jawapan": 2
+  },
+  {
+    "id": "grm_017",
+    "soalan": "Choose the correct pronoun: 'This is my pet rabbit. ______ has long ears.'",
+    "pilihan": ["It", "He", "She", "They"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_018",
+    "soalan": "Encik Rosli is ______ honest policeman.",
+    "pilihan": ["a", "an", "the", "many"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_019",
+    "soalan": "The frog jumps ______ the pond.",
+    "pilihan": ["into", "on", "under", "behind"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_020",
+    "soalan": "Cats ______ milk.",
+    "pilihan": ["likes", "like", "liking", "is like"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_021",
+    "soalan": "What is the plural of 'foot'?",
+    "pilihan": ["foots", "feet", "feets", "footies"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_022",
+    "soalan": "I ______ seven years old.",
+    "pilihan": ["is", "am", "are", "was"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_023",
+    "soalan": "______ are my shoes here near my feet.",
+    "pilihan": ["These", "Those", "This", "That"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_024",
+    "soalan": "The sun ______ in the east.",
+    "pilihan": ["rise", "rises", "rising", "rose"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_025",
+    "soalan": "What is the plural of 'leaf'?",
+    "pilihan": ["leafs", "leaves", "leafes", "leavs"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_026",
+    "soalan": "There is ______ elephant in the zoo.",
+    "pilihan": ["a", "an", "two", "the"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_027",
+    "soalan": "The dog is hiding ______ the door.",
+    "pilihan": ["behind", "between", "on", "above"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_028",
+    "soalan": "He ______ not like spicy food.",
+    "pilihan": ["do", "does", "is", "are"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_029",
+    "soalan": "What is the plural of 'mouse'?",
+    "pilihan": ["mouses", "mice", "mices", "meece"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_030",
+    "soalan": "Hani and I are friends. ______ study together.",
+    "pilihan": ["They", "We", "You", "He"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_031",
+    "soalan": "She ______ a blue bicycle.",
+    "pilihan": ["have", "has", "having", "is have"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_032",
+    "soalan": "Birds ______ in the sky.",
+    "pilihan": ["fly", "flies", "flying", "is fly"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_033",
+    "soalan": "The clock is ______ the wall.",
+    "pilihan": ["in", "on", "at", "under"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_034",
+    "soalan": "What is the plural of 'man'?",
+    "pilihan": ["mans", "men", "mens", "manes"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_035",
+    "soalan": "Adam ______ his homework every night.",
+    "pilihan": ["do", "does", "doing", "done"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_036",
+    "soalan": "Choose the correct article: 'He is wearing ______ blue shirt.'",
+    "pilihan": ["a", "an", "two", "many"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_037",
+    "soalan": "The ball is ______ the two boxes.",
+    "pilihan": ["between", "on", "into", "behind"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_038",
+    "soalan": "______ you like chocolate ice cream?",
+    "pilihan": ["Do", "Does", "Is", "Are"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_039",
+    "soalan": "What is the plural of 'fish'?",
+    "pilihan": ["fishes", "fish", "fishs", "fishies"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_040",
+    "soalan": "The boy ______ crying because he lost his toy.",
+    "pilihan": ["is", "are", "were", "am"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_041",
+    "soalan": "______ car over there belongs to Mr. Kumar.",
+    "pilihan": ["This", "That", "These", "Those"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_042",
+    "soalan": "We have ______ orange and two bananas.",
+    "pilihan": ["a", "an", "the", "many"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_043",
+    "soalan": "Aisyah ______ very fast in the sports race.",
+    "pilihan": ["run", "runs", "running", "are run"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_044",
+    "soalan": "What is the plural of 'woman'?",
+    "pilihan": ["womans", "women", "womens", "womanes"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_045",
+    "soalan": "The apples are ______ the basket.",
+    "pilihan": ["in", "on", "under", "between"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_046",
+    "soalan": "They ______ dinner at 8:00 p.m.",
+    "pilihan": ["eats", "eat", "eating", "is eat"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_047",
+    "soalan": "Choose the correct pronoun: 'This is my uncle. ______ is a doctor.'",
+    "pilihan": ["He", "She", "It", "They"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_048",
+    "soalan": "I can see ______ eagle flying high.",
+    "pilihan": ["a", "an", "the", "one of"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_049",
+    "soalan": "What is the plural of 'bus'?",
+    "pilihan": ["buss", "buses", "busies", "busen"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_050",
+    "soalan": "The aeroplane is flying ______ the clouds.",
+    "pilihan": ["above", "under", "into", "between"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_051",
+    "soalan": "My mother ______ delicious curry.",
+    "pilihan": ["cook", "cooks", "cooking", "is cook"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_052",
+    "soalan": "What is the plural of 'sheep'?",
+    "pilihan": ["sheeps", "sheep", "sheepes", "shoop"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_053",
+    "soalan": "You ______ a very hardworking pupil.",
+    "pilihan": ["is", "am", "are", "was"],
+    "jawapan": 2
+  },
+  {
+    "id": "grm_054",
+    "soalan": "The kitten is sleeping ______ my lap.",
+    "pilihan": ["on", "in", "into", "under"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_055",
+    "soalan": "Choose the correct article: 'Encik Razak bought ______ new car.'",
+    "pilihan": ["a", "an", "the", "many"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_056",
+    "soalan": "The pupils ______ singing the national anthem.",
+    "pilihan": ["is", "am", "are", "was"],
+    "jawapan": 2
+  },
+  {
+    "id": "grm_057",
+    "soalan": "What is the plural of 'baby'?",
+    "pilihan": ["babys", "babies", "babyes", "babi"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_058",
+    "soalan": "It ______ raining heavily outside.",
+    "pilihan": ["is", "are", "am", "were"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_059",
+    "soalan": "Danish ______ two pet hamsters.",
+    "pilihan": ["have", "has", "having", "is have"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_060",
+    "soalan": "What is the plural of 'knife'?",
+    "pilihan": ["knifes", "knives", "knifees", "knivs"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_061",
+    "soalan": "We wash ______ hands before eating.",
+    "pilihan": ["our", "my", "his", "their"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_062",
+    "soalan": "She gives me ______ ice cube.",
+    "pilihan": ["a", "an", "the", "many"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_063",
+    "soalan": "The children ______ playing happily at the playground.",
+    "pilihan": ["is", "am", "are", "was"],
+    "jawapan": 2
+  },
+  {
+    "id": "grm_064",
+    "soalan": "What is the plural of 'glass'?",
+    "pilihan": ["glasss", "glasses", "glassies", "glass"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_065",
+    "soalan": "The pencil is ______ the desk and the chair.",
+    "pilihan": ["between", "in", "through", "into"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_066",
+    "soalan": "Pak Ali ______ vegetables in his garden.",
+    "pilihan": ["plant", "plants", "planting", "is plant"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_067",
+    "soalan": "I have ______ idea!",
+    "pilihan": ["a", "an", "the", "many"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_068",
+    "soalan": "These ______ my colourful crayons.",
+    "pilihan": ["is", "am", "are", "was"],
+    "jawapan": 2
+  },
+  {
+    "id": "grm_069",
+    "soalan": "What is the plural of 'watch'?",
+    "pilihan": ["watchs", "watches", "watchies", "watchen"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_070",
+    "soalan": "He brushed ______ teeth before going to bed.",
+    "pilihan": ["his", "her", "my", "their"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_071",
+    "soalan": "My grandmother walks ______ because she is old.",
+    "pilihan": ["slow", "slowly", "quick", "fastly"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_072",
+    "soalan": "The monkey climbs ______ the tree.",
+    "pilihan": ["up", "into", "under", "between"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_073",
+    "soalan": "There are seven days in ______ week.",
+    "pilihan": ["a", "an", "the", "many"],
+    "jawapan": 0
+  },
+  {
+    "id": "grm_074",
+    "soalan": "What is the plural of 'cherry'?",
+    "pilihan": ["cherrys", "cherries", "cherryes", "cherri"],
+    "jawapan": 1
+  },
+  {
+    "id": "grm_075",
+    "soalan": "A butterfly ______ colourful wings.",
+    "pilihan": ["have", "has", "having", "is have"],
+    "jawapan": 1
+  }
+]
