@@ -639,7 +639,7 @@
       document.removeEventListener('click', unlockAudio);
     }, { once: true });
 
-    // Semak sesi murid secara automatik apabila halaman dibuka atau di-refresh
+  // Semak automatik bila laman web dimuatkan semula / di-refresh
     window.addEventListener('DOMContentLoaded', () => {
       const savedUser = localStorage.getItem('junior_user');
       if (savedUser) {
@@ -647,9 +647,30 @@
           userData = JSON.parse(savedUser);
           applyUserData();
           renderSubjects();
-          showScreen('screenSubjects');
+
+          // Semak jika ada sesi kuiz aktif yang belum selesai
+          const activeSession = localStorage.getItem('active_quiz_session');
+          if (activeSession) {
+            const parsed = JSON.parse(activeSession);
+            currentSubjectKey = parsed.currentSubjectKey;
+            currentSubjectName = parsed.currentSubjectName;
+            isSpecialGrammar = parsed.isSpecialGrammar;
+            currentQuestions = parsed.currentQuestions;
+            currentIndex = parsed.currentIndex || 0;
+            answers = parsed.answers || {};
+
+            document.getElementById('quizSubjekTitle').innerText = currentSubjectName;
+            document.getElementById('quizBadge').innerText = isSpecialGrammar ? 'Tahap 1 • 10 Soalan' : `Tahun ${userData.darjah} • 25 Soalan`;
+            document.getElementById('totalQNum').innerText = currentQuestions.length;
+
+            loadQuestion();
+            showScreen('screenQuiz'); // Terus sambung ke soalan kuiz
+          } else {
+            showScreen('screenSubjects'); // Jika tiada kuiz berjalan, buka papan pemuka subjek
+          }
         } catch (e) {
           localStorage.removeItem('junior_user');
+          localStorage.removeItem('active_quiz_session');
         }
       }
     });
