@@ -294,7 +294,7 @@
       showScreen('screenSubjects');
     }
 
-    function renderSubjects() {
+  function renderSubjects() {
       const grid = document.getElementById('subjectGrid');
       grid.innerHTML = '';
 
@@ -322,7 +322,7 @@
         btn.className = "bubbly-btn bg-slate-50 border-2 border-slate-200 hover:border-indigo-500 p-4 rounded-2xl cursor-pointer flex items-center justify-between";
         btn.onclick = () => {
           playClickSound();
-          loadSubjectJSON(sub.key, sub.name);
+          loadSubjectJSON(sub.key, sub.name, btn);
         };
         btn.innerHTML = `
           <div class="flex items-center space-x-3">
@@ -339,17 +339,31 @@
     }
 
     // TARIK FAIL JSON DARIPADA FOLDER data/
-    async function loadSubjectJSON(subKey, subName) {
+    async function loadSubjectJSON(subKey, subName, btnElement) {
       currentSubjectKey = `${userData.darjah}_${subKey}`;
       currentSubjectName = subName;
 
+      if (btnElement) {
+        btnElement.style.pointerEvents = 'none';
+        btnElement.style.opacity = '0.6';
+      }
+
       try {
-        const res = await fetch(`data/${currentSubjectKey}.json`);
-        if (!res.ok) throw new Error();
+        const res = await fetch(`data/${currentSubjectKey}.json?t=${Date.now()}`, { cache: 'no-cache' });
+        if (!res.ok) throw new Error(`Status ${res.status}`);
         rawBankQuestions = await res.json();
       } catch (err) {
-        alert(`Fail data/${currentSubjectKey}.json belum dimuat naik di GitHub. Sila pastikan fail JSON diletakkan dalam folder data/.`);
+        alert(`Gagal memuatkan fail: data/${currentSubjectKey}.json\n\nSila pastikan fail wujud dalam folder data/ di GitHub.`);
+        if (btnElement) {
+          btnElement.style.pointerEvents = 'auto';
+          btnElement.style.opacity = '1';
+        }
         return;
+      }
+
+      if (btnElement) {
+        btnElement.style.pointerEvents = 'auto';
+        btnElement.style.opacity = '1';
       }
 
       init25Session();
