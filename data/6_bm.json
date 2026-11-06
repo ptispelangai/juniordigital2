@@ -2,20 +2,20 @@
   {
     "id": "bm6_001",
     "soalan": "Pilih simpulan bahasa yang bermaksud 'orang yang tidak berpihak kepada mana-mana pihak':",
-    "pilihan": ["Atas pagar", "Kaki bangku", "Ulat buku", "Ringan tulang"],
-    "jawapan": 0
+    "pilihan": ["Kaki bangku", "Atas pagar", "Ulat buku", "Ringan tulang"],
+    "jawapan": 1
   },
   {
     "id": "bm6_002",
     "soalan": "Pilih perkataan berimbuhan pinjaman bahasa Inggeris yang dieja secara betul mengikut pedoman DBP:",
-    "pilihan": ["Proaktif", "Pra-sekolah", "Anti-sosial", "Multi-media"],
-    "jawapan": 0
+    "pilihan": ["Pra-sekolah", "Anti-sosial", "Proaktif", "Multi-media"],
+    "jawapan": 2
   },
   {
     "id": "bm6_003",
     "soalan": "Pihak penganjur menyediakan se______ payung besar di tepi padang kejohanan sukan.",
-    "pilihan": ["kaki", "bilah", "laras", "helai"],
-    "jawapan": 0
+    "pilihan": ["bilah", "laras", "helai", "kaki"],
+    "jawapan": 3
   },
   {
     "id": "bm6_004",
@@ -26,20 +26,20 @@
   {
     "id": "bm6_005",
     "soalan": "Lawan bagi perkataan 'Monoton' atau 'Membosankan' ialah ______.",
-    "pilihan": ["Bervariasi", "Sama", "Malar", "Statik"],
-    "jawapan": 0
+    "pilihan": ["Sama", "Bervariasi", "Malar", "Statik"],
+    "jawapan": 1
   },
   {
     "id": "bm6_006",
     "soalan": "Pilih perkataan yang mengandungi imbuhan sisipan '-in-':",
-    "pilihan": ["Sinambung", "Gemuruh", "Kelengkeng", "Telapak"],
-    "jawapan": 0
+    "pilihan": ["Gemuruh", "Kelengkeng", "Sinambung", "Telapak"],
+    "jawapan": 2
   },
   {
     "id": "bm6_007",
     "soalan": "Simpulan bahasa 'gelap mata' membawa maksud ______.",
-    "pilihan": ["hilang pertimbangan diri kerana tamak akan wang", "penglihatan menjadi buta", "berada di tempat gelap", "tidur lena"],
-    "jawapan": 0
+    "pilihan": ["penglihatan menjadi buta", "berada di tempat gelap", "tidur lena", "hilang pertimbangan diri kerana tamak akan wang"],
+    "jawapan": 3
   },
   {
     "id": "bm6_008",
@@ -50,20 +50,20 @@
   {
     "id": "bm6_009",
     "soalan": "Pilih kata ganda berentak pengulangan vokal:",
-    "pilihan": ["Kuih-muih", "Gunung-ganang", "Batu-batan", "Simpang-siur"],
-    "jawapan": 0
+    "pilihan": ["Gunung-ganang", "Kuih-muih", "Batu-batan", "Simpang-siur"],
+    "jawapan": 1
   },
   {
     "id": "bm6_010",
     "soalan": "Pilih kata sendi nama yang sesuai: 'Sumbangan ikhlas itu disalurkan ______ mangsa banjir kilat.'",
-    "pilihan": ["kepada", "pada", "dari", "daripada"],
-    "jawapan": 0
+    "pilihan": ["pada", "dari", "kepada", "daripada"],
+    "jawapan": 2
   },
   {
     "id": "bm6_011",
     "soalan": "\"______ bersedia untuk memulakan perbincangan meja bulat ini?\" soal pengerusi mesyuarat kepada ahli jawatankuasa.",
-    "pilihan": ["Adakah kalian", "Mengapakah mereka", "Apakah dia", "Berapakah beliau"],
-    "jawapan": 0
+    "pilihan": ["Mengapakah mereka", "Apakah dia", "Berapakah beliau", "Adakah kalian"],
+    "jawapan": 3
   },
   {
     "id": "bm6_012",
@@ -74,20 +74,20 @@
   {
     "id": "bm6_013",
     "soalan": "Pilih kata pemeri yang tepat: 'Langkah proaktif itu ______ wajar dilaksanakan demi keselamatan warga sekolah.'",
-    "pilihan": ["adalah", "ialah", "iaitu", "seperti"],
-    "jawapan": 0
+    "pilihan": ["ialah", "adalah", "iaitu", "seperti"],
+    "jawapan": 1
   },
   {
     "id": "bm6_014",
     "soalan": "Lawan bagi perkataan 'Elitis' atau 'Bangsawan' ialah ______.",
-    "pilihan": ["Marhaen", "Raja", "Menteri", "Jutawan"],
-    "jawapan": 0
+    "pilihan": ["Raja", "Menteri", "Marhaen", "Jutawan"],
+    "jawapan": 2
   },
   {
     "id": "bm6_015",
     "soalan": "Pak Tamin mengikat dua ______ kayu gaharu untuk dibawa pulang dari hutan.",
-    "pilihan": ["berkas", "batang", "puntung", "ketul"],
-    "jawapan": 0
+    "pilihan": ["batang", "puntung", "ketul", "berkas"],
+    "jawapan": 3
   },
   {
     "id": "bm6_016",
@@ -98,20 +98,20 @@
   {
     "id": "bm6_017",
     "soalan": "Simpulan bahasa 'pasang telinga' membawa erti ______.",
-    "pilihan": ["mendengar dengan teliti dan bersungguh-sungguh", "telinga terasa sakit", "memakai fon kepala", "bercakap dengan kuat"],
-    "jawapan": 0
+    "pilihan": ["telinga terasa sakit", "mendengar dengan teliti dan bersungguh-sungguh", "memakai fon kepala", "bercakap dengan kuat"],
+    "jawapan": 1
   },
   {
     "id": "bm6_018",
     "soalan": "Lawan bagi perkataan 'Prolifik' (banyak berkarya) ialah ______.",
-    "pilihan": ["Mandul karya (tidak produktif)", "Subur", "Aktif", "Cekap"],
-    "jawapan": 0
+    "pilihan": ["Subur", "Aktif", "Mandul karya (tidak produktif)", "Cekap"],
+    "jawapan": 2
   },
   {
     "id": "bm6_019",
     "soalan": "Pilih penjodoh bilangan bagi dua ______ benang tenunan sutera:",
-    "pilihan": ["buku", "utas", "keping", "helai"],
-    "jawapan": 0
+    "pilihan": ["utas", "keping", "helai", "buku"],
+    "jawapan": 3
   },
   {
     "id": "bm6_020",
@@ -122,20 +122,20 @@
   {
     "id": "bm6_021",
     "soalan": "Pilih perkataan berimbuhan apitan 'memper-...-i':",
-    "pilihan": ["Memperingati", "Mempertahankan", "Memperoleh", "Memperluas"],
-    "jawapan": 0
+    "pilihan": ["Mempertahankan", "Memperingati", "Memperoleh", "Memperluas"],
+    "jawapan": 1
   },
   {
     "id": "bm6_022",
     "soalan": "Simpulan bahasa 'senyum kambing' membawa maksud ______.",
-    "pilihan": ["senyum yang dibuat-buat atau mengejek", "senyum gembira", "senyum ketawa besar", "senyum malu-malu"],
-    "jawapan": 0
+    "pilihan": ["senyum gembira", "senyum ketawa besar", "senyum yang dibuat-buat atau mengejek", "senyum malu-malu"],
+    "jawapan": 2
   },
   {
     "id": "bm6_023",
     "soalan": "Pilih kata ganda berentak bersilang:",
-    "pilihan": ["Simpang-siur", "Kusut-masai", "Sayur-mayur", "Batu-batan"],
-    "jawapan": 0
+    "pilihan": ["Kusut-masai", "Sayur-mayur", "Batu-batan", "Simpang-siur"],
+    "jawapan": 3
   },
   {
     "id": "bm6_024",
@@ -146,20 +146,20 @@
   {
     "id": "bm6_025",
     "soalan": "Pilih kata penegas yang bersifat bebas:",
-    "pilihan": ["juga", "lah", "kah", "tah"],
-    "jawapan": 0
+    "pilihan": ["lah", "juga", "kah", "tah"],
+    "jawapan": 1
   },
   {
     "id": "bm6_026",
     "soalan": "Datuk menghisap se______ rokok daun sambil berehat di anjung.",
-    "pilihan": ["puntung", "batang", "keping", "laras"],
-    "jawapan": 0
+    "pilihan": ["batang", "keping", "puntung", "laras"],
+    "jawapan": 2
   },
   {
     "id": "bm6_027",
     "soalan": "Maksud simpulan bahasa 'mandi peluh' ialah ______.",
-    "pilihan": ["bekerja dengan bersungguh-sungguh dan kuat", "badan berbau busuk", "mandi dengan air suam", "berada dalam kepanasan"],
-    "jawapan": 0
+    "pilihan": ["badan berbau busuk", "mandi dengan air suam", "berada dalam kepanasan", "bekerja dengan bersungguh-sungguh dan kuat"],
+    "jawapan": 3
   },
   {
     "id": "bm6_028",
@@ -170,20 +170,20 @@
   {
     "id": "bm6_029",
     "soalan": "Lawan bagi perkataan 'Luhur' ialah ______.",
-    "pilihan": ["Keji", "Murni", "Suci", "Mulia"],
-    "jawapan": 0
+    "pilihan": ["Murni", "Keji", "Suci", "Mulia"],
+    "jawapan": 1
   },
   {
     "id": "bm6_030",
     "soalan": "Pilih penjodoh bilangan bagi se______ meriam lama di muzium:",
-    "pilihan": ["laras", "pucuk", "bilah", "batang"],
-    "jawapan": 0
+    "pilihan": ["pucuk", "bilah", "laras", "batang"],
+    "jawapan": 2
   },
   {
     "id": "bm6_031",
     "soalan": "Peribahasa 'bagai dakwat dengan kertas' melambangkan perhubungan yang ______.",
-    "pilihan": ["sangat intim dan sukar dipisahkan", "mudah pudar", "bermusuhan senyap", "mementingkan faedah sendiri"],
-    "jawapan": 0
+    "pilihan": ["mudah pudar", "bermusuhan senyap", "mementingkan faedah sendiri", "sangat intim dan sukar dipisahkan"],
+    "jawapan": 3
   },
   {
     "id": "bm6_032",
@@ -194,20 +194,20 @@
   {
     "id": "bm6_033",
     "soalan": "Pilih kata seru yang meluahkan perasaan terkejut atau kagum:",
-    "pilihan": ["Amboi", "Aduh", "Cis", "Nah"],
-    "jawapan": 0
+    "pilihan": ["Aduh", "Amboi", "Cis", "Nah"],
+    "jawapan": 1
   },
   {
     "id": "bm6_034",
     "soalan": "Lawan bagi perkataan 'Cekap' ialah ______.",
-    "pilihan": ["Canggung", "Mahir", "Pantas", "Pintar"],
-    "jawapan": 0
+    "pilihan": ["Mahir", "Pantas", "Canggung", "Pintar"],
+    "jawapan": 2
   },
   {
     "id": "bm6_035",
     "soalan": "Penyelidik itu mendokumentasikan se______ manuskrip sejarah Melayu lama.",
-    "pilihan": ["naskhah", "helai", "lembar", "keping"],
-    "jawapan": 0
+    "pilihan": ["helai", "lembar", "keping", "naskhah"],
+    "jawapan": 3
   },
   {
     "id": "bm6_036",
@@ -218,20 +218,20 @@
   {
     "id": "bm6_037",
     "soalan": "Pilih perkataan yang mengandungi imbuhan apitan 'ke-...-an' yang bermaksud 'keadaan':",
-    "pilihan": ["Kemiskinan", "Kementerian", "Kedutaan", "Kepulauan"],
-    "jawapan": 0
+    "pilihan": ["Kementerian", "Kemiskinan", "Kedutaan", "Kepulauan"],
+    "jawapan": 1
   },
   {
     "id": "bm6_038",
     "soalan": "Simpulan bahasa 'kutu embun' merujuk kepada orang yang ______.",
-    "pilihan": ["suka merayau-rayau sehingga larut malam", "bangun awal pagi", "suka mandi air embun", "pemalas bekerja"],
-    "jawapan": 0
+    "pilihan": ["bangun awal pagi", "suka mandi air embun", "suka merayau-rayau sehingga larut malam", "pemalas bekerja"],
+    "jawapan": 2
   },
   {
     "id": "bm6_039",
     "soalan": "Lawan bagi perkataan 'Rigid' atau 'Tegar' ialah ______.",
-    "pilihan": ["Fleksibel", "Keras", "Ketat", "Padat"],
-    "jawapan": 0
+    "pilihan": ["Keras", "Ketat", "Padat", "Fleksibel"],
+    "jawapan": 3
   },
   {
     "id": "bm6_040",
@@ -242,20 +242,20 @@
   {
     "id": "bm6_041",
     "soalan": "Peribahasa 'seperti cacing kepanasan' membawa maksud orang yang ______.",
-    "pilihan": ["sentiasa gelisah dan tidak senang duduk", "sedang demam panas", "suka berkebun", "berasa kelaparan"],
-    "jawapan": 0
+    "pilihan": ["sedang demam panas", "sentiasa gelisah dan tidak senang duduk", "suka berkebun", "berasa kelaparan"],
+    "jawapan": 1
   },
   {
     "id": "bm6_042",
     "soalan": "Pilih ejaan yang betul mengikut daftar kata bahasa Melayu baku:",
-    "pilihan": ["E-mel", "Email", "Emel", "E_mel"],
-    "jawapan": 0
+    "pilihan": ["Email", "Emel", "E-mel", "E_mel"],
+    "jawapan": 2
   },
   {
     "id": "bm6_043",
     "soalan": "Pilih kata hubung pancangan syarat:",
-    "pilihan": ["sekiranya", "agar", "hingga", "semasa"],
-    "jawapan": 0
+    "pilihan": ["agar", "hingga", "semasa", "sekiranya"],
+    "jawapan": 3
   },
   {
     "id": "bm6_044",
@@ -266,20 +266,20 @@
   {
     "id": "bm6_045",
     "soalan": "Pilih penjodoh bilangan bagi dua ______ jaring gol bola sepak:",
-    "pilihan": ["rawan", "bidang", "helai", "keping"],
-    "jawapan": 0
+    "pilihan": ["bidang", "rawan", "helai", "keping"],
+    "jawapan": 1
   },
   {
     "id": "bm6_046",
     "soalan": "Simpulan bahasa 'langkah seribu' bermaksud ______.",
-    "pilihan": ["melarikan diri dengan secepat mungkin kerana ketakutan", "berjalan seribu langkah untuk sihat", "melancong jauh", "kemenangan besar"],
-    "jawapan": 0
+    "pilihan": ["berjalan seribu langkah untuk sihat", "melancong jauh", "melarikan diri dengan secepat mungkin kerana ketakutan", "kemenangan besar"],
+    "jawapan": 2
   },
   {
     "id": "bm6_047",
     "soalan": "Pilih ayat yang mengandungi kata majmuk kiasan:",
-    "pilihan": ["Hakim digelar anak emas dalam syarikat itu kerana kerajinannya.", "Dia memakai jam tangan buatan tempatan.", "Bilik darjah itu sentiasa bersih dan kemas.", "Kereta api laju itu bertolak ke utara."],
-    "jawapan": 0
+    "pilihan": ["Dia memakai jam tangan buatan tempatan.", "Bilik darjah itu sentiasa bersih dan kemas.", "Kereta api laju itu bertolak ke utara.", "Hakim digelar anak emas dalam syarikat itu kerana kerajinannya."],
+    "jawapan": 3
   },
   {
     "id": "bm6_048",
@@ -290,20 +290,20 @@
   {
     "id": "bm6_049",
     "soalan": "Nenek mengunyah dua ______ sirih bertemu urat.",
-    "pilihan": ["helai", "keping", "biji", "batang"],
-    "jawapan": 0
+    "pilihan": ["keping", "helai", "biji", "batang"],
+    "jawapan": 1
   },
   {
     "id": "bm6_050",
     "soalan": "Maksud simpulan bahasa 'naik minyak' ialah ______.",
-    "pilihan": ["menjadi sangat marah atau mengamuk", "harga minyak naik", "memasak menggunakan minyak", "licin tergelincir"],
-    "jawapan": 0
+    "pilihan": ["harga minyak naik", "memasak menggunakan minyak", "menjadi sangat marah atau mengamuk", "licin tergelincir"],
+    "jawapan": 2
   },
   {
     "id": "bm6_051",
     "soalan": "Pilih peribahasa yang sama erti dengan 'bagai aur dengan tebing':",
-    "pilihan": ["Berat sama dipikul, ringan sama dijinjing", "Bagai anjing dengan kucing", "Seperti abu di atas tunggul", "Seperti kera mendapat bunga"],
-    "jawapan": 0
+    "pilihan": ["Bagai anjing dengan kucing", "Seperti abu di atas tunggul", "Seperti kera mendapat bunga", "Berat sama dipikul, ringan sama dijinjing"],
+    "jawapan": 3
   },
   {
     "id": "bm6_052",
@@ -314,20 +314,20 @@
   {
     "id": "bm6_053",
     "soalan": "Pilih kata penekan dalam ayat:",
-    "pilihan": ["Lapisan ozon nampaknya semakin menipis.", "Dia pergi ke pasar malam.", "Adik sedang tidur lena.", "Buku itu kepunyaan saya."],
-    "jawapan": 0
+    "pilihan": ["Dia pergi ke pasar malam.", "Lapisan ozon nampaknya semakin menipis.", "Adik sedang tidur lena.", "Buku itu kepunyaan saya."],
+    "jawapan": 1
   },
   {
     "id": "bm6_054",
     "soalan": "Simpulan bahasa 'patah kandar' bermaksud ______.",
-    "pilihan": ["hilang tempat bergantung hidup", "batang kayu patah", "kemalangan jalan raya", "hilang barang berharga"],
-    "jawapan": 0
+    "pilihan": ["batang kayu patah", "kemalangan jalan raya", "hilang tempat bergantung hidup", "hilang barang berharga"],
+    "jawapan": 2
   },
   {
     "id": "bm6_055",
     "soalan": "Pilih ragam ayat majmuk setara yang betul:",
-    "pilihan": ["Aiman bijak dalam bidang akademik dan aktif dalam sukan olahraga.", "Aiman bijak kerana rajin mengulang kaji.", "Aiman yang bijak itu kawan saya.", "Walaupun Aiman bijak, dia tidak sombong."],
-    "jawapan": 0
+    "pilihan": ["Aiman bijak kerana rajin mengulang kaji.", "Aiman yang bijak itu kawan saya.", "Walaupun Aiman bijak, dia tidak sombong.", "Aiman bijak dalam bidang akademik dan aktif dalam sukan olahraga."],
+    "jawapan": 3
   },
   {
     "id": "bm6_056",
@@ -338,20 +338,20 @@
   {
     "id": "bm6_057",
     "soalan": "Pilih penjodoh bilangan bagi tali pinggang kulit:",
-    "pilihan": ["utas", "bilah", "laras", "keping"],
-    "jawapan": 0
+    "pilihan": ["bilah", "utas", "laras", "keping"],
+    "jawapan": 1
   },
   {
     "id": "bm6_058",
     "soalan": "Maksud simpulan bahasa 'nyawa-nyawa ikan' ialah ______.",
-    "pilihan": ["keadaan yang hampir mati", "ikan yang masih berenang", "bernafas menggunakan insang", "segar-bugar"],
-    "jawapan": 0
+    "pilihan": ["ikan yang masih berenang", "bernafas menggunakan insang", "keadaan yang hampir mati", "segar-bugar"],
+    "jawapan": 2
   },
   {
     "id": "bm6_059",
     "soalan": "Pilih perkataan berimbuhan sisipan '-em-':",
-    "pilihan": ["Gemerlap", "Kelabut", "Sinambung", "Telunjuk"],
-    "jawapan": 0
+    "pilihan": ["Kelabut", "Sinambung", "Telunjuk", "Gemerlap"],
+    "jawapan": 3
   },
   {
     "id": "bm6_060",
@@ -362,20 +362,20 @@
   {
     "id": "bm6_061",
     "soalan": "Peribahasa 'bagai kaca terhempas ke batu' menggambarkan perasaan yang ______.",
-    "pilihan": ["sangat hancur dan remuk redha", "marah meluap-luap", "sangat gembira", "terkejut besar"],
-    "jawapan": 0
+    "pilihan": ["marah meluap-luap", "sangat hancur dan remuk redha", "sangat gembira", "terkejut besar"],
+    "jawapan": 1
   },
   {
     "id": "bm6_062",
     "soalan": "Pilih penjodoh bilangan bagi meriam dan senapang:",
-    "pilihan": ["laras", "pucuk", "batang", "bilah"],
-    "jawapan": 0
+    "pilihan": ["pucuk", "batang", "laras", "bilah"],
+    "jawapan": 2
   },
   {
     "id": "bm6_063",
     "soalan": "Simpulan bahasa 'putih mata' bermaksud ______.",
-    "pilihan": ["berputih mata kerana kecewa atau menanggung malu", "mata kabur", "mata menjadi buta", "sakit mata yang teruk"],
-    "jawapan": 0
+    "pilihan": ["mata kabur", "mata menjadi buta", "sakit mata yang teruk", "berputih mata kerana kecewa atau menanggung malu"],
+    "jawapan": 3
   },
   {
     "id": "bm6_064",
@@ -386,20 +386,20 @@
   {
     "id": "bm6_065",
     "soalan": "Pilih ayat perintah jenis ajakan:",
-    "pilihan": ["Ayuh, kita berganding bahu membersihkan kawasan pantai ini!", "Tolong tutup tingkap itu.", "Jangan buang sampah di sini.", "Harap kamu bersabar."],
-    "jawapan": 0
+    "pilihan": ["Tolong tutup tingkap itu.", "Ayuh, kita berganding bahu membersihkan kawasan pantai ini!", "Jangan buang sampah di sini.", "Harap kamu bersabar."],
+    "jawapan": 1
   },
   {
     "id": "bm6_066",
     "soalan": "Maksud peribahasa 'sudah jatuh ditimpa tangga' ialah ______.",
-    "pilihan": ["ditimpa kemalangan atau musibah berturut-turut", "terjatuh dari tangga rumah", "kehilangan tangga kayu", "cedera parah"],
-    "jawapan": 0
+    "pilihan": ["terjatuh dari tangga rumah", "kehilangan tangga kayu", "ditimpa kemalangan atau musibah berturut-turut", "cedera parah"],
+    "jawapan": 2
   },
   {
     "id": "bm6_067",
     "soalan": "Pilih perkataan yang mengandungi digraf (dua huruf bergabung membentuk satu bunyi konsonan):",
-    "pilihan": ["Nyanyi", "Pantai", "Pulau", "Kain"],
-    "jawapan": 0
+    "pilihan": ["Pantai", "Pulau", "Kain", "Nyanyi"],
+    "jawapan": 3
   },
   {
     "id": "bm6_068",
@@ -410,20 +410,20 @@
   {
     "id": "bm6_069",
     "soalan": "Pilih penjodoh bilangan bagi dua ______ pistol revolver:",
-    "pilihan": ["pucuk", "laras", "bilah", "keping"],
-    "jawapan": 0
+    "pilihan": ["laras", "pucuk", "bilah", "keping"],
+    "jawapan": 1
   },
   {
     "id": "bm6_070",
     "soalan": "Simpulan bahasa 'telinga kuali' membawa maksud orang yang ______.",
-    "pilihan": ["tahan menerima leteran atau kemarahan tanpa mempedulikannya", "telinganya hitam", "pandai memasak", "pekak sepenuhnya"],
-    "jawapan": 0
+    "pilihan": ["telinganya hitam", "pandai memasak", "tahan menerima leteran atau kemarahan tanpa mempedulikannya", "pekak sepenuhnya"],
+    "jawapan": 2
   },
   {
     "id": "bm6_071",
     "soalan": "Pilih pembentukan kata ganda penuh kata kerja:",
-    "pilihan": ["Gelak-gelak", "Buku-buku", "Cantik-cantik", "Pagi-pagi"],
-    "jawapan": 0
+    "pilihan": ["Buku-buku", "Cantik-cantik", "Pagi-pagi", "Gelak-gelak"],
+    "jawapan": 3
   },
   {
     "id": "bm6_072",
@@ -434,19 +434,19 @@
   {
     "id": "bm6_073",
     "soalan": "Pilih penjodoh bilangan bagi se______ roti canai terbang:",
-    "pilihan": ["keping", "buku", "ketul", "biji"],
-    "jawapan": 0
+    "pilihan": ["buku", "keping", "ketul", "biji"],
+    "jawapan": 1
   },
   {
     "id": "bm6_074",
     "soalan": "Maksud simpulan bahasa 'sekangkang kera' ialah ______.",
-    "pilihan": ["keluasan tanah atau kawasan yang sangat kecil", "kera yang melompat", "kaki yang pendek", "hutan belantara"],
-    "jawapan": 0
+    "pilihan": ["kera yang melompat", "kaki yang pendek", "keluasan tanah atau kawasan yang sangat kecil", "hutan belantara"],
+    "jawapan": 2
   },
   {
     "id": "bm6_075",
     "soalan": "Lengkapkan peribahasa: 'Di mana bumi dipijak, di situ langit ______.'",
-    "pilihan": ["dijunjung", "dilihat", "dipandang", "dinaungi"],
-    "jawapan": 0
+    "pilihan": ["dilihat", "dipandang", "dinaungi", "dijunjung"],
+    "jawapan": 3
   }
 ]
