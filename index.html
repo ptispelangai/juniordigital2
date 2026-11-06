@@ -112,7 +112,7 @@
           <span id="badgeDarjah" class="text-xs font-bold bg-blue-100 text-blue-700 px-3 py-1 rounded-full">Tahun 2</span>
           <h2 class="font-kids text-xl font-bold text-slate-800 mt-1">Hai, <span id="displayNama" class="text-blue-600">Adik</span>! 👋</h2>
         </div>
-        <button onclick="showScreen('screenLogin')" class="text-xs font-bold text-slate-400 hover:text-red-500 bg-slate-100 px-3 py-1.5 rounded-xl">
+        <button onclick="logoutUser()" class="text-xs font-bold text-slate-400 hover:text-red-500 bg-slate-100 px-3 py-1.5 rounded-xl">
           Tukar Nama
         </button>
       </div>
@@ -314,7 +314,7 @@
       window.scrollTo(0, 0);
     }
 
-  function handleLogin() {
+    function handleLogin() {
       playClickSound();
       const nama = document.getElementById('inputNama').value.trim();
       const darjah = parseInt(document.getElementById('selectDarjah').value);
@@ -327,7 +327,7 @@
 
       userData = { nama, darjah, kelas };
 
-      // Simpan data murid ke memori pelayar supaya tidak hilang bila refresh
+      // Simpan sesi murid
       localStorage.setItem('junior_user', JSON.stringify(userData));
 
       applyUserData();
@@ -335,7 +335,6 @@
       showScreen('screenSubjects');
     }
 
-    // Fungsi pembantu untuk memaparkan profil murid pada antaramuka
     function applyUserData() {
       document.getElementById('navUserBadge').classList.remove('hidden');
       document.getElementById('navUserBadge').classList.add('flex');
@@ -343,11 +342,19 @@
       document.getElementById('displayNama').innerText = userData.nama;
       document.getElementById('badgeDarjah').innerText = `Tahun ${userData.darjah} • ${userData.kelas}`;
 
-      // Kemas kini nilai pada borang login sekiranya murid mahu edit kemudian
       document.getElementById('inputNama').value = userData.nama;
       document.getElementById('selectDarjah').value = userData.darjah;
       document.getElementById('inputKelas').value = userData.kelas;
     }
+
+    function logoutUser() {
+      playClickSound();
+      localStorage.removeItem('junior_user'); // Padam sesi aktif
+      document.getElementById('navUserBadge').classList.add('hidden');
+      document.getElementById('navUserBadge').classList.remove('flex');
+      showScreen('screenLogin');
+    }
+
     function renderSubjects() {
       const grid = document.getElementById('subjectGrid');
       grid.innerHTML = '';
@@ -611,7 +618,8 @@
       initAudio();
       document.removeEventListener('click', unlockAudio);
     }, { once: true });
-    // Semak automatik bila laman web dimuatkan semula / di-refresh
+
+    // Semak sesi murid secara automatik apabila halaman dibuka atau di-refresh
     window.addEventListener('DOMContentLoaded', () => {
       const savedUser = localStorage.getItem('junior_user');
       if (savedUser) {
@@ -619,7 +627,7 @@
           userData = JSON.parse(savedUser);
           applyUserData();
           renderSubjects();
-          showScreen('screenSubjects'); // Terus masuk ke senarai subjek tanpa perlu login semula
+          showScreen('screenSubjects');
         } catch (e) {
           localStorage.removeItem('junior_user');
         }
