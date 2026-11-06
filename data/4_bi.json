@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bi4_001",
+    "soalan": "Choose the past tense form of the irregular verb 'WRITE':",
+    "pilihan": ["Writing", "Writes", "Wrote", "Written"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_002",
+    "soalan": "Mount Kinabalu is the ______ mountain in Malaysia.",
+    "pilihan": ["highest", "higher", "high", "most high"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_003",
+    "soalan": "Choose the correct collective noun: 'A ______ of wolves roamed the snowy mountain.'",
+    "pilihan": ["herd", "pack", "school", "flock"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_004",
+    "soalan": "She was ______ a letter when the telephone rang.",
+    "pilihan": ["writes", "writing", "wrote", "written"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_005",
+    "soalan": "What is the antonym (opposite) of 'GENEROUS'?",
+    "pilihan": ["Kind", "Polite", "Helpful", "Stingy"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi4_006",
+    "soalan": "A person who designs and constructs buildings is an ______.",
+    "pilihan": ["architect", "electrician", "plumber", "mechanic"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_007",
+    "soalan": "Complete the idiom: 'The science quiz was a piece of ______.' (very easy)",
+    "pilihan": ["bread", "cake", "candy", "pie"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_008",
+    "soalan": "Neither Daniel nor his brothers ______ present at the hall yesterday.",
+    "pilihan": ["were", "was", "is", "are"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_009",
+    "soalan": "Choose the plural form of 'Cactus':",
+    "pilihan": ["Cactuses", "Cacti", "Cacta", "Cactis"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_010",
+    "soalan": "Choose the correct preposition: 'The diver plunged deep ______ the ocean.'",
+    "pilihan": ["onto", "above", "into", "between"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_011",
+    "soalan": "What is the past tense of 'BUY'?",
+    "pilihan": ["Bought", "Brought", "Buyed", "Buying"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_012",
+    "soalan": "Identify the adverb in the sentence: 'The athlete sprinted swiftly across the track.'",
+    "pilihan": ["Athlete", "Track", "Swiftly", "Across"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_013",
+    "soalan": "What is the opposite of 'ANCIENT'?",
+    "pilihan": ["Historic", "Modern", "Classic", "Antique"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_014",
+    "soalan": "A medical doctor who treats diseases of animals is called a ______.",
+    "pilihan": ["dentist", "surgeon", "optometrist", "veterinarian"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi4_015",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Accomodation", "Accommodation", "Acommodation", "Acomodation"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_016",
+    "soalan": "The sun gives the earth natural warmth and ______.",
+    "pilihan": ["light", "darkness", "snow", "frost"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_017",
+    "soalan": "What is the past tense of 'CATCH'?",
+    "pilihan": ["Catched", "Cotched", "Caught", "Catching"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_018",
+    "soalan": "Choose the correct conjunction: 'He wore a thick jacket ______ the weather was chilly.'",
+    "pilihan": ["because", "although", "unless", "but"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_019",
+    "soalan": "Select the collective noun: 'A ______ of bees flew out of the old hollow trunk.'",
+    "pilihan": ["pride", "swarm", "litter", "school"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_020",
+    "soalan": "What is the plural of 'Person'?",
+    "pilihan": ["Persons", "People", "Peoples", "Persones"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_021",
+    "soalan": "The opposite of 'COURAGEOUS' is ______.",
+    "pilihan": ["brave", "valiant", "cowardly", "strong"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_022",
+    "soalan": "They ______ playing football in the field when the heavy downpour started.",
+    "pilihan": ["were", "was", "are", "is"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_023",
+    "soalan": "Choose the synonym for 'GIGANTIC':",
+    "pilihan": ["Tiny", "Slender", "Huge", "Narrow"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_024",
+    "soalan": "Which celestial body orbits directly around our planet Earth?",
+    "pilihan": ["The Sun", "The Moon", "Mars", "Jupiter"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_025",
+    "soalan": "What is the past tense of 'FLY'?",
+    "pilihan": ["Flew", "Flown", "Flyed", "Fling"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_026",
+    "soalan": "Choose the correct comparative: 'Platinum is ______ than silver.'",
+    "pilihan": ["expensive", "more expensive", "most expensive", "expensiver"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_027",
+    "soalan": "A tradesman who repairs broken water pipes and taps is a ______.",
+    "pilihan": ["plumber", "carpenter", "mason", "mechanic"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_028",
+    "soalan": "Choose the plural of 'Foot':",
+    "pilihan": ["Foots", "Feet", "Feets", "Footes"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_029",
+    "soalan": "What is the opposite of 'EXPENSIVE'?",
+    "pilihan": ["Costly", "Valuable", "Cheap", "Precious"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_030",
+    "soalan": "Identify the adjective: 'She wore an exquisite necklace to the royal banquet.'",
+    "pilihan": ["She", "Wore", "Exquisite", "Necklace"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_031",
+    "soalan": "What does the idiom 'once in a blue moon' mean?",
+    "pilihan": ["Very frequently", "Every evening", "Very rarely", "During a storm"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_032",
+    "soalan": "What is the past tense of 'BRING'?",
+    "pilihan": ["Brought", "Bought", "Brang", "Brings"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_033",
+    "soalan": "Choose the correct preposition: 'The little girl hid ______ the large mahogany curtain.'",
+    "pilihan": ["behind", "underneath", "between", "across"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_034",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Environment", "Enviroment", "Environmant", "Enviornment"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_035",
+    "soalan": "What is the opposite of 'TEMPORARY'?",
+    "pilihan": ["Fleeting", "Brief", "Permanent", "Short"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_036",
+    "soalan": "A group of lions living together in their wild habitat is a ______.",
+    "pilihan": ["herd", "pride", "pack", "school"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_037",
+    "soalan": "What is the past tense of 'TEACH'?",
+    "pilihan": ["Taught", "Teached", "Thought", "Teaching"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_038",
+    "soalan": "Choose the superlative form: 'Jupiter is the ______ planet in the solar system.'",
+    "pilihan": ["large", "larger", "largest", "most large"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_039",
+    "soalan": "An astronomer is a scientist who primarily observes ______.",
+    "pilihan": ["ocean currents", "stars and planets", "soil layers", "ancient fossils"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_040",
+    "soalan": "Choose the plural of 'Ox':",
+    "pilihan": ["Oxes", "Oxen", "Oxies", "Oxens"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_041",
+    "soalan": "What is the antonym of 'ROUGH'?",
+    "pilihan": ["Coarse", "Harsh", "Smooth", "Bumpy"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_042",
+    "soalan": "He ______ studying hard all morning for his final examination.",
+    "pilihan": ["has been", "have been", "are", "were"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_043",
+    "soalan": "Complete the proverb: 'Actions speak louder than ______.'",
+    "pilihan": ["speeches", "words", "sounds", "promises"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_044",
+    "soalan": "What is the past tense of 'FIND'?",
+    "pilihan": ["Found", "Finded", "Finding", "Finds"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_045",
+    "soalan": "Which creature is a marsupial that carries its young in an abdomen pouch?",
+    "pilihan": ["Koala", "Kangaroo", "Panda", "Platypus"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_046",
+    "soalan": "Choose the adverb of frequency: 'Hakim ______ completes his homework before dinner.'",
+    "pilihan": ["always", "slowly", "neatly", "happily"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_047",
+    "soalan": "What is the opposite of 'GUILTY'?",
+    "pilihan": ["Blamed", "Innocent", "Faulty", "Ashamed"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_048",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Neccessary", "Necessary", "Necesary", "Neccesary"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_049",
+    "soalan": "What is the past tense of 'CHOOSE'?",
+    "pilihan": ["Chose", "Chosen", "Choosed", "Choosing"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_050",
+    "soalan": "Choose the correct homophone: 'I can ______ the melodious bird singing outside.'",
+    "pilihan": ["here", "hear", "hare", "hair"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_051",
+    "soalan": "What is the opposite of 'COMPLEX'?",
+    "pilihan": ["Intricate", "Complicated", "Simple", "Difficult"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_052",
+    "soalan": "A device designed to make distant stars and galaxies appear closer is a ______.",
+    "pilihan": ["microscope", "telescope", "periscope", "stethoscope"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_053",
+    "soalan": "What is the plural of 'Goose'?",
+    "pilihan": ["Gooses", "Geese", "Geeses", "Goosen"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_054",
+    "soalan": "Choose the past continuous tense:",
+    "pilihan": ["They were hiking up the hill.", "They hiked up the hill.", "They are hiking up the hill.", "They will hike up the hill."],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_055",
+    "soalan": "What does the idiom 'burn the midnight oil' mean?",
+    "pilihan": ["To waste electricity", "To work or study late into the night", "To light an oil lamp", "To sleep early"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_056",
+    "soalan": "What is the past tense of 'DRIVE'?",
+    "pilihan": ["Drove", "Driven", "Drived", "Driving"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_057",
+    "soalan": "Choose the correct comparative: 'Today's temperature is ______ than yesterday's.'",
+    "pilihan": ["hot", "hotter", "hottest", "more hot"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_058",
+    "soalan": "What is the opposite of 'POVERTY'?",
+    "pilihan": ["Hardship", "Misery", "Wealth", "Need"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_059",
+    "soalan": "A collective noun for keys kept on a metal ring is a ______.",
+    "pilihan": ["bunch", "cluster", "pack", "collection"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_060",
+    "soalan": "Choose the correctly spelt word:",
+    "pilihan": ["Privilege", "Privelege", "Privilage", "Priviledge"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_061",
+    "soalan": "What is the past tense of 'FREEZE'?",
+    "pilihan": ["Froze", "Frozen", "Freezed", "Frosted"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_062",
+    "soalan": "Identify the preposition: 'The boat drifted peacefully under the wooden bridge.'",
+    "pilihan": ["drifted", "peacefully", "under", "wooden"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_063",
+    "soalan": "What is the opposite of 'VICTORY'?",
+    "pilihan": ["Triumph", "Defeat", "Success", "Win"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_064",
+    "soalan": "A specialist who examines and cares for eyes is an ______.",
+    "pilihan": ["optometrist", "orthodontist", "otologist", "oncologist"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_065",
+    "soalan": "What is the plural of 'Half'?",
+    "pilihan": ["Halfs", "Halves", "Halfes", "Halvies"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_066",
+    "soalan": "Complete the proverb: 'Better late than ______.'",
+    "pilihan": ["ever", "never", "always", "soon"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_067",
+    "soalan": "What is the past tense of 'SHAKE'?",
+    "pilihan": ["Shook", "Shaken", "Shaked", "Shaking"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_068",
+    "soalan": "Choose the correct pronoun: 'The twins completed the science model by ______.'",
+    "pilihan": ["themselves", "himself", "herself", "itself"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_069",
+    "soalan": "What is the opposite of 'ABUNDANT'?",
+    "pilihan": ["Plentiful", "Scarce", "Rich", "Lavish"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_070",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Seperate", "Separate", "Seperete", "Separat"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_071",
+    "soalan": "What is the past tense of 'SWEEP'?",
+    "pilihan": ["Swept", "Sweeped", "Sweeping", "Sweeps"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_072",
+    "soalan": "Identify the conjunction: 'You will not succeed unless you practise continuously.'",
+    "pilihan": ["will", "unless", "practise", "continuously"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi4_073",
+    "soalan": "What is the opposite of 'HONEST'?",
+    "pilihan": ["Truthful", "Loyal", "Dishonest", "Sincere"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi4_074",
+    "soalan": "A collective noun for fish swimming synchronously in a group is a ______.",
+    "pilihan": ["school", "herd", "swarm", "pack"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi4_075",
+    "soalan": "Complete the idiom: 'Don't judge a book by its ______.'",
+    "pilihan": ["title", "cover", "author", "pages"],
+    "jawapan": 1
+  }
+]
