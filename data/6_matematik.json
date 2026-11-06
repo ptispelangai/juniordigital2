@@ -1,0 +1,452 @@
+[
+  {
+    "id": "mat6_001",
+    "soalan": "Nombor 3 1/4 juta ditulis dalam bentuk nombor bulat ialah:",
+    "pilihan": ["3,250,000", "3,500,000", "3,140,000", "3,025,000"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_002",
+    "soalan": "Tukarkan 4,750,000 kepada perpuluhan juta:",
+    "pilihan": ["47.5 juta", "4.75 juta", "0.475 juta", "4.075 juta"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_003",
+    "soalan": "Antara nombor berikut, yang manakah nombor gubahan (bukan nombor perdana)?",
+    "pilihan": ["31", "37", "39", "41"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_004",
+    "soalan": "Selesaikan operasi mengikut hukum operasi: 450 - 50 × 6 + 100 =",
+    "pilihan": ["2,500", "150", "350", "250"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_005",
+    "soalan": "Kira hasil bahagi pecahan: 3/4 ÷ 1/2 =",
+    "pilihan": ["1 1/2", "3/8", "2/3", "1 1/4"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_006",
+    "soalan": "Kira: 2 1/3 ÷ 7 =",
+    "pilihan": ["1/2", "1/3", "2/3", "3/7"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_007",
+    "soalan": "Cari nilai bagi: 0.6 × 4.5 =",
+    "pilihan": ["2.4", "2.6", "2.7", "2.8"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_008",
+    "soalan": "Kira: 15.6 ÷ 0.4 =",
+    "pilihan": ["3.9", "36", "42", "39"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_009",
+    "soalan": "Tukarkan 1/8 kepada bentuk peratusan:",
+    "pilihan": ["12.5%", "12.8%", "15.0%", "18.5%"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_010",
+    "soalan": "Sebuah basikal berharga RM 400 dijual dengan diskaun 15%. Berapakah harga jualan basikal tersebut?",
+    "pilihan": ["RM 360", "RM 340", "RM 320", "RM 350"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_011",
+    "soalan": "Encik Tan membeli saham bernilai RM 20,000. Beliau menerima dividen sebanyak 6%. Berapakah nilai dividen yang diterima?",
+    "pilihan": ["RM 600", "RM 1,000", "RM 1,200", "RM 1,500"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_012",
+    "soalan": "Wang simpanan yang didepositkan di bank atau hartanah yang dimiliki dikategorikan sebagai:",
+    "pilihan": ["Liabiliti", "Faedah", "Hutang", "Aset"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_013",
+    "soalan": "Baki hutang kad kredit dan pinjaman perumahan yang perlu dibayar balik merupakan contoh:",
+    "pilihan": ["Liabiliti", "Aset", "Ekuiti", "Dividen"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_014",
+    "soalan": "Waktu di Tokyo, Jepun mendahului waktu di Kuala Lumpur selama 1 jam. Jika waktu di Kuala Lumpur ialah jam 0930, pukul berapakah di Tokyo?",
+    "pilihan": ["Jam 0830", "Jam 1030", "Jam 1130", "Jam 1230"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_015",
+    "soalan": "London berada 8 jam di belakang waktu Kuala Lumpur. Jika waktu di Kuala Lumpur ialah pukul 4:00 petang hari Selasa, apakah waktu di London?",
+    "pilihan": ["12:00 tengah malam Selasa", "8:00 malam Isnin", "8:00 pagi hari Selasa", "6:00 pagi hari Selasa"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_016",
+    "soalan": "Tukarkan 3 2/5 km kepada meter (m):",
+    "pilihan": ["3,250 m", "3,200 m", "3,500 m", "3,400 m"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_017",
+    "soalan": "Kira: 4.25 kg - 1 3/4 kg =",
+    "pilihan": ["2.5 kg", "2.75 kg", "2.25 kg", "3.0 kg"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_018",
+    "soalan": "Sebuah botol mengandungi 3 1/4 liter air. 1.8 liter air telah diminum. Berapakah baki air dalam mililiter (ml)?",
+    "pilihan": ["1,400 ml", "1,450 ml", "1,550 ml", "1,600 ml"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_019",
+    "soalan": "Jumlah sudut pedalaman bagi sebuah segi tiga ialah:",
+    "pilihan": ["90°", "360°", "180°", "270°"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_020",
+    "soalan": "Jumlah sudut pedalaman bagi sebuah segi empat sama atau segi empat tepat ialah:",
+    "pilihan": ["180°", "270°", "540°", "360°"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_021",
+    "soalan": "Luas sebuah segi empat tepat ialah 72 cm². Jika panjangnya 9 cm, berapakah lebarnya?",
+    "pilihan": ["8 cm", "7 cm", "6 cm", "9 cm"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_022",
+    "soalan": "Cari luas permukaan sebuah kubus yang mempunyai panjang sisi 4 cm:",
+    "pilihan": ["64 cm²", "96 cm²", "84 cm²", "100 cm²"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_023",
+    "soalan": "Sebuah kuboid berukuran 10 cm panjang, 6 cm lebar dan 4 cm tinggi. Cari isi padunya:",
+    "pilihan": ["200 cm³", "220 cm³", "240 cm³", "260 cm³"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_024",
+    "soalan": "Diberi titik K(3, 2) dan L(3, 8). Berapakah jarak mencancang dari K ke L?",
+    "pilihan": ["3 unit", "5 unit", "8 unit", "6 unit"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_025",
+    "soalan": "Nisbah bilangan buku rujukan kepada bilangan buku cerita di rak ialah 2 : 5. Jika terdapat 40 buah buku cerita, berapakah bilangan buku rujukan?",
+    "pilihan": ["16 buah", "14 buah", "18 buah", "20 buah"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_026",
+    "soalan": "Peristiwa 'matahari terbit dari sebelah barat di bumi' mempunyai kebarangkalian:",
+    "pilihan": ["Pasti", "Mustahil", "Sama kemungkinan", "Besar kemungkinan"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_027",
+    "soalan": "Melambung sekeping syiling adil untuk mendapat bahagian gambar atau angka mempunyai kebarangkalian:",
+    "pilihan": ["Mustahil", "Pasti", "Sama kemungkinan", "Kecil kemungkinan"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_028",
+    "soalan": "Di dalam sebuah kotak terdapat 9 biji bola merah dan 1 biji bola biru. Kebarangkalian mencabut sebiji bola merah ialah:",
+    "pilihan": ["Mustahil", "Kecil kemungkinan", "Sama kemungkinan", "Besar kemungkinan"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_029",
+    "soalan": "Bundarkan 5,678,432 kepada ratus ribu terdekat:",
+    "pilihan": ["5,700,000", "5,680,000", "5,600,000", "6,000,000"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_030",
+    "soalan": "Kira: 3/5 × 2 1/2 =",
+    "pilihan": ["1 1/5", "1 1/2", "1 2/5", "2 1/5"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_031",
+    "soalan": "Kira hasil tolak: 12 - 3.456 =",
+    "pilihan": ["8.644", "8.554", "8.544", "9.544"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_032",
+    "soalan": "Apakah nilai 120% daripada 80?",
+    "pilihan": ["84", "90", "92", "96"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_033",
+    "soalan": "Harga kos sebuah televisyen ialah RM 1,200. Peniaga menjualnya pada harga RM 1,500. Cari peratus keuntungannya:",
+    "pilihan": ["25%", "20%", "30%", "15%"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_034",
+    "soalan": "Sebuah kereta bergerak dengan kelajuan 80 km/j selama 2 jam 30 minit. Berapakah jumlah jarak yang dilalui?",
+    "pilihan": ["180 km", "200 km", "220 km", "240 km"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_035",
+    "soalan": "Kira: 2.4 m ÷ 8 = ______ cm.",
+    "pilihan": ["24 cm", "28 cm", "30 cm", "32 cm"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_036",
+    "soalan": "Jisim sekampit beras ialah 10 kg. Jika 3/8 daripada beras itu telah digunakan, berapakah jisim beras yang tinggal?",
+    "pilihan": ["6.00 kg", "6.50 kg", "6.75 kg", "6.25 kg"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_037",
+    "soalan": "Perimeter sebuah segi empat tepat ialah 30 cm. Jika panjangnya 9 cm, berapakah lebarnya?",
+    "pilihan": ["6 cm", "5 cm", "7 cm", "8 cm"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_038",
+    "soalan": "Sebuah prisma segi tiga mempunyai berapa permukaan rata?",
+    "pilihan": ["4", "5", "6", "7"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_039",
+    "soalan": "Titik M berada pada koordinat (4, 6). Apakah jarak mengufuk titik M dari paksi-y?",
+    "pilihan": ["2 unit", "6 unit", "4 unit", "10 unit"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_040",
+    "soalan": "Peristiwa 'hujan turun di padang pasir pada hari ini' mempunyai kebarangkalian:",
+    "pilihan": ["Mustahil", "Pasti", "Besar kemungkinan", "Kecil kemungkinan"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_041",
+    "soalan": "Kira: 0.045 juta + 350,000 =",
+    "pilihan": ["395,000", "385,000", "405,000", "415,000"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_042",
+    "soalan": "Kira: 4/9 ÷ 2/3 =",
+    "pilihan": ["1/3", "2/3", "4/3", "8/27"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_043",
+    "soalan": "Kira: 3.5 × 0.08 =",
+    "pilihan": ["0.028", "0.24", "0.28", "2.8"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_044",
+    "soalan": "Harga asal sebuah jam tangan ialah RM 250. Peniaga mengenakan cukai perkhidmatan sebanyak 6%. Berapakah jumlah cukai tersebut?",
+    "pilihan": ["RM 12", "RM 14", "RM 18", "RM 15"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_045",
+    "soalan": "Sebuah penerbangan dari Kuala Lumpur ke Sydney mengambil masa 8 jam. Jika pesawat berlepas pada jam 2230 hari Jumaat, bilakah pesawat tiba mengikut waktu Kuala Lumpur?",
+    "pilihan": ["Jam 0630 hari Sabtu", "Jam 0730 hari Sabtu", "Jam 0630 hari Ahad", "Jam 0530 hari Sabtu"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_046",
+    "soalan": "Kira: 5 1/2 km + 3 km 750 m = ______ m.",
+    "pilihan": ["9,150 m", "9,250 m", "9,350 m", "9,500 m"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_047",
+    "soalan": "Sebuah tangki mengandungi 40 liter air. 15% daripada air itu telah bocor keluar. Berapakah isi padu air yang tinggal?",
+    "pilihan": ["32 liter", "33 liter", "34 liter", "35 liter"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_048",
+    "soalan": "Cari luas sebuah segi tiga bersudut tegak yang mempunyai panjang tapak 12 cm dan tinggi 5 cm:",
+    "pilihan": ["60 cm²", "25 cm²", "35 cm²", "30 cm²"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_049",
+    "soalan": "Sebuah bongkah gabungan terdiri daripada dua buah kubus yang bersisi 3 cm setiap satu. Cari jumlah isi padu bongkah tersebut:",
+    "pilihan": ["54 cm³", "27 cm³", "45 cm³", "36 cm³"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_050",
+    "soalan": "Nisbah bilangan pen merah kepada pen biru ialah 3 : 7. Jika terdapat 21 batang pen merah, cari bilangan pen biru:",
+    "pilihan": ["42 batang", "49 batang", "35 batang", "56 batang"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_051",
+    "soalan": "Peristiwa 'seorang bayi yang baru lahir boleh terus berlari laju' adalah:",
+    "pilihan": ["Pasti", "Besar kemungkinan", "Mustahil", "Sama kemungkinan"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_052",
+    "soalan": "Kira: 1.8 juta ÷ 6 =",
+    "pilihan": ["30,000", "3,000", "3,000,000", "300,000"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_053",
+    "soalan": "Kira: 5/6 - 1/4 + 1/3 =",
+    "pilihan": ["11/12", "7/12", "9/12", "5/12"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_054",
+    "soalan": "Kira: 45.6 ÷ 0.12 =",
+    "pilihan": ["360", "380", "390", "410"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_055",
+    "soalan": "Sebuah kedai memberi rebat tunai RM 50 bagi setiap pembelian melebihi RM 300. Jika Puan Lee membeli barang berharga RM 420, berapakah jumlah yang perlu dibayar?",
+    "pilihan": ["RM 350", "RM 360", "RM 370", "RM 380"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_056",
+    "soalan": "Waktu di New York berada 13 jam di belakang waktu Kuala Lumpur. Jika di Kuala Lumpur jam 2000 hari Rabu, apakah waktu di New York?",
+    "pilihan": ["Jam 0600 hari Rabu", "Jam 0800 hari Rabu", "Jam 0700 hari Khamis", "Jam 0700 hari Rabu"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_057",
+    "soalan": "Kira: 8 × 1.45 kg = ______ g.",
+    "pilihan": ["11,600 g", "11,400 g", "11,500 g", "12,000 g"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_058",
+    "soalan": "Sebuah bekas mengandungi 2 1/2 liter jus. Jus itu dituang sama banyak ke dalam 5 biji cawan. Berapakah isi padu jus dalam setiap cawan?",
+    "pilihan": ["450 ml", "500 ml", "550 ml", "600 ml"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_059",
+    "soalan": "Berapakah sudut pedalaman bagi setiap bucu sebuah pentagon sekata?",
+    "pilihan": ["100°", "120°", "108°", "90°"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_060",
+    "soalan": "Cari perimeter sebuah bentuk gabungan segi empat sama (sisi 5 cm) dan segi tiga sama sisi (sisi 5 cm) yang bercantum pada satu sisi:",
+    "pilihan": ["30 cm", "20 cm", "35 cm", "25 cm"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_061",
+    "soalan": "Diberi koordinat A(2, 3), B(2, 7) dan C(6, 3). Bentuk geometri yang terhasil apabila ketiga-tiga titik disambungkan ialah:",
+    "pilihan": ["Segi tiga bersudut tegak", "Segi tiga sama sisi", "Segi empat sama", "Trapezium"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_062",
+    "soalan": "Peristiwa 'sebuah dadu adil bernombor 1 hingga 6 dilambung dan mendapat nombor 7' adalah:",
+    "pilihan": ["Kecil kemungkinan", "Mustahil", "Pasti", "Besar kemungkinan"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_063",
+    "soalan": "Tukarkan 0.085 juta kepada nombor bulat:",
+    "pilihan": ["8,500", "850,000", "85,000", "850"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_064",
+    "soalan": "Kira: 3 1/3 × 1 1/5 =",
+    "pilihan": ["3 1/5", "3 2/3", "4 1/3", "4"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_065",
+    "soalan": "Selesaikan: 25 - (3.4 + 2.6) × 2.5 =",
+    "pilihan": ["10", "12.5", "15", "7.5"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_066",
+    "soalan": "Puan Zainab meminjam RM 15,000 dari bank dengan kadar faedah mudah 4% setahun selama 3 tahun. Berapakah jumlah faedah yang perlu dibayar?",
+    "pilihan": ["RM 1,200", "RM 1,800", "RM 2,000", "RM 2,400"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_067",
+    "soalan": "Perbezaan masa antara Bandar P dengan Bandar Q ialah 5 jam. Jika waktu di Bandar P yang berada di sebelah barat ialah jam 0700, pukul berapakah di Bandar Q?",
+    "pilihan": ["Jam 0200", "Jam 1100", "Jam 1200", "Jam 1300"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_068",
+    "soalan": "Kira: 7.5 km - 2,800 m = ______ km.",
+    "pilihan": ["4.6 km", "4.8 km", "5.1 km", "4.7 km"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_069",
+    "soalan": "Cari min bagi data jisim berikut: 2.5 kg, 3.0 kg, 3.5 kg, 4.0 kg dan 4.5 kg:",
+    "pilihan": ["3.5 kg", "3.0 kg", "3.8 kg", "4.0 kg"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_070",
+    "soalan": "Luas tapak sebuah kuboid ialah 35 cm² dan tingginya 8 cm. Cari isi padu kuboid tersebut:",
+    "pilihan": ["260 cm³", "280 cm³", "300 cm³", "320 cm³"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_071",
+    "soalan": "Diberi nisbah p : q = 4 : 9. Jika nilai p = 20, cari nilai q:",
+    "pilihan": ["36", "40", "45", "50"],
+    "jawapan": 2
+  },
+  {
+    "id": "mat6_072",
+    "soalan": "Peristiwa 'hari esok akan menyusul selepas hari ini' mempunyai kebarangkalian:",
+    "pilihan": ["Sama kemungkinan", "Mustahil", "Besar kemungkinan", "Pasti"],
+    "jawapan": 3
+  },
+  {
+    "id": "mat6_073",
+    "soalan": "Kira: 7/8 ÷ 1/4 =",
+    "pilihan": ["3 1/2", "3 1/4", "2 1/2", "4 1/2"],
+    "jawapan": 0
+  },
+  {
+    "id": "mat6_074",
+    "soalan": "Sebuah kalkulator dijual pada harga RM 80 selepas potongan diskaun 20%. Berapakah harga asal kalkulator tersebut?",
+    "pilihan": ["RM 90", "RM 100", "RM 110", "RM 120"],
+    "jawapan": 1
+  },
+  {
+    "id": "mat6_075",
+    "soalan": "Sebuah kubus mempunyai isi padu 1,000 cm³. Berapakah panjang setiap sisinya?",
+    "pilihan": ["8 cm", "12 cm", "10 cm", "15 cm"],
+    "jawapan": 2
+  }
+]
