@@ -526,7 +526,7 @@
       };
       localStorage.setItem('active_quiz_session', JSON.stringify(sessionData));
     }
-    function loadQuestion() {
+  function loadQuestion() {
       const q = currentQuestions[currentIndex];
       const total = currentQuestions.length;
 
@@ -552,6 +552,7 @@
         btn.onclick = () => {
           playSelectSound();
           answers[currentIndex] = idx;
+          saveActiveQuizSession(); // Simpan jawapan ke localStorage
           loadQuestion();
         };
         btn.innerHTML = `
@@ -576,6 +577,7 @@
     function navigateQ(step) {
       playClickSound();
       currentIndex += step;
+      saveActiveQuizSession(); // Simpan nombor soalan terkini
       loadQuestion();
     }
 
