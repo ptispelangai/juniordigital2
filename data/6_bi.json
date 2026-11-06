@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bi6_001",
+    "soalan": "If I ______ harder last semester, I would have passed the scholarship examination.",
+    "pilihan": ["study", "studied", "had studied", "have studied"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_002",
+    "soalan": "The magnificent bridge was constructed ______ skilled local engineers.",
+    "pilihan": ["by", "with", "from", "through"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_003",
+    "soalan": "What is the synonym of 'PERSEVERANCE'?",
+    "pilihan": ["Hesitation", "Determination", "Weakness", "Laziness"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_004",
+    "soalan": "Choose the phrasal verb that means 'to recover from an illness':",
+    "pilihan": ["Get by", "Get along", "Get over", "Get away"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_005",
+    "soalan": "The idiom 'see eye to eye' means to ______.",
+    "pilihan": ["stare angrily at someone", "wear reading glasses", "blink continuously", "agree fully with someone"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_006",
+    "soalan": "Neither the headmaster nor the senior assistants ______ attending the briefing today.",
+    "pilihan": ["is", "are", "was", "has been"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_007",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Conscientious", "Conscienctious", "Consciensious", "Conscientous"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_008",
+    "soalan": "What is the antonym of 'COMPASSIONATE'?",
+    "pilihan": ["Sympathetic", "Merciful", "Cruel", "Generous"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_009",
+    "soalan": "A speech delivered without any prior rehearsal or preparation is ______.",
+    "pilihan": ["scripted", "extemporaneous (impromptu)", "recorded", "memorized"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_010",
+    "soalan": "Complete the proverb: 'Actions speak louder than ______.'",
+    "pilihan": ["words", "thoughts", "promises", "speeches"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_011",
+    "soalan": "Had you informed me earlier, I ______ you a ride to the airport.",
+    "pilihan": ["will give", "would give", "gave", "would have given"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_012",
+    "soalan": "Choose the relative pronoun: 'The author ______ novel won the prize delivered a lecture.'",
+    "pilihan": ["who", "whose", "which", "whom"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_013",
+    "soalan": "What is the synonym of 'CANDID'?",
+    "pilihan": ["Frank and honest", "Deceitful", "Shy", "Secretive"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_014",
+    "soalan": "The phrasal verb 'turn down' means to ______.",
+    "pilihan": ["accept gladly", "increase volume", "reject an offer", "rotate clockwise"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_015",
+    "soalan": "Choose the correct collective noun: 'A ______ of experts analyzed the geological survey.'",
+    "pilihan": ["flock", "pack", "school", "panel"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_016",
+    "soalan": "What is the plural form of 'Phenomenon'?",
+    "pilihan": ["Phenomena", "Phenomenons", "Phenomene", "Phenomies"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_017",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Surveilance", "Surveillance", "Sureillance", "Surveillence"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_018",
+    "soalan": "The opposite of 'CONCEAL' is ______.",
+    "pilihan": ["hide", "disguise", "reveal", "cover"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_019",
+    "soalan": "He took an umbrella ______ it might pour heavily later in the afternoon.",
+    "pilihan": ["unless", "although", "even if", "in case"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_020",
+    "soalan": "What does the idiom 'bite the bullet' mean?",
+    "pilihan": ["To face a painful situation with bravery", "To eat metallic objects", "To shoot target practice", "To argue violently"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_021",
+    "soalan": "Choose the sentence in the passive voice:",
+    "pilihan": ["The mechanic repaired the engine.", "The engine was repaired by the mechanic.", "The mechanic has repaired the engine.", "The mechanic will repair the engine."],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_022",
+    "soalan": "A person who is skilled in climbing lofty mountains is an ______.",
+    "pilihan": ["optician", "alpinist (mountaineer)", "astronomer", "archaeologist"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_023",
+    "soalan": "What is the past participle of 'SHRINK'?",
+    "pilihan": ["Shrank", "Shrunk", "Shrinked", "Shrinking"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_024",
+    "soalan": "Choose the correct conjunction: 'He failed to qualify, ______ he practiced diligently every dawn.'",
+    "pilihan": ["because", "since", "so", "even though"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_025",
+    "soalan": "Complete the proverb: 'When in Rome, do as the ______ do.'",
+    "pilihan": ["Romans", "Greeks", "Egyptians", "Kings"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_026",
+    "soalan": "The idiom 'a blessing in disguise' refers to something that ______.",
+    "pilihan": ["is magical", "seems bad at first but results in something good", "causes misfortune", "is completely hidden"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_027",
+    "soalan": "What is the synonym of 'EXTRAVAGANT'?",
+    "pilihan": ["Frugal", "Thrifty", "Wasteful", "Modest"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_028",
+    "soalan": "Every pupil in this primary school ______ required to wear a neat uniform.",
+    "pilihan": ["are", "were", "have been", "is"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_029",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Bureaucracy", "Beurocracy", "Burocracy", "Bureaucrasy"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_030",
+    "soalan": "The antonym of 'VOLUNTARY' is ______.",
+    "pilihan": ["willing", "compulsory", "unpaid", "spontaneous"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_031",
+    "soalan": "The phrasal verb 'bring about' means to ______.",
+    "pilihan": ["carry things", "take back", "cause to happen", "cancel quickly"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_032",
+    "soalan": "Which part of speech is the word 'RELENTLESSLY' in: 'He fought relentlessly'?",
+    "pilihan": ["Noun", "Adjective", "Pronoun", "Adverb"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_033",
+    "soalan": "Choose the correct comparative: 'Of the two options, this route is definitely ______.'",
+    "pilihan": ["safer", "safest", "more safe", "most safe"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_034",
+    "soalan": "What does the idiom 'burn the candle at both ends' mean?",
+    "pilihan": ["To create bright lights", "To exhaust oneself by working late and rising early", "To waste wax candles", "To study electrical circuits"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_035",
+    "soalan": "Identify the past perfect continuous tense:",
+    "pilihan": ["They have waited.", "They were waiting.", "They had been waiting for hours.", "They will be waiting."],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_036",
+    "soalan": "A remedy believed to cure all diseases or troubles is called a ______.",
+    "pilihan": ["placebo", "poison", "vaccine", "panacea"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_037",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Parliament", "Parliment", "Parliamant", "Parlemant"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_038",
+    "soalan": "What is the synonym of 'TEDIOUS'?",
+    "pilihan": ["Exciting", "Boring and repetitive", "Brief", "Rapid"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_039",
+    "soalan": "The opposite of 'METICULOUS' is ______.",
+    "pilihan": ["precise", "exact", "sloppy and careless", "accurate"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_040",
+    "soalan": "Neither of the two solutions ______ acceptable to the board.",
+    "pilihan": ["are", "were", "have been", "was"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_041",
+    "soalan": "Complete the proverb: 'Don't put all your eggs in one ______.'",
+    "pilihan": ["basket", "box", "nest", "carton"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_042",
+    "soalan": "The phrasal verb 'carry on' means to ______.",
+    "pilihan": ["stop", "continue", "lift up", "complain"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_043",
+    "soalan": "Choose the relative pronoun: 'The boy ______ you were speaking to is the school captain.'",
+    "pilihan": ["which", "whose", "whom", "what"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_044",
+    "soalan": "What does the idiom 'the ball is in your court' mean?",
+    "pilihan": ["You are playing tennis", "You lost the match", "Someone passed you a soccer ball", "It is your turn to take action or make a decision"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_045",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Independent", "Independant", "Indipendent", "Independunt"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_046",
+    "soalan": "What is the past participle of 'FORBID'?",
+    "pilihan": ["Forbade", "Forbidden", "Forbid", "Forbidding"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_047",
+    "soalan": "The synonym of 'RESILIENT' is ______.",
+    "pilihan": ["fragile", "delicate", "tough and adaptable", "inflexible"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_048",
+    "soalan": "A written declaration made under oath before an authorized magistrate is an ______.",
+    "pilihan": ["affair", "essay", "article", "affidavit"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_049",
+    "soalan": "What is the antonym of 'APPARENT'?",
+    "pilihan": ["Ambiguous (hidden)", "Obvious", "Clear", "Evident"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_050",
+    "soalan": "The jury ______ unanimous in delivering the historic verdict.",
+    "pilihan": ["were", "was", "are", "have been"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_051",
+    "soalan": "Choose the phrasal verb: 'The plane will ______ in ten minutes.'",
+    "pilihan": ["take out", "take in", "take off", "take up"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_052",
+    "soalan": "Complete the idiom: 'To let the cat out of the ______' (reveal a secret).",
+    "pilihan": ["cage", "box", "room", "bag"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_053",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Hierarchy", "Heirarchy", "Hierachy", "Heirachy"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_054",
+    "soalan": "What is the synonym of 'ELOQUENT'?",
+    "pilihan": ["Inarticulate", "Fluent and persuasive in speaking", "Silent", "Mumbling"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_055",
+    "soalan": "The opposite of 'AFFLUENT' (wealthy) is ______.",
+    "pilihan": ["rich", "prosperous", "impoverished (poor)", "comfortable"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_056",
+    "soalan": "Choose the modal verb expressing past deduction: 'She ______ have forgotten her keys; they are on the desk.'",
+    "pilihan": ["can", "should", "shall", "must"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_057",
+    "soalan": "Complete the proverb: 'Barking dogs seldom ______.'",
+    "pilihan": ["bite", "run", "howl", "sleep"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_058",
+    "soalan": "A book that contains words along with their synonyms and antonyms is a ______.",
+    "pilihan": ["glossary", "thesaurus", "directory", "catalogue"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_059",
+    "soalan": "What is the past participle of 'TREAD'?",
+    "pilihan": ["Trod", "Treading", "Trodden", "Treaded"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_060",
+    "soalan": "The phrasal verb 'look forward to' is followed by a verb in the ______ form.",
+    "pilihan": ["base", "past", "infinitive with 'to'", "-ing (gerund)"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_061",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Perseverance", "Perseverence", "Persevirence", "Perserverance"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_062",
+    "soalan": "The idiom 'on cloud nine' describes someone who is ______.",
+    "pilihan": ["confused", "extremely happy and euphoric", "lost in the sky", "very anxious"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_063",
+    "soalan": "What is the synonym of 'OBSOLETE'?",
+    "pilihan": ["Modern", "Brand new", "Outdated and no longer used", "Popular"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_064",
+    "soalan": "A person appointed to settle an international dispute objectively is an ______.",
+    "pilihan": ["accused", "audience", "applicant", "arbitrator"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_065",
+    "soalan": "The antonym of 'TRANSPARENT' is ______.",
+    "pilihan": ["opaque", "clear", "glassy", "translucent"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_066",
+    "soalan": "Ten kilometers ______ a long distance to run on a humid afternoon.",
+    "pilihan": ["are", "is", "were", "have been"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_067",
+    "soalan": "Choose the phrasal verb meaning 'to yield or surrender':",
+    "pilihan": ["Give up", "Give out", "Give in", "Give away"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_068",
+    "soalan": "Complete the proverb: 'Still waters run ______.'",
+    "pilihan": ["fast", "clear", "cold", "deep"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_069",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Mischievous", "Mischevious", "Mischivous", "Mischevous"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_070",
+    "soalan": "What is the past participle of 'LIE' (recline on a bed)?",
+    "pilihan": ["Lied", "Lain", "Lay", "Lying"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_071",
+    "soalan": "The synonym of 'PRAGMATIC' is ______.",
+    "pilihan": ["idealistic", "theoretical", "practical and sensible", "dreamy"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi6_072",
+    "soalan": "The idiom 'call it a day' means to ______.",
+    "pilihan": ["wake up early", "name a calendar day", "celebrate a holiday", "stop working on something for the rest of the day"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi6_073",
+    "soalan": "Choose the correct prefix to form the opposite of 'RATIONAL':",
+    "pilihan": ["Ir-", "Un-", "Dis-", "Il-"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi6_074",
+    "soalan": "A handwritten signature or piece of writing from a celebrity is an ______.",
+    "pilihan": ["biography", "autograph", "encyclopedia", "anthology"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi6_075",
+    "soalan": "Choose the sentence with correct punctuation:",
+    "pilihan": ["Although it was raining, we went hiking.", "Although it was raining we went hiking.", "Although it was raining; we went hiking.", "Although, it was raining we went hiking."],
+    "jawapan": 0
+  }
+]
