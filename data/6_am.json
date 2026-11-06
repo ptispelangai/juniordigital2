@@ -1,0 +1,452 @@
+[
+  {
+    "id": "am6_001",
+    "soalan": "Stesen Angkasa Antarabangsa (ISS) mengorbit mengelilingi Bumi pada kelajuan purata kira-kira:",
+    "pilihan": ["27,600 km/j", "10,000 km/j", "1,500 km/j", "50,000 km/j"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_002",
+    "soalan": "Teleskop angkasa lepas tercanggih kendalian NASA yang dilancarkan pada tahun 2021 bagi menggantikan Hubble ialah:",
+    "pilihan": ["Teleskop Kepler", "Teleskop Angkasa James Webb (JWST)", "Teleskop Spitzer", "Teleskop Chandra"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_003",
+    "soalan": "Sungai yang mengalirkan isi padu air terbesar di dunia ialah:",
+    "pilihan": ["Sungai Nil", "Sungai Yangtze", "Sungai Amazon", "Sungai Mississippi"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_004",
+    "soalan": "Jurang laut terdalam di dunia yang terletak di Lautan Pasifik dinamakan:",
+    "pilihan": ["Jurang Puerto Rico", "Jurang Jawa", "Jurang Sunda", "Jurang Mariana"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_005",
+    "soalan": "Bangunan tertinggi di dunia pada masa kini ialah Burj Khalifa yang terletak di bandar:",
+    "pilihan": ["Dubai, Emiriah Arab Bersatu", "Riyadh, Arab Saudi", "Doha, Qatar", "Kuwait City, Kuwait"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_006",
+    "soalan": "Bandar raya di dunia yang terletak merentasi dua benua sekaligus (Eropah dan Asia) ialah:",
+    "pilihan": ["Athens", "Istanbul", "Kaherah", "Moscow"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_007",
+    "soalan": "Tasik air tawar semula jadi terdalam dan tertua di dunia yang terletak di Rusia ialah:",
+    "pilihan": ["Tasik Superior", "Tasik Victoria", "Tasik Baikal", "Tasik Michigan"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_008",
+    "soalan": "Air terjun tertinggi yang tidak terputus di dunia ialah Air Terjun Angel yang terletak di negara:",
+    "pilihan": ["Brazil", "Kanada", "Zimbabwe", "Venezuela"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_009",
+    "soalan": "Ibu pejabat Pertubuhan Bangsa-Bangsa Bersatu (PBB) terletak di bandar raya:",
+    "pilihan": ["New York, Amerika Syarikat", "Geneva, Switzerland", "London, United Kingdom", "Paris, Perancis"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_010",
+    "soalan": "Mahkamah Keadilan Antarabangsa (ICJ) berpusat di bandar:",
+    "pilihan": ["Brussels, Belgium", "The Hague, Belanda", "Vienna, Austria", "Rome, Itali"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_011",
+    "soalan": "Anugerah Hadiah Nobel Keamanan disampaikan secara tahunan bertempat di bandar:",
+    "pilihan": ["Stockholm, Sweden", "Copenhagen, Denmark", "Oslo, Norway", "Helsinki, Finland"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_012",
+    "soalan": "Siapakah saintis wanita pertama yang memenangi dua Hadiah Nobel dalam dua bidang sains berbeza (Fizik dan Kimia)?",
+    "pilihan": ["Rosalind Franklin", "Ada Lovelace", "Jane Goodall", "Marie Curie"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_013",
+    "soalan": "Pencipta vaksin pertama di dunia yang berjaya menghapuskan penyakit cacar air (smallpox) ialah:",
+    "pilihan": ["Edward Jenner", "Louis Pasteur", "Alexander Fleming", "Robert Koch"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_014",
+    "soalan": "Antibiotik penisilin pertama kali ditemui secara tidak sengaja pada tahun 1928 oleh:",
+    "pilihan": ["Gregor Mendel", "Alexander Fleming", "Charles Darwin", "Joseph Lister"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_015",
+    "soalan": "Struktur heliks ganda dua DNA pertama kali dihuraikan modelnya pada tahun 1953 oleh:",
+    "pilihan": ["Newton dan Galileo", "Pasteur dan Koch", "James Watson dan Francis Crick", "Einstein dan Bohr"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_016",
+    "soalan": "Singkatan teknologi 'AI' dalam bidang perkomputeran moden merujuk kepada:",
+    "pilihan": ["Automated Information", "Applied Internet", "Actual Intelligence", "Artificial Intelligence (Kecerdasan Buatan)"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_017",
+    "soalan": "Rangkaian sesawang sedunia atau laman web dicipta pada tahun 1989 oleh pakar sains komputer bernama:",
+    "pilihan": ["Tim Berners-Lee", "Bill Gates", "Steve Wozniak", "Alan Turing"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_018",
+    "soalan": "Tokoh matematik yang digelar sebagai 'Bapa Sains Komputer' dan pemecah kod Enigma era Perang Dunia Kedua ialah:",
+    "pilihan": ["Charles Babbage", "Alan Turing", "John von Neumann", "Blaise Pascal"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_019",
+    "soalan": "Bahan paling keras yang wujud secara semula jadi di muka bumi ialah:",
+    "pilihan": ["Batu granit", "Besi keluli", "Berlian", "Titanium"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_020",
+    "soalan": "Logam yang paling banyak digunakan di dunia untuk membina struktur jambatan dan kapal ialah:",
+    "pilihan": ["Tembaga", "Plumbum", "Emas", "Keluli (Besi)"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_021",
+    "soalan": "Berapakah bilangan tulang rangka dalam tubuh manusia dewasa yang sempurna?",
+    "pilihan": ["206 batang tulang", "300 batang tulang", "150 batang tulang", "180 batang tulang"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_022",
+    "soalan": "Kumpulan darah manusia yang dikenali sebagai penderma universal kerana boleh didermakan kepada semua kumpulan darah ialah:",
+    "pilihan": ["Kumpulan A", "Kumpulan O", "Kumpulan B", "Kumpulan AB"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_023",
+    "soalan": "Kumpulan darah yang bertindak sebagai penerima universal ialah:",
+    "pilihan": ["Kumpulan O", "Kumpulan A", "Kumpulan AB", "Kumpulan B"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_024",
+    "soalan": "Bahagian otak manusia yang bertanggungjawab mengawal keseimbangan badan dan koordinasi otot ialah:",
+    "pilihan": ["Serebrum", "Medula oblongata", "Hipotalamus", "Serebelum"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_025",
+    "soalan": "Pokok tertinggi di dunia yang tergolong dalam keluarga redwood pantai terletak di negeri California iaitu pokok:",
+    "pilihan": ["Hyperion", "General Sherman", "Baobab", "Kapur Gergasi"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_026",
+    "soalan": "Pokok tropika tertinggi di dunia yang ditemui di Lembah Danum, Sabah ialah spesies pokok:",
+    "pilihan": ["Meranti Sarang Punai", "Meranti Kuning (Menara)", "Cengal Pasir", "Keruing Kertas"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_027",
+    "soalan": "Haiwan vertebrata yang mempunyai jangka hayat paling panjang di dunia (melebihi 400 tahun) ialah:",
+    "pilihan": ["Penyu gergasi Galapagos", "Ikan paus biru", "Jerung Greenland", "Gajah Afrika"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_028",
+    "soalan": "Mamalia bertelur (monotrem) yang mempunyai paruh seperti itik dan menghasilkan bisa ialah:",
+    "pilihan": ["Echidna", "Trenggiling", "Armadillo", "Platipus"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_029",
+    "soalan": "Pulau terbesar di dunia mengikut keluasan tanah geografi ialah pulau:",
+    "pilihan": ["Greenland", "Borneo", "Madagascar", "New Guinea"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_030",
+    "soalan": "Kepulauan terbesar di dunia yang terdiri daripada lebih 17,000 buah pulau ialah kepulauan negara:",
+    "pilihan": ["Filipina", "Indonesia", "Maldives", "Jepun"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_031",
+    "soalan": "Semenanjung tanah daratan terbesar di dunia ialah:",
+    "pilihan": ["Semenanjung Tanah Melayu", "Semenanjung Iberia", "Semenanjung Tanah Arab", "Semenanjung Scandinavia"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_032",
+    "soalan": "Laut pedalaman paling masin di dunia di mana manusia boleh terapung tanpa tenggelam ialah:",
+    "pilihan": ["Laut Merah", "Laut Kaspia", "Laut Hitam", "Laut Mati"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_033",
+    "soalan": "Berapakah anggaran peratusan permukaan Bumi yang diliputi oleh air lautan?",
+    "pilihan": ["Kira-kira 71%", "Kira-kira 50%", "Kira-kira 85%", "Kira-kira 60%"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_034",
+    "soalan": "Unsur gas yang paling banyak membentuk jisim teras Matahari ialah:",
+    "pilihan": ["Oksigen", "Hidrogen", "Helium", "Karbon"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_035",
+    "soalan": "Fenomena letusan cahaya warna-warni yang memukau di langit kawasan kutub utara dikenali sebagai:",
+    "pilihan": ["Pelangi malam", "Kilat atmosfera", "Aurora Borealis", "Halo suria"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_036",
+    "soalan": "Aurora yang kelihatan di langit berhampiran kutub selatan bumi dinamakan:",
+    "pilihan": ["Aurora Polaris", "Bintang Ekor", "Zon Korona", "Aurora Australis"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_037",
+    "soalan": "Bulan buatan manusia pertama yang berjaya dilancarkan ke orbit angkasa lepas pada tahun 1957 ialah:",
+    "pilihan": ["Sputnik 1 (Soviet Union)", "Explorer 1 (USA)", "Apollo 11", "Vostok 1"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_038",
+    "soalan": "Manusia pertama yang berjaya menjejakkan kaki ke permukaan Bulan pada Julai 1969 ialah:",
+    "pilihan": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Michael Collins"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_039",
+    "soalan": "Angkasawan pertama di dunia yang berjaya mengelilingi orbit Bumi pada tahun 1961 ialah:",
+    "pilihan": ["John Glenn", "Alan Shepard", "Yuri Gagarin", "Valentina Tereshkova"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_040",
+    "soalan": "Wanita pertama di dunia yang berjaya terbang ke angkasa lepas pada tahun 1963 ialah:",
+    "pilihan": ["Sally Ride", "Kalpana Chawla", "Sunita Williams", "Valentina Tereshkova"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_041",
+    "soalan": "Kapal penumpang gergasi yang karam di Lautan Atlantik Utara selepas merempuh aisberg pada tahun 1912 ialah:",
+    "pilihan": ["RMS Titanic", "RMS Lusitania", "Queen Mary", "Britannic"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_042",
+    "soalan": "Terusan laut yang memendekkan perjalanan kapal antara Eropah dan Asia tanpa perlu mengelilingi benua Afrika ialah:",
+    "pilihan": ["Terusan Panama", "Terusan Suez", "Terusan Corinth", "Terusan Danube"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_043",
+    "soalan": "Mata wang kripto pertama dan paling terkenal yang berasaskan teknologi blok rantai (blockchain) ialah:",
+    "pilihan": ["Ethereum", "Ripple", "Bitcoin", "Dogecoin"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_044",
+    "soalan": "Sistem kod perduaan (binary code) yang menjadi asas bahasa perisian komputer hanya menggunakan dua digit iaitu:",
+    "pilihan": ["1 dan 2", "A dan B", "+ dan -", "0 dan 1"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_045",
+    "soalan": "Unit terkecil bagi ukuran data digital dalam komputer dinamakan:",
+    "pilihan": ["Bit", "Bait (Byte)", "Kilobait", "Piksel"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_046",
+    "soalan": "Satu Kilobait (KB) bersamaan tepat dengan:",
+    "pilihan": ["1,000 bait", "1,024 bait", "512 bait", "2,048 bait"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_047",
+    "soalan": "Proses biologi yang menukarkan susu menjadi dadih atau keju melibatkan tindakan mikroorganisma:",
+    "pilihan": ["Yis roti", "Virus influenza", "Bakteria asid laktik (Lactobacillus)", "Amoeba"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_048",
+    "soalan": "Gas yang paling banyak menyumbang kepada kesan rumah hijau global akibat pembakaran bahan api fosil ialah:",
+    "pilihan": ["Oksigen", "Gas argon", "Helium", "Karbon dioksida"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_049",
+    "soalan": "Proses penanaman pokok semula di kawasan hutan yang telah ditebang atau musnah dinamakan:",
+    "pilihan": ["Penghutanan semula (reforestasi)", "Penyahhutanan", "Pertanian pindah", "Penebangan terpilih"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_050",
+    "soalan": "Hari Bumi Sedunia disambut pada setiap tahun pada tarikh:",
+    "pilihan": ["5 Jun", "22 April", "21 Mac", "16 September"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_051",
+    "soalan": "Hari Alam Sekitar Sedunia anjuran PBB disambut pada:",
+    "pilihan": ["1 Januari", "22 Mac", "5 Jun", "31 Oktober"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_052",
+    "soalan": "Gelaran 'Paru-paru Dunia' diberikan kepada kawasan hutan hujan tropika yang terluas iaitu:",
+    "pilihan": ["Hutan Hujan Borneo", "Hutan Tropika Afrika Tengah", "Hutan Taiga Siberia", "Hutan Hujan Amazon"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_053",
+    "soalan": "Perjanjian antarabangsa yang ditandatangani untuk melindungi lapisan ozon daripada gas CFC dinamakan:",
+    "pilihan": ["Protokol Montreal", "Perjanjian Paris", "Protokol Kyoto", "Deklarasi Rio"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_054",
+    "soalan": "Tenaga yang dijana daripada haba teras perut Bumi dikenali sebagai tenaga:",
+    "pilihan": ["Tenaga hidro", "Tenaga geoterma", "Tenaga biojisim", "Tenaga pasang surut"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_055",
+    "soalan": "Bateri kenderaan elektrik moden kebanyakannya menggunakan ion logam ringan iaitu:",
+    "pilihan": ["Plumbum", "Nikel", "Litium (Lithium-ion)", "Zink"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_056",
+    "soalan": "Siapakah pereka cipta dan pelukis agung era Renaissance yang melukis karya agung 'Mona Lisa'?",
+    "pilihan": ["Michelangelo", "Raphael", "Vincent van Gogh", "Leonardo da Vinci"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_057",
+    "soalan": "Karya ukiran patung marmar 'David' dan lukisan siling Sistine Chapel dihasilkan oleh maestro seni:",
+    "pilihan": ["Michelangelo Buonarroti", "Donatello", "Pablo Picasso", "Claude Monet"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_058",
+    "soalan": "Tamadun purba yang terkenal membina piramid gergasi dan menggunakan tulisan hieroglif ialah:",
+    "pilihan": ["Tamadun Mesopotamia", "Tamadun Mesir Purba", "Tamadun Lembah Indus", "Tamadun Maya"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_059",
+    "soalan": "Kota purba Machu Picchu peninggalan tamadun Inca terletak di pergunungan negara:",
+    "pilihan": ["Chile", "Mexico", "Peru", "Colombia"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_060",
+    "soalan": "Amfiteater bulat purba Colosseum yang digunakan untuk pertarungan gladiator terletak di bandar:",
+    "pilihan": ["Athens", "Madrid", "Paris", "Rome"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_061",
+    "soalan": "Bandar purba Pompeii musnah dan terkambus pada tahun 79 Masihi akibat letusan gunung berapi:",
+    "pilihan": ["Gunung Vesuvius", "Gunung Etna", "Gunung Krakatau", "Gunung Tambora"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_062",
+    "soalan": "Letusan gunung berapi paling dahsyat dalam sejarah moden Nusantara yang mencetuskan tsunami pada tahun 1883 ialah:",
+    "pilihan": ["Gunung Merapi", "Gunung Krakatau", "Gunung Bromo", "Gunung Toba"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_063",
+    "soalan": "Skala yang digunakan oleh ahli geologi untuk menyukat keamatan kekuatan gempa bumi ialah:",
+    "pilihan": ["Skala Beaufort", "Skala Celsius", "Skala Richter", "Skala Kelvin"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_064",
+    "soalan": "Alat saintifik yang merekodkan getaran gelombang gempa bumi secara automatik dinamakan:",
+    "pilihan": ["Barometer", "Anemometer", "Higrometer", "Seismograf"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_065",
+    "soalan": "Alat yang digunakan untuk menyukat kelajuan angin di stesen kaji cuaca ialah:",
+    "pilihan": ["Anemometer", "Termometer", "Barometer", "Tolok hujan"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_066",
+    "soalan": "Apakah gas utama yang menyokong pembakaran dan membolehkan api menyala?",
+    "pilihan": ["Karbon dioksida", "Oksigen", "Nitrogen", "Argon"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_067",
+    "soalan": "Alat pemadam api jenis serbuk kering biasanya digunakan untuk memadamkan kebakaran:",
+    "pilihan": ["Kelas A sahaja", "Kelas B sahaja", "Semua kelas kebakaran (A, B, C dan elektrik)", "Kebakaran logam khas sahaja"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_068",
+    "soalan": "Nombor talian kecemasan tunggal yang menghubungkan polis, ambulans dan bomba di Malaysia ialah:",
+    "pilihan": ["991", "112", "994", "999"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_069",
+    "soalan": "Organisasi antarabangsa Bulan Sabit Merah dan Palang Merah (ICRC) diasaskan oleh tokoh kemanusiaan:",
+    "pilihan": ["Henry Dunant", "Florence Nightingale", "Mother Teresa", "Nelson Mandela"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_070",
+    "soalan": "Pengasas pergerakan Pengakap Sedunia (Scouts) pada tahun 1907 ialah:",
+    "pilihan": ["Lord Baden-Powell", "Robert Falcon Scott", "Ernest Shackleton", "David Livingstone"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_071",
+    "soalan": "Konsep 'Langkah Kaki Karbon' (Carbon Footprint) merujuk kepada:",
+    "pilihan": ["Saiz kasut getah", "Kesan tapak kaki di atas tanah", "Jumlah gas rumah hijau yang dilepaskan oleh aktiviti manusia", "Berat karbon arang"],
+    "jawapan": 2
+  },
+  {
+    "id": "am6_072",
+    "soalan": "Prinsip pemakanan sihat 'Suku-Suku Separuh' yang disarankan oleh Kementerian Kesihatan Malaysia menetapkan separuh pinggan untuk:",
+    "pilihan": ["Nasi dan mi", "Ayam dan ikan", "Minyak dan kuah", "Sayur-sayuran dan buah-buahan"],
+    "jawapan": 3
+  },
+  {
+    "id": "am6_073",
+    "soalan": "Berapakah bilangan pemain dalam satu pasukan bola jaring di atas gelanggang semasa perlawanan berlangsung?",
+    "pilihan": ["7 orang pemain", "5 orang pemain", "6 orang pemain", "11 orang pemain"],
+    "jawapan": 0
+  },
+  {
+    "id": "am6_074",
+    "soalan": "Sukan sepak takraw dimainkan oleh dua pasukan yang masing-masing dianggotai oleh berapa orang pemain (regu)?",
+    "pilihan": ["2 orang", "3 orang", "4 orang", "5 orang"],
+    "jawapan": 1
+  },
+  {
+    "id": "am6_075",
+    "soalan": "Membaca jambatan ilmu. Sikap suka membaca dan dahagakan ilmu pengetahuan membolehkan seseorang murid menjadi modal insan yang:",
+    "pilihan": ["Ketinggalan zaman", "Mudah terpengaruh dengan khabar angin", "Berwawasan tinggi, kritis berfikir dan berdaya saing global", "Bersikap sombong"],
+    "jawapan": 2
+  }
+]
