@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bi5_001",
+    "soalan": "By the time the firefighter arrived, the blazing fire ______ by the rain.",
+    "pilihan": ["had been extinguished", "was extinguished", "has extinguished", "extinguishes"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_002",
+    "soalan": "Choose the relative pronoun: 'The scientist ______ discovered the vaccine won an award.'",
+    "pilihan": ["which", "who", "whom", "whose"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_003",
+    "soalan": "What is the synonym of 'METICULOUS'?",
+    "pilihan": ["Careless", "Hasty", "Careful", "Rough"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_004",
+    "soalan": "Neither the teacher nor the students ______ in the auditorium this morning.",
+    "pilihan": ["is", "was", "has been", "were"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_005",
+    "soalan": "Choose the correct modal verb for obligation: 'All motorists ______ wear a seatbelt.'",
+    "pilihan": ["must", "might", "could", "may"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_006",
+    "soalan": "What does the idiom 'hit the nail on the head' mean?",
+    "pilihan": ["To injure one's finger", "To describe exactly what is causing a situation", "To build wooden furniture", "To make a careless mistake"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_007",
+    "soalan": "Choose the phrasal verb that means 'to cancel':",
+    "pilihan": ["Call on", "Call out", "Call off", "Call up"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_008",
+    "soalan": "What is the antonym of 'OPTIMISTIC'?",
+    "pilihan": ["Hopeful", "Cheerful", "Confident", "Pessimistic"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_009",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Maintenance", "Maintainance", "Maintanence", "Maintenence"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_010",
+    "soalan": "The committee members ______ their final decision after three hours of debate.",
+    "pilihan": ["reaches", "reached", "was reaching", "has reach"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_011",
+    "soalan": "Complete the proverb: 'A stitch in time saves ______.'",
+    "pilihan": ["five", "eight", "nine", "ten"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_012",
+    "soalan": "A person who studies rocks, minerals and the earth's crust is a ______.",
+    "pilihan": ["biologist", "meteorologist", "physicist", "geologist"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_013",
+    "soalan": "Choose the correct plural form of 'Crisis':",
+    "pilihan": ["Crises", "Crisises", "Crisus", "Crisi"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_014",
+    "soalan": "He is ______ honest man who always speaks the truth.",
+    "pilihan": ["a", "an", "the", "many"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_015",
+    "soalan": "What is the past participle of 'FORGIVE'?",
+    "pilihan": ["Forgave", "Forgiving", "Forgiven", "Forgives"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_016",
+    "soalan": "The athlete was disqualified because he ______ the rules repeatedly.",
+    "pilihan": ["obeyed", "followed", "respected", "violated"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_017",
+    "soalan": "Choose the correct collective noun: 'A ______ of musicians performed at the concert.'",
+    "pilihan": ["band", "choir", "flock", "pack"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_018",
+    "soalan": "What is the opposite of 'AUTHENTIC'?",
+    "pilihan": ["Genuine", "Fake", "Real", "Original"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_019",
+    "soalan": "If it rains tomorrow, we ______ the camping trip.",
+    "pilihan": ["postpone", "postponed", "will postpone", "postponing"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_020",
+    "soalan": "Choose the adverb of degree: 'The marathon runner was ______ exhausted after the race.'",
+    "pilihan": ["slowly", "carefully", "cheerfully", "extremely"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_021",
+    "soalan": "What does the idiom 'spill the beans' mean?",
+    "pilihan": ["To reveal a secret", "To waste cooked food", "To plant bean seeds", "To cook dinner"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_022",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Questionaire", "Questionnaire", "Questionair", "Questionare"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_023",
+    "soalan": "Each of the participants ______ given a certificate of participation.",
+    "pilihan": ["were", "are", "was", "have been"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_024",
+    "soalan": "A manuscript is an ancient handwritten document written before the invention of ______.",
+    "pilihan": ["wheels", "fire", "compasses", "printing"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_025",
+    "soalan": "Choose the conjunction of concession: '______ it was freezing, he did not wear an overcoat.'",
+    "pilihan": ["Although", "Because", "Since", "Unless"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_026",
+    "soalan": "What is the past tense of 'WEAVE'?",
+    "pilihan": ["Weaved", "Wove", "Woven", "Weaving"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_027",
+    "soalan": "The opposite of 'ARROGANT' is ______.",
+    "pilihan": ["proud", "vain", "humble", "boastful"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_028",
+    "soalan": "Choose the phrasal verb meaning 'to tolerate or endure':",
+    "pilihan": ["Put off", "Put on", "Put out", "Put up with"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_029",
+    "soalan": "Which punctuation mark is used to show possession or omission of letters?",
+    "pilihan": ["Apostrophe", "Hyphen", "Colon", "Semicolon"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_030",
+    "soalan": "The synonym of 'RELUCTANT' is ______.",
+    "pilihan": ["eager", "unwilling", "ready", "willing"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_031",
+    "soalan": "Complete: 'Every cloud has a silver ______.'",
+    "pilihan": ["star", "ring", "lining", "border"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_032",
+    "soalan": "A place where historical documents and records are preserved is an ______.",
+    "pilihan": ["aquarium", "arboretum", "observatory", "archive"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_033",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Embarrassment", "Embarassment", "Embarrasment", "Embarament"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_034",
+    "soalan": "Neither Adam nor his cousins ______ invited to the ceremony.",
+    "pilihan": ["was", "were", "is", "has been"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_035",
+    "soalan": "What is the comparative form of 'LITTLE' (amount)?",
+    "pilihan": ["Littler", "Littlest", "Less", "Least"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_036",
+    "soalan": "The idiom 'break the ice' means to ______.",
+    "pilihan": ["melt frozen lakes", "shatter glass", "cause an accident", "make people feel more comfortable in a social setting"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_037",
+    "soalan": "Choose the noun derived from the verb 'DECIDE':",
+    "pilihan": ["Decision", "Decisive", "Decided", "Deciding"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_038",
+    "soalan": "The antonym of 'COMPULSORY' is ______.",
+    "pilihan": ["mandatory", "optional", "obligatory", "strict"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_039",
+    "soalan": "Choose the sentence in the passive voice:",
+    "pilihan": ["The chef cooked a scrumptious stew.", "A bird built a nest.", "The historic monument was restored by the council.", "The children played happily in the park."],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_040",
+    "soalan": "A person fluent in two languages is described as ______.",
+    "pilihan": ["monolingual", "multilingual", "linguist", "bilingual"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_041",
+    "soalan": "Choose the correct preposition: 'The detective is looking ______ the mysterious disappearance.'",
+    "pilihan": ["into", "onto", "over", "between"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_042",
+    "soalan": "What is the past participle of 'STRIVE'?",
+    "pilihan": ["Strived", "Striven", "Strove", "Striving"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_043",
+    "soalan": "Complete the proverb: 'Too many cooks spoil the ______.'",
+    "pilihan": ["dinner", "cake", "broth", "soup"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_044",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Pronounciation", "Pronunsation", "Pronunciation", "Pronuncation"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_045",
+    "soalan": "What is the synonym of 'FASCINATING'?",
+    "pilihan": ["Boring", "Captivating", "Dull", "Ordinary"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_046",
+    "soalan": "Neither tea nor coffee ______ served during the recess.",
+    "pilihan": ["was", "were", "are", "have been"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_047",
+    "soalan": "The opposite of 'HOSTILE' is ______.",
+    "pilihan": ["aggressive", "friendly", "violent", "angry"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_048",
+    "soalan": "Choose the collective noun: 'A ______ of judges presided over the trial.'",
+    "pilihan": ["board", "bench", "panel", "jury"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_049",
+    "soalan": "What does the idiom 'burn the midnight oil' mean?",
+    "pilihan": ["To study or work late into the night", "To waste cooking oil", "To cause an explosion", "To go to bed early"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_050",
+    "soalan": "A mammal that eats both plants and meat is called an ______.",
+    "pilihan": ["herbivore", "omnivore", "carnivore", "insectivore"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_051",
+    "soalan": "Choose the relative pronoun: 'The bicycle ______ tyres were punctured has been repaired.'",
+    "pilihan": ["who", "whom", "whose", "which"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_052",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Mischievous", "Mischevious", "Mischivous", "Mischevous"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_053",
+    "soalan": "Had I known about the exhibition, I ______ it with my family.",
+    "pilihan": ["will visit", "would have visited", "visited", "visiting"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_054",
+    "soalan": "What is the antonym of 'VIGOROUS'?",
+    "pilihan": ["Energetic", "Robust", "Feeble", "Lively"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_055",
+    "soalan": "The phrasal verb 'look up to' means to ______.",
+    "pilihan": ["search for a word", "gaze at the ceiling", "ignore someone", "admire and respect someone"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_056",
+    "soalan": "Choose the past continuous form: 'The students ______ when the bell rang.'",
+    "pilihan": ["were debating", "debated", "had debated", "are debating"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_057",
+    "soalan": "What is the synonym of 'COURTEOUS'?",
+    "pilihan": ["Rude", "Polite", "Impatient", "Harsh"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_058",
+    "soalan": "Complete the idiom: 'Hold your ______!' (be patient)",
+    "pilihan": ["breath", "horses", "hands", "hat"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_059",
+    "soalan": "Choose the correct prefix to give 'RESPONSIBLE' an opposite meaning:",
+    "pilihan": ["Un-", "Dis-", "Ir-", "In-"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_060",
+    "soalan": "A nocturnal creature is active primarily during the ______.",
+    "pilihan": ["morning", "afternoon", "twilight", "night"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_061",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Guarantee", "Garantee", "Gaurantee", "Garrentee"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_062",
+    "soalan": "One of the boys in my class ______ represented Malaysia in swimming.",
+    "pilihan": ["have", "has", "are", "were"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_063",
+    "soalan": "The antonym of 'ABUNDANT' is ______.",
+    "pilihan": ["plentiful", "copious", "scarce", "profuse"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_064",
+    "soalan": "What does the proverb 'Honesty is the best policy' emphasize?",
+    "pilihan": ["Making money is essential", "Working fast saves time", "Keeping quiet prevents trouble", "Truthfulness is the most honourable virtue"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_065",
+    "soalan": "Choose the correct phrasal verb: 'He ______ his father in both appearance and temper.'",
+    "pilihan": ["takes after", "takes off", "takes over", "takes in"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_066",
+    "soalan": "What is the superlative form of 'BAD'?",
+    "pilihan": ["Badder", "Worst", "Worse", "Baddest"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_067",
+    "soalan": "An instrument used to measure atmospheric pressure is a ______.",
+    "pilihan": ["thermometer", "speedometer", "barometer", "hygrometer"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_068",
+    "soalan": "Choose the correct spelling:",
+    "pilihan": ["Discipline", "Disipline", "Discepline", "Descipline"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_069",
+    "soalan": "The phrase 'at the eleventh hour' means ______.",
+    "pilihan": ["at 11 o'clock sharp", "at the very last moment", "early in the morning", "before noon"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_070",
+    "soalan": "Choose the past participle of 'TEAR':",
+    "pilihan": ["Teared", "Tore", "Torn", "Tearing"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_071",
+    "soalan": "The opposite of 'FRUGAL' (saving money) is ______.",
+    "pilihan": ["thrifty", "economical", "careful", "extravagant"],
+    "jawapan": 3
+  },
+  {
+    "id": "bi5_072",
+    "soalan": "Choose the word with the correct spelling:",
+    "pilihan": ["Restaurant", "Restorant", "Restaraunt", "Resterant"],
+    "jawapan": 0
+  },
+  {
+    "id": "bi5_073",
+    "soalan": "What does 'lethal' mean?",
+    "pilihan": ["Harmless", "Deadly", "Safe", "Healthy"],
+    "jawapan": 1
+  },
+  {
+    "id": "bi5_074",
+    "soalan": "Complete the proverb: 'Birds of a feather ______ together.'",
+    "pilihan": ["fly", "nest", "flock", "chirp"],
+    "jawapan": 2
+  },
+  {
+    "id": "bi5_075",
+    "soalan": "Choose the sentence with correct punctuation:",
+    "pilihan": ["\"Where are you going\" asked Mrs Lee?", "\"Where are you going?\" asked Mrs. Lee.", "\"Where are you going,\" asked Mrs Lee?", "\"Where are you going? asked Mrs. Lee.\""],
+    "jawapan": 1
+  }
+]
