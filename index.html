@@ -611,6 +611,20 @@
       initAudio();
       document.removeEventListener('click', unlockAudio);
     }, { once: true });
+    // Semak automatik bila laman web dimuatkan semula / di-refresh
+    window.addEventListener('DOMContentLoaded', () => {
+      const savedUser = localStorage.getItem('junior_user');
+      if (savedUser) {
+        try {
+          userData = JSON.parse(savedUser);
+          applyUserData();
+          renderSubjects();
+          showScreen('screenSubjects'); // Terus masuk ke senarai subjek tanpa perlu login semula
+        } catch (e) {
+          localStorage.removeItem('junior_user');
+        }
+      }
+    });
   </script>
 </body>
 </html>
