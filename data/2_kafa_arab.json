@@ -2,601 +2,1101 @@
   {
     "id": "arab_2_001",
     "soalan": "Apakah maksud nombor 'وَاحِدٌ' (Wahidun)?",
-    "pilihan": ["Satu (1)", "Dua (2)", "Tiga (3)", "Empat (4)"],
-    "jawapan": 0
+    "pilihan": [
+      "Empat (4)",
+      "Satu (1)",
+      "Tiga (3)",
+      "Dua (2)"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_002",
     "soalan": "Apakah perkataan Bahasa Arab bagi nombor '2' (Dua)?",
-    "pilihan": ["اِثْنَانِ", "ثَلَاثَةٌ", "أَرْبَعَةٌ", "خَمْسَةٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "ثَلَاثَةٌ",
+      "أَرْبَعَةٌ",
+      "اِثْنَانِ",
+      "خَمْسَةٌ"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_003",
     "soalan": "Nombor 'ثَلَاثَةٌ' (Thalathatun) membawa erti:",
-    "pilihan": ["Tiga (3)", "Tujuh (7)", "Lapan (8)", "Sepuluh (10)"],
-    "jawapan": 0
+    "pilihan": [
+      "Sepuluh (10)",
+      "Tiga (3)",
+      "Tujuh (7)",
+      "Lapan (8)"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_004",
     "soalan": "Perkataan Arab bagi nombor '4' (Empat) ialah:",
-    "pilihan": ["أَرْبَعَةٌ", "خَمْسَةٌ", "سِتَّةٌ", "سَبْعَةٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "سَبْعَةٌ",
+      "سِتَّةٌ",
+      "أَرْبَعَةٌ",
+      "خَمْسَةٌ"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_005",
     "soalan": "Maksud bagi 'خَمْسَةٌ' (Khamsatun) ialah:",
-    "pilihan": ["Lima (5)", "Enam (6)", "Dua (2)", "Empat (4)"],
-    "jawapan": 0
+    "pilihan": [
+      "Dua (2)",
+      "Empat (4)",
+      "Lima (5)",
+      "Enam (6)"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_006",
     "soalan": "Apakah perkataan Bahasa Arab bagi nombor '6' (Enam)?",
-    "pilihan": ["سِتَّةٌ", "سَبْعَةٌ", "ثَمَانِيَةٌ", "تِسْعَةٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "ثَمَانِيَةٌ",
+      "سِتَّةٌ",
+      "سَبْعَةٌ",
+      "تِسْعَةٌ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_007",
     "soalan": "Maksud bagi perkataan 'سَبْعَةٌ' (Sab'atun) ialah:",
-    "pilihan": ["Tujuh (7)", "Sembilan (9)", "Lapan (8)", "Sepuluh (10)"],
-    "jawapan": 0
+    "pilihan": [
+      "Sembilan (9)",
+      "Lapan (8)",
+      "Sepuluh (10)",
+      "Tujuh (7)"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_008",
     "soalan": "Perkataan Arab bagi nombor '8' (Lapan) ialah:",
-    "pilihan": ["ثَمَانِيَةٌ", "تِسْعَةٌ", "عَشَرَةٌ", "سِتَّةٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "تِسْعَةٌ",
+      "سِتَّةٌ",
+      "عَشَرَةٌ",
+      "ثَمَانِيَةٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_009",
     "soalan": "Maksud bagi 'تِسْعَةٌ' (Tis'atun) ialah:",
-    "pilihan": ["Sembilan (9)", "Sepuluh (10)", "Tujuh (7)", "Tiga (3)"],
-    "jawapan": 0
+    "pilihan": [
+      "Tujuh (7)",
+      "Tiga (3)",
+      "Sembilan (9)",
+      "Sepuluh (10)"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_010",
     "soalan": "Apakah perkataan Bahasa Arab bagi nombor '10' (Sepuluh)?",
-    "pilihan": ["عَشَرَةٌ", "وَاحِدٌ", "خَمْسَةٌ", "أَرْبَعَةٌ"],
+    "pilihan": [
+      "عَشَرَةٌ",
+      "خَمْسَةٌ",
+      "وَاحِدٌ",
+      "أَرْبَعَةٌ"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_011",
     "soalan": "Nombor 'أَحَدَ عَشَرَ' mewakili nombor:",
-    "pilihan": ["Sebelas (11)", "Dua belas (12)", "Tiga belas (13)", "Dua puluh (20)"],
+    "pilihan": [
+      "Sebelas (11)",
+      "Dua belas (12)",
+      "Dua puluh (20)",
+      "Tiga belas (13)"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_012",
     "soalan": "Perkataan Bahasa Arab bagi nombor '12' (Dua belas) ialah:",
-    "pilihan": ["اِثْنَا عَشَرَ", "ثَلَاثَةَ عَشَرَ", "أَرْبَعَةَ عَشَرَ", "عِشْرُونَ"],
-    "jawapan": 0
+    "pilihan": [
+      "عِشْرُونَ",
+      "ثَلَاثَةَ عَشَرَ",
+      "أَرْبَعَةَ عَشَرَ",
+      "اِثْنَا عَشَرَ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_013",
     "soalan": "Nombor 'عِشْرُونَ' (Isyruna) bermaksud nombor:",
-    "pilihan": ["Dua puluh (20)", "Sepuluh (10)", "Lima belas (15)", "Tiga puluh (30)"],
-    "jawapan": 0
+    "pilihan": [
+      "Sepuluh (10)",
+      "Dua puluh (20)",
+      "Tiga puluh (30)",
+      "Lima belas (15)"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_014",
     "soalan": "Nombor 'خَمْسَةَ عَشَرَ' dalam angka Rumi ialah:",
-    "pilihan": ["15", "14", "16", "17"],
+    "pilihan": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_015",
     "soalan": "Berapakah bilangan jari pada satu belah tangan kita dalam bahasa Arab?",
-    "pilihan": ["خَمْسَةٌ (5)", "عَشَرَةٌ (10)", "أَرْبَعَةٌ (4)", "ثَلَاثَةٌ (3)"],
-    "jawapan": 0
+    "pilihan": [
+      "أَرْبَعَةٌ (4)",
+      "عَشَرَةٌ (10)",
+      "خَمْسَةٌ (5)",
+      "ثَلَاثَةٌ (3)"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_016",
     "soalan": "Apakah maksud perkataan 'رَأْسٌ' (Ra'sun)?",
-    "pilihan": ["Kepala", "Kaki", "Tangan", "Mata"],
-    "jawapan": 0
+    "pilihan": [
+      "Mata",
+      "Kepala",
+      "Kaki",
+      "Tangan"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_017",
     "soalan": "Perkataan Arab bagi 'Rambut' ialah:",
-    "pilihan": ["شَعْرٌ", "عَيْنٌ", "أَنْفٌ", "أُذُنٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "أُذُنٌ",
+      "عَيْنٌ",
+      "أَنْفٌ",
+      "شَعْرٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_018",
     "soalan": "Maksud perkataan 'عَيْنٌ' ('Ainun) ialah:",
-    "pilihan": ["Mata", "Telinga", "Hidung", "Mulut"],
+    "pilihan": [
+      "Mata",
+      "Mulut",
+      "Telinga",
+      "Hidung"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_019",
     "soalan": "Perkataan Arab bagi 'Hidung' ialah:",
-    "pilihan": ["أَنْفٌ", "فَمٌ", "لِسَانٌ", "يَدٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "فَمٌ",
+      "أَنْفٌ",
+      "لِسَانٌ",
+      "يَدٌ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_020",
     "soalan": "Maksud perkataan 'أُذُنٌ' (Uzunun) ialah:",
-    "pilihan": ["Telinga", "Mata", "Pipi", "Dagu"],
-    "jawapan": 0
+    "pilihan": [
+      "Mata",
+      "Dagu",
+      "Telinga",
+      "Pipi"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_021",
     "soalan": "Perkataan Arab bagi 'Mulut' ialah:",
-    "pilihan": ["فَمٌ", "أَنْفٌ", "رَأْسٌ", "رِجْلٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "رَأْسٌ",
+      "فَمٌ",
+      "رِجْلٌ",
+      "أَنْفٌ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_022",
     "soalan": "Maksud perkataan 'لِسَانٌ' (Lisanun) ialah:",
-    "pilihan": ["Lidah", "Gigi", "Bibir", "Leher"],
+    "pilihan": [
+      "Lidah",
+      "Leher",
+      "Bibir",
+      "Gigi"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_023",
     "soalan": "Perkataan Arab bagi 'Gigi' ialah:",
-    "pilihan": ["سِنٌّ / أَسْنَانٌ", "عَيْنٌ", "يَدٌ", "بَطْنٌ"],
+    "pilihan": [
+      "سِنٌّ / أَسْنَانٌ",
+      "بَطْنٌ",
+      "عَيْنٌ",
+      "يَدٌ"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_024",
     "soalan": "Maksud perkataan 'يَدٌ' (Yadun) ialah:",
-    "pilihan": ["Tangan", "Kaki", "Perut", "Bahu"],
-    "jawapan": 0
+    "pilihan": [
+      "Kaki",
+      "Bahu",
+      "Perut",
+      "Tangan"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_025",
     "soalan": "Perkataan Arab bagi 'Kaki' ialah:",
-    "pilihan": ["رِجْلٌ", "يَدٌ", "رَأْسٌ", "ظَهْرٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "رَأْسٌ",
+      "يَدٌ",
+      "ظَهْرٌ",
+      "رِجْلٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_026",
     "soalan": "Maksud perkataan 'بَطْنٌ' (Batnun) ialah:",
-    "pilihan": ["Perut", "Dada", "Punggung", "Pinggang"],
+    "pilihan": [
+      "Perut",
+      "Dada",
+      "Pinggang",
+      "Punggung"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_027",
     "soalan": "Perkataan Arab bagi 'Belakang badan' (Punggung/Belakang) ialah:",
-    "pilihan": ["ظَهْرٌ", "بَطْنٌ", "صَدْرٌ", "عُنُقٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "عُنُقٌ",
+      "ظَهْرٌ",
+      "صَدْرٌ",
+      "بَطْنٌ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_028",
     "soalan": "Maksud perkataan 'صَدْرٌ' (Sadrun) ialah:",
-    "pilihan": ["Dada", "Tangan", "Lutut", "Paha"],
-    "jawapan": 0
+    "pilihan": [
+      "Tangan",
+      "Lutut",
+      "Paha",
+      "Dada"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_029",
     "soalan": "Perkataan Arab bagi 'Leher' ialah:",
-    "pilihan": ["عُنُقٌ", "رَأْسٌ", "فَمٌ", "أَنْفٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "أَنْفٌ",
+      "فَمٌ",
+      "رَأْسٌ",
+      "عُنُقٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_030",
     "soalan": "Apakah anggota yang kita gunakan untuk 'مَشْيٌ' (berjalan)?",
-    "pilihan": ["رِجْلٌ (kaki)", "عَيْنٌ (mata)", "أُذُنٌ (telinga)", "أَنْفٌ (hidung)"],
-    "jawapan": 0
+    "pilihan": [
+      "أَنْفٌ (hidung)",
+      "عَيْنٌ (mata)",
+      "رِجْلٌ (kaki)",
+      "أُذُنٌ (telinga)"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_031",
     "soalan": "Apakah maksud perkataan 'قَلَمٌ' (Qalamun)?",
-    "pilihan": ["Pen / Pensel", "Buku", "Pembaris", "Pemadam"],
-    "jawapan": 0
+    "pilihan": [
+      "Pemadam",
+      "Pen / Pensel",
+      "Pembaris",
+      "Buku"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_032",
     "soalan": "Perkataan Arab bagi 'Buku' ialah:",
-    "pilihan": ["كِتَابٌ", "دَفْتَرٌ", "مِسْطَرَةٌ", "حَقِيبَةٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "حَقِيبَةٌ",
+      "مِسْطَرَةٌ",
+      "كِتَابٌ",
+      "دَفْتَرٌ"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_033",
     "soalan": "Maksud perkataan 'دَفْتَرٌ' (Daftarun) ialah:",
-    "pilihan": ["Buku tulis / Buku nota", "Papan hitam", "Meja", "Kerusi"],
-    "jawapan": 0
+    "pilihan": [
+      "Meja",
+      "Papan hitam",
+      "Kerusi",
+      "Buku tulis / Buku nota"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_034",
     "soalan": "Perkataan Arab bagi 'Pembaris' ialah:",
-    "pilihan": ["مِسْطَرَةٌ", "مِمْحَاةٌ", "مِبْرَاةٌ", "قَلَمٌ"],
+    "pilihan": [
+      "مِسْطَرَةٌ",
+      "مِمْحَاةٌ",
+      "قَلَمٌ",
+      "مِبْرَاةٌ"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_035",
     "soalan": "Maksud perkataan 'مِمْحَاةٌ' (Mimhatun) ialah:",
-    "pilihan": ["Pemadam", "Pengasah pensel", "Kotak pensel", "Pembaris"],
-    "jawapan": 0
+    "pilihan": [
+      "Pembaris",
+      "Pengasah pensel",
+      "Pemadam",
+      "Kotak pensel"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_036",
     "soalan": "Perkataan Arab bagi 'Pengasah pensel' ialah:",
-    "pilihan": ["مِبْرَاةٌ", "مِسْطَرَةٌ", "كِتَابٌ", "قَلَمٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "مِسْطَرَةٌ",
+      "قَلَمٌ",
+      "كِتَابٌ",
+      "مِبْرَاةٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_037",
     "soalan": "Maksud perkataan 'حَقِيبَةٌ' (Haqibatun) ialah:",
-    "pilihan": ["Beg sekolah", "Bilik darjah", "Kerusi", "Pintu"],
-    "jawapan": 0
+    "pilihan": [
+      "Kerusi",
+      "Pintu",
+      "Beg sekolah",
+      "Bilik darjah"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_038",
     "soalan": "Perkataan Arab bagi 'Bilik darjah / Kelas' ialah:",
-    "pilihan": ["فَصْلٌ", "مَدْرَسَةٌ", "مَكْتَبَةٌ", "مَلْعَبٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "مَدْرَسَةٌ",
+      "فَصْلٌ",
+      "مَلْعَبٌ",
+      "مَكْتَبَةٌ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_039",
     "soalan": "Maksud perkataan 'سَبُّورَةٌ' (Sabburatun) ialah:",
-    "pilihan": ["Papan tulis / Papan putih", "Meja guru", "Dinding", "Tingkap"],
+    "pilihan": [
+      "Papan tulis / Papan putih",
+      "Dinding",
+      "Tingkap",
+      "Meja guru"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_040",
     "soalan": "Perkataan Arab bagi 'Meja' ialah:",
-    "pilihan": ["مَكْتَبٌ", "كُرْسِيٌّ", "بَابٌ", "نَافِذَةٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "كُرْسِيٌّ",
+      "مَكْتَبٌ",
+      "بَابٌ",
+      "نَافِذَةٌ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_041",
     "soalan": "Maksud perkataan 'كُرْسِيٌّ' (Kursiyyun) ialah:",
-    "pilihan": ["Kerusi", "Meja", "Lantai", "Bumbung"],
-    "jawapan": 0
+    "pilihan": [
+      "Meja",
+      "Bumbung",
+      "Kerusi",
+      "Lantai"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_042",
     "soalan": "Perkataan Arab bagi 'Pintu' ialah:",
-    "pilihan": ["بَابٌ", "نَافِذَةٌ", "جِدَارٌ", "سَقْفٌ"],
+    "pilihan": [
+      "بَابٌ",
+      "سَقْفٌ",
+      "نَافِذَةٌ",
+      "جِدَارٌ"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_043",
     "soalan": "Maksud perkataan 'نَافِذَةٌ' (Nafizatun) ialah:",
-    "pilihan": ["Tingkap", "Pintu", "Kipas", "Lampu"],
-    "jawapan": 0
+    "pilihan": [
+      "Pintu",
+      "Kipas",
+      "Lampu",
+      "Tingkap"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_044",
     "soalan": "Perkataan Arab bagi 'Sekolah' ialah:",
-    "pilihan": ["مَدْرَسَةٌ", "مَسْجِدٌ", "بَيْتٌ", "سُوقٌ"],
+    "pilihan": [
+      "مَدْرَسَةٌ",
+      "سُوقٌ",
+      "مَسْجِدٌ",
+      "بَيْتٌ"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_045",
     "soalan": "Maksud perkataan 'مِقْلَمَةٌ' (Miqlamatun) ialah:",
-    "pilihan": ["Kotak pensel", "Buku teks", "Beg galas", "Kamus"],
-    "jawapan": 0
+    "pilihan": [
+      "Kamus",
+      "Buku teks",
+      "Kotak pensel",
+      "Beg galas"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_046",
     "soalan": "Apakah maksud perkataan 'أَبٌ' (Abun)?",
-    "pilihan": ["Bapa / Ayah", "Ibu", "Abang", "Datuk"],
-    "jawapan": 0
+    "pilihan": [
+      "Ibu",
+      "Datuk",
+      "Bapa / Ayah",
+      "Abang"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_047",
     "soalan": "Perkataan Arab bagi 'Ibu' ialah:",
-    "pilihan": ["أُمٌّ", "أُخْتٌ", "جَدَّةٌ", "عَمَّةٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "أُخْتٌ",
+      "جَدَّةٌ",
+      "عَمَّةٌ",
+      "أُمٌّ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_048",
     "soalan": "Maksud perkataan 'أَخٌ' (Akhun) ialah:",
-    "pilihan": ["Saudara lelaki (Abang/Adik lelaki)", "Kakak", "Ibu", "Bapa"],
-    "jawapan": 0
+    "pilihan": [
+      "Kakak",
+      "Saudara lelaki (Abang/Adik lelaki)",
+      "Bapa",
+      "Ibu"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_049",
     "soalan": "Perkataan Arab bagi 'Saudara perempuan' (Kakak/Adik perempuan) ialah:",
-    "pilihan": ["أُخْتٌ", "أَخٌ", "عَمٌّ", "خَالٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "خَالٌ",
+      "أَخٌ",
+      "أُخْتٌ",
+      "عَمٌّ"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_050",
     "soalan": "Maksud perkataan 'جَدٌّ' (Jaddun) ialah:",
-    "pilihan": ["Datuk", "Nenek", "Bapa saudara", "Sepupu"],
-    "jawapan": 0
+    "pilihan": [
+      "Bapa saudara",
+      "Datuk",
+      "Sepupu",
+      "Nenek"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_051",
     "soalan": "Perkataan Arab bagi 'Nenek' ialah:",
-    "pilihan": ["جَدَّةٌ", "جَدٌّ", "أُمٌّ", "عَمَّةٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "عَمَّةٌ",
+      "أُمٌّ",
+      "جَدٌّ",
+      "جَدَّةٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_052",
     "soalan": "Maksud perkataan 'عَمٌّ' ('Ammun) ialah:",
-    "pilihan": ["Bapa saudara (sebelah bapa)", "Emak saudara", "Datuk", "Abang"],
-    "jawapan": 0
+    "pilihan": [
+      "Abang",
+      "Emak saudara",
+      "Bapa saudara (sebelah bapa)",
+      "Datuk"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_053",
     "soalan": "Perkataan Arab bagi 'Ibu saudara' (sebelah bapa) ialah:",
-    "pilihan": ["عَمَّةٌ", "عَمٌّ", "جَدَّةٌ", "أُخْتٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "أُخْتٌ",
+      "عَمٌّ",
+      "جَدَّةٌ",
+      "عَمَّةٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_054",
     "soalan": "Maksud ungkapan 'أُسْرَتِي' (Usrati) ialah:",
-    "pilihan": ["Keluarga saya", "Sekolah saya", "Rumah saya", "Kawan saya"],
-    "jawapan": 0
+    "pilihan": [
+      "Rumah saya",
+      "Keluarga saya",
+      "Sekolah saya",
+      "Kawan saya"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_055",
     "soalan": "Perkataan Arab bagi 'Anak lelaki' ialah:",
-    "pilihan": ["اِبْنٌ / وَلَدٌ", "بِنْتٌ", "أُمٌّ", "أَبٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "أَبٌ",
+      "أُمٌّ",
+      "بِنْتٌ",
+      "اِبْنٌ / وَلَدٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_056",
     "soalan": "Apakah maksud perkataan 'أَحْمَرُ' (Ahmaru)?",
-    "pilihan": ["Merah", "Biru", "Hijau", "Kuning"],
-    "jawapan": 0
+    "pilihan": [
+      "Hijau",
+      "Merah",
+      "Kuning",
+      "Biru"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_057",
     "soalan": "Perkataan Arab bagi warna 'Biru' ialah:",
-    "pilihan": ["أَزْرَقُ", "أَحْمَرُ", "أَصْفَرُ", "أَبْيَضُ"],
-    "jawapan": 0
+    "pilihan": [
+      "أَحْمَرُ",
+      "أَبْيَضُ",
+      "أَصْفَرُ",
+      "أَزْرَقُ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_058",
     "soalan": "Maksud perkataan 'أَخْضَرُ' (Akhdharu) ialah warna:",
-    "pilihan": ["Hijau", "Merah", "Hitam", "Putih"],
-    "jawapan": 0
+    "pilihan": [
+      "Hitam",
+      "Putih",
+      "Hijau",
+      "Merah"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_059",
     "soalan": "Perkataan Arab bagi warna 'Kuning' ialah:",
-    "pilihan": ["أَصْفَرُ", "أَحْمَرُ", "أَسْوَدُ", "أَزْرَقُ"],
-    "jawapan": 0
+    "pilihan": [
+      "أَزْرَقُ",
+      "أَصْفَرُ",
+      "أَسْوَدُ",
+      "أَحْمَرُ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_060",
     "soalan": "Maksud perkataan 'أَبْيَضُ' (Abyadhu) ialah warna:",
-    "pilihan": ["Putih", "Hitam", "Coklat", "Ungu"],
+    "pilihan": [
+      "Putih",
+      "Hitam",
+      "Coklat",
+      "Ungu"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_061",
     "soalan": "Perkataan Arab bagi warna 'Hitam' ialah:",
-    "pilihan": ["أَسْوَدُ", "أَبْيَضُ", "أَخْضَرُ", "أَحْمَرُ"],
+    "pilihan": [
+      "أَسْوَدُ",
+      "أَخْضَرُ",
+      "أَحْمَرُ",
+      "أَبْيَضُ"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_062",
     "soalan": "Warna susu dalam bahasa Arab ialah:",
-    "pilihan": ["أَبْيَضُ (Putih)", "أَسْوَدُ (Hitam)", "أَحْمَرُ (Merah)", "أَزْرَقُ (Biru)"],
-    "jawapan": 0
+    "pilihan": [
+      "أَزْرَقُ (Biru)",
+      "أَبْيَضُ (Putih)",
+      "أَسْوَدُ (Hitam)",
+      "أَحْمَرُ (Merah)"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_063",
     "soalan": "Warna daun pokok yang segar dalam bahasa Arab ialah:",
-    "pilihan": ["أَخْضَرُ (Hijau)", "أَصْفَرُ (Kuning)", "أَحْمَرُ (Merah)", "أَسْوَدُ (Hitam)"],
+    "pilihan": [
+      "أَخْضَرُ (Hijau)",
+      "أَسْوَدُ (Hitam)",
+      "أَحْمَرُ (Merah)",
+      "أَصْفَرُ (Kuning)"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_064",
     "soalan": "Warna buah pisang yang sudah masak dalam bahasa Arab ialah:",
-    "pilihan": ["أَصْفَرُ (Kuning)", "أَزْرَقُ (Biru)", "أَبْيَضُ (Putih)", "أَسْوَدُ (Hitam)"],
-    "jawapan": 0
+    "pilihan": [
+      "أَبْيَضُ (Putih)",
+      "أَسْوَدُ (Hitam)",
+      "أَزْرَقُ (Biru)",
+      "أَصْفَرُ (Kuning)"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_065",
     "soalan": "Warna darah dalam bahasa Arab ialah:",
-    "pilihan": ["أَحْمَرُ (Merah)", "أَزْرَقُ (Biru)", "أَخْضَرُ (Hijau)", "أَصْفَرُ (Kuning)"],
+    "pilihan": [
+      "أَحْمَرُ (Merah)",
+      "أَزْرَقُ (Biru)",
+      "أَصْفَرُ (Kuning)",
+      "أَخْضَرُ (Hijau)"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_066",
     "soalan": "Apakah maksud perkataan 'قِطٌّ' (Qittun)?",
-    "pilihan": ["Kucing", "Lembu", "Ikan", "Burung"],
-    "jawapan": 0
+    "pilihan": [
+      "Lembu",
+      "Burung",
+      "Kucing",
+      "Ikan"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_067",
     "soalan": "Perkataan Arab bagi 'Lembu' ialah:",
-    "pilihan": ["بَقَرَةٌ", "غَنَمٌ", "فِيلٌ", "أَسَدٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "فِيلٌ",
+      "غَنَمٌ",
+      "بَقَرَةٌ",
+      "أَسَدٌ"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_068",
     "soalan": "Maksud perkataan 'سَمَكٌ' (Samakun) ialah:",
-    "pilihan": ["Ikan", "Kambing", "Kuda", "Ayam"],
-    "jawapan": 0
+    "pilihan": [
+      "Ayam",
+      "Ikan",
+      "Kambing",
+      "Kuda"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_069",
     "soalan": "Perkataan Arab bagi 'Burung' ialah:",
-    "pilihan": ["طَائِرٌ", "قِطٌّ", "فِيلٌ", "كَلْبٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "فِيلٌ",
+      "كَلْبٌ",
+      "طَائِرٌ",
+      "قِطٌّ"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_070",
     "soalan": "Maksud perkataan 'حِصَانٌ' (Hisanun) ialah:",
-    "pilihan": ["Kuda", "Gajah", "Singa", "Unta"],
-    "jawapan": 0
+    "pilihan": [
+      "Gajah",
+      "Unta",
+      "Singa",
+      "Kuda"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_071",
     "soalan": "Perkataan Arab bagi 'Gajah' ialah:",
-    "pilihan": ["فِيلٌ", "أَسَدٌ", "قِرْدٌ", "جَمَلٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "أَسَدٌ",
+      "قِرْدٌ",
+      "فِيلٌ",
+      "جَمَلٌ"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_072",
     "soalan": "Maksud perkataan 'أَسَدٌ' (Asadun) ialah:",
-    "pilihan": ["Singa", "Harimau", "Zirafah", "Serigala"],
+    "pilihan": [
+      "Singa",
+      "Harimau",
+      "Zirafah",
+      "Serigala"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_073",
     "soalan": "Perkataan Arab bagi 'Kambing' ialah:",
-    "pilihan": ["غَنَمٌ", "بَقَرَةٌ", "حِصَانٌ", "سَمَكٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "بَقَرَةٌ",
+      "غَنَمٌ",
+      "حِصَانٌ",
+      "سَمَكٌ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_074",
     "soalan": "Maksud perkataan 'دَجَاجَةٌ' (Dajajatun) ialah:",
-    "pilihan": ["Ayam", "Itik", "Angsa", "Burung"],
+    "pilihan": [
+      "Ayam",
+      "Burung",
+      "Angsa",
+      "Itik"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_075",
     "soalan": "Perkataan Arab bagi 'Unta' ialah:",
-    "pilihan": ["جَمَلٌ", "فِيلٌ", "حِصَانٌ", "قِطٌّ"],
-    "jawapan": 0
+    "pilihan": [
+      "حِصَانٌ",
+      "فِيلٌ",
+      "جَمَلٌ",
+      "قِطٌّ"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_076",
     "soalan": "Apakah maksud perkataan 'مَاءٌ' (Maa'un)?",
-    "pilihan": ["Air", "Susu", "Nasi", "Roti"],
-    "jawapan": 0
+    "pilihan": [
+      "Roti",
+      "Air",
+      "Susu",
+      "Nasi"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_077",
     "soalan": "Perkataan Arab bagi 'Susu' ialah:",
-    "pilihan": ["حَلِيبٌ / لَبَنٌ", "شَايٌ", "قَهْوَةٌ", "مَاءٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "مَاءٌ",
+      "شَايٌ",
+      "قَهْوَةٌ",
+      "حَلِيبٌ / لَبَنٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_078",
     "soalan": "Maksud perkataan 'رُزٌّ' (Ruzzun) ialah:",
-    "pilihan": ["Nasi", "Roti", "Sup", "Mee"],
-    "jawapan": 0
+    "pilihan": [
+      "Mee",
+      "Roti",
+      "Nasi",
+      "Sup"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_079",
     "soalan": "Perkataan Arab bagi 'Roti' ialah:",
-    "pilihan": ["خُبْزٌ", "رُزٌّ", "لَحْمٌ", "بَيْضٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "لَحْمٌ",
+      "خُبْزٌ",
+      "رُزٌّ",
+      "بَيْضٌ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_080",
     "soalan": "Maksud perkataan 'لَحْمٌ' (Lahmun) ialah:",
-    "pilihan": ["Daging", "Ikan", "Telur", "Sayur"],
-    "jawapan": 0
+    "pilihan": [
+      "Sayur",
+      "Telur",
+      "Daging",
+      "Ikan"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_081",
     "soalan": "Perkataan Arab bagi 'Telur' ialah:",
-    "pilihan": ["بَيْضٌ", "لَحْمٌ", "جُبْنٌ", "عَسَلٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "جُبْنٌ",
+      "بَيْضٌ",
+      "عَسَلٌ",
+      "لَحْمٌ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_082",
     "soalan": "Maksud perkataan 'شَايٌ' (Syayun) ialah minuman:",
-    "pilihan": ["Teh", "Kopi", "Sirap", "Jus"],
-    "jawapan": 0
+    "pilihan": [
+      "Jus",
+      "Kopi",
+      "Sirap",
+      "Teh"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_083",
     "soalan": "Perkataan Arab bagi minuman 'Kopi' ialah:",
-    "pilihan": ["قَهْوَةٌ", "شَايٌ", "مَاءٌ", "حَلِيبٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "حَلِيبٌ",
+      "مَاءٌ",
+      "قَهْوَةٌ",
+      "شَايٌ"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_084",
     "soalan": "Maksud perkataan 'تُفَّاحٌ' (Tuffahun) ialah buah:",
-    "pilihan": ["Epal", "Pisang", "Oren", "Tembikai"],
+    "pilihan": [
+      "Epal",
+      "Oren",
+      "Pisang",
+      "Tembikai"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_085",
     "soalan": "Perkataan Arab bagi buah 'Pisang' ialah:",
-    "pilihan": ["مَوْزٌ", "تُفَّاحٌ", "بُرْتُقَالٌ", "عِنَبٌ"],
-    "jawapan": 0
+    "pilihan": [
+      "تُفَّاحٌ",
+      "بُرْتُقَالٌ",
+      "عِنَبٌ",
+      "مَوْزٌ"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_086",
     "soalan": "Kata tunjuk 'هَذَا' (Haza) bermaksud:",
-    "pilihan": ["Ini (untuk lelaki / muzakkar)", "Ini (untuk perempuan)", "Itu", "Di sana"],
-    "jawapan": 0
+    "pilihan": [
+      "Itu",
+      "Ini (untuk lelaki / muzakkar)",
+      "Di sana",
+      "Ini (untuk perempuan)"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_087",
     "soalan": "Kata tunjuk 'هَذِهِ' (Hazihi) bermaksud:",
-    "pilihan": ["Ini (untuk perempuan / muannas)", "Ini (untuk lelaki)", "Itu lelaki", "Mereka"],
-    "jawapan": 0
+    "pilihan": [
+      "Mereka",
+      "Ini (untuk lelaki)",
+      "Ini (untuk perempuan / muannas)",
+      "Itu lelaki"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_088",
     "soalan": "Kata tunjuk 'ذَلِكَ' (Zalika) bermaksud:",
-    "pilihan": ["Itu (lelaki)", "Ini (lelaki)", "Itu (perempuan)", "Di sini"],
-    "jawapan": 0
+    "pilihan": [
+      "Itu (perempuan)",
+      "Di sini",
+      "Itu (lelaki)",
+      "Ini (lelaki)"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_089",
     "soalan": "Kata tunjuk 'تِلْكَ' (Tilka) bermaksud:",
-    "pilihan": ["Itu (perempuan)", "Itu (lelaki)", "Ini (perempuan)", "Kami"],
-    "jawapan": 0
+    "pilihan": [
+      "Itu (lelaki)",
+      "Kami",
+      "Itu (perempuan)",
+      "Ini (perempuan)"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_090",
     "soalan": "Kata ganti diri 'أَنَا' (Ana) bermaksud:",
-    "pilihan": ["Saya", "Awak (lelaki)", "Dia", "Kami"],
-    "jawapan": 0
+    "pilihan": [
+      "Kami",
+      "Awak (lelaki)",
+      "Dia",
+      "Saya"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_091",
     "soalan": "Kata ganti diri 'أَنْتَ' (Anta) bermaksud:",
-    "pilihan": ["Awak (lelaki)", "Awak (perempuan)", "Saya", "Mereka"],
+    "pilihan": [
+      "Awak (lelaki)",
+      "Awak (perempuan)",
+      "Mereka",
+      "Saya"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_092",
     "soalan": "Kata ganti diri 'أَنْتِ' (Anti) bermaksud:",
-    "pilihan": ["Awak (perempuan)", "Awak (lelaki)", "Dia", "Saya"],
-    "jawapan": 0
+    "pilihan": [
+      "Awak (lelaki)",
+      "Dia",
+      "Awak (perempuan)",
+      "Saya"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_093",
     "soalan": "Ucapan selamat 'صَبَاحَ الْخَيْرِ' (Sabahal khair) bermaksud:",
-    "pilihan": ["Selamat pagi", "Selamat petang", "Selamat malam", "Selamat tinggal"],
+    "pilihan": [
+      "Selamat pagi",
+      "Selamat tinggal",
+      "Selamat malam",
+      "Selamat petang"
+    ],
     "jawapan": 0
   },
   {
     "id": "arab_2_094",
     "soalan": "Jawapan bagi ucapan 'صَبَاحَ الْخَيْرِ' ialah:",
-    "pilihan": ["صَبَاحَ النُّورِ", "مَسَاءَ النُّورِ", "عَفْوًا", "أَهْلًا بِكَ"],
-    "jawapan": 0
+    "pilihan": [
+      "أَهْلًا بِكَ",
+      "صَبَاحَ النُّورِ",
+      "مَسَاءَ النُّورِ",
+      "عَفْوًا"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_095",
     "soalan": "Ucapan selamat 'مَسَاءَ الْخَيْرِ' (Masa'al khair) bermaksud:",
-    "pilihan": ["Selamat petang", "Selamat pagi", "Selamat datang", "Jumpa lagi"],
-    "jawapan": 0
+    "pilihan": [
+      "Selamat pagi",
+      "Selamat petang",
+      "Selamat datang",
+      "Jumpa lagi"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_096",
     "soalan": "Ucapan 'شُكْرًا' (Syukran) bermaksud:",
-    "pilihan": ["Terima kasih", "Sama-sama", "Maafkan saya", "Selamat jalan"],
-    "jawapan": 0
+    "pilihan": [
+      "Selamat jalan",
+      "Maafkan saya",
+      "Sama-sama",
+      "Terima kasih"
+    ],
+    "jawapan": 3
   },
   {
     "id": "arab_2_097",
     "soalan": "Jawapan balas yang betul bagi ucapan 'شُكْرًا' ialah:",
-    "pilihan": ["عَفْوًا (Afwan)", "نَعَمْ", "لَا", "مَعَ السَّلَامَةِ"],
-    "jawapan": 0
+    "pilihan": [
+      "لَا",
+      "عَفْوًا (Afwan)",
+      "نَعَمْ",
+      "مَعَ السَّلَامَةِ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_098",
     "soalan": "Ucapan 'أَهْلًا وَسَهْلًا' (Ahlan wasahlan) membawa maksud:",
-    "pilihan": ["Selamat datang", "Selamat jalan", "Jumpa esok", "Bagus"],
-    "jawapan": 0
+    "pilihan": [
+      "Selamat jalan",
+      "Bagus",
+      "Selamat datang",
+      "Jumpa esok"
+    ],
+    "jawapan": 2
   },
   {
     "id": "arab_2_099",
     "soalan": "Ucapan 'مَعَ السَّلَامَةِ' (Ma'as salamah) diucapkan ketika hendak:",
-    "pilihan": ["Berpisah / Selamat tinggal", "Makan makanan", "Masuk kelas", "Tidur malam"],
-    "jawapan": 0
+    "pilihan": [
+      "Tidur malam",
+      "Berpisah / Selamat tinggal",
+      "Masuk kelas",
+      "Makan makanan"
+    ],
+    "jawapan": 1
   },
   {
     "id": "arab_2_100",
     "soalan": "Jawapan bagi soalan 'كَيْفَ حَالُكَ؟' (Apa khabar kamu?) yang betul ialah:",
-    "pilihan": ["أَنَا بِخَيْرٍ، وَالْحَمْدُ لِلَّهِ", "شُكْرًا جَزِيلًا", "مَعَ السَّلَامَةِ", "صَبَاحَ الْخَيْرِ"],
-    "jawapan": 0
+    "pilihan": [
+      "مَعَ السَّلَامَةِ",
+      "صَبَاحَ الْخَيْرِ",
+      "أَنَا بِخَيْرٍ، وَالْحَمْدُ لِلَّهِ",
+      "شُكْرًا جَزِيلًا"
+    ],
+    "jawapan": 2
   }
 ]
