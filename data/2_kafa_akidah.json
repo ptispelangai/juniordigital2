@@ -1,0 +1,602 @@
+[
+  {
+    "id": "akidah_2_001",
+    "soalan": "Berapakah bilangan Rukun Iman yang wajib dipercayai oleh setiap orang Islam?",
+    "pilihan": ["5 perkara", "6 perkara", "7 perkara", "10 perkara"],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_2_002",
+    "soalan": "Rukun Iman yang pertama ialah beriman kepada:",
+    "pilihan": ["Allah SWT", "Malaikat", "Kitab", "Hari Akhirat"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_003",
+    "soalan": "Rukun Iman yang kedua ialah beriman kepada:",
+    "pilihan": ["Rasul", "Malaikat", "Kitab", "Hari Kiamat"],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_2_004",
+    "soalan": "Rukun Iman yang ketiga ialah beriman kepada:",
+    "pilihan": ["Kitab-kitab Allah", "Malaikat", "Rasul-rasul", "Qada' dan Qadar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_005",
+    "soalan": "Rukun Iman yang keempat ialah beriman kepada:",
+    "pilihan": ["Hari Kiamat", "Rasul-rasul Allah", "Malaikat", "Bulan Ramadan"],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_2_006",
+    "soalan": "Rukun Iman yang kelima ialah beriman kepada:",
+    "pilihan": ["Hari Kiamat / Hari Akhirat", "Qada' dan Qadar", "Malaikat", "Kitab Al-Quran"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_007",
+    "soalan": "Rukun Iman yang keenam ialah beriman kepada:",
+    "pilihan": ["Qada' dan Qadar", "Hari Kiamat", "Malaikat", "Kaabah"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_008",
+    "soalan": "Berapakah bilangan Rukun Islam yang menjadi asas pegangan hidup seorang Muslim?",
+    "pilihan": ["5 perkara", "6 perkara", "4 perkara", "7 perkara"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_009",
+    "soalan": "Rukun Islam yang pertama ialah:",
+    "pilihan": ["Mengucap dua kalimah syahadah", "Mendirikan solat lima waktu", "Menunaikan zakat", "Berpuasa di bulan Ramadan"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_010",
+    "soalan": "Rukun Islam yang kedua ialah:",
+    "pilihan": ["Mendirikan solat 5 waktu", "Menunaikan haji", "Mengucap dua kalimah syahadah", "Menunaikan zakat"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_011",
+    "soalan": "Rukun Islam yang ketiga ialah:",
+    "pilihan": ["Menunaikan zakat", "Berpuasa di bulan Ramadan", "Menunaikan haji", "Mendirikan solat"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_012",
+    "soalan": "Rukun Islam yang keempat ialah:",
+    "pilihan": ["Berpuasa di bulan Ramadan", "Menunaikan haji", "Mengucap syahadah", "Menunaikan zakat"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_013",
+    "soalan": "Rukun Islam yang kelima ialah mengerjakan ibadah haji di Makkah bagi mereka yang:",
+    "pilihan": ["Mampu", "Semua kanak-kanak", "Kaya dan miskin tanpa syarat", "Suka melancong"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_014",
+    "soalan": "Lafaz penyaksian 'Tiada Tuhan yang disembah melainkan Allah dan Nabi Muhammad utusan Allah' dinamakan:",
+    "pilihan": ["Dua Kalimah Syahadah", "Tahmid", "Tasbih", "Hauqalah"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_015",
+    "soalan": "Apakah maksud perkataan 'Iman' dari segi bahasa?",
+    "pilihan": ["Percaya dan membenarkan di dalam hati", "Melihat dengan mata", "Mendengar dengan telinga", "Menulis di atas kertas"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_016",
+    "soalan": "Apakah maksud perkataan 'Islam' dari segi bahasa?",
+    "pilihan": ["Tunduk, taat, dan menyerah diri kepada Allah", "Berpecah belah", "Berharta banyak", "Kuat perkasa"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_017",
+    "soalan": "Hukum mempercayai dan meyakini keenam-enam Rukun Iman ialah:",
+    "pilihan": ["Fardhu Ain (Wajib)", "Sunat", "Harus", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_018",
+    "soalan": "Seseorang yang menolak salah satu daripada Rukun Iman hukumnya menjadi:",
+    "pilihan": ["Murtad / Kafir", "Fasik sahaja", "Mukmin sejati", "Pahala berganda"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_019",
+    "soalan": "Orang yang beriman dan taat kepada segala perintah Allah dipanggil orang:",
+    "pilihan": ["Mukmin", "Munafik", "Musyrik", "Kafir"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_020",
+    "soalan": "Orang yang berpura-pura beriman di depan orang Islam tetapi kafir di dalam hati dipanggil:",
+    "pilihan": ["Munafik", "Mukmin", "Soleh", "Muttaqin"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_021",
+    "soalan": "Berapakah bilangan Sifat 20 yang wajib diketahui dan diyakini bagi Allah SWT?",
+    "pilihan": ["20 sifat", "10 sifat", "13 sifat", "99 sifat"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_022",
+    "soalan": "Sifat wajib bagi Allah 'Wujud' (وجود) bermaksud Allah Maha:",
+    "pilihan": ["Ada", "Kuasa", "Mendengar", "Mengetahui"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_023",
+    "soalan": "Lawan bagi sifat 'Wujud' ialah 'Adam' (عدم) yang bermaksud:",
+    "pilihan": ["Tiada", "Lemah", "Bisu", "Pekak"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_024",
+    "soalan": "Apakah bukti atau dalil akal bahawa Allah SWT itu wujud?",
+    "pilihan": ["Adanya alam semesta seperti langit, bumi dan manusia", "Adanya kereta dan jalan raya sahaja", "Buku teks sekolah", "Kekayaan seseorang"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_025",
+    "soalan": "Sifat wajib bagi Allah 'Qidam' (قدم) bermaksud:",
+    "pilihan": ["Sedia ada (tiada permulaan bagi kewujudan-Nya)", "Kekal", "Maha Berkuasa", "Maha Hidup"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_026",
+    "soalan": "Sifat wajib bagi Allah 'Baqa'' (بقاء) bermaksud:",
+    "pilihan": ["Kekal abadi (tiada pengakhiran)", "Maha Berdiri Sendiri", "Maha Melihat", "Maha Esa"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_027",
+    "soalan": "Lawan bagi sifat 'Baqa'' ialah 'Fana'' (فناء) yang bermaksud:",
+    "pilihan": ["Binasa / Rosak", "Kekal", "Kuat", "Mendengar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_028",
+    "soalan": "Sifat wajib 'Mukhalafatuhu lil-hawadith' bermaksud Allah SWT:",
+    "pilihan": ["Berbeza dengan semua makhluk ciptaan-Nya", "Sama seperti manusia", "Perlukan bantuan", "Mempunyai rupa bentuk tertentu"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_029",
+    "soalan": "Adakah Allah SWT mempunyai rupa, badan, warna atau tempat seperti makhluk?",
+    "pilihan": ["Tidak, Allah Maha Suci daripada menyerupai makhluk", "Ya, sama seperti makhluk", "Allah tinggal di atas pokok", "Allah ada tangan seperti kita"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_030",
+    "soalan": "Sifat wajib 'Qiyamuhu binafsihi' bermaksud Allah SWT:",
+    "pilihan": ["Berdiri dengan sendiri-Nya (tidak memerlukan pertolongan makhluk)", "Memerlukan pertolongan malaikat", "Perlu makan dan minum", "Tidur bila penat"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_031",
+    "soalan": "Sifat wajib bagi Allah 'Wahdaniyyah' (وحدانية) bermaksud Allah Maha:",
+    "pilihan": ["Esa / Tunggal (Satu)", "Banyak", "Lemah", "Tidur"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_032",
+    "soalan": "Apakah lawan bagi sifat 'Wahdaniyyah'?",
+    "pilihan": ["Ta'addud (Berbilang-bilang)", "Ajzun", "Jahlun", "Mautun"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_033",
+    "soalan": "Surah dalam Al-Quran yang menegaskan keesaan Allah SWT ialah:",
+    "pilihan": ["Surah Al-Ikhlas", "Surah Al-Falaq", "Surah An-Nas", "Surah Al-Kautsar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_034",
+    "soalan": "Sifat wajib bagi Allah 'Qudrat' (قدرة) bermaksud Allah Maha:",
+    "pilihan": ["Berkuasa", "Lemah", "Mendengar", "Bercakap"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_035",
+    "soalan": "Lawan bagi sifat 'Qudrat' ialah 'Ajzun' (عجز) yang bermaksud:",
+    "pilihan": ["Lemah", "Kuat", "Tahu", "Melihat"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_036",
+    "soalan": "Sifat wajib bagi Allah 'Iradat' (إرادة) bermaksud Allah Maha:",
+    "pilihan": ["Berkehendak / Menentukan segala sesuatu", "Terpaksa", "Lupa", "Bisu"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_037",
+    "soalan": "Sifat wajib bagi Allah 'Ilmu' (علم) bermaksud Allah Maha:",
+    "pilihan": ["Mengetahui segala sesuatu", "Jahil", "Melihat", "Mendengar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_038",
+    "soalan": "Adakah Allah mengetahui rahsia yang kita simpan di dalam hati?",
+    "pilihan": ["Ya, Allah mengetahui segala perkara nyata dan tersembunyi", "Tidak tahu", "Hanya tahu bila kita beritahu", "Malaikat sahaja tahu"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_039",
+    "soalan": "Sifat wajib bagi Allah 'Hayat' (حياة) bermaksud Allah Maha:",
+    "pilihan": ["Hidup selama-lamanya", "Mati", "Mengantuk", "Lapar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_040",
+    "soalan": "Sifat wajib bagi Allah 'Sama'' (سمع) bermaksud Allah Maha:",
+    "pilihan": ["Mendengar", "Melihat", "Bercakap", "Mengetahui"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_041",
+    "soalan": "Pendengaran Allah SWT tidak terbatas dan tidak memerlukan bantuan:",
+    "pilihan": ["Gegendang telinga atau alat pendengaran", "Cahaya matahari", "Cermin mata", "Kabel wayar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_042",
+    "soalan": "Sifat wajib bagi Allah 'Basar' (بصر) bermaksud Allah Maha:",
+    "pilihan": ["Melihat", "Mendengar", "Bercakap", "Berkuasa"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_043",
+    "soalan": "Allah melihat pergerakan semut hitam di atas batu hitam pada malam yang:",
+    "pilihan": ["Gelap gelita", "Cerah benderang", "Bulan purnama", "Waktu siang sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_044",
+    "soalan": "Sifat wajib bagi Allah 'Kalam' (كلام) bermaksud Allah Maha:",
+    "pilihan": ["Berkata-kata / Berfirman", "Bisu", "Melihat", "Mengetahui"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_045",
+    "soalan": "Kalam Allah SWT tidak memerlukan suara, huruf, mahupun:",
+    "pilihan": ["Lidah atau bibir", "Kertas", "Pen", "Buku"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_046",
+    "soalan": "Berapakah jumlah Nama-nama Allah yang mulia (Asmaul Husna)?",
+    "pilihan": ["99 Nama", "25 Nama", "20 Nama", "10 Nama"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_047",
+    "soalan": "Nama Allah 'Ar-Rahman' (الرحمن) bermaksud Maha:",
+    "pilihan": ["Pemurah kepada semua makhluk di dunia", "Penyayang", "Raja", "Suci"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_048",
+    "soalan": "Nama Allah 'Ar-Rahim' (الرحيم) bermaksud Maha:",
+    "pilihan": ["Penyayang kepada hamba-hamba-Nya yang beriman di akhirat", "Pemurah", "Pencipta", "Adil"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_049",
+    "soalan": "Nama Allah 'Al-Malik' (الملك) bermaksud Maha:",
+    "pilihan": ["Menguasai / Memerintah seluruh alam", "Pengampun", "Lemah lembut", "Penyabar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_050",
+    "soalan": "Nama Allah 'Al-Quddus' (القدوس) bermaksud Maha:",
+    "pilihan": ["Suci daripada segala kekurangan", "Kuasa", "Mendengar", "Pencipta"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_051",
+    "soalan": "Nama Allah 'As-Salam' (السلام) bermaksud Maha:",
+    "pilihan": ["Memberi Kesejahteraan dan Keselamatan", "Membalas dendam", "Kaya", "Bijaksana"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_052",
+    "soalan": "Nama Allah 'Al-Khaliq' (الخالق) bermaksud Maha:",
+    "pilihan": ["Pencipta sekalian alam", "Pemusnah", "Pengasih", "Pemurah"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_053",
+    "soalan": "Nama Allah 'Ar-Razzaq' (الرزاق) bermaksud Maha:",
+    "pilihan": ["Pemberi Rezeki kepada semua makhluk", "Penghukum", "Pengampun", "Penguasa"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_054",
+    "soalan": "Nama Allah 'Al-Alim' (العليم) bermaksud Maha:",
+    "pilihan": ["Mengetahui", "Penyayang", "Mendengar", "Kuat"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_055",
+    "soalan": "Nama Allah 'Al-Ghaffar' (الغفار) bermaksud Maha:",
+    "pilihan": ["Pengampun dosa hamba-hamba-Nya", "Pemberi azab", "Pencipta", "Pembina"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_056",
+    "soalan": "Malaikat diciptakan oleh Allah SWT daripada:",
+    "pilihan": ["Cahaya (Nur)", "Api", "Tanah liat", "Air"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_057",
+    "soalan": "Manusia pertama (Nabi Adam a.s.) diciptakan daripada:",
+    "pilihan": ["Tanah", "Cahaya", "Api", "Angin"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_058",
+    "soalan": "Jin dan iblis pula diciptakan oleh Allah daripada:",
+    "pilihan": ["Api", "Cahaya", "Tanah", "Batu"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_059",
+    "soalan": "Berapakah bilangan Malaikat yang WAJIB diketahui nama dan tugasnya?",
+    "pilihan": ["10 Malaikat", "20 Malaikat", "25 Malaikat", "12 Malaikat"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_060",
+    "soalan": "Antara sifat para Malaikat ialah:",
+    "pilihan": ["Sentiasa taat dan tidak pernah membantah perintah Allah", "Suka makan dan minum", "Mempunyai jantina lelaki dan perempuan", "Sering letih dan tidur"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_061",
+    "soalan": "Malaikat Jibril a.s. ditugaskan oleh Allah untuk:",
+    "pilihan": ["Menyampaikan wahyu kepada para rasul", "Menurunkan hujan", "Meniup sangkakala", "Mencabut nyawa"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_062",
+    "soalan": "Malaikat Mikail a.s. ditugaskan oleh Allah untuk:",
+    "pilihan": ["Menurunkan rezeki dan hujan", "Mencatat amalan buruk", "Menjaga pintu neraka", "Menyoal mayat di kubur"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_063",
+    "soalan": "Malaikat Israfil a.s. ditugaskan oleh Allah untuk:",
+    "pilihan": ["Meniup sangkakala apabila tiba hari Kiamat", "Mencabut nyawa", "Menjaga syurga", "Membawa wahyu"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_064",
+    "soalan": "Malaikat Izrail a.s. ditugaskan oleh Allah untuk:",
+    "pilihan": ["Mencabut nyawa semua makhluk bernyawa", "Menjaga neraka", "Mencatat amalan", "Menurunkan hujan"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_065",
+    "soalan": "Malaikat Raqib a.s. ditugaskan untuk:",
+    "pilihan": ["Mencatat segala amalan kebaikan manusia", "Mencatat amalan kejahatan", "Menyoal dalam kubur", "Meniup sangkakala"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_066",
+    "soalan": "Malaikat Atid a.s. ditugaskan untuk:",
+    "pilihan": ["Mencatat segala amalan kejahatan / keburukan", "Mencatat amalan baik", "Menjaga pintu syurga", "Mencabut nyawa"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_067",
+    "soalan": "Dua malaikat yang menyoal manusia di alam kubur (alam barzakh) ialah:",
+    "pilihan": ["Malaikat Munkar dan Nakir", "Malaikat Raqib dan Atid", "Malaikat Malik dan Ridwan", "Malaikat Jibril dan Mikail"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_068",
+    "soalan": "Malaikat Ridwan a.s. ditugaskan oleh Allah untuk:",
+    "pilihan": ["Menjaga pintu Syurga", "Menjaga pintu Neraka", "Mencabut nyawa", "Menurunkan rezeki"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_069",
+    "soalan": "Malaikat Malik a.s. ditugaskan oleh Allah untuk:",
+    "pilihan": ["Menjaga pintu Neraka", "Menjaga pintu Syurga", "Membawa wahyu", "Meniup serunai"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_070",
+    "soalan": "Kesan beriman kepada malaikat Raqib dan Atid menyebabkan seorang murid:",
+    "pilihan": ["Sentiasa berhati-hati dan rajin berbuat pahala", "Berani membuat dosa secara senyap", "Menipu kawan dan guru", "Malas belajar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_071",
+    "soalan": "Berapakah bilangan kitab suci samawi utama yang wajib diimani?",
+    "pilihan": ["4 buah kitab", "5 buah kitab", "10 buah kitab", "25 buah kitab"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_072",
+    "soalan": "Kitab Taurat diturunkan oleh Allah SWT kepada nabi:",
+    "pilihan": ["Nabi Musa a.s.", "Nabi Daud a.s.", "Nabi Isa a.s.", "Nabi Muhammad SAW"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_073",
+    "soalan": "Kitab Zabur diturunkan oleh Allah SWT kepada nabi:",
+    "pilihan": ["Nabi Daud a.s.", "Nabi Musa a.s.", "Nabi Ibrahim a.s.", "Nabi Isa a.s."],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_074",
+    "soalan": "Kitab Injil diturunkan oleh Allah SWT kepada nabi:",
+    "pilihan": ["Nabi Isa a.s.", "Nabi Musa a.s.", "Nabi Daud a.s.", "Nabi Adam a.s."],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_075",
+    "soalan": "Kitab Al-Quran diturunkan oleh Allah SWT kepada nabi:",
+    "pilihan": ["Nabi Muhammad SAW", "Nabi Isa a.s.", "Nabi Musa a.s.", "Nabi Ismail a.s."],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_076",
+    "soalan": "Kitab suci yang terakhir dan menjadi panduan seluruh umat manusia hingga akhir zaman ialah:",
+    "pilihan": ["Al-Quran", "Taurat", "Zabur", "Injil"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_077",
+    "soalan": "Al-Quran diturunkan dalam bahasa:",
+    "pilihan": ["Bahasa Arab", "Bahasa Ibrani", "Bahasa Suryani", "Bahasa Melayu"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_078",
+    "soalan": "Membaca setiap huruf dalam Al-Quran akan diberikan ganjaran:",
+    "pilihan": ["10 pahala kebaikan", "1 pahala sahaja", "Duit tunai", "Tiada pahala"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_079",
+    "soalan": "Selain 4 kitab suci, lembaran firman Allah yang diturunkan kepada para nabi dipanggil:",
+    "pilihan": ["Suhuf", "Hadis", "Tafsir", "Majalah"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_080",
+    "soalan": "Nabi yang menerima lembaran Suhuf antaranya ialah Nabi Ibrahim a.s. dan Nabi:",
+    "pilihan": ["Musa a.s.", "Yusuf a.s.", "Nuh a.s.", "Sulaiman a.s."],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_081",
+    "soalan": "Berapakah bilangan nabi dan rasul yang WAJIB diketahui oleh orang Islam?",
+    "pilihan": ["25 orang", "10 orang", "20 orang", "313 orang"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_082",
+    "soalan": "Nabi dan manusia yang pertama diciptakan ialah Nabi:",
+    "pilihan": ["Adam a.s.", "Nuh a.s.", "Ibrahim a.s.", "Muhammad SAW"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_083",
+    "soalan": "Nabi dan rasul yang terakhir (penutup segala nabi) ialah Nabi:",
+    "pilihan": ["Muhammad SAW", "Isa a.s.", "Musa a.s.", "Yahya a.s."],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_084",
+    "soalan": "Sifat wajib bagi rasul 'Siddiq' (صديق) bermaksud:",
+    "pilihan": ["Benar dalam kata-kata dan perbuatan", "Amanah", "Bijaksana", "Menyampaikan"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_085",
+    "soalan": "Sifat wajib bagi rasul 'Amanah' (أمانة) bermaksud:",
+    "pilihan": ["Jujur dan boleh dipercayai", "Bohong", "Sembunyi rahsia", "Pintar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_086",
+    "soalan": "Sifat wajib bagi rasul 'Tabligh' (تبليغ) bermaksud:",
+    "pilihan": ["Menyampaikan seluruh perintah Allah", "Menyimpan rahsia", "Berdiam diri", "Belajar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_087",
+    "soalan": "Sifat wajib bagi rasul 'Fatanah' (فطانة) bermaksud:",
+    "pilihan": ["Bijaksana / Cerdik", "Bodoh", "Khianat", "Bohong"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_088",
+    "soalan": "Apakah lawan bagi sifat 'Siddiq' pada rasul?",
+    "pilihan": ["Kizb (Bohong/Dusta)", "Khianat", "Kitman", "Baladah"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_089",
+    "soalan": "Para rasul terpelihara daripada melakukan dosa besar dan kecil. Sifat ini dipanggil:",
+    "pilihan": ["Maksum", "Mukjizat", "Karamah", "Istidraj"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_090",
+    "soalan": "Perkara luar biasa yang dikurniakan Allah kepada nabi dan rasul untuk membuktikan kebenaran mereka dipanggil:",
+    "pilihan": ["Mukjizat", "Sihir", "Silap mata", "Karamah"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_091",
+    "soalan": "Apakah maksud Hari Akhirat / Hari Kiamat?",
+    "pilihan": ["Hari hancurnya seluruh alam semesta dan manusia dihidupkan semula untuk dihisab", "Hari menyambut hari raya", "Hari bermulanya tahun baharu", "Hari manusia tidur lena"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_092",
+    "soalan": "Tempat balasan nikmat dan kesenangan abadi bagi orang yang beriman dan beramal soleh ialah:",
+    "pilihan": ["Syurga", "Neraka", "Padang Mahsyar", "Bumi"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_093",
+    "soalan": "Tempat balasan azab dan siksaan pedih bagi orang kafir dan derhaka kepada Allah ialah:",
+    "pilihan": ["Neraka", "Syurga", "Alam barzakh", "Lembah"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_094",
+    "soalan": "Tempat berhimpunnya seluruh manusia dari zaman Nabi Adam hingga manusia terakhir selepas dibangkitkan ialah:",
+    "pilihan": ["Padang Mahsyar", "Bukit Uhud", "Padang Arafah", "Gua Hira'"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_095",
+    "soalan": "Timbangan amal perbuatan manusia di akhirat kelak dinamakan:",
+    "pilihan": ["Mizan", "Sirat", "Hisab", "Haudh"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_096",
+    "soalan": "Titian yang merentasi di atas neraka menuju ke syurga dinamakan:",
+    "pilihan": ["Titian Sirat (Siratul Mustaqim)", "Jambatan batu", "Mizan", "Mahsyar"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_097",
+    "soalan": "Ketetapan Allah SWT sejak azali terhadap semua perkara yang akan berlaku kepada makhluk dipanggil:",
+    "pilihan": ["Qada' dan Qadar", "Nasib malang", "Kebetulan", "Impian"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_098",
+    "soalan": "Apabila ditimpa musibah atau kesusahan, seorang Muslim hendaklah bersikap:",
+    "pilihan": ["Sabar dan redha dengan ketentuan Allah", "Marah dan menyalahkan takdir", "Putus asa", "Menangis tanpa henti"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_099",
+    "soalan": "Perbuatan menyengutukan Allah dengan sesuatu yang lain dipanggil perbuatan:",
+    "pilihan": ["Syirik", "Kufur nikmat", "Fasik", "Bidaah"],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_2_100",
+    "soalan": "Dosa yang paling besar dan tidak diampunkan oleh Allah jika mati tanpa bertaubat ialah dosa:",
+    "pilihan": ["Syirik kepada Allah", "Mencuri pensel", "Bercakap bohong", "Tidur lambat"],
+    "jawapan": 0
+  }
+]
