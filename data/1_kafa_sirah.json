@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sirah_1_001",
+    "soalan": "Siapakah nama nabi dan rasul kita yang terakhir?",
+    "pilihan": ["Nabi Muhammad SAW", "Nabi Adam a.s.", "Nabi Isa a.s.", "Nabi Musa a.s."],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_002",
+    "soalan": "Apakah lafaz selawat ke atas Nabi Muhammad SAW?",
+    "pilihan": ["Sallallahu 'Alaihi Wasallam", "Subhanallah", "Alhamdulillah", "Allahu Akbar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_003",
+    "soalan": "Siapakah nama bapa kandung Nabi Muhammad SAW?",
+    "pilihan": ["Abdullah", "Abu Talib", "Abdul Mutalib", "Abu Bakar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_004",
+    "soalan": "Siapakah nama ibu kandung Nabi Muhammad SAW?",
+    "pilihan": ["Aminah binti Wahab", "Khadijah", "Halimatus Saadiah", "Fatimah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_005",
+    "soalan": "Siapakah nama datuk Nabi Muhammad SAW?",
+    "pilihan": ["Abdul Mutalib", "Abu Talib", "Hashim", "Kilab"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_006",
+    "soalan": "Nabi Muhammad SAW berasal daripada kabilah Arab bernama:",
+    "pilihan": ["Bani Quraisy", "Bani Aus", "Bani Khazraj", "Bani Israel"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_007",
+    "soalan": "Keluarga terdekat Nabi Muhammad SAW dikenali sebagai keluarga:",
+    "pilihan": ["Bani Hashim", "Bani Umayyah", "Bani Tamim", "Bani Adi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_008",
+    "soalan": "Siapakah moyang kepada Nabi Muhammad SAW yang terkenal pemurah memberi makanan kepada jemaah haji?",
+    "pilihan": ["Hashim", "Kilab", "Qusai", "Luay"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_009",
+    "soalan": "Apakah maksud nama 'Muhammad'?",
+    "pilihan": ["Yang terpuji", "Yang kaya", "Yang berani", "Yang kuat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_010",
+    "soalan": "Siapakah yang memberi nama 'Muhammad' kepada baginda?",
+    "pilihan": ["Datuknya, Abdul Mutalib", "Bapanya, Abdullah", "Paderi Buhaira", "Raja Habsyah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_011",
+    "soalan": "Selain nama Muhammad, Nabi SAW juga mempunyai nama:",
+    "pilihan": ["Ahmad", "Ibrahim", "Ismail", "Yusuf"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_012",
+    "soalan": "Keturunan Nabi Muhammad SAW bersambung sehingga kepada Nabi:",
+    "pilihan": ["Nabi Ismail a.s. dan Nabi Ibrahim a.s.", "Nabi Isa a.s.", "Nabi Daud a.s.", "Nabi Nuh a.s."],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_013",
+    "soalan": "Gelaran 'Khatamun Nabiyyin' bagi Nabi Muhammad SAW bermaksud:",
+    "pilihan": ["Penutup segala nabi dan rasul", "Nabi yang pertama", "Nabi yang kaya", "Raja segala manusia"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_014",
+    "soalan": "Adakah akan ada nabi atau rasul baharu selepas Nabi Muhammad SAW?",
+    "pilihan": ["Tiada lagi nabi selepas baginda", "Ada seorang lagi", "Ada ramai nabi", "Ada pada setiap tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_015",
+    "soalan": "Nabi Muhammad SAW diutuskan oleh Allah SWT sebagai rahmat bagi:",
+    "pilihan": ["Seluruh alam semesta", "Kaum Quraisy sahaja", "Orang Arab sahaja", "Penduduk Makkah sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_016",
+    "soalan": "Apakah kitab suci yang diturunkan kepada Nabi Muhammad SAW?",
+    "pilihan": ["Al-Quran", "Taurat", "Zabur", "Injil"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_017",
+    "soalan": "Apakah agama yang dibawa dan diajarkan oleh Nabi Muhammad SAW?",
+    "pilihan": ["Agama Islam", "Agama Majusi", "Agama Yahudi", "Agama Nasrani"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_018",
+    "soalan": "Sebagai orang Islam, apakah kewajipan kita terhadap Nabi Muhammad SAW?",
+    "pilihan": ["Menyayangi, mematuhi dan mencontohi akhlak baginda", "Melupakan ajaran baginda", "Mengingati baginda setahun sekali sahaja", "Menganggap baginda orang biasa"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_019",
+    "soalan": "Nama pengasuh setia Nabi Muhammad SAW sejak kecil ialah Barakah yang lebih dikenali sebagai:",
+    "pilihan": ["Ummu Aiman", "Halimatus Saadiah", "Thuwaibah", "Fatimah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_020",
+    "soalan": "Nabi Muhammad SAW menganggap Ummu Aiman seperti:",
+    "pilihan": ["Ibunya sendiri selepas ibunya meninggal", "Kakaknya", "Kawan bermain", "Orang asing"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_021",
+    "soalan": "Nabi Muhammad SAW dilahirkan di kota:",
+    "pilihan": ["Makkah Al-Mukarramah", "Madinah Al-Munawwarah", "Baitul Maqdis", "Taif"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_022",
+    "soalan": "Nabi Muhammad SAW dilahirkan pada hari:",
+    "pilihan": ["Hari Isnin", "Hari Jumaat", "Hari Sabtu", "Hari Ahad"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_023",
+    "soalan": "Nabi Muhammad SAW dilahirkan pada tarikh:",
+    "pilihan": ["12 Rabiulawal", "1 Syawal", "10 Zulhijjah", "1 Muharram"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_024",
+    "soalan": "Tahun kelahiran Nabi Muhammad SAW dikenali sebagai:",
+    "pilihan": ["Tahun Gajah", "Tahun Unta", "Tahun Kuda", "Tahun Burung"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_025",
+    "soalan": "Kelahiran Nabi Muhammad SAW disambut oleh umat Islam setiap tahun dengan sambutan:",
+    "pilihan": ["Maulidur Rasul", "Hari Raya Korban", "Nuzul Quran", "Awal Muharram"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_026",
+    "soalan": "Mengapakah tahun kelahiran Nabi dipanggil Tahun Gajah?",
+    "pilihan": ["Kerana berlakunya serangan tentera bergajah ke atas Kaabah", "Kerana banyak gajah di Makkah", "Kerana Nabi suka bermain gajah", "Kerana gajah menjaga Kaabah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_027",
+    "soalan": "Siapakah nama raja zalim yang memimpin tentera bergajah menyerang Kaabah?",
+    "pilihan": ["Raja Abrahah", "Raja Firaun", "Raja Namrud", "Raja Qarun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_028",
+    "soalan": "Dari manakah tentera bergajah Abrahah datang?",
+    "pilihan": ["Negeri Yaman", "Negeri Mesir", "Negeri Rom", "Negeri Parsi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_029",
+    "soalan": "Apakah tujuan Abrahah membawa tentera bergajah ke Makkah?",
+    "pilihan": ["Untuk meruntuhkan Kaabah", "Untuk berniaga kain", "Untuk melawat Kaabah", "Untuk memeluk Islam"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_030",
+    "soalan": "Gereja mewah yang dibina oleh Abrahah di Yaman dinamakan:",
+    "pilihan": ["Al-Qullais", "Al-Haram", "Al-Aqsa", "Baitul Maqdis"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_031",
+    "soalan": "Mengapakah Abrahah marah dan dengki terhadap Kaabah?",
+    "pilihan": ["Kerana orang ramai lebih suka menziarahi Kaabah berbanding gerejanya", "Kerana Kaabah sangat tinggi", "Kerana orang Makkah kaya", "Kerana dia tiada rumah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_032",
+    "soalan": "Apakah nama gajah terbesar yang menjadi ketua dalam tentera Abrahah?",
+    "pilihan": ["Mahmud", "Mabrur", "Qaswa'", "Buraq"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_033",
+    "soalan": "Apakah yang berlaku apabila gajah Mahmud dihalakan ke arah Kaabah?",
+    "pilihan": ["Ia enggan bergerak dan terus melutut", "Ia terus berlari merempuh Kaabah", "Ia mati serta-merta", "Ia terbang ke langit"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_034",
+    "soalan": "Siapakah yang menjaga dan memelihara keselamatan Kaabah daripada serangan tentera Abrahah?",
+    "pilihan": ["Allah SWT", "Tentera Quraisy", "Gajah-gajah di hutan", "Orang Parsi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_035",
+    "soalan": "Apakah nama burung yang dihantar oleh Allah SWT untuk memusnahkan tentera Abrahah?",
+    "pilihan": ["Burung Ababil", "Burung Hud-hud", "Burung Helang", "Burung Merpati"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_036",
+    "soalan": "Burung Ababil membawa batu yang diambil daripada:",
+    "pilihan": ["Tanah liat yang dibakar (Sijjil)", "Batu sungai", "Batu karang", "Batu gunung"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_037",
+    "soalan": "Setiap ekor burung Ababil membawa berapa biji batu?",
+    "pilihan": ["3 biji batu (1 di paruh, 2 di kaki)", "1 biji sahaja", "5 biji batu", "10 biji batu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_038",
+    "soalan": "Apakah yang berlaku kepada tentera bergajah selepas dilontar batu panas oleh burung Ababil?",
+    "pilihan": ["Mereka hancur binasa seperti daun-daun yang dimakan ulat", "Mereka berjaya masuk Kaabah", "Mereka melarikan diri dan selamat", "Mereka menang perang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_039",
+    "soalan": "Kisah pemusnahan tentera bergajah dirakamkan dalam Al-Quran dalam Surah:",
+    "pilihan": ["Surah Al-Fil", "Surah Quraisy", "Surah Al-Ma'un", "Surah Al-Kautsar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_040",
+    "soalan": "Maksud perkataan 'Al-Fil' dalam bahasa Melayu ialah:",
+    "pilihan": ["Gajah", "Burung", "Unta", "Kuda"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_041",
+    "soalan": "Apakah tanda luar biasa yang berlaku di alam semesta semasa malam kelahiran Nabi SAW?",
+    "pilihan": ["Api sembahan kaum Majusi di Parsi padam dan istana raja Rom bergegar", "Matahari tidak terbit", "Air laut menjadi manis", "Hujan emas turun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_042",
+    "soalan": "Bapa Nabi SAW, Abdullah, telah meninggal dunia ketika Nabi SAW:",
+    "pilihan": ["Masih berada dalam kandungan ibunya", "Berumur 2 tahun", "Berumur 4 tahun", "Berumur 6 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_043",
+    "soalan": "Di manakah bapa Nabi SAW, Abdullah, meninggal dunia dan dimakamkan?",
+    "pilihan": ["Yathrib (Madinah)", "Makkah", "Taif", "Syam"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_044",
+    "soalan": "Kanak-kanak yang kematian bapa semasa kecil dinamakan anak:",
+    "pilihan": ["Yatim", "Piatu", "Yatim piatu", "Angkat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_045",
+    "soalan": "Nabi Muhammad SAW dilahirkan dalam keadaan:",
+    "pilihan": ["Anak yatim", "Kaya raya", "Mempunyai ramai adik-beradik", "Anak yatim piatu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_046",
+    "soalan": "Siapakah wanita pertama yang menyusukan Nabi SAW selepas ibunya Aminah?",
+    "pilihan": ["Thuwaibah al-Aslamiyyah", "Halimatus Saadiah", "Ummu Aiman", "Khadijah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_047",
+    "soalan": "Thuwaibah al-Aslamiyyah ialah hamba kepada bapa saudara Nabi bernama:",
+    "pilihan": ["Abu Lahab", "Abu Talib", "Hamzah", "Al-Abbas"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_048",
+    "soalan": "Siapakah nama ibu susuan Nabi SAW yang memelihara baginda di perkampungan padang pasir?",
+    "pilihan": ["Halimatus Saadiah", "Thuwaibah", "Ummu Aiman", "Fatimah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_049",
+    "soalan": "Apakah nama perkampungan tempat tinggal Halimatus Saadiah?",
+    "pilihan": ["Perkampungan Bani Saad", "Perkampungan Aus", "Perkampungan Quraisy", "Kota Madinah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_050",
+    "soalan": "Mengapakah bayi orang bangsawan Arab dihantar disusukan di perkampungan padang pasir?",
+    "pilihan": ["Supaya menghirup udara bersih dan bertutur bahasa Arab yang fasih", "Kerana di bandar tiada makanan", "Kerana ibu mereka tidak mahu menjaga anak", "Supaya cepat pandai menunggang kuda"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_051",
+    "soalan": "Bagaimanakah keadaan kehidupan keluarga Halimatus Saadiah sebelum mengambil Nabi SAW sebagai anak susuan?",
+    "pilihan": ["Sangat miskin dan ternakan mereka kurus kering", "Sangat kaya dan ternakan banyak", "Mempunyai istana besar", "Menjadi ketua kabilah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_052",
+    "soalan": "Apakah keberkatan yang berlaku kepada keluarga Halimah selepas mengambil Nabi SAW?",
+    "pilihan": ["Susu kambing menjadi banyak dan tanah mereka menjadi subur", "Rumah mereka runtuh", "Kambing mereka hilang", "Mereka berpindah ke tempat lain"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_053",
+    "soalan": "Siapakah nama saudara susuan Nabi SAW (anak Halimatus Saadiah) yang sering menjaga baginda?",
+    "pilihan": ["As-Syaima'", "Fatimah", "Aisyah", "Zainab"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_054",
+    "soalan": "Berapa tahunkah Nabi Muhammad SAW tinggal bersama Halimatus Saadiah di Bani Saad?",
+    "pilihan": ["4 tahun", "2 tahun", "6 tahun", "8 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_055",
+    "soalan": "Semasa tinggal di perkampungan Bani Saad, apakah peristiwa luar biasa yang berlaku kepada dada Nabi SAW?",
+    "pilihan": ["Peristiwa dada dibelah oleh malaikat", "Peristiwa isra' mikraj", "Peristiwa banjir besar", "Peristiwa perang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_056",
+    "soalan": "Ketika peristiwa dada dibelah, Nabi SAW sedang berada di padang bersama saudaranya untuk:",
+    "pilihan": ["Menggembala kambing", "Bermain layang-layang", "Mencari buah kurma", "Tidur"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_057",
+    "soalan": "Berapakah bilangan malaikat yang datang untuk membelah dada Nabi SAW?",
+    "pilihan": ["Dua orang malaikat berpakaian putih (Malaikat Jibril dan pembantunya)", "Empat orang malaikat", "Satu malaikat sahaja", "Sepuluh malaikat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_058",
+    "soalan": "Malaikat membelah dada Nabi SAW dan mengeluarkan seketul darah kotor iaitu:",
+    "pilihan": ["Bahagian godaan syaitan", "Penyakit jantung", "Lemak badan", "Darah luka"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_059",
+    "soalan": "Malaikat mencuci hati Nabi Muhammad SAW dengan menggunakan:",
+    "pilihan": ["Air Zamzam dalam bejana emas", "Air sungai", "Air hujan", "Air mawar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_060",
+    "soalan": "Tujuan Allah menyucikan hati Nabi SAW sejak kecil adalah untuk:",
+    "pilihan": ["Memelihara baginda daripada sifat buruk dan menyediakan baginda menjadi rasul", "Menjadikan baginda kaya", "Mengubati penyakit demam", "Membolehkan baginda terbang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_061",
+    "soalan": "Selepas peristiwa dada dibelah, Halimatus Saadiah berasa bimbang lalu:",
+    "pilihan": ["Menghantar semula Nabi pulang kepada ibunya Aminah di Makkah", "Menyembunyikan Nabi di dalam gua", "Membawa Nabi lari ke Syam", "Membiarkan Nabi seorang diri"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_062",
+    "soalan": "Nabi SAW diserahkan kembali kepada ibunya Aminah ketika berusia:",
+    "pilihan": ["Sekitar 4 hingga 5 tahun", "1 tahun", "8 tahun", "10 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_063",
+    "soalan": "Apakah sikap Halimatus Saadiah terhadap Nabi Muhammad SAW?",
+    "pilihan": ["Sangat menyayangi dan menjaga baginda dengan penuh kasih sayang", "Garang dan memukul Nabi", "Mengabaikan Nabi", "Menyuruh Nabi bekerja berat"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_064",
+    "soalan": "Nabi SAW sentiasa mengenang jasa Halimatus Saadiah dan memanggilnya dengan panggilan:",
+    "pilihan": ["Ibu", "Makcik", "Kakak", "Kawan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_065",
+    "soalan": "Pengajaran daripada kisah penyusuan Nabi mengajar kita supaya:",
+    "pilihan": ["Menghormati dan mengenang jasa orang yang memelihara kita", "Melupakan orang tua", "Hanya sayang diri sendiri", "Tidak perlu berterima kasih"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_066",
+    "soalan": "Semasa Nabi SAW berusia 6 tahun, ibunya Aminah membawa baginda ke Yathrib untuk:",
+    "pilihan": ["Menziarahi kubur suaminya, Abdullah", "Membeli rumah baharu", "Menonton perlawanan kuda", "Bercuti di pantai"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_067",
+    "soalan": "Semasa dalam perjalanan pulang dari Yathrib ke Makkah, ibu Nabi jatuh sakit dan wafat di:",
+    "pilihan": ["Abwa'", "Taif", "Madinah", "Jeddah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_068",
+    "soalan": "Berapakah umur Nabi Muhammad SAW semasa ibunya Aminah meninggal dunia?",
+    "pilihan": ["6 tahun", "4 tahun", "8 tahun", "2 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_069",
+    "soalan": "Kanak-kanak yang kematian kedua-dua ibu dan bapa dipanggil:",
+    "pilihan": ["Anak yatim piatu", "Anak yatim", "Anak piatu", "Anak tunggal"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_070",
+    "soalan": "Siapakah yang memimpin Nabi pulang ke Makkah selepas ibunya meninggal di Abwa'?",
+    "pilihan": ["Ummu Aiman", "Halimatus Saadiah", "Abu Bakar", "Paderi Buhaira"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_071",
+    "soalan": "Selepas kematian ibunya, siapakah yang mengambil tanggungjawab memelihara Nabi SAW?",
+    "pilihan": ["Datuknya, Abdul Mutalib", "Bapa saudaranya, Abu Talib", "Bapa saudaranya, Abu Lahab", "Hamzah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_072",
+    "soalan": "Apakah jawatan penting Abdul Mutalib di kota Makkah?",
+    "pilihan": ["Ketua kaum Quraisy dan penjaga Kaabah", "Raja negeri Makkah", "Panglima tentera Yaman", "Pedagang kaya di Syam"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_073",
+    "soalan": "Bagaimanakah layanan datuknya, Abdul Mutalib, terhadap Nabi Muhammad SAW?",
+    "pilihan": ["Sangat menyayangi dan mendudukkan Nabi di atas hamparan khasnya", "Membiarkan Nabi seorang diri", "Menyuruh Nabi tinggal di luar rumah", "Melarang Nabi mendekati Kaabah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_074",
+    "soalan": "Berapa lamakah Nabi Muhammad SAW berada di bawah jagaan datuknya, Abdul Mutalib?",
+    "pilihan": ["2 tahun (dari umur 6 hingga 8 tahun)", "5 tahun", "1 tahun", "10 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_075",
+    "soalan": "Berapakah umur Nabi Muhammad SAW semasa datuknya, Abdul Mutalib, meninggal dunia?",
+    "pilihan": ["8 tahun", "6 tahun", "10 tahun", "12 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_076",
+    "soalan": "Sebelum meninggal dunia, Abdul Mutalib telah berwasiat supaya Nabi dipelihara oleh:",
+    "pilihan": ["Abu Talib (bapa saudara Nabi)", "Abu Lahab", "Abu Jahal", "Al-Abbas"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_077",
+    "soalan": "Siapakah nama bapa saudara yang memelihara Nabi selepas kematian datuknya?",
+    "pilihan": ["Abu Talib", "Abu Lahab", "Hamzah", "Abu Bakar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_078",
+    "soalan": "Bagaimanakah keadaan kehidupan keluarga Abu Talib?",
+    "pilihan": ["Seorang yang miskin tetapi mempunyai ramai anak", "Seorang saudagar yang sangat kaya", "Seorang pembesar yang tiada anak", "Seorang pendita istana"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_079",
+    "soalan": "Bagaimanakah kasih sayang Abu Talib terhadap anak saudaranya, Nabi Muhammad SAW?",
+    "pilihan": ["Mendahulukan Nabi berbanding anak-anak kandungnya sendiri", "Memilih kasih dan membenci Nabi", "Menghalau Nabi keluar", "Membiarkan Nabi kelaparan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_080",
+    "soalan": "Siapakah nama isteri kepada Abu Talib yang melayan Nabi seperti anak kandungnya?",
+    "pilihan": ["Fatimah binti Asad", "Khadijah", "Aisyah", "Ummu Salamah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_081",
+    "soalan": "Apakah keberkatan yang berlaku apabila Nabi SAW makan bersama keluarga Abu Talib?",
+    "pilihan": ["Makanan yang sedikit menjadi cukup dan mengenyangkan semua ahli keluarga", "Makanan cepat habis", "Makanan tidak sedap", "Makanan rosak"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_082",
+    "soalan": "Berapa lamakah Abu Talib menjaga dan melindungi Nabi Muhammad SAW?",
+    "pilihan": ["Lebih 40 tahun (sejak kecil hingga dakwah di Makkah)", "5 tahun sahaja", "2 tahun sahaja", "10 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_083",
+    "soalan": "Abu Talib sentiasa mempertahankan dakwah Nabi SAW daripada ancaman:",
+    "pilihan": ["Kafir Quraisy di Makkah", "Orang Rom", "Orang Yaman", "Orang Habsyah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_084",
+    "soalan": "Nabi SAW berasa sangat sedih apabila Abu Talib meninggal dunia kerana:",
+    "pilihan": ["Kehilangan pembela dan pelindung setia dakwah baginda", "Kehilangan rumah", "Kehilangan harta", "Kehilangan kenderaan"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_085",
+    "soalan": "Kasih sayang bapa saudara Nabi mengajar kita supaya sentiasa mengasihi:",
+    "pilihan": ["Anak-anak yatim dan kaum kerabat kita", "Diri sendiri sahaja", "Orang yang kaya sahaja", "Kawan yang memberi hadiah sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_086",
+    "soalan": "Apakah pekerjaan yang dilakukan oleh Nabi SAW semasa kecil untuk membantu meringankan beban bapa saudaranya?",
+    "pilihan": ["Menggembala kambing", "Menangkap ikan di laut", "Bercucuk tanam padi", "Membuat tembikar"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_087",
+    "soalan": "Kambing siapakah yang digembala oleh Nabi SAW?",
+    "pilihan": ["Kambing keluarganya dan kambing penduduk Makkah dengan upah sedikit", "Kambing raja Makkah", "Kambing curi", "Kambing dari Syam"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_088",
+    "soalan": "Apakah sifat mulia yang dipelajari daripada tugas menggembala kambing?",
+    "pilihan": ["Sabar, amanah, berani dan bertanggungjawab", "Sombong dan malas", "Cepat marah", "Takut kepada binatang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_089",
+    "soalan": "Semua nabi dan rasul pernah melakukan pekerjaan:",
+    "pilihan": ["Menggembala kambing", "Berniaga kain sutera", "Menjadi panglima perang", "Menjadi tukang besi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_090",
+    "soalan": "Bagaimanakah sikap Nabi SAW terhadap kawan-kawannya semasa kecil?",
+    "pilihan": ["Sopan, tidak pernah bergaduh dan tidak bercakap bohong", "Suka mengejek", "Suka merampas barang kawan", "Suka menipu"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_091",
+    "soalan": "Adakah Nabi Muhammad SAW pernah menyembah berhala semasa zaman kanak-kanaknya?",
+    "pilihan": ["Tidak pernah sama sekali menyembah berhala", "Pernah sekali", "Hanya ikut kawan", "Sering menyembah berhala"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_092",
+    "soalan": "Adakah Nabi SAW pernah meminum arak atau bermain judi seperti kaum Jahiliyah?",
+    "pilihan": ["Tidak pernah kerana dipelihara oleh Allah SWT", "Pernah semasa kecil", "Pernah mencuba", "Hanya minum arak sedikit"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_093",
+    "soalan": "Apakah yang berlaku apabila Nabi SAW berniat mahu menonton pesta hiburan nyanyian di Makkah semasa remaja?",
+    "pilihan": ["Allah menidurkan baginda sehingga terhindar daripada maksiat", "Baginda terus menari bersama kawan", "Baginda meminum arak", "Baginda bermain judi"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_094",
+    "soalan": "Nabi Muhammad SAW sentiasa bercakap:",
+    "pilihan": ["Benar dan jujur dalam setiap perkara", "Bohong untuk bergurau", "Kasar dan menengking", "Menipu untuk menang"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_095",
+    "soalan": "Apakah gelaran mulia yang diberikan oleh penduduk Makkah kepada Nabi SAW sejak muda?",
+    "pilihan": ["Al-Amin (الْأَمِين)", "As-Siddiq", "Al-Faruq", "Zun Nurain"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_096",
+    "soalan": "Apakah maksud gelaran 'Al-Amin'?",
+    "pilihan": ["Orang yang sangat jujur dan boleh dipercayai", "Orang yang sangat kaya", "Orang yang gagah berani", "Orang yang pandai berniaga"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_097",
+    "soalan": "Mengapakah penduduk Makkah suka menyimpan barang berharga mereka dengan Nabi SAW?",
+    "pilihan": ["Kerana sifat amanah baginda yang tidak pernah mengkhianati amanah", "Kerana rumah Nabi ada peti besi", "Kerana Nabi mempunyai pengawal", "Kerana Nabi mengenakan upah murah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_098",
+    "soalan": "Nabi SAW sangat disukai oleh masyarakat Makkah kerana budi pekerti baginda yang:",
+    "pilihan": ["Luhur, lemah lembut dan suka membantu orang yang susah", "Sombong dengan keturunannya", "Garang dan menakutkan", "Suka membazir harta"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_099",
+    "soalan": "Kisah kehidupan masa kanak-kanak Nabi SAW mengajar murid-murid supaya:",
+    "pilihan": ["Rajin berusaha, berdikari, sabar dan berakhlak mulia", "Bergantung kepada orang lain", "Malas belajar", "Merungut apabila susah"],
+    "jawapan": 0
+  },
+  {
+    "id": "sirah_1_100",
+    "soalan": "Tanda cinta kita kepada Nabi Muhammad SAW adalah dengan:",
+    "pilihan": ["Banyak berselawat ke atas baginda dan mengikut sunnahnya", "Mengingati nama baginda sekali sahaja", "Tidak mempedulikan sirah baginda", "Hanya menyimpan gambar masjid"],
+    "jawapan": 0
+  }
+]
