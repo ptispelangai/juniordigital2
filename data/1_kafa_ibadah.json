@@ -1,0 +1,602 @@
+[
+  {
+    "id": "ibadah_1_001",
+    "soalan": "Apakah maksud bersuci (Taharah) dalam Islam?",
+    "pilihan": ["Membersihkan diri, pakaian dan tempat daripada hadas dan najis", "Mandi bunga di sungai", "Memakai pakaian mahal", "Menyembur minyak wangi"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_002",
+    "soalan": "Kebersihan itu sebahagian daripada:",
+    "pilihan": ["Iman", "Kekayaan", "Pekerjaan", "Permainan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_003",
+    "soalan": "Apakah alat utama yang digunakan oleh orang Islam untuk bersuci?",
+    "pilihan": ["Air mutlak", "Kain sutera", "Minyak wangi", "Bedak wangi"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_004",
+    "soalan": "Sebelum mendirikan solat, tubuh badan, pakaian dan tempat solat mestilah:",
+    "pilihan": ["Bersih dan suci daripada najis", "Berwarna putih sahaja", "Berharga mahal", "Baru dibeli"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_005",
+    "soalan": "Apakah hukum bersuci sebelum menunaikan ibadah solat?",
+    "pilihan": ["Wajib", "Sunat", "Harus", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_006",
+    "soalan": "Selain air, apakah benda kesat yang BOLEH digunakan untuk bersuci dan beristinjak?",
+    "pilihan": ["Batu yang kering dan bersih", "Kaca yang tajam", "Tulang binatang", "Roti makanan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_007",
+    "soalan": "Bolehkah kita menggunakan bahan makanan seperti roti untuk membersihkan najis?",
+    "pilihan": ["Haram dan dilarang kerana makanan itu rezeki", "Boleh jika tiada air", "Sunat", "Harus"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_008",
+    "soalan": "Apakah syarat benda kesat yang boleh digunakan untuk beristinjak?",
+    "pilihan": ["Suci, kering, dan dapat menanggalkan najis", "Basah dan berminyak", "Licin seperti kaca", "Mudah hancur dan kotor"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_009",
+    "soalan": "Mengapakah kita dilarang menggunakan kaca tajam untuk beristinjak?",
+    "pilihan": ["Kerana boleh mendatangkan bahaya dan kecederaan", "Kerana kaca itu mahal", "Kerana kaca berkilau", "Kerana kaca tiada warna"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_010",
+    "soalan": "Berapakah bilangan sekurang-kurangnya batu atau sapuan yang digunakan untuk beristinjak tanpa air?",
+    "pilihan": ["3 kali sapuan / 3 biji batu", "1 kali sapuan", "10 kali sapuan", "5 kali sapuan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_011",
+    "soalan": "Adakah sah bersuci sekiranya menggunakan daun kering yang bersih?",
+    "pilihan": ["Sah kerana ia benda kesat yang suci", "Tidak sah", "Haram", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_012",
+    "soalan": "Orang yang sentiasa menjaga kebersihan diri sangat disukai oleh:",
+    "pilihan": ["Allah SWT dan manusia", "Syaitan", "Iblis", "Orang sombong"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_013",
+    "soalan": "Menggosok gigi atau bersugi bertujuan untuk menjaga kebersihan:",
+    "pilihan": ["Mulut dan gigi", "Telinga", "Mata", "Kaki"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_014",
+    "soalan": "Memotong kuku yang panjang dan kotor adalah amalan yang:",
+    "pilihan": ["Sunat mengikut sunnah Rasulullah SAW", "Dilarang", "Makruh", "Membazir masa"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_015",
+    "soalan": "Hari apakah yang paling disunatkan untuk kita memotong kuku dan mandi sunat?",
+    "pilihan": ["Hari Jumaat", "Hari Selasa", "Hari Rabu", "Hari Ahad"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_016",
+    "soalan": "Air yang suci dan boleh digunakan untuk bersuci dipanggil air:",
+    "pilihan": ["Mutlak", "Mutanajjis", "Musta'mal", "Kotor"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_017",
+    "soalan": "Berapakah jenis sumber air mutlak yang terdapat di bumi?",
+    "pilihan": ["7 jenis", "3 jenis", "5 jenis", "10 jenis"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_018",
+    "soalan": "Air yang turun dari langit dinamakan:",
+    "pilihan": ["Air hujan", "Air perigi", "Air laut", "Air paip"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_019",
+    "soalan": "Air yang berada di laut yang rasanya masin tergolong dalam air:",
+    "pilihan": ["Air mutlak yang suci dan menyucikan", "Air mutanajjis", "Air najis", "Air yang tidak boleh disentuh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_020",
+    "soalan": "Air yang mengalir dari kawasan bukit ke daratan dipanggil:",
+    "pilihan": ["Air sungai", "Air paip", "Air kolam", "Air teh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_021",
+    "soalan": "Air yang digali di dalam tanah dan mempunyai dinding batu dinamakan:",
+    "pilihan": ["Air telaga / perigi", "Air hujan", "Air embun", "Air laut"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_022",
+    "soalan": "Titisan air sejuk yang berada di atas daun pada waktu pagi dinamakan:",
+    "pilihan": ["Air embun", "Air laut", "Air banjir", "Air sungai"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_023",
+    "soalan": "Air yang keluar memancut daripada bumi secara semula jadi dinamakan:",
+    "pilihan": ["Air mata air", "Air paip bocor", "Air sirap", "Air kolah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_024",
+    "soalan": "Air salji atau ketulan ais yang telah cair hukumnya ialah:",
+    "pilihan": ["Suci dan menyucikan (Air mutlak)", "Air najis", "Air makruh", "Air mutanajjis"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_025",
+    "soalan": "Bolehkah kita mengambil wuduk menggunakan air kopi atau air teh?",
+    "pilihan": ["Tidak boleh kerana air itu bukan air mutlak", "Boleh jika air itu manis", "Boleh jika tiada air lain", "Boleh pada bila-bila masa"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_026",
+    "soalan": "Air mutanajjis ialah air yang telah:",
+    "pilihan": ["Jatuh najis ke dalamnya sehingga berubah warna, bau atau rasa", "Dimasak di dapur", "Disimpan di dalam peti sejuk", "Dicampur dengan pewangi"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_027",
+    "soalan": "Apakah hukum menggunakan air mutanajjis untuk berwuduk atau mandi wajib?",
+    "pilihan": ["Tidak sah dan haram", "Sah", "Sunat", "Harus"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_028",
+    "soalan": "Air yang telah digunakan untuk membasuh anggota wuduk yang wajib dipanggil air:",
+    "pilihan": ["Musta'mal", "Mutanajjis", "Mutlak", "Musyammas"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_029",
+    "soalan": "Hukum air musta'mal ialah suci pada dirinya tetapi:",
+    "pilihan": ["Tidak boleh menyucikan benda lain", "Boleh menyucikan najis", "Boleh buat wuduk kali kedua", "Haram diminum"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_030",
+    "soalan": "Air yang terdedah kepada panas matahari di dalam bekas logam yang berkarat dipanggil:",
+    "pilihan": ["Musyammas", "Musta'mal", "Mutlak", "Mutanajjis"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_031",
+    "soalan": "Apakah hukum menggunakan air musyammas untuk berwuduk?",
+    "pilihan": ["Makruh kerana dikhuatiri membawa penyakit kulit", "Wajib", "Haram", "Sunat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_032",
+    "soalan": "Air Zamzam yang berada di Masjidil Haram, Makkah, merupakan sejenis:",
+    "pilihan": ["Air mutlak yang sangat mulia dan berkat", "Air biasa", "Air musta'mal", "Air laut"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_033",
+    "soalan": "Tiga sifat utama air yang perlu dijaga kebersihannya ialah:",
+    "pilihan": ["Warna, bau, dan rasa", "Suhu, berat, dan tinggi", "Bekas, saiz, dan harga", "Buih, wap, dan garam"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_034",
+    "soalan": "Sekiranya air sungai berubah menjadi sangat busuk dan hitam kerana najis kilang, adakah sah untuk wuduk?",
+    "pilihan": ["Tidak sah kerana sifat airnya telah rosak akibat najis", "Sah", "Sunat", "Harus"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_035",
+    "soalan": "Air yang banyak mengikut sukatan fekah ialah air yang mencapai sekurang-kurangnya:",
+    "pilihan": ["Dua kolah (kira-kira 200 liter)", "Satu cawan", "Satu botol kecil", "Satu gayung"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_036",
+    "soalan": "Apakah maksud istinjak?",
+    "pilihan": ["Membersihkan qubul dan dubur selepas buang air kecil atau besar", "Mencuci muka sebelum tidur", "Mandi wajib selepas bangun pagi", "Membasuh kaki selepas main"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_037",
+    "soalan": "Apakah hukum beristinjak selepas membuang air kecil atau air besar?",
+    "pilihan": ["Wajib bagi setiap Muslim", "Sunat", "Harus", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_038",
+    "soalan": "Apakah akibat jika seseorang tidak beristinjak dengan sempurna?",
+    "pilihan": ["Solatnya tidak sah dan diseksa di dalam kubur", "Mendapat ganjaran pahala", "Badan menjadi sihat", "Disukai oleh malaikat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_039",
+    "soalan": "Ketika melangkah masuk ke dalam tandas, kita hendaklah mendahulukan kaki:",
+    "pilihan": ["Kiri", "Kanan", "Kedua-dua kaki serentak", "Mana-mana kaki"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_040",
+    "soalan": "Ketika melangkah keluar dari tandas, kita hendaklah mendahulukan kaki:",
+    "pilihan": ["Kanan", "Kiri", "Belakang", "Depan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_041",
+    "soalan": "Apakah doa ringkas yang dibaca sebaik sahaja keluar dari tandas?",
+    "pilihan": ["Ghufranaka (غُفْرَانَكَ)", "Bismillah", "Alhamdulillah", "Subhanallah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_042",
+    "soalan": "Membersihkan qubul dan dubur hendaklah menggunakan tangan:",
+    "pilihan": ["Kiri", "Kanan", "Kedua-dua belah tangan", "Kaki"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_043",
+    "soalan": "Mengapakah kita dilarang menggunakan tangan kanan untuk beristinjak?",
+    "pilihan": ["Kerana tangan kanan digunakan untuk makan dan perkara mulia", "Kerana tangan kanan lemah", "Kerana tangan kanan sakit", "Kerana tangan kanan panjang"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_044",
+    "soalan": "Sebelum masuk ke tandas, kita disunatkan memakai:",
+    "pilihan": ["Selipar / alas kaki dan menutup kepala", "Kasut sekolah", "Baju sejuk tebal", "Cermin mata hitam"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_045",
+    "soalan": "Bolehkah kita menyanyi, bercakap atau membaca buku di dalam tandas?",
+    "pilihan": ["Dilarang dan makruh kerana tandas tempat kotor", "Boleh sesuka hati", "Sunat menyanyi", "Harus bercakap kuat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_046",
+    "soalan": "Bolehkah membawa barang yang tertulis kalimah Allah atau ayat Al-Quran ke dalam tandas?",
+    "pilihan": ["Haram dan dilarang sama sekali", "Boleh jika disorok", "Sunat", "Harus"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_047",
+    "soalan": "Apakah hukum buang air kecil secara berdiri tanpa sebarang keuzuran bagi lelaki?",
+    "pilihan": ["Makruh (sebaik-baiknya duduk)", "Wajib", "Sunat", "Haram"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_048",
+    "soalan": "Kita dilarang membuang air di dalam air yang:",
+    "pilihan": ["Tenang dan tidak mengalir seperti kolam", "Air laut yang luas", "Mangkuk tandas", "Lori kumbahan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_049",
+    "soalan": "Kita juga dilarang membuang air di tempat laluan orang ramai atau di bawah:",
+    "pilihan": ["Pokok yang menjadi tempat orang berteduh", "Bawah jambatan rosak", "Di tempat pembuangan sampah", "Di parit besar"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_050",
+    "soalan": "Selepas selesai beristinjak, kita hendaklah membasuh kedua-dua belah tangan dengan:",
+    "pilihan": ["Air dan sabun hingga bersih", "Menyapu di baju", "Membiarkannya basah", "Menyentuh muka"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_051",
+    "soalan": "Apakah maksud najis?",
+    "pilihan": ["Benda kotor yang menghalang daripada sahnya solat", "Debu tanah biasa", "Peluh badan", "Minyak masak"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_052",
+    "soalan": "Berapakah bahagian najis mengikut tahap berat hukumnya?",
+    "pilihan": ["3 bahagian", "2 bahagian", "4 bahagian", "5 bahagian"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_053",
+    "soalan": "Tiga bahagian najis ialah Najis Mukhaffafah, Najis Mutawassitah dan Najis:",
+    "pilihan": ["Mughallazah", "Musta'mal", "Mutlak", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_054",
+    "soalan": "Najis Mukhaffafah bermaksud najis yang:",
+    "pilihan": ["Ringan", "Berat", "Pertengahan", "Sangat kotor"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_055",
+    "soalan": "Contoh Najis Mukhaffafah (ringan) ialah:",
+    "pilihan": ["Air kencing bayi lelaki bawah 2 tahun yang hanya minum susu ibu", "Tahi ayam", "Air liur anjing", "Darah luka"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_056",
+    "soalan": "Cara menyucikan najis mukhaffafah ialah dengan mengelap najis dan:",
+    "pilihan": ["Merinjiskan air mutlak ke atas tempat terkena najis", "Membasuh sebanyak 7 kali", "Menyapu dengan debu tanah", "Menjemur di panas terik"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_057",
+    "soalan": "Najis Mughallazah bermaksud najis yang:",
+    "pilihan": ["Berat", "Ringan", "Sedang", "Kecil"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_058",
+    "soalan": "Najis Mughallazah berasal daripada binatang:",
+    "pilihan": ["Anjing dan babi serta keturunannya", "Kucing dan arnab", "Lembu dan kambing", "Ayam dan itik"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_059",
+    "soalan": "Berapakah bilangan basuhan air untuk menyucikan najis mughallazah?",
+    "pilihan": ["7 kali basuhan, salah satunya air bercampur tanah", "3 kali basuhan air biasa", "1 kali basuh", "10 kali basuh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_060",
+    "soalan": "Najis Mutawassitah bermaksud najis yang:",
+    "pilihan": ["Pertengahan / Sederhana", "Ringan", "Berat", "Kering"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_061",
+    "soalan": "Antara contoh Najis Mutawassitah (sederhana) ialah:",
+    "pilihan": ["Tahi manusia, darah, nanah, dan bangkai", "Air hujan", "Peluh ketiak", "Air ludah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_062",
+    "soalan": "Adakah tahi cicak atau tahi kucing tergolong dalam najis mutawassitah?",
+    "pilihan": ["Ya, ia najis mutawassitah", "Bukan najis", "Najis ringan", "Najis berat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_063",
+    "soalan": "Cara menyucikan najis mutawassitah ialah membasuh dengan air mutlak sehingga hilang:",
+    "pilihan": ["Warna, bau, dan rasanya", "Baju tersebut", "Air kolam", "Kain lap"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_064",
+    "soalan": "Adakah bangkai ikan dan belalang dianggap sebagai bangkai yang bernajis?",
+    "pilihan": ["Tidak bernajis dan halal dimakan", "Najis berat", "Najis sederhana", "Haram disentuh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_065",
+    "soalan": "Air kencing kita sendiri tergolong dalam bahagian najis:",
+    "pilihan": ["Mutawassitah (sederhana)", "Mukhaffafah", "Mughallazah", "Bukan najis"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_066",
+    "soalan": "Apakah maksud wuduk?",
+    "pilihan": ["Membasuh anggota badan tertentu berserta niat untuk solat", "Mandi kolam pada waktu petang", "Membasuh tangan sebelum makan", "Menyiram pokok bunga"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_067",
+    "soalan": "Berapakah bilangan Rukun Wuduk yang WAJIB dilakukan?",
+    "pilihan": ["6 perkara", "4 perkara", "8 perkara", "10 perkara"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_068",
+    "soalan": "Rukun wuduk yang pertama ialah:",
+    "pilihan": ["Niat wuduk ketika membasuh muka", "Membasuh kaki", "Menyapu telinga", "Berkumur-kumur"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_069",
+    "soalan": "Rukun wuduk yang kedua ialah:",
+    "pilihan": ["Membasuh seluruh muka", "Menyapu kepala", "Membasuh tangan", "Niat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_070",
+    "soalan": "Rukun wuduk yang ketiga ialah membasuh kedua-dua belah tangan hingga ke:",
+    "pilihan": ["Siku", "Pergelangan tangan", "Bahu", "Jari sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_071",
+    "soalan": "Rukun wuduk yang keempat ialah:",
+    "pilihan": ["Menyapu sebahagian kepala dengan air", "Membasuh telinga", "Mencuci hidung", "Membasuh kaki"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_072",
+    "soalan": "Rukun wuduk yang kelima ialah membasuh kedua-dua belah kaki hingga ke:",
+    "pilihan": ["Buku lali", "Lutut", "Paha", "Hujung jari kaki sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_073",
+    "soalan": "Rukun wuduk yang keenam ialah 'Tertib' yang bermaksud:",
+    "pilihan": ["Melakukan rukun wuduk mengikut susunan yang betul", "Berdiam diri semasa wuduk", "Mengambil wuduk dengan laju", "Mengulang tiga kali"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_074",
+    "soalan": "Apakah lafaz niat wuduk yang ringkas dalam rumi?",
+    "pilihan": ["Nawaitul wudu'a lillahi Ta'ala", "Usolli fardhas subhi", "Bismillahi tawakkaltu", "Alhamdulillah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_075",
+    "soalan": "Maksud niat wuduk ialah 'Sahaja aku mengambil wuduk kerana...':",
+    "pilihan": ["Allah Ta'ala", "Ibu bapa", "Guru sekolah", "Kawan-kawan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_076",
+    "soalan": "Antara berikut, yang manakah perkara SUNAT ketika berwuduk?",
+    "pilihan": ["Membaca bismillah dan berkumur-kumur", "Niat wuduk", "Membasuh muka", "Membasuh kaki"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_077",
+    "soalan": "Menyapu kedua-dua belah telinga ketika berwuduk hukumnya:",
+    "pilihan": ["Sunat", "Wajib", "Haram", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_078",
+    "soalan": "Memasukkan air ke dalam hidung dan mengeluarkannya ketika wuduk dinamakan:",
+    "pilihan": ["Istinsyaq", "Istinjak", "Istimna'", "Irtidad"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_079",
+    "soalan": "Kita disunatkan membasuh setiap anggota wuduk sebanyak:",
+    "pilihan": ["3 kali", "1 kali", "5 kali", "10 kali"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_080",
+    "soalan": "Semasa membasuh tangan dan kaki, kita disunatkan mendahulukan anggota sebelah:",
+    "pilihan": ["Kanan berbanding kiri", "Kiri berbanding kanan", "Bawah", "Belakang"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_081",
+    "soalan": "Antara perkara yang MEMBATALKAN wuduk ialah:",
+    "pilihan": ["Keluar angin dari dubur (kentut)", "Makan nasi lemak", "Minum air suam", "Bercakap dengan ibu"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_082",
+    "soalan": "Buang air kecil (kencing) atau buang air besar akan:",
+    "pilihan": ["Membatalkan wuduk", "Menambah pahala wuduk", "Tidak membatalkan wuduk", "Sunat wuduk"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_083",
+    "soalan": "Tidur yang nyenyak sehingga tidak tetap punggung di atas lantai boleh:",
+    "pilihan": ["Membatalkan wuduk", "Membuat wuduk makin kuat", "Mendapat pahala", "Tiada apa-apa kesan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_084",
+    "soalan": "Menyentuh kemaluan sendiri atau orang lain dengan tapak tangan tanpa lapik hukumnya:",
+    "pilihan": ["Membatalkan wuduk", "Makruh sahaja", "Tidak batal", "Sunat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_085",
+    "soalan": "Adakah menangis membatalkan wuduk?",
+    "pilihan": ["Tidak membatalkan wuduk", "Batal wuduk serta-merta", "Haram", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_086",
+    "soalan": "Berapakah bilangan solat fardhu yang wajib ditunaikan setiap hari?",
+    "pilihan": ["5 waktu", "3 waktu", "4 waktu", "6 waktu"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_087",
+    "soalan": "Solat fardhu yang pertama pada waktu awal pagi sebelum terbit matahari ialah solat:",
+    "pilihan": ["Subuh", "Zohor", "Asar", "Isyak"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_088",
+    "soalan": "Berapakah bilangan rakaat bagi solat fardhu Subuh?",
+    "pilihan": ["2 rakaat", "3 rakaat", "4 rakaat", "1 rakaat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_089",
+    "soalan": "Solat fardhu yang ditunaikan pada waktu tengah hari dinamakan solat:",
+    "pilihan": ["Zohor", "Subuh", "Maghrib", "Asar"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_090",
+    "soalan": "Berapakah bilangan rakaat bagi solat fardhu Zohor?",
+    "pilihan": ["4 rakaat", "2 rakaat", "3 rakaat", "5 rakaat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_091",
+    "soalan": "Solat fardhu yang ditunaikan pada waktu petang dinamakan solat:",
+    "pilihan": ["Asar", "Zohor", "Subuh", "Maghrib"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_092",
+    "soalan": "Berapakah bilangan rakaat bagi solat fardhu Asar?",
+    "pilihan": ["4 rakaat", "2 rakaat", "3 rakaat", "1 rakaat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_093",
+    "soalan": "Solat fardhu yang ditunaikan sebaik sahaja terbenam matahari dinamakan solat:",
+    "pilihan": ["Maghrib", "Isyak", "Asar", "Zohor"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_094",
+    "soalan": "Berapakah bilangan rakaat bagi solat fardhu Maghrib?",
+    "pilihan": ["3 rakaat", "2 rakaat", "4 rakaat", "5 rakaat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_095",
+    "soalan": "Solat fardhu yang ditunaikan pada waktu malam yang gelap dinamakan solat:",
+    "pilihan": ["Isyak", "Maghrib", "Asar", "Subuh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_096",
+    "soalan": "Berapakah bilangan rakaat bagi solat fardhu Isyak?",
+    "pilihan": ["4 rakaat", "3 rakaat", "2 rakaat", "5 rakaat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_097",
+    "soalan": "Berapakah jumlah semua rakaat bagi solat fardhu lima waktu dalam sehari semalam?",
+    "pilihan": ["17 rakaat", "15 rakaat", "20 rakaat", "10 rakaat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_098",
+    "soalan": "Apakah lafaz takbir ketika memulakan solat?",
+    "pilihan": ["Allahu Akbar", "Alhamdulillah", "Subhanallah", "Bismillah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_099",
+    "soalan": "Apakah kiblat umat Islam semasa menunaikan solat?",
+    "pilihan": ["Kaabah di Masjidil Haram, Makkah", "Masjid Nabawi di Madinah", "Matahari naik di timur", "Bulan bintang"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_1_100",
+    "soalan": "Apakah hukum menunaikan solat fardhu lima waktu bagi orang Islam?",
+    "pilihan": ["Wajib (berdosa besar jika meninggalkannya)", "Sunat sahaja", "Harus", "Makruh"],
+    "jawapan": 0
+  }
+]
