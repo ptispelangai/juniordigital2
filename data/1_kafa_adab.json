@@ -1,0 +1,607 @@
+[
+  {
+    "id": "adab_1_001",
+    "soalan": "Menjaga kebersihan diri adalah amalan yang:",
+    "pilihan": ["Dituntut dalam Islam dan disukai Allah", "Tidak penting", "Membazirkan masa", "Dilarang"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_002",
+    "soalan": "Berapa kalikah sekurang-kurangnya kita patut mandi dalam sehari?",
+    "pilihan": ["2 kali sehari (pagi dan petang)", "Seminggu sekali", "Sebulan sekali", "Bila kotor sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_003",
+    "soalan": "Menggosok gigi setiap hari menjadikan nafas kita segar dan gigi kita:",
+    "pilihan": ["Bersih dan sihat", "Cepat patah", "Berlubang", "Kuning"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_004",
+    "soalan": "Kuku tangan dan kaki yang panjang hendaklah:",
+    "pilihan": ["Dipotong dan dibersihkan", "Dibiarkan kotor", "Diwarnakan dengan pen", "Digigit dengan gigi"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_005",
+    "soalan": "Hari apakah yang paling disunatkan untuk memotong kuku?",
+    "pilihan": ["Hari Jumaat", "Hari Selasa", "Hari Rabu", "Hari Ahad"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_006",
+    "soalan": "Rambut yang kemas dan disikat rapi menunjukkan murid yang:",
+    "pilihan": ["Pembersih dan berdisiplin", "Pemalas", "Sombong", "Nakap"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_007",
+    "soalan": "Sebelum dan selepas makan, kita wajib membasuh:",
+    "pilihan": ["Kedua-dua belah tangan dengan sabun dan air", "Kaki sahaja", "Muka sahaja", "Baju"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_008",
+    "soalan": "Sikap orang Islam terhadap percakapan seharian ialah sentiasa:",
+    "pilihan": ["Bercakap benar dan jujur", "Bercakap bohong", "Menjerit-jerit", "Mengejek orang"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_009",
+    "soalan": "Apakah akibat jika seseorang suka bercakap bohong?",
+    "pilihan": ["Mendapat dosa dan dibenci oleh orang ramai", "Disukai oleh guru", "Mendapat banyak hadiah", "Menjadi pandai"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_010",
+    "soalan": "Apabila kita bersin, kita disunatkan mengucapkan:",
+    "pilihan": ["Alhamdulillah (الْحَمْدُ لِلَّهِ)", "Astaghfirullah", "Allahu Akbar", "Subhanallah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_011",
+    "soalan": "Apabila hendak menguap, adab yang diajarkan ialah:",
+    "pilihan": ["Menutup mulut dengan belakang tapak tangan kiri", "Membuka mulut seluas-luasnya", "Mengeluarkan suara yang kuat", "Mengetawakan kawan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_012",
+    "soalan": "Makan makanan yang berkhasiat seperti sayur dan buah adalah adab menjaga:",
+    "pilihan": ["Kesihatan tubuh badan", "Pakaian", "Buku teks", "Beg sekolah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_013",
+    "soalan": "Membuang sampah ke dalam tong sampah adalah tanda orang yang:",
+    "pilihan": ["Menyayangi kebersihan persekitaran", "Pengotor", "Malas", "Suka membazir"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_014",
+    "soalan": "Apakah hukum mandi dan membersihkan diri sebelum pergi solat Jumaat?",
+    "pilihan": ["Sunat yang sangat dituntut", "Haram", "Makruh", "Wajib"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_015",
+    "soalan": "Murid yang sentiasa berakhlak mulia akan:",
+    "pilihan": ["Disayangi oleh Allah, ibu bapa dan rakan-rakan", "Dibenci oleh guru", "Selalu dimarahi", "Tiada kawan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_016",
+    "soalan": "Ibu bapa ialah insan yang sangat berjasa kerana mereka:",
+    "pilihan": ["Melahirkan, memelihara dan mendidik kita dengan kasih sayang", "Memberi kerja rumah", "Membiarkan kita lapar", "Memarahi kita selalu"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_017",
+    "soalan": "Hukum berbuat baik dan taat kepada ibu bapa ialah:",
+    "pilihan": ["Wajib", "Sunat", "Harus", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_018",
+    "soalan": "Bagaimanakah cara bercakap dengan ibu bapa yang betul?",
+    "pilihan": ["Bercakap dengan sopan, lemah lembut dan tidak meninggikan suara", "Menengking dan menjerit", "Menyindir ibu bapa", "Bercakap kasar"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_019",
+    "soalan": "Sebelum keluar rumah ke sekolah, kita hendaklah bersalaman dengan ibu bapa serta:",
+    "pilihan": ["Mencium tangan dan meminta doa restu mereka", "Lari keluar tanpa memandang", "Meminta duit dengan marah", "Menjerit dari luar pintu"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_020",
+    "soalan": "Perkataan kasar yang dilarang disebut kepada ibu bapa ialah:",
+    "pilihan": ["Ah / Cis", "Terima kasih ibu", "Sama-sama ayah", "Tolong"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_021",
+    "soalan": "Apakah doa untuk kedua ibu bapa yang sering kita baca?",
+    "pilihan": ["Rabbighfirli waliwalidayya warhamhuma kama rabbayani saghira", "Allahumma barik lana fima razaqtana", "Bismika Allahumma ahya wa amut", "Rabbi zidni 'ilma"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_022",
+    "soalan": "Maksud doa ibu bapa 'Rabbighfirli waliwalidayya...' ialah:",
+    "pilihan": ["Wahai Tuhanku, ampunkan dosaku dan dosa kedua ibu bapaku", "Wahai Tuhanku, berilah aku kekayaan", "Wahai Tuhanku, jauhkan aku dari lapar", "Wahai Tuhanku, jadikan aku juara"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_023",
+    "soalan": "Apakah balasan bagi anak yang taat dan berbakti kepada ibu bapanya?",
+    "pilihan": ["Mendapat keredhaan Allah dan balasan syurga", "Mendapat azab neraka", "Rugi hidupnya", "Dimurkai Allah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_024",
+    "soalan": "Apakah balasan bagi anak yang menderhaka kepada ibu bapanya?",
+    "pilihan": ["Mendapat dosa besar dan kemurkaan Allah", "Mendapat pahala", "Masuk syurga awal", "Dipuji masyarakat"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_025",
+    "soalan": "Apakah tindakan adik apabila ibu meminta tolong mengambilkan barang?",
+    "pilihan": ["Segera menolong dengan ikhlas dan senyuman", "Memberi alasan malas", "Menyuruh adik lain buat", "Pura-pura tidur"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_026",
+    "soalan": "Syurga itu berada di bawah telapak kaki:",
+    "pilihan": ["Ibu", "Kawan", "Guru", "Jiran"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_027",
+    "soalan": "Apabila melintas di hadapan ibu bapa yang sedang duduk, kita hendaklah:",
+    "pilihan": ["Menundukkan badan sambil meminta izin dengan sopan", "Berlari melompat", "Menolak kaki mereka", "Berjalan sombong"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_028",
+    "soalan": "Menolong ibu mengemas meja selepas makan adalah contoh amalan:",
+    "pilihan": ["Anak yang soleh dan ringan tulang", "Membazir masa", "Kerja yang memalukan", "Paksaan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_029",
+    "soalan": "Jika ibu bapa menegur kesalahan kita, kita hendaklah:",
+    "pilihan": ["Mendengar nasihat dan meminta maaf", "Melawan kata mereka", "Merajuk dan menghempas pintu", "Menangis guling-guling"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_030",
+    "soalan": "Sentiasa mendoakan ibu bapa adalah tanda anak yang:",
+    "pilihan": ["Mengenang budi dan sayang ibu bapa", "Lupa diri", "Pemalas", "Takut"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_031",
+    "soalan": "Guru ialah orang yang mengajarkan kita:",
+    "pilihan": ["Ilmu pengetahuan dan nilai-nilai murni", "Bermain telefon", "Bergaduh dengan kawan", "Bercakap bohong"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_032",
+    "soalan": "Apakah ucapan yang patut diberi apabila bertemu dengan guru?",
+    "pilihan": ["Memberi salam (Assalamualaikum ya Ustaz / Ustazah)", "Menjerit 'Hai!'", "Melarikan diri", "Berdiam sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_033",
+    "soalan": "Apakah adab murid semasa guru sedang mengajar di hadapan kelas?",
+    "pilihan": ["Duduk dengan tenang dan menumpukan perhatian", "Bercakap dengan kawan sebelah", "Bermain pemadam", "Tidur di atas meja"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_034",
+    "soalan": "Jika ingin bertanya atau ke tandas semasa kelas, murid hendaklah:",
+    "pilihan": ["Mengangkat tangan kanan dan meminta izin dengan sopan", "Terus berlari keluar", "Menjerit sekuat hati", "Membaling barang"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_035",
+    "soalan": "Murid yang menghormati guru akan mendapat ilmu yang:",
+    "pilihan": ["Berkat dan mudah difahami", "Sia-sia", "Hilang begitu sahaja", "Susah diingati"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_036",
+    "soalan": "Mengejek rupa paras atau cara guru berjalan adalah perbuatan yang:",
+    "pilihan": ["Berdosa dan biadab", "Kelakar dan dibenarkan", "Menunjukkan keberanian", "Mendapat pahala"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_037",
+    "soalan": "Apakah tindakan adik apabila melihat guru membawa buku yang banyak?",
+    "pilihan": ["Menawarkan bantuan untuk mengangkat buku tersebut", "Melihat sahaja dan lari bermain", "Mengetawakan guru", "Bersembunyi"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_038",
+    "soalan": "Kerja rumah atau latihan yang diberikan oleh guru hendaklah:",
+    "pilihan": ["Disiapkan dengan kemas dan tepat pada masanya", "Dibiarkan kosong", "Disuruh kawan siapkan", "Dibuang"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_039",
+    "soalan": "Sebelum kelas bermula dan selepas selesai belajar, murid disunatkan:",
+    "pilihan": ["Membaca doa belajar dan berterima kasih kepada guru", "Berebut-rebut keluar pintu", "Membuat bising", "Makan bekalan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_040",
+    "soalan": "Bagaimanakah sikap murid apabila guru masuk ke dalam bilik darjah?",
+    "pilihan": ["Berdiri tegak, memberi salam dan bersedia untuk belajar", "Menyambung berbual dengan rakan", "Tunduk meniarap", "Berlari ke sana sini"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_041",
+    "soalan": "Menghormati guru sama pentingnya dengan menghormati:",
+    "pilihan": ["Kedua-dua ibu bapa kita", "Musuh", "Barang permainan", "Telefon"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_042",
+    "soalan": "Ucapan penghargaan kepada guru selepas guru selesai mengajar ialah:",
+    "pilihan": ["Jazakallahu khairan / Terima kasih Ustaz dan Ustazah", "Selamat tinggal sahaja", "Padan muka", "Saya nak balik"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_043",
+    "soalan": "Sikap orang Islam terhadap kawan-kawannya ialah sentiasa:",
+    "pilihan": ["Saling menyayangi, menghormati dan tolong-menolong", "Suka bergaduh", "Mengejek kawan", "Mencuri barang kawan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_044",
+    "soalan": "Apakah ucapan yang disunatkan apabila bertemu dengan rakan sekolah?",
+    "pilihan": ["Memberi salam (Assalamualaikum)", "Menolak bahunya", "Mengejek namanya", "Melingas muka"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_045",
+    "soalan": "Memanggil kawan dengan gelaran yang buruk atau mengejek namanya hukumnya:",
+    "pilihan": ["Haram dan berdosa", "Sunat", "Boleh untuk bergurau", "Mendapat pahala"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_046",
+    "soalan": "Jika kawan kita terlupa membawa pensel ke sekolah, kita patut:",
+    "pilihan": ["Meminjamkan pensel kita kepadanya", "Mengetawakannya", "Menyorokkan pensel kita", "Mengadu kepada guru supaya dia dimarahi"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_047",
+    "soalan": "Sebelum meminjam pemadam atau barang kepunyaan kawan, kita wajib:",
+    "pilihan": ["Meminta izin terlebih dahulu", "Mengambil senyap-senyap", "Merampas terus", "Mengaku barang sendiri"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_048",
+    "soalan": "Apabila kawan kita terjatuh di padang, kita hendaklah:",
+    "pilihan": ["Segera membantu mengangkatnya dan bertanya keadaannya", "Mengetawakannya beramai-ramai", "Membiarkannya menangis", "Melompat di atasnya"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_049",
+    "soalan": "Sekiranya kita melakukan kesalahan kepada kawan, kita hendaklah:",
+    "pilihan": ["Segera meminta maaf dengan ikhlas", "Menyalahkan orang lain", "Berlagak sombong", "Melarikan diri"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_050",
+    "soalan": "Apakah sikap kita apabila kawan meminta maaf atas kesilapannya?",
+    "pilihan": ["Memaafkannya dengan hati yang terbuka", "Menyimpan dendam", "Memukulnya kembali", "Menolaknya"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_051",
+    "soalan": "Berkongsi makanan atau mainan bersama rakan adalah amalan yang:",
+    "pilihan": ["Terpuji dan merapatkan kasih sayang", "Membazir", "Memalukan", "Rugi"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_052",
+    "soalan": "Bolehkah kita merosakkan buku atau pensel kepunyaan kawan?",
+    "pilihan": ["Dilarang dan berdosa kerana itu hak orang lain", "Boleh jika kita marah", "Boleh untuk main-main", "Sunat"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_053",
+    "soalan": "Bercakap dengan kawan hendaklah menggunakan perkataan yang:",
+    "pilihan": ["Baik, sopan dan tidak menyakitkan hati", "Kasar dan mencarut", "Menjerit di telinga", "Menyakiti hatinya"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_054",
+    "soalan": "Kawan yang baik akan sentiasa mengajak kita untuk:",
+    "pilihan": ["Belajar bersama dan solat", "Ponteng kelas", "Mencuri barang", "Bercakap bohong"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_055",
+    "soalan": "Senyuman kita kepada rakan-rakan dikira sebagai:",
+    "pilihan": ["Sedekah dan mendapat pahala", "Perbuatan yang pelik", "Membuang tenaga", "Tiada erti"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_056",
+    "soalan": "Apakah perkara pertama yang perlu dilakukan sebelum menyentuh makanan?",
+    "pilihan": ["Membasuh kedua-dua belah tangan hingga bersih", "Terus makan", "Bermain sudu", "Menyanyi lagu"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_057",
+    "soalan": "Sebelum makan, kita disunatkan membaca:",
+    "pilihan": ["Bismillah dan doa makan", "Surah An-Nas", "Doa tidur", "Lagu sekolah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_058",
+    "soalan": "Apakah lafaz doa makan yang betul?",
+    "pilihan": ["Allahumma barik lana fima razaqtana waqina 'azaban nar", "Bismika Allahumma ahya wa amut", "Alhamdulillahil lazi ahyana", "Ghufranaka"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_059",
+    "soalan": "Umat Islam diajar makan dan minum menggunakan tangan:",
+    "pilihan": ["Kanan", "Kiri", "Kedua-dua belah tangan", "Kaki"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_060",
+    "soalan": "Makan dan minum menggunakan tangan kiri adalah amalan:",
+    "pilihan": ["Syaitan dan dilarang dalam Islam", "Para nabi", "Malaikat", "Orang soleh"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_061",
+    "soalan": "Adab makan yang diajarkan oleh Rasulullah SAW ialah secara:",
+    "pilihan": ["Duduk dengan tertib dan sopan", "Berlari-lari", "Baring meniarap", "Melompat-lompat"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_062",
+    "soalan": "Jika makanan masih terlalu panas, kita hendaklah:",
+    "pilihan": ["Menunggu sehingga ia suam dan tidak meniupnya", "Meniup sekuat-kuatnya", "Mencurahkan air sejuk", "Membuang makanan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_063",
+    "soalan": "Apakah hukum meniup makanan atau minuman yang panas?",
+    "pilihan": ["Makruh dan dilarang oleh Nabi SAW", "Wajib", "Sunat", "Harus"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_064",
+    "soalan": "Mengambil makanan di dalam pinggan hendaklah mengambil makanan yang:",
+    "pilihan": ["Paling dekat dengan kita", "Paling jauh", "Di tengah pinggan orang lain", "Di pinggan kawan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_065",
+    "soalan": "Bolehkah kita bercakap dengan mulut yang penuh dengan makanan?",
+    "pilihan": ["Tidak boleh kerana tidak sopan dan boleh tercekik", "Boleh jika penting", "Boleh untuk bergurau", "Sunat bercakap"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_066",
+    "soalan": "Jika makanan yang dihidangkan tidak sedap atau tawar, kita patut:",
+    "pilihan": ["Diam dan tidak mencela makanan tersebut", "Memarahi tukang masak", "Membuang makanan ke lantai", "Mengejek makanan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_067",
+    "soalan": "Semasa minum air, kita disunatkan meneguk secara perlahan sebanyak:",
+    "pilihan": ["3 kali tegukan sambil bernafas di luar gelas", "1 kali teguk laju", "Bernafas di dalam air", "Minum berdiri"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_068",
+    "soalan": "Mengambil makanan terlalu banyak sehingga tidak habis dan dibuang adalah amalan:",
+    "pilihan": ["Membazir yang sangat dibenci Allah", "Sangat terpuji", "Tanda orang kaya", "Sunnah nabi"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_069",
+    "soalan": "Selepas selesai makan dan minum, kita hendaklah mengucapkan:",
+    "pilihan": ["Alhamdulillah (Segala puji bagi Allah)", "Subhanallah", "Allahu Akbar", "Astaghfirullah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_070",
+    "soalan": "Selepas makan, pinggan dan cawan yang digunakan hendaklah:",
+    "pilihan": ["Dibawa ke singki dan dibasuh dengan bersih", "Dibiarkan di atas lantai", "Disorok di bawah meja", "Dibuang"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_071",
+    "soalan": "Tandas ialah tempat membuang najis dan tempat tinggal:",
+    "pilihan": ["Syaitan dan kekotoran", "Malaikat", "Kawan-kawan", "Burung"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_072",
+    "soalan": "Sebelum masuk ke dalam tandas, kita disunatkan memakai:",
+    "pilihan": ["Alas kaki (selipar) dan menutup kepala", "Kasut sukan", "Baju hujan", "Topi keledar"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_073",
+    "soalan": "Semasa melangkah masuk ke tandas, kita hendaklah melangkah dengan kaki:",
+    "pilihan": ["Kiri", "Kanan", "Kedua-dua kaki serentak", "Mengundur"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_074",
+    "soalan": "Semasa melangkah keluar dari tandas, kita hendaklah melangkah dengan kaki:",
+    "pilihan": ["Kanan", "Kiri", "Lompat sebelah kaki", "Bebas"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_075",
+    "soalan": "Apakah lafaz doa sebelum melangkah masuk ke dalam tandas?",
+    "pilihan": ["Allahumma inni a'uzubika minal khubuthi wal khaba'ith", "Ghufranaka", "Bismillahi tawakkaltu", "Alhamdulillah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_076",
+    "soalan": "Apakah ucapan ringkas sebaik sahaja melangkah keluar dari tandas?",
+    "pilihan": ["Ghufranaka (غُفْرَانَكَ)", "Bismillah", "Allahu Akbar", "Subhanallah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_077",
+    "soalan": "Membersihkan diri (istinjak) selepas buang air kecil atau besar hendaklah menggunakan tangan:",
+    "pilihan": ["Kiri", "Kanan", "Kedua-dua belah tangan", "Kaki"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_078",
+    "soalan": "Semasa berada di dalam tandas, kita dilarang sama sekali:",
+    "pilihan": ["Bercakap, menyanyi atau membawa ayat Al-Quran", "Duduk diam", "Membasuh tangan", "Menyiram najis"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_079",
+    "soalan": "Selepas membuang air kecil atau besar, kita wajib memastikan mangkuk tandas:",
+    "pilihan": ["Disiram air hingga bersih dan tiada bau najis", "Dibiarkan kotor begitu sahaja", "Ditutup rapat tanpa disiram", "Dipenuhi sampah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_080",
+    "soalan": "Selepas keluar dari tandas, kita hendaklah membasuh tangan dengan:",
+    "pilihan": ["Air dan sabun hingga bersih", "Mengelap pada dinding", "Menyapu di baju", "Membiarkannya kotor"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_081",
+    "soalan": "Murid yang baik hendaklah tidur pada waktu:",
+    "pilihan": ["Awal malam supaya mudah bangun solat Subuh", "Lewat tengah malam bermain permainan", "Pukul 3 pagi", "Bila letih sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_082",
+    "soalan": "Sebelum tidur pada waktu malam, kita disunatkan mengambil:",
+    "pilihan": ["Wuduk seperti hendak solat", "Minyak wangi", "Buku tebal", "Makanan yang banyak"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_083",
+    "soalan": "Sebelum baring di atas katil, kita disunatkan mengibas tempat tidur sebanyak:",
+    "pilihan": ["3 kali kibasan untuk membuang habuk atau binatang kecil", "10 kali", "1 kali", "Tidak perlu kibas"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_084",
+    "soalan": "Posisi tidur yang dianjurkan oleh Rasulullah SAW ialah:",
+    "pilihan": ["Mengiring ke sebelah rusuk kanan", "Meniarap di atas perut", "Menjulurkan kaki ke atas", "Tidur terlentang dengan bising"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_085",
+    "soalan": "Tidur secara meniarap adalah kedudukan tidur yang:",
+    "pilihan": ["Dimurkai oleh Allah dan tidak sihat", "Sangat digalakkan", "Menambah kepandaian", "Sunnah nabi"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_086",
+    "soalan": "Apakah doa sebelum tidur yang ringkas?",
+    "pilihan": ["Bismika Allahumma ahya wa amut", "Alhamdulillahil lazi ahyana", "Allahumma barik lana", "Rabbi zidni 'ilma"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_087",
+    "soalan": "Maksud doa 'Bismika Allahumma ahya wa amut' ialah:",
+    "pilihan": ["Dengan nama-Mu ya Allah, aku hidup dan aku mati", "Dengan nama-Mu aku makan", "Ya Allah ampunkan dosaku", "Ya Allah berikan aku kejayaan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_088",
+    "soalan": "Sebaik sahaja terjaga daripada tidur pada waktu pagi, kita hendaklah:",
+    "pilihan": ["Membaca doa bangun tidur dan mengemas tempat tidur", "Terus bermain telefon", "Menangis sekuat hati", "Menjerit marah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_089",
+    "soalan": "Apakah lafaz doa bangun tidur?",
+    "pilihan": [
+      "Alhamdulillahil lazi ahyana ba'da ma amatana wa ilaihin nusyur",
+      "Bismika Allahumma ahya wa amut",
+      "Ghufranaka",
+      "Bismillahi tawakkaltu 'alallah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_090",
+    "soalan": "Bangun awal pada waktu pagi membolehkan kita:",
+    "pilihan": ["Menunaikan solat Subuh dan tidak terlewat ke sekolah", "Tidur semula hingga tengah hari", "Bermain basikal waktu gelap", "Ketinggalan bas sekolah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_091",
+    "soalan": "Sebelum masuk ke dalam rumah, kita disunatkan:",
+    "pilihan": ["Mengetuk pintu dan memberi salam (Assalamualaikum)", "Menendang pintu hingga terbuka", "Menerobos masuk tanpa izin", "Menjerit sekuat hati"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_092",
+    "soalan": "Melangkah masuk ke dalam rumah hendaklah mendahulukan kaki:",
+    "pilihan": ["Kanan", "Kiri", "Kedua-dua kaki serentak", "Mana-mana kaki"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_093",
+    "soalan": "Melangkah keluar dari rumah hendaklah mendahulukan kaki:",
+    "pilihan": ["Kiri", "Kanan", "Belakang", "Depan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_094",
+    "soalan": "Di manakah kasut atau selipar patut diletakkan sebelum masuk rumah?",
+    "pilihan": ["Disusun dengan kemas di atas rak kasut", "Dilemparkan di tengah pintu", "Dibawa masuk ke atas katil", "Dibuang merata-rata"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_095",
+    "soalan": "Apakah hukum menjawab salam orang yang masuk ke rumah?",
+    "pilihan": ["Wajib", "Sunat", "Harus", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_096",
+    "soalan": "Tujuan utama orang Islam memakai pakaian adalah untuk:",
+    "pilihan": ["Menutup aurat dan menjaga maruah diri", "Menunjuk kemewahan", "Menarik perhatian orang", "Meniru gaya kartun"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_097",
+    "soalan": "Ketika memakai baju atau seluar, kita disunatkan mendahulukan anggota sebelah:",
+    "pilihan": ["Kanan", "Kiri", "Bebas", "Belakang"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_098",
+    "soalan": "Ketika menanggalkan pakaian, kita disunatkan mendahulukan anggota sebelah:",
+    "pilihan": ["Kiri", "Kanan", "Atas", "Tengah"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_099",
+    "soalan": "Kawasan aurat asas bagi kanak-kanak lelaki ialah antara:",
+    "pilihan": ["Pusat hingga ke lutut", "Dada hingga paha", "Leher hingga buku lali", "Muka dan tangan"],
+    "jawapan": 0
+  },
+  {
+    "id": "adab_1_100",
+    "soalan": "Pakaian yang dipakai untuk menunaikan solat mestilah:",
+    "pilihan": ["Bersih, menutup aurat dan suci daripada najis", "Kotor dan koyak", "Ketat dan nipis", "Basah terkena kotoran"],
+    "jawapan": 0
+  }
+]
