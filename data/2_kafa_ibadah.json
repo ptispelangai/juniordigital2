@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ibadah_2_001",
+    "soalan": "Apakah hukum menunaikan solat fardhu lima waktu sehari semalam bagi setiap orang Islam?",
+    "pilihan": ["Wajib", "Sunat", "Harus", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_002",
+    "soalan": "Berapakah bilangan solat fardhu dalam sehari semalam?",
+    "pilihan": ["3 waktu", "4 waktu", "5 waktu", "6 waktu"],
+    "jawapan": 2
+  },
+  {
+    "id": "ibadah_2_003",
+    "soalan": "Solat fardhu Subuh mempunyai berapa rakaat?",
+    "pilihan": ["2 rakaat", "3 rakaat", "4 rakaat", "1 rakaat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_004",
+    "soalan": "Solat fardhu Maghrib mempunyai berapa rakaat?",
+    "pilihan": ["2 rakaat", "3 rakaat", "4 rakaat", "5 rakaat"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_005",
+    "soalan": "Antara solat berikut, yang manakah mempunyai 4 rakaat?",
+    "pilihan": ["Subuh, Zohor, Asar", "Zohor, Asar, Isyak", "Maghrib, Isyak, Subuh", "Subuh dan Maghrib"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_006",
+    "soalan": "Apakah perkara yang wajib dilakukan sebelum menunaikan solat jika berhadas kecil?",
+    "pilihan": ["Mandi bunga", "Berwuduk", "Tidur sekejap", "Makan"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_007",
+    "soalan": "Berapakah bilangan rukun wuduk?",
+    "pilihan": ["4 perkara", "6 perkara", "8 perkara", "10 perkara"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_008",
+    "soalan": "Rukun wuduk yang pertama ialah:",
+    "pilihan": ["Membasuh muka", "Niat wuduk", "Membasuh tangan", "Menyapu kepala"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_009",
+    "soalan": "Kawasan muka yang wajib dibasuh ketika berwuduk adalah dari:",
+    "pilihan": ["Dahi hingga ke pusat", "Tempat tumbuh rambut hingga ke bawah dagu", "Hidung hingga ke mulut", "Pipi kiri ke telinga kanan sahaja"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_010",
+    "soalan": "Membasuh tangan ketika berwuduk wajib sampai ke paras:",
+    "pilihan": ["Pergelangan tangan", "Siku", "Bahu", "Jari sahaja"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_011",
+    "soalan": "Membasuh kaki ketika berwuduk wajib sampai ke paras:",
+    "pilihan": ["Lutut", "Buku lali", "Paha", "Hujung jari kaki sahaja"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_012",
+    "soalan": "Rukun wuduk yang terakhir iaitu mengikut urutan dipanggil:",
+    "pilihan": ["Tertib", "Muwalat", "Niat", "Taharah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_013",
+    "soalan": "Antara berikut, yang manakah perkara SUNAT ketika berwuduk?",
+    "pilihan": ["Niat", "Membasuh muka", "Berkumur-kumur", "Membasuh kaki"],
+    "jawapan": 2
+  },
+  {
+    "id": "ibadah_2_014",
+    "soalan": "Membasuh anggota wuduk sebanyak 3 kali hukumnya adalah:",
+    "pilihan": ["Wajib", "Sunat", "Haram", "Makruh"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_015",
+    "soalan": "Antara berikut, yang manakah MEMBATALKAN wuduk?",
+    "pilihan": ["Makan nasi", "Keluar angin (kentut)", "Minum air kosong", "Bercakap dengan kawan"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_016",
+    "soalan": "Hilang akal seperti tidur yang tidak tetap punggung boleh:",
+    "pilihan": ["Membatalkan solat sahaja", "Membatalkan wuduk", "Menambah pahala", "Membatalkan puasa"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_017",
+    "soalan": "Apakah hukum menyentuh kemaluan manusia dengan tapak tangan tanpa lapik?",
+    "pilihan": ["Batal wuduk", "Tidak batal", "Sunat", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_018",
+    "soalan": "Air yang suci lagi menyucikan yang boleh digunakan untuk berwuduk dipanggil air:",
+    "pilihan": ["Mutanajjis", "Mustakmal", "Mutlak", "Musyammas"],
+    "jawapan": 2
+  },
+  {
+    "id": "ibadah_2_019",
+    "soalan": "Antara contoh air mutlak ialah:",
+    "pilihan": ["Air kopi", "Air sirap", "Air hujan", "Air teh tarik"],
+    "jawapan": 2
+  },
+  {
+    "id": "ibadah_2_020",
+    "soalan": "Berapakah bilangan rukun solat?",
+    "pilihan": ["10 perkara", "13 perkara", "15 perkara", "17 perkara"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_021",
+    "soalan": "Rukun solat terbahagi kepada tiga kategori iaitu:",
+    "pilihan": ["Hati, lidah, kaki", "Qalbi, Qauli, Fi'li", "Sunat, Wajib, Harus", "Awal, Pertengahan, Akhir"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_022",
+    "soalan": "Membaca Surah Al-Fatihah dalam solat tergolong dalam rukun:",
+    "pilihan": ["Qauli (perkataan)", "Fi'li (perbuatan)", "Qalbi (hati)", "Sunat ab'ad"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_023",
+    "soalan": "Rukuk dan iktidal dalam solat tergolong dalam rukun:",
+    "pilihan": ["Qalbi", "Fi'li (perbuatan)", "Qauli", "Niat"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_024",
+    "soalan": "Bertenang sebentar sekadar ucapan 'Subhanallah' semasa rukuk dan sujud dinamakan:",
+    "pilihan": ["Toma'ninah", "Tawaduk", "Tadabbur", "Tahmid"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_025",
+    "soalan": "Lafaz takbir ketika mula-mula masuk ke dalam solat dinamakan:",
+    "pilihan": ["Takbir raya", "Takbiratul Ihram", "Takbir intiqalat", "Tahiyyat"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_026",
+    "soalan": "Apakah lafaz Takbiratul Ihram?",
+    "pilihan": ["Alhamdulillah", "Subhanallah", "Allahu Akbar", "La ilaha illallah"],
+    "jawapan": 2
+  },
+  {
+    "id": "ibadah_2_027",
+    "soalan": "Apakah hukum membaca doa Iftitah di awal solat?",
+    "pilihan": ["Wajib", "Sunat", "Haram", "Makruh"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_028",
+    "soalan": "Berapakah bilangan anggota sujud yang wajib mencecah tempat sujud?",
+    "pilihan": ["5 anggota", "7 anggota", "8 anggota", "10 anggota"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_029",
+    "soalan": "Antara 7 anggota sujud ialah:",
+    "pilihan": ["Dahi, dua tapak tangan, dua lutut, dua hujung jari kaki", "Dahi, hidung, telinga, perut, dua kaki", "Kepala, siku, lutut, tumit sahaja", "Muka, dada, paha, jari"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_030",
+    "soalan": "Memberi salam yang pertama dalam solat hukumnya ialah:",
+    "pilihan": ["Sunat", "Wajib (Rukun solat)", "Makruh", "Harus"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_031",
+    "soalan": "Memberi salam yang kedua sambil berpaling ke kiri hukumnya ialah:",
+    "pilihan": ["Wajib", "Sunat", "Haram", "Batal"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_032",
+    "soalan": "Panggilan atau laungan untuk memberitahu masuknya waktu solat dinamakan:",
+    "pilihan": ["Iqamah", "Azan", "Takbir", "Wirid"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_033",
+    "soalan": "Orang yang melaungkan azan dipanggil:",
+    "pilihan": ["Imam", "Makmum", "Muazzin (Bilal)", "Khatib"],
+    "jawapan": 2
+  },
+  {
+    "id": "ibadah_2_034",
+    "soalan": "Laungan seruan untuk mendirikan solat secara berjemaah dinamakan:",
+    "pilihan": ["Azan", "Iqamah", "Doa", "Selawat"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_035",
+    "soalan": "Apakah hukum menjawab seruan azan ketika mendengarnya?",
+    "pilihan": ["Wajib", "Sunat", "Harus", "Makruh"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_036",
+    "soalan": "Lafaz tambahan 'Assolatu khairum minan naum' dilaungkan semasa azan solat:",
+    "pilihan": ["Zohor", "Asar", "Subuh", "Isyak"],
+    "jawapan": 2
+  },
+  {
+    "id": "ibadah_2_037",
+    "soalan": "Apakah maksud 'Assolatu khairum minan naum'?",
+    "pilihan": ["Solat itu penyejuk hati", "Solat itu lebih baik daripada tidur", "Mari mendirikan solat", "Marilah menuju kejayaan"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_038",
+    "soalan": "Antara syarat sah solat ialah:",
+    "pilihan": ["Menutup aurat", "Makan sebelum solat", "Pakai kasut", "Ketawa"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_039",
+    "soalan": "Batasan aurat lelaki dalam solat ialah antara:",
+    "pilihan": ["Pusat hingga ke lutut", "Dada hingga ke jari kaki", "Leher hingga ke pinggang", "Seluruh badan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_040",
+    "soalan": "Batasan aurat perempuan dalam solat ialah seluruh badan KECUALI:",
+    "pilihan": ["Muka dan dua tapak tangan", "Rambut dan kaki", "Tangan dan telinga", "Leher dan muka"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_041",
+    "soalan": "Kiblat umat Islam ketika mendirikan solat menghadap ke arah:",
+    "pilihan": ["Baitul Maqdis", "Kaabah di Masjidil Haram", "Masjid Nabawi", "Matahari naik"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_042",
+    "soalan": "Melakukan pergerakan besar sebanyak 3 kali berturut-turut dalam solat akan:",
+    "pilihan": ["Membatalkan solat", "Mendapat pahala", "Menjadikan solat sah", "Dimaafkan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_043",
+    "soalan": "Bercakap dengan sengaja semasa mendirikan solat hukumnya:",
+    "pilihan": ["Membatalkan solat", "Sunat", "Harus", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_044",
+    "soalan": "Ketawa sehingga mengeluarkan suara semasa solat boleh:",
+    "pilihan": ["Membatalkan solat", "Tidak memberi kesan", "Menambah khusyuk", "Sunat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_045",
+    "soalan": "Menyucikan diri daripada najis yang keluar melalui qubul atau dubur dipanggil:",
+    "pilihan": ["Istinjak", "Tayammum", "Mandi wajib", "Wuduk"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_046",
+    "soalan": "Alat yang paling utama digunakan untuk beristinjak ialah:",
+    "pilihan": ["Air mutlak", "Kain sutera", "Daun basah", "Plastik"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_047",
+    "soalan": "Selain air, benda kesat yang BOLEH digunakan untuk beristinjak ialah:",
+    "pilihan": ["Batu yang kering dan bersih", "Kaca tajam", "Tulang binatang", "Roti makanan"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_048",
+    "soalan": "Berapakah bilangan batu atau serpihan batu sekurang-kurangnya untuk beristinjak?",
+    "pilihan": ["1 ketul", "2 ketul", "3 ketul (atau 3 bucu)", "7 ketul"],
+    "jawapan": 2
+  },
+  {
+    "id": "ibadah_2_049",
+    "soalan": "Apakah adab melangkah masuk ke dalam tandas?",
+    "pilihan": ["Melangkah dengan kaki kiri dan membaca doa", "Melangkah dengan kaki kanan", "Melompat ke dalam tandas", "Bercakap dengan kuat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_050",
+    "soalan": "Ketika keluar dari tandas, kita disunatkan melangkah dengan kaki:",
+    "pilihan": ["Kanan", "Kiri", "Kedua-dua kaki sekali", "Mana-mana kaki"],
+    "jawapan": 0
+  }
+]
