@@ -2,601 +2,1101 @@
   {
     "id": "tajwid_2_001",
     "soalan": "Apakah maksud 'Tajwid' dari segi bahasa?",
-    "pilihan": ["Membaguskan atau memperelokkan", "Membaca dengan laju", "Menyanyi lagu", "Menghafal perkataan"],
-    "jawapan": 0
+    "pilihan": [
+      "Menghafal perkataan",
+      "Membaguskan atau memperelokkan",
+      "Menyanyi lagu",
+      "Membaca dengan laju"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_002",
     "soalan": "Apakah hukum mempelajari ilmu tajwid secara teori bagi umat Islam?",
-    "pilihan": ["Fardhu Kifayah", "Fardhu Ain", "Sunat", "Harus"],
-    "jawapan": 0
+    "pilihan": [
+      "Harus",
+      "Fardhu Kifayah",
+      "Sunat",
+      "Fardhu Ain"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_003",
     "soalan": "Apakah hukum membaca Al-Quran dengan bertajwid bagi setiap individu Muslim?",
-    "pilihan": ["Fardhu Ain (Wajib)", "Fardhu Kifayah", "Sunat", "Makruh"],
-    "jawapan": 0
+    "pilihan": [
+      "Makruh",
+      "Fardhu Kifayah",
+      "Sunat",
+      "Fardhu Ain (Wajib)"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_004",
     "soalan": "Berapakah bilangan huruf Hijaiyyah kesemuanya?",
-    "pilihan": ["28 atau 29 huruf", "20 huruf", "15 huruf", "35 huruf"],
+    "pilihan": [
+      "28 atau 29 huruf",
+      "15 huruf",
+      "20 huruf",
+      "35 huruf"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_005",
     "soalan": "Tanda baris satu di atas ( َ ) dinamakan:",
-    "pilihan": ["Fathah", "Kasrah", "Dhommah", "Sukun"],
-    "jawapan": 0
+    "pilihan": [
+      "Sukun",
+      "Fathah",
+      "Kasrah",
+      "Dhommah"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_006",
     "soalan": "Tanda baris satu di bawah ( ِ ) dinamakan:",
-    "pilihan": ["Kasrah", "Fathah", "Dhommah", "Tanwin"],
-    "jawapan": 0
+    "pilihan": [
+      "Tanwin",
+      "Fathah",
+      "Dhommah",
+      "Kasrah"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_007",
     "soalan": "Tanda baris satu di hadapan ( ُ ) dinamakan:",
-    "pilihan": ["Dhommah", "Fathah", "Kasrah", "Sukun"],
-    "jawapan": 0
+    "pilihan": [
+      "Kasrah",
+      "Fathah",
+      "Sukun",
+      "Dhommah"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_008",
     "soalan": "Tanda mati atau bulat kecil di atas huruf ( ْ ) dinamakan tanda:",
-    "pilihan": ["Sukun", "Tasydid (Sabdu)", "Tanwin", "Fathah"],
-    "jawapan": 0
+    "pilihan": [
+      "Tasydid (Sabdu)",
+      "Tanwin",
+      "Sukun",
+      "Fathah"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_009",
     "soalan": "Tanda sabdu seperti huruf 'w' kecil ( ّ ) dinamakan tanda:",
-    "pilihan": ["Syaddah / Tasydid", "Sukun", "Dhommah", "Tanwin"],
-    "jawapan": 0
+    "pilihan": [
+      "Tanwin",
+      "Sukun",
+      "Syaddah / Tasydid",
+      "Dhommah"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_010",
     "soalan": "Baris dua di atas, dua di bawah atau dua di hadapan dikenali sebagai:",
-    "pilihan": ["Tanwin", "Sukun", "Syaddah", "Madd"],
-    "jawapan": 0
+    "pilihan": [
+      "Madd",
+      "Tanwin",
+      "Syaddah",
+      "Sukun"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_011",
     "soalan": "Huruf bertanda sukun dibaca secara:",
-    "pilihan": ["Mati / Tidak berbaris hidup", "Panjang 6 harakat", "Dengung sentiasa", "Berulang-ulang"],
+    "pilihan": [
+      "Mati / Tidak berbaris hidup",
+      "Dengung sentiasa",
+      "Panjang 6 harakat",
+      "Berulang-ulang"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_012",
     "soalan": "Huruf yang bertanda tasydid (sabdu) ditekan bacaannya kerana mengandungi gabungan:",
-    "pilihan": ["Dua huruf yang sama (pertama sukun, kedua berbaris)", "Dua huruf berbeza", "Tiga huruf vokal", "Tiada huruf"],
-    "jawapan": 0
+    "pilihan": [
+      "Tiada huruf",
+      "Tiga huruf vokal",
+      "Dua huruf berbeza",
+      "Dua huruf yang sama (pertama sukun, kedua berbaris)"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_013",
     "soalan": "Bunyi 'N' pada tanwin terhasil apabila kita menyebut:",
-    "pilihan": ["Nun mati pada sebutan tetapi tidak bertulis", "Huruf mim mati", "Huruf wau mati", "Huruf alif"],
-    "jawapan": 0
+    "pilihan": [
+      "Huruf mim mati",
+      "Huruf alif",
+      "Huruf wau mati",
+      "Nun mati pada sebutan tetapi tidak bertulis"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_014",
     "soalan": "Tujuan utama membaca Al-Quran mengikut hukum tajwid ialah untuk:",
-    "pilihan": ["Mengelakkan kesalahan membaca firman Allah SWT", "Membaca dengan cepat", "Menunjuk kemahiran suara", "Menghabiskan helaian Al-Quran"],
+    "pilihan": [
+      "Mengelakkan kesalahan membaca firman Allah SWT",
+      "Membaca dengan cepat",
+      "Menunjuk kemahiran suara",
+      "Menghabiskan helaian Al-Quran"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_015",
     "soalan": "Lafaz 'A'uzubillahi minasy syaitanir rajim' dinamakan lafaz:",
-    "pilihan": ["Isti'azah (Ta'awwuz)", "Basmalah", "Takbir", "Tasbih"],
-    "jawapan": 0
+    "pilihan": [
+      "Basmalah",
+      "Tasbih",
+      "Takbir",
+      "Isti'azah (Ta'awwuz)"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_016",
     "soalan": "Nun Sakinah bermaksud huruf nun yang:",
-    "pilihan": ["Mati bertanda sukun ( نْ )", "Berbaris atas", "Berbaris bawah", "Bersabdu"],
-    "jawapan": 0
+    "pilihan": [
+      "Berbaris bawah",
+      "Mati bertanda sukun ( نْ )",
+      "Bersabdu",
+      "Berbaris atas"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_017",
     "soalan": "Berapakah bilangan bahagian hukum Nun Sakinah ( نْ ) dan Tanwin ( ً ٍ ٌ ) kesemuanya?",
-    "pilihan": ["5 bahagian", "3 bahagian", "4 bahagian", "6 bahagian"],
+    "pilihan": [
+      "5 bahagian",
+      "3 bahagian",
+      "4 bahagian",
+      "6 bahagian"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_018",
     "soalan": "Antara berikut, yang manakah BUKAN daripada bahagian hukum Nun Sakinah dan Tanwin?",
-    "pilihan": ["Qalqalah", "Izhar Halqi", "Idgham", "Ikhfa' Haqiqi"],
+    "pilihan": [
+      "Qalqalah",
+      "Idgham",
+      "Izhar Halqi",
+      "Ikhfa' Haqiqi"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_019",
     "soalan": "Lima bahagian hukum Nun Sakinah dan Tanwin ialah Izhar Halqi, Idgham Ma'al Ghunnah, Idgham Bila Ghunnah, Ikhfa' Haqiqi dan:",
-    "pilihan": ["Iqlab", "Ghunnah", "Mad Asli", "Waqaf"],
+    "pilihan": [
+      "Iqlab",
+      "Ghunnah",
+      "Mad Asli",
+      "Waqaf"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_020",
     "soalan": "Hukum Nun Sakinah dan Tanwin ditentukan berdasarkan:",
-    "pilihan": ["Huruf Hijaiyyah yang berada SELEPAS Nun Sakinah atau Tanwin", "Huruf sebelum Nun Sakinah", "Panjang surah", "Nombor ayat"],
-    "jawapan": 0
+    "pilihan": [
+      "Nombor ayat",
+      "Huruf Hijaiyyah yang berada SELEPAS Nun Sakinah atau Tanwin",
+      "Panjang surah",
+      "Huruf sebelum Nun Sakinah"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_021",
     "soalan": "Ghunnah bermaksud bunyi getaran suara yang keluar daripada:",
-    "pilihan": ["Pangkal hidung (Khaisyum)", "Pangkal tekak", "Dua bibir", "Gigi hadapan"],
+    "pilihan": [
+      "Pangkal hidung (Khaisyum)",
+      "Pangkal tekak",
+      "Gigi hadapan",
+      "Dua bibir"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_022",
     "soalan": "Kadar panjang harakat dengung (ghunnah) secara umumnya ialah sebanyak:",
-    "pilihan": ["2 harakat", "4 harakat", "6 harakat", "1 harakat"],
+    "pilihan": [
+      "2 harakat",
+      "1 harakat",
+      "4 harakat",
+      "6 harakat"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_023",
     "soalan": "Nun bertanda tasydid ( نّ ) dan Mim bertanda tasydid ( مّ ) dinamakan hukum:",
-    "pilihan": ["Wajibah Ghunnah", "Izhar Halqi", "Iqlab", "Sukun"],
+    "pilihan": [
+      "Wajibah Ghunnah",
+      "Izhar Halqi",
+      "Iqlab",
+      "Sukun"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_024",
     "soalan": "Kadar dengung bagi hukum Wajibah Ghunnah ( نّ / مّ ) ialah:",
-    "pilihan": ["2 harakat", "5 harakat", "6 harakat", "Tiada dengung"],
-    "jawapan": 0
+    "pilihan": [
+      "6 harakat",
+      "Tiada dengung",
+      "2 harakat",
+      "5 harakat"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_025",
     "soalan": "Contoh kalimah yang mengandungi hukum Wajibah Ghunnah ialah:",
-    "pilihan": ["إِنَّ (Inna)", "قُلْ (Qul)", "مِنْ (Min)", "لَمْ (Lam)"],
-    "jawapan": 0
+    "pilihan": [
+      "قُلْ (Qul)",
+      "لَمْ (Lam)",
+      "مِنْ (Min)",
+      "إِنَّ (Inna)"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_026",
     "soalan": "Apakah maksud 'Izhar' (إظهار) dari segi bahasa?",
-    "pilihan": ["Jelas dan terang", "Memasukkan", "Menukar", "Menyembunyikan"],
-    "jawapan": 0
+    "pilihan": [
+      "Menyembunyikan",
+      "Jelas dan terang",
+      "Memasukkan",
+      "Menukar"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_027",
     "soalan": "Perkataan 'Halqi' merujuk kepada tempat keluar huruf daripada bahagian:",
-    "pilihan": ["Kerongkong / Tekak (الحلق)", "Bibir mulut", "Lidah", "Hidung"],
-    "jawapan": 0
+    "pilihan": [
+      "Lidah",
+      "Hidung",
+      "Kerongkong / Tekak (الحلق)",
+      "Bibir mulut"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_028",
     "soalan": "Berapakah bilangan huruf Izhar Halqi kesemuanya?",
-    "pilihan": ["6 huruf", "4 huruf", "2 huruf", "15 huruf"],
-    "jawapan": 0
+    "pilihan": [
+      "2 huruf",
+      "15 huruf",
+      "4 huruf",
+      "6 huruf"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_029",
     "soalan": "Antara berikut, yang manakah kumpulan huruf bagi Izhar Halqi?",
-    "pilihan": ["ء ، هـ ، ع ، ح ، غ ، خ", "ي ، ن ، م ، و", "ل ، ر", "ب"],
-    "jawapan": 0
+    "pilihan": [
+      "ل ، ر",
+      "ء ، هـ ، ع ، ح ، غ ، خ",
+      "ي ، ن ، م ، و",
+      "ب"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_030",
     "soalan": "Bagaimanakah cara membaca kalimah yang mempunyai hukum Izhar Halqi?",
-    "pilihan": ["Membaca bunyi nun dengan jelas dan terang TANPA dengung", "Membaca secara berdengung 2 harakat", "Menukar bunyi nun kepada mim", "Memasukkan nun ke huruf sebelah"],
-    "jawapan": 0
+    "pilihan": [
+      "Membaca secara berdengung 2 harakat",
+      "Membaca bunyi nun dengan jelas dan terang TANPA dengung",
+      "Memasukkan nun ke huruf sebelah",
+      "Menukar bunyi nun kepada mim"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_031",
     "soalan": "Apakah hukum bacaan bagi kalimah 'مَنْ آمَنَ' (Man amana)?",
-    "pilihan": ["Izhar Halqi", "Ikhfa' Haqiqi", "Iqlab", "Idgham"],
-    "jawapan": 0
+    "pilihan": [
+      "Ikhfa' Haqiqi",
+      "Idgham",
+      "Iqlab",
+      "Izhar Halqi"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_032",
     "soalan": "Kalimah 'مَنْ آمَنَ' menjadi Izhar Halqi kerana Nun Sakinah berjumpa dengan huruf:",
-    "pilihan": ["Hamzah ( ء / أ )", "Mim", "Wau", "Ba"],
-    "jawapan": 0
+    "pilihan": [
+      "Wau",
+      "Ba",
+      "Hamzah ( ء / أ )",
+      "Mim"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_033",
     "soalan": "Apakah hukum tajwid pada kalimah 'مِنْ خَوْفٍ' dalam Surah Quraisy?",
-    "pilihan": ["Izhar Halqi", "Idgham", "Iqlab", "Ikhfa'"],
-    "jawapan": 0
+    "pilihan": [
+      "Idgham",
+      "Izhar Halqi",
+      "Iqlab",
+      "Ikhfa'"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_034",
     "soalan": "Kalimah 'مِنْ خَوْفٍ' dihukum Izhar Halqi kerana Nun Sakinah bertemu huruf:",
-    "pilihan": ["Kha ( خ )", "Fa ( ف )", "Wau ( و )", "Kaf ( ك )"],
+    "pilihan": [
+      "Kha ( خ )",
+      "Fa ( ف )",
+      "Wau ( و )",
+      "Kaf ( ك )"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_035",
     "soalan": "Contoh Izhar Halqi yang terdapat dalam Surah Al-Ikhlas ialah:",
-    "pilihan": ["كُفُوًا أَحَدٌ", "قُلْ هُوَ اللَّهُ", "اللَّهُ الصَّمَدُ", "لَمْ يَلِدْ"],
-    "jawapan": 0
+    "pilihan": [
+      "اللَّهُ الصَّمَدُ",
+      "كُفُوًا أَحَدٌ",
+      "قُلْ هُوَ اللَّهُ",
+      "لَمْ يَلِدْ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_036",
     "soalan": "Pada potongan ayat 'عَذَابٌ أَلِيمٌ', apakah hukum tanwin bertemu huruf hamzah?",
-    "pilihan": ["Izhar Halqi", "Ikhfa' Haqiqi", "Idgham Bila Ghunnah", "Iqlab"],
-    "jawapan": 0
+    "pilihan": [
+      "Idgham Bila Ghunnah",
+      "Iqlab",
+      "Izhar Halqi",
+      "Ikhfa' Haqiqi"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_037",
     "soalan": "Apakah hukum pada kalimah 'أَنْعَمْتَ' dalam Surah Al-Fatihah?",
-    "pilihan": ["Izhar Halqi (Nun Sakinah bertemu Ain dalam satu kalimah)", "Ikhfa' Syafawi", "Idgham Ma'al Ghunnah", "Iqlab"],
-    "jawapan": 0
+    "pilihan": [
+      "Idgham Ma'al Ghunnah",
+      "Izhar Halqi (Nun Sakinah bertemu Ain dalam satu kalimah)",
+      "Ikhfa' Syafawi",
+      "Iqlab"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_038",
     "soalan": "Huruf Ha ( هـ ) dalam kalimah 'مِنْهُ' (Minhu) menjadikannya hukum:",
-    "pilihan": ["Izhar Halqi", "Ikhfa'", "Idgham", "Iqlab"],
-    "jawapan": 0
+    "pilihan": [
+      "Idgham",
+      "Ikhfa'",
+      "Izhar Halqi",
+      "Iqlab"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_039",
     "soalan": "Apakah maksud 'Idgham' (إدغام) dari segi bahasa?",
-    "pilihan": ["Memasukkan sesuatu ke dalam sesuatu", "Menyatakan", "Menukar", "Memanjangkan"],
-    "jawapan": 0
+    "pilihan": [
+      "Menukar",
+      "Memasukkan sesuatu ke dalam sesuatu",
+      "Menyatakan",
+      "Memanjangkan"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_040",
     "soalan": "Berapakah bilangan jenis hukum Idgham bagi Nun Sakinah dan Tanwin?",
-    "pilihan": ["2 jenis (Ma'al Ghunnah dan Bila Ghunnah)", "3 jenis", "4 jenis", "1 jenis sahaja"],
-    "jawapan": 0
+    "pilihan": [
+      "3 jenis",
+      "4 jenis",
+      "2 jenis (Ma'al Ghunnah dan Bila Ghunnah)",
+      "1 jenis sahaja"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_041",
     "soalan": "Idgham Ma'al Ghunnah bermaksud memasukkan bunyi nun berserta:",
-    "pilihan": ["Dengung 2 harakat", "Tanpa dengung", "Bunyi yang jelas", "Bunyi huruf mim"],
-    "jawapan": 0
+    "pilihan": [
+      "Bunyi yang jelas",
+      "Dengung 2 harakat",
+      "Bunyi huruf mim",
+      "Tanpa dengung"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_042",
     "soalan": "Berapakah bilangan huruf bagi Idgham Ma'al Ghunnah?",
-    "pilihan": ["4 huruf", "2 huruf", "6 huruf", "15 huruf"],
-    "jawapan": 0
+    "pilihan": [
+      "2 huruf",
+      "6 huruf",
+      "4 huruf",
+      "15 huruf"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_043",
     "soalan": "Apakah huruf-huruf Idgham Ma'al Ghunnah yang dihimpunkan dalam perkataan 'يَنْمُو' (Yanmu)?",
-    "pilihan": ["ي ، ن ، م ، و", "ل ، ر", "ء ، هـ ، ع ، ح", "ب ، ت ، ث"],
-    "jawapan": 0
+    "pilihan": [
+      "ب ، ت ، ث",
+      "ي ، ن ، م ، و",
+      "ل ، ر",
+      "ء ، هـ ، ع ، ح"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_044",
     "soalan": "Apakah hukum tajwid pada kalimah 'مَنْ يَقُولُ' (Man yaqulu)?",
-    "pilihan": ["Idgham Ma'al Ghunnah", "Izhar Halqi", "Idgham Bila Ghunnah", "Iqlab"],
+    "pilihan": [
+      "Idgham Ma'al Ghunnah",
+      "Iqlab",
+      "Idgham Bila Ghunnah",
+      "Izhar Halqi"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_045",
     "soalan": "Kalimah 'مِمَّالِ اللَّهِ' mengandungi hukum:",
-    "pilihan": ["Idgham Ma'al Ghunnah (Nun mati bertemu Mim)", "Izhar Halqi", "Iqlab", "Ikhfa'"],
-    "jawapan": 0
+    "pilihan": [
+      "Ikhfa'",
+      "Iqlab",
+      "Izhar Halqi",
+      "Idgham Ma'al Ghunnah (Nun mati bertemu Mim)"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_046",
     "soalan": "Idgham Bila Ghunnah bermaksud memasukkan bunyi nun ke dalam huruf selepasnya:",
-    "pilihan": ["TANPA dengung", "Dengan dengung 2 harakat", "Dengan dengung 4 harakat", "Secara samar"],
-    "jawapan": 0
+    "pilihan": [
+      "Dengan dengung 4 harakat",
+      "Dengan dengung 2 harakat",
+      "Secara samar",
+      "TANPA dengung"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_047",
     "soalan": "Berapakah bilangan huruf Idgham Bila Ghunnah?",
-    "pilihan": ["2 huruf", "4 huruf", "6 huruf", "1 huruf"],
+    "pilihan": [
+      "2 huruf",
+      "6 huruf",
+      "4 huruf",
+      "1 huruf"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_048",
     "soalan": "Dua huruf bagi Idgham Bila Ghunnah ialah huruf:",
-    "pilihan": ["Lam dan Ra ( ل ، ر )", "Ya dan Wau ( ي ، و )", "Nun dan Mim ( ن ، م )", "Ba dan Ta ( ب ، ت )"],
-    "jawapan": 0
+    "pilihan": [
+      "Nun dan Mim ( ن ، م )",
+      "Ya dan Wau ( ي ، و )",
+      "Ba dan Ta ( ب ، ت )",
+      "Lam dan Ra ( ل ، ر )"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_049",
     "soalan": "Apakah hukum tajwid bagi kalimah 'مِنْ رَبِّهِمْ' (Min rabbihim)?",
-    "pilihan": ["Idgham Bila Ghunnah", "Idgham Ma'al Ghunnah", "Izhar Halqi", "Iqlab"],
-    "jawapan": 0
+    "pilihan": [
+      "Iqlab",
+      "Idgham Ma'al Ghunnah",
+      "Izhar Halqi",
+      "Idgham Bila Ghunnah"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_050",
     "soalan": "Bagaimanakah sebutan bagi kalimah 'مِنْ لَدُنْهُ' mengikut Idgham Bila Ghunnah?",
-    "pilihan": ["Milladunhu (bunyi nun hilang terus ke huruf lam tanpa dengung)", "Min-ladunhu", "Mim-ladunhu", "Mimiladunhu"],
-    "jawapan": 0
+    "pilihan": [
+      "Min-ladunhu",
+      "Mimiladunhu",
+      "Mim-ladunhu",
+      "Milladunhu (bunyi nun hilang terus ke huruf lam tanpa dengung)"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_051",
     "soalan": "Pada kalimah 'هُدًى لِلْمُتَّقِينَ', apakah hukum tanwin bertemu huruf Lam?",
-    "pilihan": ["Idgham Bila Ghunnah", "Idgham Ma'al Ghunnah", "Izhar Halqi", "Ikhfa'"],
-    "jawapan": 0
+    "pilihan": [
+      "Idgham Ma'al Ghunnah",
+      "Izhar Halqi",
+      "Idgham Bila Ghunnah",
+      "Ikhfa'"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_052",
     "soalan": "Pada kalimah 'غَفُورٌ رَحِيمٌ', apakah hukum tanwin bertemu huruf Ra?",
-    "pilihan": ["Idgham Bila Ghunnah", "Izhar Halqi", "Iqlab", "Ikhfa'"],
+    "pilihan": [
+      "Idgham Bila Ghunnah",
+      "Ikhfa'",
+      "Iqlab",
+      "Izhar Halqi"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_053",
     "soalan": "Apakah maksud 'Iqlab' (إقلاب) dari segi bahasa?",
-    "pilihan": ["Menukar atau membalikkan sesuatu", "Menzahirkan", "Memasukkan", "Memotong"],
-    "jawapan": 0
+    "pilihan": [
+      "Memasukkan",
+      "Menzahirkan",
+      "Menukar atau membalikkan sesuatu",
+      "Memotong"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_054",
     "soalan": "Berapakah bilangan huruf bagi hukum Iqlab?",
-    "pilihan": ["1 huruf sahaja", "2 huruf", "4 huruf", "6 huruf"],
-    "jawapan": 0
+    "pilihan": [
+      "2 huruf",
+      "4 huruf",
+      "6 huruf",
+      "1 huruf sahaja"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_055",
     "soalan": "Satu-satunya huruf bagi hukum Iqlab ialah huruf:",
-    "pilihan": ["Ba ( ب )", "Mim ( م )", "Wau ( و )", "Nun ( ن )"],
-    "jawapan": 0
+    "pilihan": [
+      "Wau ( و )",
+      "Nun ( ن )",
+      "Ba ( ب )",
+      "Mim ( م )"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_056",
     "soalan": "Cara membaca Iqlab ialah menukarkan bunyi Nun Sakinah atau Tanwin kepada bunyi huruf:",
-    "pilihan": ["Mim ( م ) berserta dengung", "Wau ( و )", "Lam ( ل )", "Ya ( ي )"],
-    "jawapan": 0
+    "pilihan": [
+      "Ya ( ي )",
+      "Wau ( و )",
+      "Lam ( ل )",
+      "Mim ( م ) berserta dengung"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_057",
     "soalan": "Tanda khas yang diletakkan di dalam Al-Quran Rasm Uthmani untuk menunjukkan hukum Iqlab ialah:",
-    "pilihan": ["Huruf Mim kecil ( مـ ) di atas huruf nun atau tanwin", "Tanda bulat sukun", "Tanda sabdu", "Tanda ombak mad"],
-    "jawapan": 0
+    "pilihan": [
+      "Tanda bulat sukun",
+      "Tanda ombak mad",
+      "Huruf Mim kecil ( مـ ) di atas huruf nun atau tanwin",
+      "Tanda sabdu"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_058",
     "soalan": "Apakah hukum tajwid pada kalimah 'مِنْ بَعْدِ' (Min ba'di)?",
-    "pilihan": ["Iqlab", "Izhar Halqi", "Idgham", "Ikhfa'"],
+    "pilihan": [
+      "Iqlab",
+      "Idgham",
+      "Izhar Halqi",
+      "Ikhfa'"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_059",
     "soalan": "Kalimah 'مِنْ بَعْدِ' dibaca dengan sebutan:",
-    "pilihan": ["Mim-ba'di (dengan dengung)", "Min-ba'di (jelas)", "Mib-ba'di", "Mir-ba'di"],
-    "jawapan": 0
+    "pilihan": [
+      "Mib-ba'di",
+      "Min-ba'di (jelas)",
+      "Mim-ba'di (dengan dengung)",
+      "Mir-ba'di"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_060",
     "soalan": "Apakah hukum tajwid pada kalimah 'أَنْبِئْهُمْ'?",
-    "pilihan": ["Iqlab (Nun mati bertemu Ba dalam satu kalimah)", "Izhar Halqi", "Idgham", "Ikhfa'"],
-    "jawapan": 0
+    "pilihan": [
+      "Ikhfa'",
+      "Iqlab (Nun mati bertemu Ba dalam satu kalimah)",
+      "Izhar Halqi",
+      "Idgham"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_061",
     "soalan": "Pada kalimah 'سَمِيعٌ بَصِيرٌ', apakah hukum tanwin bertemu huruf Ba?",
-    "pilihan": ["Iqlab", "Izhar Halqi", "Idgham Bila Ghunnah", "Ikhfa'"],
-    "jawapan": 0
+    "pilihan": [
+      "Idgham Bila Ghunnah",
+      "Iqlab",
+      "Izhar Halqi",
+      "Ikhfa'"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_062",
     "soalan": "Kadar dengung ketika membaca kalimah Iqlab ialah sebanyak:",
-    "pilihan": ["2 harakat", "4 harakat", "6 harakat", "Tiada dengung langsung"],
-    "jawapan": 0
+    "pilihan": [
+      "Tiada dengung langsung",
+      "4 harakat",
+      "2 harakat",
+      "6 harakat"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_063",
     "soalan": "Apakah maksud 'Ikhfa'' (إخفاء) dari segi bahasa?",
-    "pilihan": ["Menyembunyikan atau menyamarkan", "Menjelaskan", "Memasukkan", "Menukarkan"],
+    "pilihan": [
+      "Menyembunyikan atau menyamarkan",
+      "Menukarkan",
+      "Memasukkan",
+      "Menjelaskan"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_064",
     "soalan": "Berapakah bilangan huruf bagi hukum Ikhfa' Haqiqi?",
-    "pilihan": ["15 huruf", "6 huruf", "4 huruf", "2 huruf"],
-    "jawapan": 0
+    "pilihan": [
+      "2 huruf",
+      "15 huruf",
+      "4 huruf",
+      "6 huruf"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_065",
     "soalan": "Cara membaca Ikhfa' Haqiqi ialah menyebut bunyi nun antara izhar dan idgham serta:",
-    "pilihan": ["Berdengung 2 harakat", "Tanpa dengung", "Menukar kepada bunyi mim", "Membaca dengan laju"],
-    "jawapan": 0
+    "pilihan": [
+      "Menukar kepada bunyi mim",
+      "Membaca dengan laju",
+      "Tanpa dengung",
+      "Berdengung 2 harakat"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_066",
     "soalan": "Antara berikut, huruf manakah yang tergolong dalam huruf Ikhfa' Haqiqi?",
-    "pilihan": ["ت ، ث ، ج ، د ، ذ", "ء ، هـ ، ع ، ح", "ي ، ن ، م ، و", "ل ، ر"],
-    "jawapan": 0
+    "pilihan": [
+      "ي ، ن ، م ، و",
+      "ت ، ث ، ج ، د ، ذ",
+      "ء ، هـ ، ع ، ح",
+      "ل ، ر"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_067",
     "soalan": "Apakah hukum tajwid pada kalimah 'مِنْ قَبْلُ' (Min qablu)?",
-    "pilihan": ["Ikhfa' Haqiqi", "Izhar Halqi", "Idgham", "Iqlab"],
-    "jawapan": 0
+    "pilihan": [
+      "Iqlab",
+      "Idgham",
+      "Ikhfa' Haqiqi",
+      "Izhar Halqi"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_068",
     "soalan": "Kalimah 'مِنْ قَبْلُ' dihukum Ikhfa' Haqiqi kerana Nun Sakinah bertemu dengan huruf:",
-    "pilihan": ["Qaf ( ق )", "Kaf ( ك )", "Fa ( ف )", "Ba ( ب )"],
-    "jawapan": 0
+    "pilihan": [
+      "Kaf ( ك )",
+      "Ba ( ب )",
+      "Fa ( ف )",
+      "Qaf ( ق )"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_069",
     "soalan": "Apakah hukum tajwid pada kalimah 'مِنْ دُونِ' (Min duni)?",
-    "pilihan": ["Ikhfa' Haqiqi (Nun Sakinah bertemu Dal)", "Izhar Halqi", "Idgham Bila Ghunnah", "Iqlab"],
+    "pilihan": [
+      "Ikhfa' Haqiqi (Nun Sakinah bertemu Dal)",
+      "Idgham Bila Ghunnah",
+      "Iqlab",
+      "Izhar Halqi"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_070",
     "soalan": "Apakah hukum tajwid pada kalimah 'أَنْزَلَ' (Anzala)?",
-    "pilihan": ["Ikhfa' Haqiqi (Nun Sakinah bertemu Zai)", "Izhar Halqi", "Idgham Ma'al Ghunnah", "Iqlab"],
+    "pilihan": [
+      "Ikhfa' Haqiqi (Nun Sakinah bertemu Zai)",
+      "Idgham Ma'al Ghunnah",
+      "Izhar Halqi",
+      "Iqlab"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_071",
     "soalan": "Pada kalimah 'كِتَابٌ كَرِيمٌ', apakah hukum tajwid bagi tanwin bertemu huruf Kaf?",
-    "pilihan": ["Ikhfa' Haqiqi", "Izhar Halqi", "Idgham Bila Ghunnah", "Iqlab"],
-    "jawapan": 0
+    "pilihan": [
+      "Iqlab",
+      "Ikhfa' Haqiqi",
+      "Izhar Halqi",
+      "Idgham Bila Ghunnah"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_072",
     "soalan": "Pada kalimah 'عَنْ صَلَاتِهِمْ' dalam Surah Al-Ma'un, apakah hukum tajwidnya?",
-    "pilihan": ["Ikhfa' Haqiqi (Nun Sakinah bertemu Sad)", "Izhar Halqi", "Idgham Ma'al Ghunnah", "Iqlab"],
-    "jawapan": 0
+    "pilihan": [
+      "Izhar Halqi",
+      "Iqlab",
+      "Ikhfa' Haqiqi (Nun Sakinah bertemu Sad)",
+      "Idgham Ma'al Ghunnah"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_073",
     "soalan": "Huruf-huruf Ikhfa' Haqiqi terhimpun pada huruf awal dalam bait syair bahasa Arab yang terkenal:",
-    "pilihan": ["صِفْ ذَا ثَنَا كَمْ جَادَ شَخْصٌ قَدْ سَمَا...", "يَنْمُو", "أَخِي هَاكَ عِلْمًا...", "قُطْبُ جَدٍّ"],
-    "jawapan": 0
+    "pilihan": [
+      "يَنْمُو",
+      "قُطْبُ جَدٍّ",
+      "أَخِي هَاكَ عِلْمًا...",
+      "صِفْ ذَا ثَنَا كَمْ جَادَ شَخْصٌ قَدْ سَمَا..."
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_074",
     "soalan": "Apakah hukum pada kalimah 'مَنْ شَاءَ' (Man syaa'a)?",
-    "pilihan": ["Ikhfa' Haqiqi (Nun mati bertemu Syin)", "Izhar Halqi", "Idgham", "Iqlab"],
-    "jawapan": 0
+    "pilihan": [
+      "Idgham",
+      "Iqlab",
+      "Izhar Halqi",
+      "Ikhfa' Haqiqi (Nun mati bertemu Syin)"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_075",
     "soalan": "Pada kalimah 'نَارًا تَلَظَّى', apakah hukum tanwin bertemu huruf Ta?",
-    "pilihan": ["Ikhfa' Haqiqi", "Izhar Halqi", "Idgham Bila Ghunnah", "Iqlab"],
-    "jawapan": 0
+    "pilihan": [
+      "Idgham Bila Ghunnah",
+      "Iqlab",
+      "Ikhfa' Haqiqi",
+      "Izhar Halqi"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_076",
     "soalan": "Mim Sakinah bermaksud huruf mim yang:",
-    "pilihan": ["Mati bertanda sukun ( مْ )", "Berbaris atas", "Berbaris bawah", "Bersabdu"],
-    "jawapan": 0
+    "pilihan": [
+      "Berbaris bawah",
+      "Mati bertanda sukun ( مْ )",
+      "Berbaris atas",
+      "Bersabdu"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_077",
     "soalan": "Berapakah bilangan hukum bagi Mim Sakinah ( مْ )?",
-    "pilihan": ["3 bahagian", "4 bahagian", "5 bahagian", "2 bahagian"],
-    "jawapan": 0
+    "pilihan": [
+      "5 bahagian",
+      "4 bahagian",
+      "3 bahagian",
+      "2 bahagian"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_078",
     "soalan": "Tiga bahagian hukum Mim Sakinah ialah Ikhfa' Syafawi, Idgham Mislain (Shafawi) dan:",
-    "pilihan": ["Izhar Syafawi", "Izhar Halqi", "Iqlab", "Qalqalah"],
-    "jawapan": 0
+    "pilihan": [
+      "Iqlab",
+      "Izhar Halqi",
+      "Izhar Syafawi",
+      "Qalqalah"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_079",
     "soalan": "Perkataan 'Syafawi' (شفوي) merujuk kepada sebutan huruf yang keluar daripada:",
-    "pilihan": ["Dua bibir mulut (الشفتان)", "Kerongkong", "Pangkal hidung", "Gigi"],
-    "jawapan": 0
+    "pilihan": [
+      "Pangkal hidung",
+      "Dua bibir mulut (الشفتان)",
+      "Kerongkong",
+      "Gigi"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_080",
     "soalan": "Ikhfa' Syafawi berlaku apabila Mim Sakinah ( مْ ) bertemu dengan huruf:",
-    "pilihan": ["Ba ( ب ) sahaja", "Mim ( م )", "Wau ( و )", "Semua huruf"],
-    "jawapan": 0
+    "pilihan": [
+      "Semua huruf",
+      "Wau ( و )",
+      "Ba ( ب ) sahaja",
+      "Mim ( م )"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_081",
     "soalan": "Cara membaca Ikhfa' Syafawi ialah menyembunyikan mim pada huruf ba berserta:",
-    "pilihan": ["Dengung 2 harakat", "Tanpa dengung", "Sangat laju", "Bunyi jelas"],
+    "pilihan": [
+      "Dengung 2 harakat",
+      "Bunyi jelas",
+      "Sangat laju",
+      "Tanpa dengung"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_082",
     "soalan": "Contoh hukum Ikhfa' Syafawi dalam Surah Al-Fil ialah:",
-    "pilihan": ["تَرْمِيهِمْ بِحِجَارَةٍ (Tarmihim bihajarah)", "أَلَمْ تَرَ", "فَجَعَلَهُمْ", "كَعَصْفٍ"],
+    "pilihan": [
+      "تَرْمِيهِمْ بِحِجَارَةٍ (Tarmihim bihajarah)",
+      "فَجَعَلَهُمْ",
+      "كَعَصْفٍ",
+      "أَلَمْ تَرَ"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_083",
     "soalan": "Idgham Mislain (Idgham Syafawi) berlaku apabila Mim Sakinah ( مْ ) bertemu huruf:",
-    "pilihan": ["Mim ( م ) yang berbaris", "Ba ( ب )", "Lam ( ل )", "Ra ( ر )"],
-    "jawapan": 0
+    "pilihan": [
+      "Ba ( ب )",
+      "Mim ( م ) yang berbaris",
+      "Lam ( ل )",
+      "Ra ( ر )"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_084",
     "soalan": "Contoh hukum Idgham Mislain dalam Surah Quraisy ialah:",
-    "pilihan": ["أَطْعَمَهُمْ مِنْ جُوعٍ", "مِنْ خَوْفٍ", "لِإِيلَافِ قُرَيْشٍ", "فَلْيَعْبُدُوا"],
-    "jawapan": 0
+    "pilihan": [
+      "مِنْ خَوْفٍ",
+      "أَطْعَمَهُمْ مِنْ جُوعٍ",
+      "فَلْيَعْبُدُوا",
+      "لِإِيلَافِ قُرَيْشٍ"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_085",
     "soalan": "Izhar Syafawi berlaku apabila Mim Sakinah bertemu dengan semua huruf Hijaiyyah KECUALI:",
-    "pilihan": ["Huruf Ba ( ب ) dan Mim ( م )", "Huruf Alif dan Wau", "Huruf Lam dan Ra", "Huruf Qaf dan Kaf"],
-    "jawapan": 0
+    "pilihan": [
+      "Huruf Qaf dan Kaf",
+      "Huruf Lam dan Ra",
+      "Huruf Alif dan Wau",
+      "Huruf Ba ( ب ) dan Mim ( م )"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_086",
     "soalan": "Waqaf (وقف) dari segi bahasa bermaksud:",
-    "pilihan": ["Berhenti", "Meneruskan bacaan", "Mula membaca", "Mengulang"],
+    "pilihan": [
+      "Berhenti",
+      "Mula membaca",
+      "Mengulang",
+      "Meneruskan bacaan"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_087",
     "soalan": "Tanda waqaf 'مـ' (Mim kecil) menunjukkan waqaf:",
-    "pilihan": ["Wajib berhenti (Waqaf Lazim)", "Dilarang berhenti", "Harus berhenti", "Lebih baik sambung"],
-    "jawapan": 0
+    "pilihan": [
+      "Harus berhenti",
+      "Lebih baik sambung",
+      "Wajib berhenti (Waqaf Lazim)",
+      "Dilarang berhenti"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_088",
     "soalan": "Tanda waqaf 'لا' (Lam Alif) menunjukkan:",
-    "pilihan": ["Dilarang berhenti (Waqaf Mamnu')", "Wajib berhenti", "Harus berhenti", "Sunat berhenti"],
-    "jawapan": 0
+    "pilihan": [
+      "Sunat berhenti",
+      "Wajib berhenti",
+      "Dilarang berhenti (Waqaf Mamnu')",
+      "Harus berhenti"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_089",
     "soalan": "Tanda waqaf 'ج' (Jim kecil) menunjukkan waqaf:",
-    "pilihan": ["Harus / Boleh berhenti dan boleh sambung (Waqaf Jaiz)", "Wajib sambung", "Dilarang berhenti", "Wajib berhenti"],
+    "pilihan": [
+      "Harus / Boleh berhenti dan boleh sambung (Waqaf Jaiz)",
+      "Dilarang berhenti",
+      "Wajib berhenti",
+      "Wajib sambung"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_090",
     "soalan": "Tanda waqaf 'قلى' (Qaf Lam Ya) membawa erti:",
-    "pilihan": ["Lebih utama berhenti (Al-Waqfu Aula)", "Lebih utama sambung", "Dilarang berhenti", "Harus berhenti sekejap"],
+    "pilihan": [
+      "Lebih utama berhenti (Al-Waqfu Aula)",
+      "Lebih utama sambung",
+      "Dilarang berhenti",
+      "Harus berhenti sekejap"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_091",
     "soalan": "Tanda waqaf 'صلى' (Sad Lam Ya) membawa erti:",
-    "pilihan": ["Lebih utama meneruskan bacaan / sambung (Al-Waslu Aula)", "Lebih utama berhenti", "Wajib berhenti", "Dilarang sambung"],
-    "jawapan": 0
+    "pilihan": [
+      "Dilarang sambung",
+      "Lebih utama meneruskan bacaan / sambung (Al-Waslu Aula)",
+      "Wajib berhenti",
+      "Lebih utama berhenti"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_092",
     "soalan": "Berapakah bilangan huruf Mad Asli (Mad Tabi'i)?",
-    "pilihan": ["3 huruf ( ا ، و ، ي )", "4 huruf", "2 huruf", "5 huruf"],
-    "jawapan": 0
+    "pilihan": [
+      "5 huruf",
+      "2 huruf",
+      "4 huruf",
+      "3 huruf ( ا ، و ، ي )"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_093",
     "soalan": "Surah pertama dalam mashaf Al-Quran ialah Surah:",
-    "pilihan": ["Al-Fatihah", "Al-Baqarah", "An-Nas", "Al-Ikhlas"],
-    "jawapan": 0
+    "pilihan": [
+      "Al-Ikhlas",
+      "An-Nas",
+      "Al-Fatihah",
+      "Al-Baqarah"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_094",
     "soalan": "Berapakah bilangan ayat dalam Surah Al-Fatihah?",
-    "pilihan": ["7 ayat", "5 ayat", "6 ayat", "10 ayat"],
-    "jawapan": 0
+    "pilihan": [
+      "5 ayat",
+      "10 ayat",
+      "7 ayat",
+      "6 ayat"
+    ],
+    "jawapan": 2
   },
   {
     "id": "tajwid_2_095",
     "soalan": "Surah Al-Fatihah dikenali juga sebagai 'Ummul Kitab' yang bermaksud:",
-    "pilihan": ["Ibu Al-Quran", "Penutup Al-Quran", "Ayat Terpanjang", "Kisah Nabi"],
-    "jawapan": 0
+    "pilihan": [
+      "Kisah Nabi",
+      "Penutup Al-Quran",
+      "Ayat Terpanjang",
+      "Ibu Al-Quran"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_096",
     "soalan": "Surah yang mengandungi seruan memohon perlindungan daripada bisikan syaitan ialah Surah:",
-    "pilihan": ["An-Nas", "Al-Kautsar", "Al-Qadr", "Al-Fil"],
-    "jawapan": 0
+    "pilihan": [
+      "Al-Qadr",
+      "Al-Kautsar",
+      "Al-Fil",
+      "An-Nas"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_097",
     "soalan": "Surah yang menegaskan tentang keesaan Allah dan menolak syirik ialah Surah:",
-    "pilihan": ["Al-Ikhlas", "Al-Falaq", "Al-Masad", "An-Nasr"],
-    "jawapan": 0
+    "pilihan": [
+      "Al-Falaq",
+      "An-Nasr",
+      "Al-Masad",
+      "Al-Ikhlas"
+    ],
+    "jawapan": 3
   },
   {
     "id": "tajwid_2_098",
     "soalan": "Surah Al-Falaq mengajar kita memohon perlindungan kepada Allah daripada:",
-    "pilihan": ["Kejahatan makhluk pada waktu malam yang gelap dan sihir", "Ketiadaan makanan", "Kekurangan duit", "Keletihan bermain"],
+    "pilihan": [
+      "Kejahatan makhluk pada waktu malam yang gelap dan sihir",
+      "Kekurangan duit",
+      "Keletihan bermain",
+      "Ketiadaan makanan"
+    ],
     "jawapan": 0
   },
   {
     "id": "tajwid_2_099",
     "soalan": "Surah yang menceritakan tentang balasan celaka terhadap bapa saudara Nabi yang menentang Islam ialah Surah:",
-    "pilihan": ["Al-Masad / Al-Lahab", "Al-Kafirun", "Al-Ma'un", "Quraisy"],
-    "jawapan": 0
+    "pilihan": [
+      "Al-Kafirun",
+      "Al-Masad / Al-Lahab",
+      "Quraisy",
+      "Al-Ma'un"
+    ],
+    "jawapan": 1
   },
   {
     "id": "tajwid_2_100",
     "soalan": "Surah terpendek dalam Al-Quran yang mengandungi hanya 3 ayat ialah Surah:",
-    "pilihan": ["Al-Kautsar", "Al-Ikhlas", "An-Nasr", "Al-Asr"],
-    "jawapan": 0
+    "pilihan": [
+      "Al-Ikhlas",
+      "An-Nasr",
+      "Al-Kautsar",
+      "Al-Asr"
+    ],
+    "jawapan": 2
   }
 ]
