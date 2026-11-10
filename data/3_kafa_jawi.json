@@ -1,0 +1,602 @@
+[
+  {
+    "id": "jawi_3_001",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan berimbuhan 'berlari' ialah:",
+    "pilihan": ["برلاري", "برلورو", "بارلاري", "برلايري"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_002",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan berimbuhan 'berjalan' ialah:",
+    "pilihan": ["برجالن", "برجالان", "بارجالن", "برجولن"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_003",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan berimbuhan 'bermain' ialah:",
+    "pilihan": ["برماءين", "برماين", "بارماءين", "برمين"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_004",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'terjatuh' ialah:",
+    "pilihan": ["ترجاتوه", "ترجاتوهـ", "تارجاتوه", "ترجتوه"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_005",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'terbuka' ialah:",
+    "pilihan": ["تربوک", "تربوکو", "تاربوک", "تربوکي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_006",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'membaca' ialah:",
+    "pilihan": ["ممباچ", "ممباچا", "مامباچ", "ميمباچ"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_007",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'menulis' ialah:",
+    "pilihan": ["منوليس", "منولس", "مانوليس", "مينوليس"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_008",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'melihat' ialah:",
+    "pilihan": ["مليهت", "مليهات", "ماليهت", "مليهيت"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_009",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'mendengar' ialah:",
+    "pilihan": ["مندڠر", "مندڠار", "ماندڠر", "ميندڠر"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_010",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'memasak' ialah:",
+    "pilihan": ["مماسق", "مماسک", "ماماسق", "ميماسق"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_011",
+    "soalan": "Imbuhan awalan 'di-' pada perkataan 'ditulis' dieja:",
+    "pilihan": ["دتوليس", "ديتوليس", "داتوليس", "دوتوليس"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_012",
+    "soalan": "Imbuhan awalan 'se-' pada perkataan 'sekolah' dieja:",
+    "pilihan": ["سکوله", "سيکوله", "ساکوله", "سوڪوله"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_013",
+    "soalan": "Ejaan Jawi bagi perkataan 'sebuah' ialah:",
+    "pilihan": ["سبواه", "سيبواه", "سابواه", "سبوه"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_014",
+    "soalan": "Ejaan Jawi bagi perkataan 'seekor' ialah:",
+    "pilihan": ["سأيکوق", "سأيکوک", "سيأيکوق", "ساأيکوق"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_015",
+    "soalan": "Ejaan Jawi bagi perkataan 'seorang' ialah:",
+    "pilihan": ["سأورڠ", "سيأورڠ", "سأورن", "ساأورڠ"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_016",
+    "soalan": "Imbuhan awalan 'ke-' pada perkataan 'ketua' dieja:",
+    "pilihan": ["کتوا", "کيتوا", "کاتوا", "کوتوا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_017",
+    "soalan": "Ejaan Jawi bagi perkataan 'kedua' ialah:",
+    "pilihan": ["کدوا", "کيدوا", "کادوا", "کودوا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_018",
+    "soalan": "Ejaan Jawi bagi perkataan 'membeli' ialah:",
+    "pilihan": ["ممبلي", "مامبلي", "ميمبلي", "ممبيلي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_019",
+    "soalan": "Ejaan Jawi bagi perkataan 'mencari' ialah:",
+    "pilihan": ["منچاري", "مانچاري", "مينچاري", "منچوري"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_020",
+    "soalan": "Ejaan Jawi bagi perkataan 'menolong' ialah:",
+    "pilihan": ["منولوڠ", "مانولوڠ", "مينولوڠ", "منولڠ"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_021",
+    "soalan": "Ejaan Jawi bagi perkataan 'mengambil' ialah:",
+    "pilihan": ["مڠمبيل", "ماڠمبيل", "ميڠمبيل", "مڠامبيل"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_022",
+    "soalan": "Ejaan Jawi bagi perkataan 'mengajar' ialah:",
+    "pilihan": ["مڠاجر", "ماڠاجر", "ميڠاجر", "مڠاجار"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_023",
+    "soalan": "Ejaan Jawi bagi perkataan 'pelajar' ialah:",
+    "pilihan": ["ڤلاجر", "ڤلاجار", "ڤالاجر", "ڤيلاجر"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_024",
+    "soalan": "Ejaan Jawi bagi perkataan 'penulis' ialah:",
+    "pilihan": ["ڤنوليس", "ڤانوليس", "ڤينوليس", "ڤنولس"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_025",
+    "soalan": "Ejaan Jawi bagi perkataan 'pembersih' ialah:",
+    "pilihan": ["ڤمبرسيه", "ڤامبرسيه", "ڤيمبرسيه", "ڤمبرسح"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_026",
+    "soalan": "Ejaan Jawi bagi perkataan berakhiran 'makanan' ialah:",
+    "pilihan": ["ماکنن", "ماکانن", "ماکنان", "ماکنون"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_027",
+    "soalan": "Ejaan Jawi bagi perkataan berakhiran 'minuman' ialah:",
+    "pilihan": ["مينومن", "مينومان", "مينومنن", "مينومون"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_028",
+    "soalan": "Ejaan Jawi bagi perkataan berakhiran 'tulisan' ialah:",
+    "pilihan": ["توليسن", "توليسان", "توليسنن", "تولسن"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_029",
+    "soalan": "Ejaan Jawi bagi perkataan berakhiran 'bacaan' ialah:",
+    "pilihan": ["باچاءن", "باچن", "باچاان", "باچاين"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_030",
+    "soalan": "Ejaan Jawi bagi perkataan berakhiran 'pakaian' ialah:",
+    "pilihan": ["ڤاکاين", "ڤاکاءين", "ڤاکين", "ڤاکان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_031",
+    "soalan": "Ejaan Jawi bagi perkataan 'lukisan' ialah:",
+    "pilihan": ["لوکيسن", "لوکيسان", "لوکسن", "لوکيسين"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_032",
+    "soalan": "Ejaan Jawi bagi perkataan 'tanamkan' ialah:",
+    "pilihan": ["تانمکن", "تانامکن", "تانمکان", "تانامکان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_033",
+    "soalan": "Ejaan Jawi bagi perkataan 'masukkan' ialah:",
+    "pilihan": ["ماسوقکن", "ماسوککن", "ماسوقکان", "ماسوککان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_034",
+    "soalan": "Ejaan Jawi bagi perkataan 'kirimkan' ialah:",
+    "pilihan": ["کيريمکن", "کيرمکن", "کيريمکان", "کيرمکان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_035",
+    "soalan": "Ejaan Jawi bagi perkataan 'ambilkan' ialah:",
+    "pilihan": ["امبيلکن", "امبلکن", "امبيلکان", "امبلکان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_036",
+    "soalan": "Ejaan Jawi bagi perkataan 'sayangi' ialah:",
+    "pilihan": ["سايڠي", "سايڠاي", "سايڠ", "ساياڠي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_037",
+    "soalan": "Ejaan Jawi bagi perkataan 'hormati' ialah:",
+    "pilihan": ["حرمتي", "حورمتي", "حرمتاي", "حورمتاي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_038",
+    "soalan": "Ejaan Jawi bagi perkataan 'kasihi' ialah:",
+    "pilihan": ["کاسيهي", "کاسيحي", "کاسهاي", "کاسيه"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_039",
+    "soalan": "Ejaan Jawi bagi perkataan 'dekati' ialah:",
+    "pilihan": ["دکتي", "ديکتي", "دکتاي", "داکتي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_040",
+    "soalan": "Ejaan Jawi bagi perkataan 'ikuti' ialah:",
+    "pilihan": ["ايکوتي", "ايکتي", "ايکوتاي", "اکوتي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_041",
+    "soalan": "Imbuhan akhiran '-an' pada kata dasar berakhir huruf alif (contoh: rasa) dieja menggunakan:",
+    "pilihan": ["ءن (Hamzah dan Nun)", "ن sahaja", "ان", "ين"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_042",
+    "soalan": "Ejaan Jawi bagi perkataan 'perasaan' ialah:",
+    "pilihan": ["ڤراساءن", "ڤراسان", "ڤراسائن", "ڤراساان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_043",
+    "soalan": "Ejaan Jawi bagi perkataan 'keadaan' ialah:",
+    "pilihan": ["کأداءن", "کأدان", "کاداءن", "کاداان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_044",
+    "soalan": "Ejaan Jawi bagi perkataan 'bantuan' ialah:",
+    "pilihan": ["بنتوان", "بنتوئن", "بنتون", "بانتوان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_045",
+    "soalan": "Ejaan Jawi bagi perkataan 'ciptaan' ialah:",
+    "pilihan": ["چيڤتاءن", "چيڤتان", "چيڤتاان", "چڤتاءن"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_046",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'solat' ialah:",
+    "pilihan": ["صلوة / صلاة", "سولت", "سولاة", "سالت"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_047",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'zakat' ialah:",
+    "pilihan": ["زكاة", "زکت", "زکات", "زاکات"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_048",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'wuduk' ialah:",
+    "pilihan": ["وضوء", "ودوق", "وادوق", "وودوق"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_049",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'masjid' ialah:",
+    "pilihan": ["مسجد", "مسجيد", "ماسجد", "موسجد"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_050",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'doa' ialah:",
+    "pilihan": ["دعاء", "دعا", "دوءا", "دوعا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_051",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'sedekah' ialah:",
+    "pilihan": ["صدقة", "صدقه", "سدکه", "سدقة"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_052",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'ikhlas' ialah:",
+    "pilihan": ["إخلاص", "اخلس", "ايخلس", "ايخلاص"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_053",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'sabar' ialah:",
+    "pilihan": ["صبر", "صابر", "سبر", "سابر"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_054",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'syukur' ialah:",
+    "pilihan": ["شكر", "شوکور", "شکور", "سوکور"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_055",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Arab 'taubat' ialah:",
+    "pilihan": ["توبة", "توبت", "توبات", "تاوبت"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_056",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'sains' ialah:",
+    "pilihan": ["ساءينْس", "ساينس", "سينس", "ساءين"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_057",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'komputer' ialah:",
+    "pilihan": ["کومڤيوتر", "کمڤيوتر", "کومڤوتر", "کمڤوتر"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_058",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'telefon' ialah:",
+    "pilihan": ["تيليفون", "تليفون", "تليفن", "تيليفن"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_059",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'klinik' ialah:",
+    "pilihan": ["کلينيک", "کلينيق", "کليناک", "کلينيک"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_060",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'basikal' ialah:",
+    "pilihan": ["باسيکل", "باسيکال", "بسيکل", "بسيکال"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_061",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'doktor' ialah:",
+    "pilihan": ["دوکتور", "دوکتور", "دکتور", "دوکتار"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_062",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'polis' ialah:",
+    "pilihan": ["ڤوليس", "ڤولس", "ڤليس", "ڤولايس"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_063",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'bank' ialah:",
+    "pilihan": ["بڠک", "بنق", "بڠق", "بانق"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_064",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'pos' ialah:",
+    "pilihan": ["ڤوس", "ڤس", "ڤواس", "ڤيس"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_065",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'radio' ialah:",
+    "pilihan": ["ラジオ / راديو", "راديو", "رادو", "رادي"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_3_066",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'televisyen' ialah:",
+    "pilihan": ["تيليۏيشن", "تليۏيشن", "تيليۏيسين", "تليۏيسين"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_067",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'internet' ialah:",
+    "pilihan": ["اينترنيت", "انترنيت", "اينترنت", "انترنت"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_068",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'van' ialah:",
+    "pilihan": ["ۏين / ۏان", "ۏن", "ڤان", "بان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_069",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'muzik' ialah:",
+    "pilihan": ["موزيک", "موزيق", "موزک", "موزيکا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_070",
+    "soalan": "Ejaan Jawi bagi perkataan pinjaman Inggeris 'tren' ialah:",
+    "pilihan": ["ترين", "ترن", "تراين", "تريان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_071",
+    "soalan": "Tanda angka dua (٢) dalam tulisan Jawi digunakan untuk menunjukkan:",
+    "pilihan": ["Kata ganda", "Tanda noktah", "Tanda koma", "Tanda soal"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_072",
+    "soalan": "Ejaan Jawi bagi kata ganda 'kanak-kanak' ialah:",
+    "pilihan": ["کانق٢", "کانق-کانق", "کناک٢", "کانقک"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_073",
+    "soalan": "Ejaan Jawi bagi kata ganda 'guru-guru' ialah:",
+    "pilihan": ["ݢورو٢", "ݢورو-ݢورو", "ݢري٢", "ݢوروݢورو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_074",
+    "soalan": "Ejaan Jawi bagi kata ganda 'murid-murid' ialah:",
+    "pilihan": ["موريد٢", "موريد-موريد", "مورد٢", "موريدموريد"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_075",
+    "soalan": "Ejaan Jawi bagi kata ganda 'buku-buku' ialah:",
+    "pilihan": ["بوکو٢", "بوکو-بوکو", "بکو٢", "بوکوبوکو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_076",
+    "soalan": "Ejaan Jawi bagi kata ganda 'rumah-rumah' ialah:",
+    "pilihan": ["رومه٢", "رومه-رومه", "رومح٢", "رومهروما"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_077",
+    "soalan": "Ejaan Jawi bagi kata ganda 'pagi-pagi' ialah:",
+    "pilihan": ["ڤاݢي٢", "ڤاݢي-ڤاݢي", "ڤݢي٢", "ڤاݢيڤاݢي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_078",
+    "soalan": "Ejaan Jawi bagi kata ganda 'sama-sama' ialah:",
+    "pilihan": ["سام٢", "سام-سام", "سما٢", "ساماساما"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_079",
+    "soalan": "Ejaan Jawi bagi kata ganda 'tiba-tiba' ialah:",
+    "pilihan": ["تيبا٢", "تيبا-تيبا", "تبا٢", "تيباتيبا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_080",
+    "soalan": "Ejaan Jawi bagi kata ganda 'kawan-kawan' ialah:",
+    "pilihan": ["کاون٢", "کاون-کاون", "کوان٢", "کاونکاون"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_081",
+    "soalan": "Tanda baca tanda soal dalam tulisan Jawi ( ؟ ) ditulis:",
+    "pilihan": ["Menghadap ke sebelah kiri", "Menghadap ke sebelah kanan seperti Rumi", "Di bawah perkataan", "Di tengah huruf"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_082",
+    "soalan": "Tanda koma dalam tulisan Jawi ( ، ) ditulis:",
+    "pilihan": ["Ekornya menghadap ke atas / terbalik daripada Rumi", "Sama seperti Rumi", "Di atas huruf", "Tanda noktah dua"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_083",
+    "soalan": "Tanda noktah ( . ) diletakkan pada:",
+    "pilihan": ["Akhir ayat penyata", "Awal ayat", "Tengah ayat", "Setiap perkataan"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_084",
+    "soalan": "Tanda seru ( ! ) diletakkan pada akhir ayat:",
+    "pilihan": ["Seruan atau perintah", "Ayat tanya", "Ayat biasa", "Tajuk sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_085",
+    "soalan": "Tanda pengikat kata ( \"...\" ) digunakan untuk mengapit:",
+    "pilihan": ["Cakap ajuk / dialog percakapan", "Nombor", "Semua nama tempat", "Huruf tunggal"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_086",
+    "soalan": "Ayat 'علي برجالن دان احمد منوڠݢڠ باسيکل' membawa maksud:",
+    "pilihan": ["Ali berjalan dan Ahmad menunggang basikal", "Ali berlari dan Ahmad menaiki kereta", "Ali dan Ahmad menunggang basikal", "Ali membaca dan Ahmad menulis"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_087",
+    "soalan": "Kata hubung 'دان' dalam bahasa Rumi bermaksud:",
+    "pilihan": ["Dan", "Atau", "Tetapi", "Kerana"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_088",
+    "soalan": "Kata hubung 'اتاو' dalam bahasa Rumi bermaksud:",
+    "pilihan": ["Atau", "Dan", "Lalu", "Sambil"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_089",
+    "soalan": "Kata hubung 'تتاڤي' dalam bahasa Rumi bermaksud:",
+    "pilihan": ["Tetapi", "Dan", "Supaya", "Jika"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_090",
+    "soalan": "Kata hubung 'کران' dalam bahasa Rumi bermaksud:",
+    "pilihan": ["Kerana", "Maka", "Lalu", "Hingga"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_091",
+    "soalan": "Ayat 'ساي راجين بلاجر کران ماهو برجاي' dibaca:",
+    "pilihan": ["Saya rajin belajar kerana mahu berjaya", "Saya rajin membaca buku cerita", "Saya suka belajar bersama kawan", "Saya mahu menjadi juara kelas"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_092",
+    "soalan": "Ayat 'امق مماسق ناسي دداڤور' dibaca:",
+    "pilihan": ["Emak memasak nasi di dapur", "Ibu membeli nasi di pasar", "Kakak memasak lauk di dapur", "Emak makan nasi di dapur"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_093",
+    "soalan": "Ayat 'باڤ ممبلي سبواه کريتا بارو' dibaca:",
+    "pilihan": ["Bapa membeli sebuah kereta baru", "Bapa memandu sebuah kereta lama", "Ayah mencuci sebuah kereta baru", "Bapa menjual sebuah kereta baru"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_094",
+    "soalan": "Ayat 'موريد٢ سدڠ بلاجر جاوي دکلس' dibaca:",
+    "pilihan": ["Murid-murid sedang belajar Jawi di kelas", "Murid-murid sedang membaca buku di perpustakaan", "Guru-guru sedang mengajar Jawi di sekolah", "Murid-murid sedang menulis Jawi di rumah"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_095",
+    "soalan": "Ayat 'کامي صلوة برجماعه دمسجد' dibaca:",
+    "pilihan": ["Kami solat berjemaah di masjid", "Kami pergi ke masjid bersama bapa", "Mereka solat jemaah di surau", "Kami membaca Al-Quran di masjid"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_096",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'keberkatan' ialah:",
+    "pilihan": ["کبرکتن", "کابرکتن", "کبرکاتن", "کيبارکتن"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_097",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'kejayaan' ialah:",
+    "pilihan": ["کجايأن", "کجاياءن", "کجايان", "کجاياان"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_3_098",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'kesihatan' ialah:",
+    "pilihan": ["کصيحتن", "کصيحاتن", "کسيحتن", "کسيحاتن"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_099",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'kebersihan' ialah:",
+    "pilihan": ["کبرسيهن", "کابرسيهن", "کبرسيهان", "کبرسحن"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_3_100",
+    "soalan": "Ayat 'توليسن جاوي اياله واريسن کيت' dibaca:",
+    "pilihan": ["Tulisan Jawi ialah warisan kita", "Tulisan Jawi sangat mudah dipelajari", "Tulisan Jawi bahasa ibunda kita", "Tulisan Jawi tulisan Al-Quran"],
+    "jawapan": 0
+  }
+]
