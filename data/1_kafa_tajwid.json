@@ -1,0 +1,602 @@
+[
+  {
+    "id": "tajwid_1_001",
+    "soalan": "Apakah huruf pertama dalam senarai huruf Hijaiyyah?",
+    "pilihan": ["Huruf Alif ( ا )", "Huruf Ba ( ب )", "Huruf Ta ( ت )", "Huruf Jim ( ج )"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_002",
+    "soalan": "Apakah huruf terakhir dalam senarai huruf Hijaiyyah?",
+    "pilihan": ["Huruf Ya ( ي )", "Huruf Wau ( و )", "Huruf Hamzah ( ء )", "Huruf Nun ( ن )"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_003",
+    "soalan": "Berapakah jumlah huruf Hijaiyyah kesemuanya?",
+    "pilihan": ["28 atau 29 huruf", "20 huruf", "15 huruf", "36 huruf"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_004",
+    "soalan": "Tanda baris satu di atas huruf ( َ ) dinamakan baris:",
+    "pilihan": ["Fathah", "Kasrah", "Dhommah", "Sukun"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_005",
+    "soalan": "Tanda baris Fathah ( َ ) menghasilkan bunyi vokal:",
+    "pilihan": ["A", "I", "U", "O"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_006",
+    "soalan": "Tanda baris satu di bawah huruf ( ِ ) dinamakan baris:",
+    "pilihan": ["Kasrah", "Fathah", "Dhommah", "Tanwin"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_007",
+    "soalan": "Tanda baris Kasrah ( ِ ) menghasilkan bunyi vokal:",
+    "pilihan": ["I", "A", "U", "E"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_008",
+    "soalan": "Tanda baris satu di hadapan huruf ( ُ ) dinamakan baris:",
+    "pilihan": ["Dhommah", "Kasrah", "Fathah", "Tasydid"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_009",
+    "soalan": "Tanda baris Dhommah ( ُ ) menghasilkan bunyi vokal:",
+    "pilihan": ["U", "A", "I", "E"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_010",
+    "soalan": "Huruf 'بَ' berbaris di atas dibaca dengan bunyi:",
+    "pilihan": ["Ba", "Bi", "Bu", "Bo"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_011",
+    "soalan": "Huruf 'بِ' berbaris di bawah dibaca dengan bunyi:",
+    "pilihan": ["Bi", "Ba", "Bu", "Be"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_012",
+    "soalan": "Huruf 'بُ' berbaris di hadapan dibaca dengan bunyi:",
+    "pilihan": ["Bu", "Ba", "Bi", "Bo"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_013",
+    "soalan": "Huruf 'تَ' berbaris di atas dibaca dengan bunyi:",
+    "pilihan": ["Ta", "Ti", "Tu", "To"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_014",
+    "soalan": "Huruf 'تِ' berbaris di bawah dibaca dengan bunyi:",
+    "pilihan": ["Ti", "Ta", "Tu", "Te"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_015",
+    "soalan": "Huruf 'تُ' berbaris di hadapan dibaca dengan bunyi:",
+    "pilihan": ["Tu", "Ta", "Ti", "To"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_016",
+    "soalan": "Huruf 'جَ' berbaris di atas dibaca dengan bunyi:",
+    "pilihan": ["Ja", "Ji", "Ju", "Jo"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_017",
+    "soalan": "Huruf 'جِ' berbaris di bawah dibaca dengan bunyi:",
+    "pilihan": ["Ji", "Ja", "Ju", "Je"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_018",
+    "soalan": "Huruf 'جُ' berbaris di hadapan dibaca dengan bunyi:",
+    "pilihan": ["Ju", "Ja", "Ji", "Jo"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_019",
+    "soalan": "Huruf 'دَ' berbaris di atas dibaca dengan bunyi:",
+    "pilihan": ["Da", "Di", "Du", "Do"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_020",
+    "soalan": "Huruf 'دِ' berbaris di bawah dibaca dengan bunyi:",
+    "pilihan": ["Di", "Da", "Du", "De"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_021",
+    "soalan": "Huruf 'دُ' berbaris di hadapan dibaca dengan bunyi:",
+    "pilihan": ["Du", "Da", "Di", "Do"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_022",
+    "soalan": "Huruf 'رَ' berbaris di atas dibaca dengan bunyi:",
+    "pilihan": ["Ra", "Ri", "Ru", "Ro"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_023",
+    "soalan": "Huruf 'رِ' berbaris di bawah dibaca dengan bunyi:",
+    "pilihan": ["Ri", "Ra", "Ru", "Re"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_024",
+    "soalan": "Huruf 'رُ' berbaris di hadapan dibaca dengan bunyi:",
+    "pilihan": ["Ru", "Ra", "Ri", "Ro"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_025",
+    "soalan": "Susunan baris 'Fathah, Kasrah, Dhommah' pada huruf mim ( مَ مِ مُ ) berbunyi:",
+    "pilihan": ["Ma - Mi - Mu", "Mu - Mi - Ma", "Mi - Ma - Mu", "Ma - Mu - Mi"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_026",
+    "soalan": "Tanda baris dua (dua di atas, dua di bawah, dua di hadapan) dinamakan:",
+    "pilihan": ["Tanwin", "Sukun", "Tasydid", "Fathah"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_027",
+    "soalan": "Baris dua di atas ( ً ) dinamakan:",
+    "pilihan": ["Fathatain / Baris dua atas", "Kasratain", "Dhommatain", "Sukun"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_028",
+    "soalan": "Baris dua di bawah ( ٍ ) dinamakan:",
+    "pilihan": ["Kasratain / Baris dua bawah", "Fathatain", "Dhommatain", "Tasydid"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_029",
+    "soalan": "Baris dua di hadapan ( ٌ ) dinamakan:",
+    "pilihan": ["Dhommatain / Baris dua depan", "Fathatain", "Kasratain", "Tanwin mati"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_030",
+    "soalan": "Bunyi sebutan bagi tanwin menghasilkan bunyi huruf:",
+    "pilihan": ["Nun mati di hujungnya (contoh: An, In, Un)", "Mim mati", "Wau mati", "Alif panjang"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_031",
+    "soalan": "Huruf 'بً' berbaris dua di atas berbunyi:",
+    "pilihan": ["Ban", "Bin", "Bun", "Ba"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_032",
+    "soalan": "Huruf 'بٍ' berbaris dua di bawah berbunyi:",
+    "pilihan": ["Bin", "Ban", "Bun", "Bi"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_033",
+    "soalan": "Huruf 'بٌ' berbaris dua di hadapan berbunyi:",
+    "pilihan": ["Bun", "Ban", "Bin", "Bu"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_034",
+    "soalan": "Tanda bulat kecil ( ْ ) di atas huruf dipanggil tanda:",
+    "pilihan": ["Sukun / Tanda mati", "Syaddah / Sabdu", "Tanwin", "Mad"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_035",
+    "soalan": "Huruf yang bertanda sukun ( ْ ) dibaca secara:",
+    "pilihan": ["Mati (tidak berbunyi a, i, u)", "Berdengung sentiasa", "Panjang 6 harakat", "Berulang-ulang"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_036",
+    "soalan": "Tanda sabdu yang berbentuk seperti gigi tiga kecil ( ّ ) dipanggil:",
+    "pilihan": ["Syaddah / Tasydid", "Sukun", "Dhommah", "Tanwin"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_037",
+    "soalan": "Huruf yang bertanda tasydid ( ّ ) dibaca dengan cara:",
+    "pilihan": ["Ditekan sebutannya kerana ada dua huruf yang sama", "Dibaca panjang 2 harakat", "Dibaca mati", "Dibaca laju"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_038",
+    "soalan": "Sebutan bagi huruf bertasydid 'رَبِّ' (Rabbi) mengandungi huruf ba yang:",
+    "pilihan": ["Pertama mati dan kedua berbaris kasrah", "Dua-dua berbaris atas", "Dua-dua bertanda sukun", "Satu sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_039",
+    "soalan": "Huruf 'أَنْ' (Alif fathah bertemu Nun sukun) dibaca sebagai:",
+    "pilihan": ["An", "In", "Un", "Na"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_040",
+    "soalan": "Huruf 'إِنْ' (Alif kasrah bertemu Nun sukun) dibaca sebagai:",
+    "pilihan": ["In", "An", "Un", "Ni"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_041",
+    "soalan": "Huruf 'كُنْ' (Kaf dhommah bertemu Nun sukun) dibaca sebagai:",
+    "pilihan": ["Kun", "Kan", "Kin", "Ku"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_042",
+    "soalan": "Kalimah 'قُلْ' dalam Surah Al-Ikhlas mengandungi huruf Lam yang bertanda:",
+    "pilihan": ["Sukun (mati)", "Sabdu", "Fathah", "Tanwin"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_043",
+    "soalan": "Huruf Nun bertasydid ( نّ ) dan Mim bertasydid ( مّ ) wajib dibaca secara:",
+    "pilihan": ["Dengung (Wajibah Ghunnah) sebanyak 2 harakat", "Jelas tanpa dengung", "Laju tanpa henti", "Pendek 1 harakat"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_044",
+    "soalan": "Contoh kalimah yang mempunyai huruf bertanda sabdu ialah:",
+    "pilihan": ["إِنَّ (Inna)", "مِنْ (Min)", "عَنْ (An)", "لَمْ (Lam)"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_045",
+    "soalan": "Kalimah 'اللَّهُ' mengandungi huruf Lam yang bertanda:",
+    "pilihan": ["Syaddah (Tasydid / Sabdu)", "Sukun", "Kasrah", "Tanwin"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_046",
+    "soalan": "Apakah maksud 'Mad' dari segi bahasa?",
+    "pilihan": ["Memanjangkan suara", "Memendekkan bacaan", "Mendengungkan suara", "Mematikan huruf"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_047",
+    "soalan": "Berapakah bilangan huruf Mad Asli (Mad Tabi'i)?",
+    "pilihan": ["3 huruf", "5 huruf", "2 huruf", "4 huruf"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_048",
+    "soalan": "Apakah tiga huruf Mad Asli?",
+    "pilihan": ["Alif, Wau, Ya ( ا ، و ، ي )", "Ba, Ta, Tha", "Jim, Ha, Kha", "Lam, Mim, Nun"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_049",
+    "soalan": "Berapakah kadar panjang bacaan bagi Mad Asli?",
+    "pilihan": ["2 harakat", "4 harakat", "6 harakat", "1 harakat"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_050",
+    "soalan": "Huruf Alif ( ا ) menjadi huruf mad apabila huruf sebelumnya berbaris:",
+    "pilihan": ["Fathah (baris atas)", "Kasrah (baris bawah)", "Dhommah (baris depan)", "Sukun"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_051",
+    "soalan": "Huruf Wau ( و ) menjadi huruf mad apabila huruf sebelumnya berbaris:",
+    "pilihan": ["Dhommah (baris depan)", "Fathah (baris atas)", "Kasrah (baris bawah)", "Tanwin"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_052",
+    "soalan": "Huruf Ya ( ي ) menjadi huruf mad apabila huruf sebelumnya berbaris:",
+    "pilihan": ["Kasrah (baris bawah)", "Fathah (baris atas)", "Dhommah (baris depan)", "Sukun"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_053",
+    "soalan": "Pada kalimah 'بَا' (Ba bersambung Alif), sebutannya dibaca panjang sebanyak:",
+    "pilihan": ["2 harakat", "1 harakat", "5 harakat", "6 harakat"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_054",
+    "soalan": "Pada kalimah 'بُو' (Ba dhommah bersambung Wau), sebutannya dibaca panjang sebanyak:",
+    "pilihan": ["2 harakat", "1 harakat", "4 harakat", "Tiada harakat"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_055",
+    "soalan": "Pada kalimah 'بِي' (Ba kasrah bersambung Ya), sebutannya dibaca panjang sebanyak:",
+    "pilihan": ["2 harakat", "1 harakat", "6 harakat", "Berdengung"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_056",
+    "soalan": "Kalimah gabungan tiga bunyi mad asli yang terkenal dalam Al-Quran ialah:",
+    "pilihan": ["نُوحِيهَا (Nu-hi-ha)", "كِتَابٌ", "مَالِكِ", "عَلِيمٌ"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_057",
+    "soalan": "Tanda garisan tegak kecil di atas huruf (contoh: مَالِكِ) dinamakan:",
+    "pilihan": ["Alif kecil / Mad Asli (dibaca 2 harakat)", "Sukun", "Kasrah", "Tasydid"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_058",
+    "soalan": "Kalimah 'قَالَ' (Qala) mengandungi hukum:",
+    "pilihan": ["Mad Asli (dibaca panjang 2 harakat)", "Dengung", "Sukun", "Tanwin"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_059",
+    "soalan": "Kalimah 'يَقُولُ' (Yaqulu) mengandungi huruf wau mad yang dibaca:",
+    "pilihan": ["Panjang 2 harakat", "Pendek 1 harakat", "Mati tanpa bunyi", "Dengung"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_060",
+    "soalan": "Kalimah 'قِيلَ' (Qila) mengandungi huruf ya mad yang dibaca:",
+    "pilihan": ["Panjang 2 harakat", "Pendek 1 harakat", "Dengung", "Laju"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_061",
+    "soalan": "Satu harakat diukur dengan kadar:",
+    "pilihan": ["Kadar membuka atau menggenggam jari tangan secara sederhana", "Satu minit", "Satu saat jam", "Satu tarikan nafas panjang"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_062",
+    "soalan": "Membaca huruf yang tiada tanda mad dengan memanjangkannya hukumnya:",
+    "pilihan": ["Salah dan dilarang", "Boleh", "Sunat", "Mendapat pahala"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_063",
+    "soalan": "Membaca huruf yang ada tanda mad secara pendek hukumnya:",
+    "pilihan": ["Salah dalam bacaan tajwid", "Betul", "Harus", "Digalakkan"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_064",
+    "soalan": "Kalimah 'مَالِكِ يَوْمِ الدِّينِ' mempunyai mad asli pada kalimah:",
+    "pilihan": ["مَالِكِ (Maaliki)", "يَوْمِ", "الدِّينِ", "Semua"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_065",
+    "soalan": "Apakah tujuan mematuhi kadar harakat mad dalam Al-Quran?",
+    "pilihan": ["Memelihara keaslian bacaan Al-Quran seperti yang diajar oleh Rasulullah SAW", "Menyanyi lagu", "Menghabiskan masa", "Menyedapkan suara sendiri"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_066",
+    "soalan": "Al-Quran ialah kalam Allah SWT yang diturunkan kepada:",
+    "pilihan": ["Nabi Muhammad SAW", "Nabi Musa a.s.", "Nabi Isa a.s.", "Nabi Daud a.s."],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_067",
+    "soalan": "Sebelum memegang mashaf Al-Quran, kita diwajibkan untuk:",
+    "pilihan": ["Berwuduk dan suci daripada hadas", "Memakai kasut", "Makan kenyang-kenyang", "Memakai pakaian sukan"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_068",
+    "soalan": "Di manakah Al-Quran patut diletakkan semasa membaca atau menyimpannya?",
+    "pilihan": ["Di tempat yang tinggi dan bersih (seperti rehal atau rak)", "Di atas lantai bawah meja", "Di bawah tilam tidur", "Di tempat buangan"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_069",
+    "soalan": "Bolehkah kita meletakkan barang lain (seperti buku lain atau cawan) di atas Al-Quran?",
+    "pilihan": ["Tidak boleh kerana tidak beradab kepada Al-Quran", "Boleh jika tiada meja", "Boleh sesuka hati", "Sunat"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_070",
+    "soalan": "Arah kiblat yang disunatkan kita hadap semasa membaca Al-Quran ialah menghadap:",
+    "pilihan": ["Kaabah di Masjidil Haram, Makkah", "Matahari naik di timur", "Pintu bilik", "Tingkap"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_071",
+    "soalan": "Sebelum memulakan bacaan Al-Quran, kita disunatkan membaca lafaz Ta'awwuz iaitu:",
+    "pilihan": ["A'uzubillahi minasy syaitanir rajim", "Bismillah", "Alhamdulillah", "Subhanallah"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_072",
+    "soalan": "Apakah maksud bacaan 'A'uzubillahi minasy syaitanir rajim'?",
+    "pilihan": ["Aku berlindung dengan Allah daripada syaitan yang direjam", "Dengan nama Allah yang Pemurah", "Segala puji bagi Allah", "Maha Suci Allah"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_073",
+    "soalan": "Lafaz Basmalah yang dibaca pada permulaan surah ialah:",
+    "pilihan": ["Bismillahirrahmanirrahim", "Allahu Akbar", "La hawla wala quwwata illa billah", "Astaghfirullah"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_074",
+    "soalan": "Apakah maksud 'Bismillahirrahmanirrahim'?",
+    "pilihan": ["Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang", "Allah Maha Besar", "Maha Suci Tuhanku yang Maha Tinggi", "Tiada Tuhan selain Allah"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_075",
+    "soalan": "Membaca Al-Quran hendaklah dengan keadaan tenang, tertib, dan:",
+    "pilihan": ["Bertajwid", "Bermain-main", "Ketawa kuat", "Bercakap-cakap dengan kawan"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_076",
+    "soalan": "Ganjaran membaca satu huruf daripada Al-Quran ialah sebanyak:",
+    "pilihan": ["10 pahala kebaikan", "1 pahala sahaja", "5 pahala", "Tiada pahala"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_077",
+    "soalan": "Apabila Al-Quran sedang dibaca oleh guru atau rakan, kita hendaklah:",
+    "pilihan": ["Mendengar dengan teliti dan diam menghormatinya", "Membuat bising", "Menyanyi lagu lain", "Bermain telefon"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_078",
+    "soalan": "Bolehkah membawa mashaf Al-Quran ke dalam tandas?",
+    "pilihan": ["Haram dan dilarang sama sekali", "Boleh jika dipegang rapat", "Harus", "Makruh sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_079",
+    "soalan": "Selepas selesai membaca Al-Quran, kita disunatkan mengucapkan:",
+    "pilihan": ["Sadaqallahul 'Azim (صَدَقَ اللَّهُ الْعَظِيمُ)", "Alhamdulillah sahaja", "Bismillah", "Selesai"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_080",
+    "soalan": "Orang yang mempelajari Al-Quran dan mengajarkannya kepada orang lain adalah:",
+    "pilihan": ["Sebaik-baik manusia di sisi Allah", "Orang biasa", "Orang yang rugi masa", "Orang yang letih"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_081",
+    "soalan": "Apakah nama surah pembukaan dalam Al-Quran yang wajib dibaca dalam setiap rakaat solat?",
+    "pilihan": ["Surah Al-Fatihah", "Surah Al-Baqarah", "Surah An-Nas", "Surah Al-Ikhlas"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_082",
+    "soalan": "Berapakah bilangan ayat dalam Surah Al-Fatihah?",
+    "pilihan": ["7 ayat", "5 ayat", "6 ayat", "4 ayat"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_083",
+    "soalan": "Surah Al-Fatihah dinamakan juga 'Ummul Quran' yang bermaksud:",
+    "pilihan": ["Ibu Al-Quran", "Ayat terpanjang", "Penutup Al-Quran", "Kisah Nabi"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_084",
+    "soalan": "Apakah ayat pertama dalam Surah Al-Fatihah?",
+    "pilihan": ["بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ", "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ", "مَالِكِ يَوْمِ الدِّينِ", "إِيَّاكَ نَعْبُدُ"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_085",
+    "soalan": "Ayat kedua dalam Surah Al-Fatihah ialah:",
+    "pilihan": ["الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ", "الرَّحْمَٰنِ الرَّحِيمِ", "مَالِكِ يَوْمِ الدِّينِ", "اهْدِنَا الصِّرَاطَ"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_086",
+    "soalan": "Surah terakhir dalam mashaf Al-Quran (surah ke-114) ialah Surah:",
+    "pilihan": ["Surah An-Nas", "Surah Al-Falaq", "Surah Al-Ikhlas", "Surah Al-Kautsar"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_087",
+    "soalan": "Berapakah bilangan ayat dalam Surah An-Nas?",
+    "pilihan": ["6 ayat", "5 ayat", "7 ayat", "4 ayat"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_088",
+    "soalan": "Maksud perkataan 'An-Nas' dalam bahasa Melayu ialah:",
+    "pilihan": ["Manusia", "Malaikat", "Jin", "Burung"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_089",
+    "soalan": "Apakah ayat pertama Surah An-Nas?",
+    "pilihan": ["قُلْ أَعُوذُ بِرَبِّ النَّاسِ", "مَلِكِ النَّاسِ", "إِلَٰهِ النَّاسِ", "مِنْ شَرِّ الْوَسْوَاسِ"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_090",
+    "soalan": "Surah An-Nas mengajar kita memohon perlindungan kepada Allah daripada bisikan jahat:",
+    "pilihan": ["Syaitan dan jin serta manusia", "Binatang buas", "Hujan lebat", "Kegelapan malam"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_091",
+    "soalan": "Surah sebelum Surah An-Nas iaitu surah ke-113 ialah Surah:",
+    "pilihan": ["Surah Al-Falaq", "Surah Al-Ikhlas", "Surah Al-Masad", "Surah Al-Kafirun"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_092",
+    "soalan": "Berapakah bilangan ayat dalam Surah Al-Falaq?",
+    "pilihan": ["5 ayat", "6 ayat", "4 ayat", "3 ayat"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_093",
+    "soalan": "Apakah maksud perkataan 'Al-Falaq'?",
+    "pilihan": ["Waktu Subuh", "Waktu Malam", "Waktu Zohor", "Waktu Petang"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_094",
+    "soalan": "Apakah ayat pertama Surah Al-Falaq?",
+    "pilihan": ["قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ", "مِنْ شَرِّ مَا خَلَقَ", "وَمِنْ شَرِّ غَاسِقٍ", "قُلْ هُوَ اللَّهُ"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_095",
+    "soalan": "Surah Al-Falaq dan Surah An-Nas dikenali sebagai dua surah pelindung iaitu:",
+    "pilihan": ["Al-Mu'awwidzatain", "Al-Baqarah", "Al-Fatihah", "Al-Qari'ah"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_096",
+    "soalan": "Surah ke-112 yang menceritakan tentang keesaan Allah SWT ialah Surah:",
+    "pilihan": ["Surah Al-Ikhlas", "Surah Al-Falaq", "Surah An-Nas", "Surah Al-Ma'un"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_097",
+    "soalan": "Berapakah bilangan ayat dalam Surah Al-Ikhlas?",
+    "pilihan": ["4 ayat", "5 ayat", "3 ayat", "6 ayat"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_098",
+    "soalan": "Apakah ayat pertama Surah Al-Ikhlas?",
+    "pilihan": ["قُلْ هُوَ اللَّهُ أَحَدٌ", "اللَّهُ الصَّمَدُ", "لَمْ يَلِدْ وَلَمْ يُولَدْ", "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_099",
+    "soalan": "Maksud ayat 'قُلْ هُوَ اللَّهُ أَحَدٌ' ialah:",
+    "pilihan": ["Katakanlah: Dialah Allah Yang Maha Esa", "Allah tempat meminta", "Allah tidak beranak", "Tiada yang setara dengan-Nya"],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_1_100",
+    "soalan": "Ganjaran pahala membaca Surah Al-Ikhlas menyamai pahala membaca:",
+    "pilihan": ["Satu pertiga (1/3) Al-Quran", "Satu juzuk Al-Quran", "Setengah Al-Quran", "Satu surah biasa"],
+    "jawapan": 0
+  }
+]
