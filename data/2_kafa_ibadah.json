@@ -298,5 +298,330 @@
     "soalan": "Ketika keluar dari tandas, kita disunatkan melangkah dengan kaki:",
     "pilihan": ["Kanan", "Kiri", "Kedua-dua kaki sekali", "Mana-mana kaki"],
     "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_051",
+    "soalan": "Berapakah jumlah keseluruhan rakaat bagi solat fardhu lima waktu dalam sehari semalam?",
+    "pilihan": ["15 rakaat", "17 rakaat", "20 rakaat", "12 rakaat"],
+    "jawapan": 1
+  },
+  {
+    "id": "ibadah_2_052",
+    "soalan": "Waktu solat Subuh bermula apabila terbitnya:",
+    "pilihan": ["Fajar sadiq", "Matahari tegak", "Bulan sabit", "Bintang kejora"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_053",
+    "soalan": "Waktu solat Maghrib bermula apabila:",
+    "pilihan": ["Terbenam seluruh bulatan matahari", "Matahari berada tepat di tengah langit", "Hilang mega merah", "Bayang-bayang sama panjang"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_054",
+    "soalan": "Hadas terbahagi kepada dua iaitu hadas kecil dan hadas:",
+    "pilihan": ["Besar", "Sederhana", "Ringan", "Mutawassitah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_055",
+    "soalan": "Cara menyucikan diri daripada hadas kecil ialah dengan:",
+    "pilihan": ["Berwuduk", "Mandi wajib", "Mencuci muka sahaja", "Menukar baju"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_056",
+    "soalan": "Membaca Basmalah (Bismillahirrahmanirrahim) pada permulaan wuduk hukumnya:",
+    "pilihan": ["Sunat", "Wajib", "Makruh", "Harus"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_057",
+    "soalan": "Menyapu kedua-dua belah telinga ketika berwuduk adalah amalan:",
+    "pilihan": ["Sunat", "Wajib", "Haram", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_058",
+    "soalan": "Bersugi atau menggosok gigi sebelum berwuduk hukumnya ialah:",
+    "pilihan": ["Sunat", "Wajib", "Makruh", "Batal wuduk"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_059",
+    "soalan": "Ketika berwuduk, kita disunatkan mendahulukan anggota sebelah:",
+    "pilihan": ["Kanan berbanding kiri", "Kiri berbanding kanan", "Bawah berbanding atas", "Mana-mana sahaja"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_060",
+    "soalan": "Apakah hukum membazirkan air semasa berwuduk?",
+    "pilihan": ["Makruh", "Sunat", "Wajib", "Harus"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_061",
+    "soalan": "Najis anjing dan babi serta keturunannya tergolong dalam najis:",
+    "pilihan": ["Mughallazah (berat)", "Mukhaffafah (ringan)", "Mutawassitah (pertengahan)", "Hadas kecil"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_062",
+    "soalan": "Air kencing bayi lelaki bawah 2 tahun yang hanya minum susu ibu tergolong dalam najis:",
+    "pilihan": ["Mukhaffafah (ringan)", "Mughallazah (berat)", "Mutawassitah (pertengahan)", "Mutlak"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_063",
+    "soalan": "Najis darah, nanah, dan tahi binatang tergolong dalam kumpulan najis:",
+    "pilihan": ["Mutawassitah (pertengahan)", "Mukhaffafah (ringan)", "Mughallazah (berat)", "Air mustakmal"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_064",
+    "soalan": "Cara menyucikan najis mughallazah ialah dengan membasuh sebanyak 7 kali, dan salah satunya menggunakan:",
+    "pilihan": ["Air tanah yang suci", "Sabun wangi", "Air mawar", "Garam halus"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_065",
+    "soalan": "Menyucikan najis mukhaffafah cukup dengan membuang ain najis dan:",
+    "pilihan": ["Merinjis air mutlak ke tempat najis", "Membasuh 7 kali", "Menyapu dengan debu tanah", "Menjemur di bawah panas matahari"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_066",
+    "soalan": "Kedudukan niat solat dilakukan serentak semasa:",
+    "pilihan": ["Takbiratul Ihram", "Membaca Al-Fatihah", "Rukuk", "Sujud"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_067",
+    "soalan": "Apakah hukum berdiri tegak bagi orang yang berkuasa semasa solat fardhu?",
+    "pilihan": ["Rukun (Wajib)", "Sunat", "Harus", "Makruh"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_068",
+    "soalan": "Sekiranya seseorang tidak mampu berdiri kerana sakit, dia dibolehkan solat secara:",
+    "pilihan": ["Duduk atau baring", "Tinggalkan solat", "Bayar denda sahaja", "Tidur"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_069",
+    "soalan": "Apakah bacaan tasbih yang dibaca ketika rukuk?",
+    "pilihan": [
+      "Subhana Rabbiyal 'Azimi Wabihamdih",
+      "Subhana Rabbiyal A'la Wabihamdih",
+      "Rabbighfirli warhamni",
+      "Sami'allahu liman hamidah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_070",
+    "soalan": "Apakah bacaan tasbih yang disunatkan ketika sujud?",
+    "pilihan": [
+      "Subhana Rabbiyal A'la Wabihamdih",
+      "Subhana Rabbiyal 'Azimi Wabihamdih",
+      "Allahu Akbar",
+      "Attahiyyatu lillah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_071",
+    "soalan": "Apakah ucapan yang dibaca ketika bangkit daripada rukuk menuju ke iktidal?",
+    "pilihan": [
+      "Sami'allahu liman hamidah",
+      "Allahu Akbar",
+      "Subhanallah",
+      "Astaghfirullah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_072",
+    "soalan": "Duduk di antara dua sujud merupakan salah satu daripada rukun:",
+    "pilihan": ["Fi'li (perbuatan)", "Qauli (perkataan)", "Qalbi (hati)", "Sunat hai'ah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_073",
+    "soalan": "Membaca doa Qunut disunatkan pada waktu solat:",
+    "pilihan": ["Subuh pada iktidal rakaat kedua", "Maghrib rakaat ketiga", "Zohor rakaat pertama", "Isyak rakaat kedua"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_074",
+    "soalan": "Doa Qunut tergolong dalam bahagian perkara sunat:",
+    "pilihan": ["Ab'ad", "Hai'ah", "Rukun", "Syarat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_075",
+    "soalan": "Jika tertinggal sunat ab'ad seperti tahiyyat awal atau doa Qunut, kita disunatkan melakukan:",
+    "pilihan": ["Sujud sahwi", "Sujud tilawah", "Sujud syukur", "Ulang semula solat dari awal"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_076",
+    "soalan": "Sujud sahwi dilakukan sebanyak dua kali sujud pada:",
+    "pilihan": ["Sebelum memberi salam pertama", "Selepas selesai solat 10 minit", "Semasa rukuk terakhir", "Ketika membaca tahiyyat awal"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_077",
+    "soalan": "Membaca tahiyyat akhir dalam solat merupakan:",
+    "pilihan": ["Rukun Qauli (Wajib)", "Sunat hai'ah", "Harus", "Syarat sah solat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_078",
+    "soalan": "Berselawat ke atas Nabi Muhammad SAW dalam tahiyyat akhir hukumnya adalah:",
+    "pilihan": ["Rukun solat (Wajib)", "Sunat hai'ah", "Makruh", "Harus"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_079",
+    "soalan": "Apakah lafaz yang diucapkan apabila muazzin melaungkan 'Hayya 'alas Solah'?",
+    "pilihan": [
+      "La hawla wala quwwata illa billah",
+      "Allahu Akbar",
+      "Sadaqta wabararta",
+      "Alhamdulillah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_080",
+    "soalan": "Apakah lafaz yang diucapkan apabila muazzin melaungkan 'Hayya 'alal Falah'?",
+    "pilihan": [
+      "La hawla wala quwwata illa billah",
+      "Allahu Akbar",
+      "Subhanallah",
+      "Assolatu khairum minan naum"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_081",
+    "soalan": "Berdoa di antara waktu azan dan iqamah adalah waktu yang:",
+    "pilihan": ["Sangat mustajab untuk berdoa", "Dilarang berdoa", "Makruh", "Tidak diterima"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_082",
+    "soalan": "Solat yang didirikan secara bersama-sama sekurang-kurangnya seorang imam dan seorang makmum dipanggil solat:",
+    "pilihan": ["Berjemaah", "Munfarid (sendirian)", "Sunat", "Hajat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_083",
+    "soalan": "Ganjaran pahala bagi solat berjemaah berbanding solat bersendirian ialah sebanyak:",
+    "pilihan": ["27 darjat / kali ganda", "10 kali ganda", "50 kali ganda", "7 kali ganda"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_084",
+    "soalan": "Orang yang mengetuai solat berjemaah dipanggil:",
+    "pilihan": ["Imam", "Makmum", "Bilal", "Muazzin"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_085",
+    "soalan": "Orang yang mengikut imam dalam solat berjemaah dipanggil:",
+    "pilihan": ["Makmum", "Imam", "Khatib", "Kadi"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_086",
+    "soalan": "Makmum yang sempat membaca Surah Al-Fatihah bersama imam pada rakaat pertama dipanggil:",
+    "pilihan": ["Makmum Muwafiq", "Makmum Masbuq", "Makmum Munfarid", "Makmum Musafir"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_087",
+    "soalan": "Makmum yang terlewat dan tidak sempat menghabiskan Surah Al-Fatihah bersama imam dipanggil:",
+    "pilihan": ["Makmum Masbuq", "Makmum Muwafiq", "Makmum Khas", "Makmum Pertama"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_088",
+    "soalan": "Apakah hukum makmum mendahului pergerakan imam dalam solat berjemaah?",
+    "pilihan": ["Haram dan boleh membatalkan solat", "Sunat", "Harus", "Mendapat lebih banyak pahala"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_089",
+    "soalan": "Merapatkan dan meluruskan saf sebelum solat berjemaah bermula hukumnya ialah:",
+    "pilihan": ["Sunat muakkad", "Haram", "Makruh", "Membatalkan solat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_090",
+    "soalan": "Kedudukan seorang makmum lelaki bersama seorang imam adalah di sebelah:",
+    "pilihan": ["Kanan imam ke belakang sedikit", "Kiri imam", "Hadapan imam", "Tepat di belakang imam"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_091",
+    "soalan": "Bersuci menggunakan debu tanah yang bersih sebagai ganti kepada wuduk dinamakan:",
+    "pilihan": ["Tayammum", "Istinjak", "Mandi hadas", "Taharah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_092",
+    "soalan": "Sebab yang membolehkan seseorang bertayammum ialah:",
+    "pilihan": ["Ketiadaan air atau sakit yang mudarat terkena air", "Malas mengambil wuduk", "Cuaca terlalu sejuk sedikit", "Pakaian kotor"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_093",
+    "soalan": "Anggota yang wajib disapu debu ketika bertayammum hanyalah:",
+    "pilihan": ["Muka dan dua tangan hingga ke siku", "Muka dan kaki", "Seluruh badan", "Kepala dan telinga"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_094",
+    "soalan": "Solat Jumaat mengandungi berapa rakaat?",
+    "pilihan": ["2 rakaat", "4 rakaat", "3 rakaat", "1 rakaat"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_095",
+    "soalan": "Solat Jumaat didirikan bagi menggantikan solat fardhu:",
+    "pilihan": ["Zohor", "Subuh", "Asar", "Maghrib"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_096",
+    "soalan": "Hukum menunaikan solat Jumaat bagi lelaki Muslim yang cukup syarat adalah:",
+    "pilihan": ["Fardhu Ain (Wajib)", "Sunat", "Harus", "Fardhu Kifayah"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_097",
+    "soalan": "Sebelum solat Jumaat didirikan, imam akan menyampaikan:",
+    "pilihan": ["Dua khutbah", "Ceramah bebas", "Nyanyian qasidah", "Ujian bertulis"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_098",
+    "soalan": "Mendengar khutbah Jumaat dengan senyap dan tenang hukumnya:",
+    "pilihan": ["Wajib / Dituntut (bercakap hukumnya lagha/makruh)", "Sunat bercakap", "Harus tidur", "Harus bermain telefon"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_099",
+    "soalan": "Kanak-kanak mula diperintahkan untuk belajar menunaikan solat apabila berumur:",
+    "pilihan": ["7 tahun", "15 tahun", "12 tahun", "3 tahun"],
+    "jawapan": 0
+  },
+  {
+    "id": "ibadah_2_100",
+    "soalan": "Solat merupakan tiang agama. Sesiapa yang meninggalkannya bererti dia:",
+    "pilihan": ["Meruntuhkan agamanya", "Menguatkan agamanya", "Mendapat pahala", "Menjadi orang yang mulia"],
+    "jawapan": 0
   }
 ]
