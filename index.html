@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Junior Digital 2 - Uji Minda Sekolah Rendah</title>
+  <title>Junior Digital 2 - Uji Minda Sekolah Rendah & KAFA</title>
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- Google Fonts: Fredoka & Quicksand -->
@@ -42,7 +42,7 @@
           <h1 class="font-kids text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
             Junior Digital 2
           </h1>
-          <p class="text-[11px] text-slate-500 font-semibold leading-tight">Uji Minda Pintar Sekolah Rendah</p>
+          <p class="text-[11px] text-slate-500 font-semibold leading-tight">Uji Minda Pintar Sekolah Rendah & KAFA</p>
         </div>
       </div>
       
@@ -117,8 +117,18 @@
         </button>
       </div>
 
-      <p class="text-xs text-slate-500 mt-4 mb-2">Pilih subjek pembelajaran adik:</p>
-      <div id="subjectGrid" class="grid grid-cols-1 sm:grid-cols-2 gap-3.5 my-4"></div>
+      <!-- Tab Kategori: Akademik KSSR vs KAFA -->
+      <div class="flex gap-2 mt-4 p-1.5 bg-slate-100 rounded-2xl">
+        <button id="tabAkademik" onclick="switchCategory('akademik')" class="flex-1 py-2.5 rounded-xl font-kids text-xs sm:text-sm font-bold bg-white text-indigo-600 shadow-sm transition">
+          📚 Akademik (KSSR)
+        </button>
+        <button id="tabKafa" onclick="switchCategory('kafa')" class="flex-1 py-2.5 rounded-xl font-kids text-xs sm:text-sm font-bold text-slate-600 hover:text-emerald-700 transition">
+          🕌 KAFA / UPKK
+        </button>
+      </div>
+
+      <p class="text-xs text-slate-500 mt-3 mb-1" id="subjectCategoryDesc">Pilih subjek pembelajaran adik:</p>
+      <div id="subjectGrid" class="grid grid-cols-1 sm:grid-cols-2 gap-3.5 my-3"></div>
     </div>
 
     <!-- SCREEN 2.5: SESI PEMBELAJARAN GRAMMAR KHAS -->
@@ -298,6 +308,7 @@
        DATA PENGGUNA & KUIZ
        ========================================================= */
     let userData = { nama: '', darjah: 2, kelas: '' };
+    let activeCategory = 'akademik'; // 'akademik' atau 'kafa'
     let currentSubjectKey = '';
     let currentSubjectName = '';
     let isSpecialGrammar = false;
@@ -327,7 +338,6 @@
 
       userData = { nama, darjah, kelas };
 
-      // Simpan sesi murid
       localStorage.setItem('junior_user', JSON.stringify(userData));
 
       applyUserData();
@@ -349,10 +359,28 @@
 
     function logoutUser() {
       playClickSound();
-      localStorage.removeItem('junior_user'); // Padam sesi aktif
+      localStorage.removeItem('junior_user');
       document.getElementById('navUserBadge').classList.add('hidden');
       document.getElementById('navUserBadge').classList.remove('flex');
       showScreen('screenLogin');
+    }
+
+    function switchCategory(cat) {
+      playClickSound();
+      activeCategory = cat;
+      const tabA = document.getElementById('tabAkademik');
+      const tabK = document.getElementById('tabKafa');
+
+      if (cat === 'akademik') {
+        tabA.className = "flex-1 py-2.5 rounded-xl font-kids text-xs sm:text-sm font-bold bg-white text-indigo-600 shadow-sm transition";
+        tabK.className = "flex-1 py-2.5 rounded-xl font-kids text-xs sm:text-sm font-bold text-slate-600 hover:text-emerald-700 transition";
+        document.getElementById('subjectCategoryDesc').innerText = 'Pilih subjek pembelajaran akademik adik:';
+      } else {
+        tabK.className = "flex-1 py-2.5 rounded-xl font-kids text-xs sm:text-sm font-bold bg-white text-emerald-700 shadow-sm transition";
+        tabA.className = "flex-1 py-2.5 rounded-xl font-kids text-xs sm:text-sm font-bold text-slate-600 hover:text-indigo-600 transition";
+        document.getElementById('subjectCategoryDesc').innerText = 'Pilih subjek KAFA / UPKK adik:';
+      }
+      renderSubjects();
     }
 
     function renderSubjects() {
@@ -360,35 +388,52 @@
       grid.innerHTML = '';
 
       let list = [];
-      if (userData.darjah <= 3) {
-        // TAHAP 1: 4 Subjek Biasa + 1 Mod Khas BI Grammar Learning
-        list = [
-          { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '25 Soalan • 100% Markah' },
-          { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '25 Soalan • 100% Markah' },
-          { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '25 Soalan • 100% Markah' },
-          { key: 'sains', name: 'Sains', icon: '🔬', desc: '25 Soalan • 100% Markah' },
-          { key: 'grammar', name: 'BI Grammar (Asas)', icon: '⭐', desc: 'Nota Ringkas + 10 Soalan', special: true }
-        ];
+
+      if (activeCategory === 'akademik') {
+        if (userData.darjah <= 3) {
+          list = [
+            { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '25 Soalan • 100% Markah' },
+            { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '25 Soalan • 100% Markah' },
+            { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '25 Soalan • 100% Markah' },
+            { key: 'sains', name: 'Sains', icon: '🔬', desc: '25 Soalan • 100% Markah' },
+            { key: 'grammar', name: 'BI Grammar (Asas)', icon: '⭐', desc: 'Nota Ringkas + 10 Soalan', special: true }
+          ];
+        } else {
+          list = [
+            { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '25 Soalan • 100% Markah' },
+            { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '25 Soalan • 100% Markah' },
+            { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '25 Soalan • 100% Markah' },
+            { key: 'sains', name: 'Sains', icon: '🔬', desc: '25 Soalan • 100% Markah' },
+            { key: 'sejarah', name: 'Sejarah', icon: '🏛️', desc: '25 Soalan • 100% Markah' },
+            { key: 'am', name: 'Pengetahuan Am', icon: '🌍', desc: '25 Soalan • 100% Markah' }
+          ];
+        }
       } else {
-        // TAHAP 2: 6 Subjek
+        // SENARAI SUBJEK KAFA / UPKK
         list = [
-          { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '25 Soalan • 100% Markah' },
-          { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '25 Soalan • 100% Markah' },
-          { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '25 Soalan • 100% Markah' },
-          { key: 'sains', name: 'Sains', icon: '🔬', desc: '25 Soalan • 100% Markah' },
-          { key: 'sejarah', name: 'Sejarah', icon: '🏛️', desc: '25 Soalan • 100% Markah' },
-          { key: 'am', name: 'Pengetahuan Am', icon: '🌍', desc: '25 Soalan • 100% Markah' }
+          { key: 'kafa_ibadah', name: 'Ibadah', icon: '🕌', desc: '25 Soalan • Fardhu Ain & Solat' },
+          { key: 'kafa_sirah', name: 'Sirah Nabawiyyah', icon: '📜', desc: '25 Soalan • Kisah Rasulullah SAW' },
+          { key: 'kafa_akidah', name: 'Akidah / Tauhid', icon: '🌙', desc: '25 Soalan • Rukun Iman & Islam' },
+          { key: 'kafa_adab', name: 'Adab (Akhlak Islamiah)', icon: '🤲', desc: '25 Soalan • Akhlak Terpuji' },
+          { key: 'kafa_jawi', name: 'Jawi & Khat', icon: '✍️', desc: '25 Soalan • Ejaan & Membaca Jawi' },
+          { key: 'kafa_arab', name: 'Bahasa Arab', icon: '📖', desc: '25 Soalan • Kosa Kata & Asas Arab' },
+          { key: 'kafa_tajwid', name: 'Al-Quran & Tajwid', icon: '✨', desc: '25 Soalan • Hukum Tajwid Asas' }
         ];
       }
 
       list.forEach(sub => {
         const btn = document.createElement('div');
         const isGrammar = (sub.key === 'grammar');
+        const isKafa = activeCategory === 'kafa';
+
         btn.className = `bubbly-btn p-4 rounded-2xl cursor-pointer flex items-center justify-between border-2 transition ${
           isGrammar 
             ? 'bg-purple-50/80 border-purple-300 hover:border-purple-500 shadow-sm' 
+            : isKafa
+            ? 'bg-emerald-50/70 border-emerald-200 hover:border-emerald-500'
             : 'bg-slate-50 border-slate-200 hover:border-indigo-500'
         }`;
+
         btn.onclick = () => {
           playClickSound();
           if (isGrammar) {
@@ -397,15 +442,20 @@
             loadSubjectJSON(sub.key, sub.name, btn);
           }
         };
+
+        const themeColor = isGrammar ? 'text-purple-900' : isKafa ? 'text-emerald-900' : 'text-slate-800';
+        const subTextColor = isGrammar ? 'text-purple-600' : isKafa ? 'text-emerald-600' : 'text-slate-400';
+        const badgeColor = isGrammar ? 'text-purple-700 bg-purple-100' : isKafa ? 'text-emerald-700 bg-emerald-100' : 'text-indigo-600 bg-indigo-50';
+
         btn.innerHTML = `
           <div class="flex items-center space-x-3">
             <span class="text-3xl">${sub.icon}</span>
             <div>
-              <h4 class="font-kids text-base font-bold ${isGrammar ? 'text-purple-900' : 'text-slate-800'}">${sub.name}</h4>
-              <p class="text-[11px] ${isGrammar ? 'text-purple-600 font-bold' : 'text-slate-400 font-semibold'}">${sub.desc}</p>
+              <h4 class="font-kids text-base font-bold ${themeColor}">${sub.name}</h4>
+              <p class="text-[11px] font-semibold ${subTextColor}">${sub.desc}</p>
             </div>
           </div>
-          <span class="text-xs font-bold ${isGrammar ? 'text-purple-700 bg-purple-100' : 'text-indigo-600 bg-indigo-50'} px-3 py-1 rounded-xl">Mula ➡</span>
+          <span class="text-xs font-bold ${badgeColor} px-3 py-1 rounded-xl">Mula ➡</span>
         `;
         grid.appendChild(btn);
       });
@@ -448,8 +498,9 @@
       initQuizSession(10);
     }
 
-    // TARIK FAIL JSON SUBJEK LAIN
+    // TARIK FAIL JSON SUBJEK
     async function loadSubjectJSON(subKey, subName, btnElement) {
+      // Format nama fail: data/{darjah}_{subjek}.json (Contoh: 2_kafa_ibadah.json atau 2_bm.json)
       currentSubjectKey = `${userData.darjah}_${subKey}`;
       currentSubjectName = subName;
       isSpecialGrammar = false;
@@ -464,7 +515,7 @@
         if (!res.ok) throw new Error(`Status ${res.status}`);
         rawBankQuestions = await res.json();
       } catch (err) {
-        alert(`Gagal memuatkan fail: data/${currentSubjectKey}.json\n\nSila pastikan fail wujud dalam folder data/ di GitHub.`);
+        alert(`Gagal memuatkan fail: data/${currentSubjectKey}.json\n\nSila pastikan fail soalan wujud dalam folder data/ di GitHub.`);
         if (btnElement) {
           btnElement.style.pointerEvents = 'auto';
           btnElement.style.opacity = '1';
@@ -480,8 +531,8 @@
       initQuizSession(25);
     }
 
-    // PILIH SOALAN RAWAK BEBAS ULANGAN (10 SOALAN GRAMMAR / 25 SOALAN SUBJEK LAIN)
-   function initQuizSession(soalanCount) {
+    // PILIH SOALAN RAWAK BEBAS ULANGAN
+    function initQuizSession(soalanCount) {
       const historyKey = `hist_${userData.nama}_${currentSubjectKey}`;
       let answeredIds = JSON.parse(localStorage.getItem(historyKey) || '[]');
 
@@ -503,7 +554,6 @@
       currentIndex = 0;
       answers = {};
 
-      // Simpan status sesi kuiz aktif ke localStorage
       saveActiveQuizSession();
 
       document.getElementById('quizSubjekTitle').innerText = currentSubjectName;
@@ -514,7 +564,6 @@
       showScreen('screenQuiz');
     }
 
-    // Fungsi bantuan untuk simpan progres kuiz
     function saveActiveQuizSession() {
       const sessionData = {
         currentSubjectKey,
@@ -526,7 +575,8 @@
       };
       localStorage.setItem('active_quiz_session', JSON.stringify(sessionData));
     }
-  function loadQuestion() {
+
+    function loadQuestion() {
       const q = currentQuestions[currentIndex];
       const total = currentQuestions.length;
 
@@ -552,7 +602,7 @@
         btn.onclick = () => {
           playSelectSound();
           answers[currentIndex] = idx;
-          saveActiveQuizSession(); // Simpan jawapan ke localStorage
+          saveActiveQuizSession();
           loadQuestion();
         };
         btn.innerHTML = `
@@ -577,21 +627,21 @@
     function navigateQ(step) {
       playClickSound();
       currentIndex += step;
-      saveActiveQuizSession(); // Simpan nombor soalan terkini
+      saveActiveQuizSession();
       loadQuestion();
     }
 
- function exitQuiz() {
+    function exitQuiz() {
       playClickSound();
       if (confirm('Adakah adik pasti mahu keluar dari sesi ini?')) {
-        localStorage.removeItem('active_quiz_session'); // Padam sesi aktif
+        localStorage.removeItem('active_quiz_session');
         showScreen('screenSubjects');
       }
     }
 
     function submitQuiz() {
       playSuccessSound();
-      localStorage.removeItem('active_quiz_session'); // Padam sesi aktif kerana kuiz telah selesai
+      localStorage.removeItem('active_quiz_session');
 
       let correct = 0;
       currentQuestions.forEach((q, idx) => {
@@ -639,7 +689,6 @@
       document.removeEventListener('click', unlockAudio);
     }, { once: true });
 
-  // Semak automatik bila laman web dimuatkan semula / di-refresh
     window.addEventListener('DOMContentLoaded', () => {
       const savedUser = localStorage.getItem('junior_user');
       if (savedUser) {
@@ -648,7 +697,6 @@
           applyUserData();
           renderSubjects();
 
-          // Semak jika ada sesi kuiz aktif yang belum selesai
           const activeSession = localStorage.getItem('active_quiz_session');
           if (activeSession) {
             const parsed = JSON.parse(activeSession);
@@ -664,9 +712,9 @@
             document.getElementById('totalQNum').innerText = currentQuestions.length;
 
             loadQuestion();
-            showScreen('screenQuiz'); // Terus sambung ke soalan kuiz
+            showScreen('screenQuiz');
           } else {
-            showScreen('screenSubjects'); // Jika tiada kuiz berjalan, buka papan pemuka subjek
+            showScreen('screenSubjects');
           }
         } catch (e) {
           localStorage.removeItem('junior_user');
@@ -677,4 +725,3 @@
   </script>
 </body>
 </html>
-
