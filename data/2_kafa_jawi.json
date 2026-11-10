@@ -1,0 +1,602 @@
+[
+  {
+    "id": "jawi_2_001",
+    "soalan": "Antara berikut, yang manakah merupakan huruf-huruf vokal dalam tulisan Jawi?",
+    "pilihan": ["ا ، و ، ي", "ب ، ت ، ث", "ج ، ح ، خ", "د ، ذ ، ر"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_002",
+    "soalan": "Berapakah bilangan huruf vokal asas dalam tulisan Jawi?",
+    "pilihan": ["2", "3", "4", "5"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_003",
+    "soalan": "Huruf 'چ' mewakili huruf Rumi:",
+    "pilihan": ["C", "J", "S", "Z"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_004",
+    "soalan": "Huruf 'ڠ' mewakili bunyi Rumi bagi gabungan huruf:",
+    "pilihan": ["Ny", "Ng", "Kh", "Sy"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_005",
+    "soalan": "Huruf 'ڤ' mewakili huruf Rumi:",
+    "pilihan": ["B", "F", "P", "V"],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_2_006",
+    "soalan": "Huruf 'ݢ' mewakili huruf Rumi:",
+    "pilihan": ["G", "K", "Q", "J"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_007",
+    "soalan": "Huruf 'ڽ' mewakili gabungan huruf Rumi:",
+    "pilihan": ["Ng", "Ny", "Gh", "Sy"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_008",
+    "soalan": "Huruf 'ۏ' mewakili huruf Rumi:",
+    "pilihan": ["W", "V", "U", "O"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_009",
+    "soalan": "Antara huruf berikut, yang manakah BUKAN huruf khas Jawi?",
+    "pilihan": ["چ", "ڤ", "ب", "ݢ"],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_2_010",
+    "soalan": "Berapakah bilangan huruf khas Jawi (huruf yang tiada dalam abjad Arab asas)?",
+    "pilihan": ["4", "5", "6", "8"],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_2_011",
+    "soalan": "Antara huruf berikut, yang manakah TIDAK boleh disambung dengan huruf selepasnya?",
+    "pilihan": ["ب", "د", "س", "م"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_012",
+    "soalan": "Huruf manakah yang boleh disambung sebelum dan selepasnya?",
+    "pilihan": ["ر", "ز", "ب", "و"],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_2_013",
+    "soalan": "Kumpulan huruf manakah yang SEMUANYA tidak boleh disambung dengan huruf selepasnya?",
+    "pilihan": ["ا ، د ، ذ ، ر ، ز ، و", "ب ، ت ، ث ، ن ، ي", "ج ، چ ، ح ، خ", "س ، ش ، ص ، ض"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_014",
+    "soalan": "Huruf 'و' boleh disambung dengan huruf:",
+    "pilihan": ["Sebelumnya sahaja", "Selepasnya sahaja", "Sebelum dan selepasnya", "Tidak boleh disambung langsung"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_015",
+    "soalan": "Huruf 'م' apabila berada di awal perkataan ditulis secara:",
+    "pilihan": ["Boleh disambung dengan huruf selepasnya", "Tidak boleh bersambung", "Mesti ditulis huruf tunggal", "Dipisahkan"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_016",
+    "soalan": "Hasil sambungan huruf 'ب + ا + ج + و' yang betul ialah:",
+    "pilihan": ["باجو", "باجي", "بوجا", "بيجو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_017",
+    "soalan": "Hasil sambungan huruf 'ب + و + ک + و' yang betul ialah:",
+    "pilihan": ["بوکو", "بوكي", "باكو", "بوك"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_018",
+    "soalan": "Hasil sambungan huruf 'د + ا + د + و' yang betul ialah:",
+    "pilihan": ["دادو", "دودي", "ديدو", "دادا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_019",
+    "soalan": "Hasil sambungan huruf 'ک + و + د + ا' yang betul ialah:",
+    "pilihan": ["كودا", "كودي", "كادو", "كيدا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_020",
+    "soalan": "Hasil sambungan huruf 'ل + ا + ر + ي' yang betul ialah:",
+    "pilihan": ["لاري", "لورو", "ليرا", "لايرا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_021",
+    "soalan": "Apakah maksud suku kata terbuka dalam Jawi?",
+    "pilihan": ["Suku kata yang diakhiri dengan huruf vokal (ا ، و ، ي)", "Suku kata yang diakhiri dengan huruf konsonan", "Suku kata yang tiada vokal", "Suku kata satu huruf"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_022",
+    "soalan": "Perkataan 'بولا' terdiri daripada jenis suku kata:",
+    "pilihan": ["Dua suku kata terbuka", "Dua suku kata tertutup", "Satu terbuka, satu tertutup", "Satu tertutup, satu terbuka"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_023",
+    "soalan": "Pilih padanan suku kata terbuka bagi perkataan 'ro - ti':",
+    "pilihan": ["رو - تي", "را - تو", "ري - تا", "رو - تا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_024",
+    "soalan": "Pilih padanan suku kata terbuka bagi perkataan 'su - du':",
+    "pilihan": ["سو - دو", "سا - دي", "سي - دا", "سو - دا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_025",
+    "soalan": "Pilih padanan suku kata terbuka bagi perkataan 'gi - gi':",
+    "pilihan": ["ݢي - ݢي", "ݢا - ݢا", "ݢو - ݢو", "ݢي - ݢا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_026",
+    "soalan": "Pilih padanan suku kata terbuka bagi perkataan 'to - pi':",
+    "pilihan": ["تو - ڤي", "تا - ڤي", "تي - ڤو", "تو - ڤو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_027",
+    "soalan": "Pilih padanan suku kata terbuka bagi perkataan 'ke - re - ta':",
+    "pilihan": ["ک - ري - تا", "کو - رو - تو", "کي - ري - تي", "کا - را - تا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_028",
+    "soalan": "Perkataan 'چيري' dalam tulisan Rumi ialah:",
+    "pilihan": ["Cari", "Ceri", "Curi", "Cera"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_029",
+    "soalan": "Perkataan 'ڤاسو' dalam tulisan Rumi ialah:",
+    "pilihan": ["Pasu", "Paku", "Pipi", "Padi"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_030",
+    "soalan": "Perkataan 'ماتي' dalam tulisan Rumi ialah:",
+    "pilihan": ["Mata", "Mati", "Mutu", "Mitu"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_031",
+    "soalan": "Bunyi 'k' di akhir kata Melayu jati dieja menggunakan huruf:",
+    "pilihan": ["ک", "ق", "كاف", "ݢ"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_032",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'pokok' ialah:",
+    "pilihan": ["ڤوکوق", "ڤوکک", "ڤوکݢ", "ڤوکو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_033",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'anak' ialah:",
+    "pilihan": ["انق", "انک", "انوک", "انيق"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_034",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'itik' ialah:",
+    "pilihan": ["ايتيق", "ايتک", "اتيق", "ايتوك"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_035",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'katak' ialah:",
+    "pilihan": ["کاتق", "کاتک", "کوتق", "کيتيق"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_036",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'masak' ialah:",
+    "pilihan": ["ماسق", "ماسک", "موسق", "ميسق"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_037",
+    "soalan": "Perkataan 'تاريق' dalam tulisan Rumi ialah:",
+    "pilihan": ["Tarik", "Tolak", "Tebuk", "Tepuk"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_038",
+    "soalan": "Perkataan 'بوسوق' dalam tulisan Rumi ialah:",
+    "pilihan": ["Basah", "Busuk", "Batuk", "Budak"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_039",
+    "soalan": "Huruf 'ک' di akhir kata digunakan untuk perkataan pinjaman daripada bahasa:",
+    "pilihan": ["Melayu Jati", "Inggeris / Asing", "Sanskrit", "Parsi"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_040",
+    "soalan": "Pilih ejaan Jawi yang betul bagi perkataan pinjaman Inggeris 'bank':",
+    "pilihan": ["بنق", "بڠک", "بڠق", "بانق"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_041",
+    "soalan": "Apakah maksud suku kata tertutup?",
+    "pilihan": ["Suku kata yang diakhiri dengan huruf konsonan", "Suku kata yang diakhiri dengan huruf vokal", "Suku kata yang ada dua vokal", "Suku kata tanpa huruf pertama"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_042",
+    "soalan": "Huruf vokal 'a' pada suku kata tertutup (KVK) biasanya:",
+    "pilihan": ["Dikekalkan huruf alif", "Digugurkan huruf alif", "Ditukar kepada huruf wau", "Ditukar kepada huruf ya"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_043",
+    "soalan": "Ejaan bagi perkataan satu suku kata 'jam' dalam Jawi ialah:",
+    "pilihan": ["جم", "جام", "جوم", "جيم"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_044",
+    "soalan": "Ejaan bagi perkataan satu suku kata 'cat' dalam Jawi ialah:",
+    "pilihan": ["چت", "چات", "چوت", "چيت"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_045",
+    "soalan": "Ejaan bagi perkataan satu suku kata 'bas' dalam Jawi ialah:",
+    "pilihan": ["بس", "باس", "بوس", "بيس"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_046",
+    "soalan": "Ejaan bagi perkataan satu suku kata 'tin' dalam Jawi ialah:",
+    "pilihan": ["تين", "تن", "تون", "تان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_047",
+    "soalan": "Ejaan bagi perkataan satu suku kata 'bot' dalam Jawi ialah:",
+    "pilihan": ["بوت", "بت", "بيت", "بات"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_048",
+    "soalan": "Perkataan 'ڤين' dalam tulisan Rumi ialah:",
+    "pilihan": ["Pan", "Pin", "Pun", "Puan"],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_2_049",
+    "soalan": "Perkataan 'زيب' dalam tulisan Rumi ialah:",
+    "pilihan": ["Zip", "Zap", "Zup", "Zep"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_050",
+    "soalan": "Perkataan 'ݢڤ' dalam tulisan Rumi ialah:",
+    "pilihan": ["Gap", "Gip", "Gup", "Gop"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_051",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'pintu' ialah:",
+    "pilihan": ["ڤينتو", "ڤنتو", "ڤانتو", "ڤينتا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_052",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'lampu' ialah:",
+    "pilihan": ["لمڤو", "لامڤو", "لومڤو", "ليمڤو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_053",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'lembu' ialah:",
+    "pilihan": ["لمبو", "ليمبو", "لومبو", "لامبو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_054",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'bomba' ialah:",
+    "pilihan": ["بومبا", "بمبا", "بيمبا", "بامبا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_055",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'cincin' ialah:",
+    "pilihan": ["چينچين", "چنچن", "چانچان", "چونچون"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_056",
+    "soalan": "Perkataan 'كيڤس' dalam tulisan Rumi dibaca sebagai:",
+    "pilihan": ["Kipas", "Kapas", "Kupang", "Kabus"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_057",
+    "soalan": "Perkataan 'ڤنسيل' dalam tulisan Rumi dibaca sebagai:",
+    "pilihan": ["Pensel", "Pondok", "Pantai", "Pintas"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_058",
+    "soalan": "Perkataan 'چندول' dalam tulisan Rumi dibaca sebagai:",
+    "pilihan": ["Cendol", "Cincin", "Cangkul", "Cempedak"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_059",
+    "soalan": "Perkataan 'رومڤوت' dalam tulisan Rumi dibaca sebagai:",
+    "pilihan": ["Rumput", "Rambut", "Rempah", "Rengat"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_060",
+    "soalan": "Perkataan 'دومڤيت' dalam Jawi dieja untuk perkataan Rumi:",
+    "pilihan": ["Dompet", "Doktor", "Dakwat", "Dacing"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_061",
+    "soalan": "Diftong 'ai' dalam ejaan Jawi biasanya dilambangkan dengan huruf:",
+    "pilihan": ["اي", "او", "وي", "يو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_062",
+    "soalan": "Diftong 'au' dalam ejaan Jawi biasanya dilambangkan dengan huruf:",
+    "pilihan": ["او", "اي", "وي", "يا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_063",
+    "soalan": "Diftong 'oi' dalam ejaan Jawi biasanya dilambangkan dengan huruf:",
+    "pilihan": ["وي", "اي", "او", "يو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_064",
+    "soalan": "Ejaan Jawi bagi perkataan 'tupai' ialah:",
+    "pilihan": ["توڤاي", "توڤي", "توڤاو", "تاڤاي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_065",
+    "soalan": "Ejaan Jawi bagi perkataan 'pulau' ialah:",
+    "pilihan": ["ڤولاو", "ڤولو", "ڤولاي", "ڤالو"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_066",
+    "soalan": "Ejaan Jawi bagi perkataan 'sungai' ialah:",
+    "pilihan": ["سوڠاي", "سوڠي", "سوڠاو", "ساڠاي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_067",
+    "soalan": "Ejaan Jawi bagi perkataan 'rantai' ialah:",
+    "pilihan": ["رنتاي", "رنتي", "رونتاي", "رنتوي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_068",
+    "soalan": "Ejaan Jawi bagi perkataan 'kerbau' ialah:",
+    "pilihan": ["کرباو", "کربو", "کورباو", "کرباي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_069",
+    "soalan": "Perkataan 'کوبوي' dalam tulisan Rumi ialah:",
+    "pilihan": ["Koboi", "Kabai", "Kubur", "Kicap"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_070",
+    "soalan": "Perkataan 'سوراو' dalam tulisan Rumi ialah:",
+    "pilihan": ["Surau", "Serai", "Suri", "Sudu"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_071",
+    "soalan": "Pilih ejaan Jawi yang betul bagi anggota badan 'mata':",
+    "pilihan": ["مات", "ماتي", "ماتو", "ميت"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_072",
+    "soalan": "Pilih ejaan Jawi yang betul bagi anggota badan 'telinga':",
+    "pilihan": ["تليڠا", "تليڠ", "تالڠا", "تلوڠا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_073",
+    "soalan": "Pilih ejaan Jawi yang betul bagi anggota badan 'hidung':",
+    "pilihan": ["هيدوڠ", "هيدڠ", "هادوڠ", "هودوڠ"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_074",
+    "soalan": "Pilih ejaan Jawi yang betul bagi anggota badan 'kaki':",
+    "pilihan": ["کاکي", "کاکو", "کيکو", "کوکي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_075",
+    "soalan": "Pilih ejaan Jawi yang betul bagi anggota badan 'jari':",
+    "pilihan": ["جاري", "جوري", "جورو", "جيرا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_076",
+    "soalan": "Pilih ejaan Jawi yang betul bagi anggota badan 'tangan':",
+    "pilihan": ["تاڠن", "تاڠان", "توڠن", "تيڠن"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_077",
+    "soalan": "Pilih ejaan Jawi yang betul bagi anggota badan 'kepala':",
+    "pilihan": ["کڤالا", "کڤل", "کوڤالا", "کيڤلا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_078",
+    "soalan": "Perkataan 'سيكو' dalam tulisan Rumi merujuk kepada anggota badan:",
+    "pilihan": ["Siku", "Saku", "Suka", "Soto"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_079",
+    "soalan": "Perkataan 'کوتو' dalam tulisan Rumi ialah:",
+    "pilihan": ["Kutu", "Kuda", "Kubu", "Kota"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_080",
+    "soalan": "Perkataan 'ليمو' dalam tulisan Rumi ialah:",
+    "pilihan": ["Limau", "Limu", "Leman", "Labu"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_081",
+    "soalan": "Frasa 'باجو بارو' dalam tulisan Rumi dibaca sebagai:",
+    "pilihan": ["Baju baru", "Batu baru", "Baju biru", "Baju buku"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_082",
+    "soalan": "Frasa 'سوسو لمبو' dalam tulisan Rumi dibaca sebagai:",
+    "pilihan": ["Susu lembu", "Susu labu", "Sudu lembu", "Soto lembu"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_083",
+    "soalan": "Frasa 'کريتا باڤ' dalam tulisan Rumi dibaca sebagai:",
+    "pilihan": ["Kereta bapa", "Kereta biru", "Kereta ibu", "Kereta lama"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_084",
+    "soalan": "Frasa 'سارڠ بوروڠ' dalam Rumi dibaca:",
+    "pilihan": ["Sarang burung", "Sayap burung", "Suara burung", "Sangkar burung"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_085",
+    "soalan": "Frasa 'ايکوق کاتق' dalam tulisan Rumi ialah:",
+    "pilihan": ["Ekor katak", "Anak katak", "Ikan katak", "Mata katak"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_086",
+    "soalan": "Frasa 'بوکو چريتا' dieja dalam tulisan Jawi sebagai:",
+    "pilihan": ["بوکو چريتا", "بوکو چاري", "بوكي چريتو", "باكو چريتا"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_087",
+    "soalan": "Frasa 'روتي چناي' dieja dalam tulisan Jawi sebagai:",
+    "pilihan": ["روتي چناي", "روتي چني", "راتي چناي", "روتو چناي"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_088",
+    "soalan": "Frasa 'بولا سيڤق' dieja dalam tulisan Jawi sebagai:",
+    "pilihan": ["بولا سيڤق", "بولا سيڤک", "بالو سيڤق", "بولا ساڤق"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_089",
+    "soalan": "Frasa 'توڤي هيتم' dieja dalam tulisan Jawi sebagai:",
+    "pilihan": ["توڤي هيتم", "توڤي حاتم", "تاڤي هيتم", "توڤو هيتم"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_090",
+    "soalan": "Frasa 'ڤاسو بوڠا' dieja dalam tulisan Jawi sebagai:",
+    "pilihan": ["ڤاسو بوڠا", "ڤاکو بوڠا", "ڤاسو باڠو", "ڤاسو بوڠ"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_091",
+    "soalan": "Ayat 'اين بوکو ساي' dalam tulisan Rumi dibaca:",
+    "pilihan": ["Ini buku saya", "Itu buku saya", "Ini baju saya", "Ini bola saya"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_092",
+    "soalan": "Ayat 'امق ماسق ناسي' dalam tulisan Rumi dibaca:",
+    "pilihan": ["Emak masak nasi", "Emak makan nasi", "Ibu minum air", "Kakak masak nasi"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_093",
+    "soalan": "Ayat 'علي سوک ممباچ' dalam tulisan Rumi dibaca:",
+    "pilihan": ["Ali suka membaca", "Ali suka bermain", "Ali suka melukis", "Ali suka menyanyi"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_094",
+    "soalan": "Ejaan Jawi bagi perkataan 'solat' ialah:",
+    "pilihan": ["صلوة", "سولت", "سولاة", "سالت"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_095",
+    "soalan": "Ejaan Jawi bagi perkataan 'wuduk' ialah:",
+    "pilihan": ["وضوء", "ودوق", "وادوق", "وودوق"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_096",
+    "soalan": "Ejaan Jawi bagi perkataan 'masjid' ialah:",
+    "pilihan": ["مسجد", "مسجيد", "ماسجد", "موسجد"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_097",
+    "soalan": "Ejaan Jawi bagi perkataan 'azan' ialah:",
+    "pilihan": ["اذان", "ازن", "ادان", "اعزان"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_098",
+    "soalan": "Ejaan Jawi bagi perkataan 'surah' ialah:",
+    "pilihan": ["سورة", "سوره", "سورا", "سوراه"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_099",
+    "soalan": "Ejaan Jawi bagi perkataan 'ustaz' ialah:",
+    "pilihan": ["استاذ", "استاد", "اوستاز", "اوستاد"],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_2_100",
+    "soalan": "Perkataan 'قرآن' dalam tulisan Rumi dibaca sebagai:",
+    "pilihan": ["Quran", "Qari", "Qiblat", "Qiam"],
+    "jawapan": 0
+  }
+]
