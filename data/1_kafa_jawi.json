@@ -2,601 +2,1101 @@
   {
     "id": "jawi_1_001",
     "soalan": "Apakah huruf pertama dalam abjad Jawi?",
-    "pilihan": ["ا (Alif)", "ب (Ba)", "ت (Ta)", "ث (Tha)"],
-    "jawapan": 0
+    "pilihan": [
+      "ث (Tha)",
+      "ت (Ta)",
+      "ا (Alif)",
+      "ب (Ba)"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_002",
     "soalan": "Huruf apakah yang mempunyai SATU titik di bawah?",
-    "pilihan": ["ب", "ت", "ث", "ن"],
-    "jawapan": 0
+    "pilihan": [
+      "ث",
+      "ن",
+      "ب",
+      "ت"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_003",
     "soalan": "Huruf apakah yang mempunyai DUA titik di atas?",
-    "pilihan": ["ت", "ب", "ث", "ي"],
-    "jawapan": 0
+    "pilihan": [
+      "ي",
+      "ث",
+      "ت",
+      "ب"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_004",
     "soalan": "Huruf apakah yang mempunyai TIGA titik di atas dalam kumpulan bentuk mangkuk?",
-    "pilihan": ["ث", "ت", "ب", "ن"],
-    "jawapan": 0
+    "pilihan": [
+      "ت",
+      "ب",
+      "ث",
+      "ن"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_005",
     "soalan": "Huruf apakah yang mempunyai SATU titik di dalam perutnya?",
-    "pilihan": ["ج", "ح", "خ", "چ"],
+    "pilihan": [
+      "ج",
+      "ح",
+      "خ",
+      "چ"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_006",
     "soalan": "Huruf apakah yang tidak mempunyai sebarang titik?",
-    "pilihan": ["ح", "ج", "خ", "چ"],
-    "jawapan": 0
+    "pilihan": [
+      "چ",
+      "خ",
+      "ح",
+      "ج"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_007",
     "soalan": "Huruf apakah yang mempunyai SATU titik di atas kepalanya?",
-    "pilihan": ["خ", "ح", "ج", "ع"],
-    "jawapan": 0
+    "pilihan": [
+      "ح",
+      "خ",
+      "ع",
+      "ج"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_008",
     "soalan": "Huruf 'چ' mempunyai berapa titik di dalam perutnya?",
-    "pilihan": ["3 titik", "1 titik", "2 titik", "Tiada titik"],
-    "jawapan": 0
+    "pilihan": [
+      "Tiada titik",
+      "2 titik",
+      "3 titik",
+      "1 titik"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_009",
     "soalan": "Huruf 'چ' berbunyi seperti huruf Rumi:",
-    "pilihan": ["C", "J", "B", "S"],
+    "pilihan": [
+      "C",
+      "B",
+      "S",
+      "J"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_010",
     "soalan": "Huruf 'ڤ' berbunyi seperti huruf Rumi:",
-    "pilihan": ["P", "F", "B", "M"],
-    "jawapan": 0
+    "pilihan": [
+      "B",
+      "M",
+      "F",
+      "P"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_011",
     "soalan": "Berapakah bilangan titik bagi huruf 'ڤ'?",
-    "pilihan": ["3 titik di atas", "1 titik di atas", "2 titik di bawah", "1 titik di bawah"],
-    "jawapan": 0
+    "pilihan": [
+      "2 titik di bawah",
+      "1 titik di bawah",
+      "1 titik di atas",
+      "3 titik di atas"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_012",
     "soalan": "Huruf 'ڠ' mempunyai 3 titik di atasnya. Ia berbunyi seperti:",
-    "pilihan": ["Ng", "Ny", "Gh", "Kh"],
-    "jawapan": 0
+    "pilihan": [
+      "Gh",
+      "Ny",
+      "Ng",
+      "Kh"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_013",
     "soalan": "Huruf 'ݢ' berbunyi seperti huruf Rumi:",
-    "pilihan": ["G", "K", "Q", "J"],
-    "jawapan": 0
+    "pilihan": [
+      "K",
+      "Q",
+      "G",
+      "J"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_014",
     "soalan": "Huruf 'ڽ' berbunyi seperti gabungan huruf Rumi:",
-    "pilihan": ["Ny", "Ng", "Sy", "Kh"],
-    "jawapan": 0
+    "pilihan": [
+      "Kh",
+      "Ng",
+      "Sy",
+      "Ny"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_015",
     "soalan": "Huruf vokal asas dalam tulisan Jawi ialah:",
-    "pilihan": ["ا ، و ، ي", "ب ، ت ، ث", "ج ، ح ، خ", "د ، ر ، ز"],
-    "jawapan": 0
+    "pilihan": [
+      "ج ، ح ، خ",
+      "ب ، ت ، ث",
+      "د ، ر ، ز",
+      "ا ، و ، ي"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_016",
     "soalan": "Berapakah bilangan huruf vokal dalam Jawi?",
-    "pilihan": ["3 huruf", "5 huruf", "2 huruf", "4 huruf"],
+    "pilihan": [
+      "3 huruf",
+      "5 huruf",
+      "4 huruf",
+      "2 huruf"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_017",
     "soalan": "Huruf 'ا' (Alif) mewakili bunyi vokal:",
-    "pilihan": ["a", "i", "u", "o"],
-    "jawapan": 0
+    "pilihan": [
+      "u",
+      "a",
+      "i",
+      "o"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_018",
     "soalan": "Huruf 'و' (Wau) mewakili bunyi vokal:",
-    "pilihan": ["u dan o", "a sahaja", "i sahaja", "e taling"],
-    "jawapan": 0
+    "pilihan": [
+      "e taling",
+      "u dan o",
+      "i sahaja",
+      "a sahaja"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_019",
     "soalan": "Huruf 'ي' (Ya) mewakili bunyi vokal:",
-    "pilihan": ["i dan e", "a dan u", "o sahaja", "u sahaja"],
-    "jawapan": 0
+    "pilihan": [
+      "u sahaja",
+      "o sahaja",
+      "a dan u",
+      "i dan e"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_020",
     "soalan": "Huruf 'د' mewakili huruf Rumi:",
-    "pilihan": ["D", "B", "R", "Z"],
-    "jawapan": 0
+    "pilihan": [
+      "R",
+      "D",
+      "B",
+      "Z"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_021",
     "soalan": "Huruf 'ر' mewakili huruf Rumi:",
-    "pilihan": ["R", "L", "W", "D"],
-    "jawapan": 0
+    "pilihan": [
+      "W",
+      "R",
+      "D",
+      "L"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_022",
     "soalan": "Huruf 'ز' mempunyai titik di atas. Ia mewakili huruf Rumi:",
-    "pilihan": ["Z", "R", "S", "J"],
-    "jawapan": 0
+    "pilihan": [
+      "R",
+      "Z",
+      "S",
+      "J"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_023",
     "soalan": "Huruf 'س' mewakili huruf Rumi:",
-    "pilihan": ["S", "C", "Sy", "T"],
+    "pilihan": [
+      "S",
+      "Sy",
+      "T",
+      "C"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_024",
     "soalan": "Huruf 'م' mewakili huruf Rumi:",
-    "pilihan": ["M", "N", "W", "L"],
+    "pilihan": [
+      "M",
+      "L",
+      "N",
+      "W"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_025",
     "soalan": "Huruf 'ن' mempunyai SATU titik di:",
-    "pilihan": ["Atas (tengah mangkuk)", "Bawah", "Tepi", "Belakang"],
+    "pilihan": [
+      "Atas (tengah mangkuk)",
+      "Belakang",
+      "Bawah",
+      "Tepi"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_026",
     "soalan": "Huruf manakah yang TIDAK boleh disambung dengan huruf selepasnya?",
-    "pilihan": ["ا", "ب", "ت", "س"],
-    "jawapan": 0
+    "pilihan": [
+      "ت",
+      "ا",
+      "س",
+      "ب"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_027",
     "soalan": "Antara huruf berikut, huruf manakah yang TIDAK boleh disambung dengan huruf selepasnya (kumpulan huruf pemutus)?",
-    "pilihan": ["د", "م", "ك", "ل"],
-    "jawapan": 0
+    "pilihan": [
+      "م",
+      "ك",
+      "د",
+      "ل"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_028",
     "soalan": "Huruf 'و' (Wau) adalah huruf yang:",
-    "pilihan": ["Tidak boleh disambung dengan huruf selepasnya", "Boleh disambung selepasnya", "Mesti bersambung kiri kanan", "Sentiasa berada di awal"],
-    "jawapan": 0
+    "pilihan": [
+      "Boleh disambung selepasnya",
+      "Sentiasa berada di awal",
+      "Tidak boleh disambung dengan huruf selepasnya",
+      "Mesti bersambung kiri kanan"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_029",
     "soalan": "Huruf 'ر' (Ra) apabila ditulis di tengah perkataan:",
-    "pilihan": ["Boleh bersambung sebelum tetapi tidak selepasnya", "Boleh bersambung selepasnya", "Tidak boleh bersambung langsung", "Ditulis di atas garisan"],
+    "pilihan": [
+      "Boleh bersambung sebelum tetapi tidak selepasnya",
+      "Boleh bersambung selepasnya",
+      "Ditulis di atas garisan",
+      "Tidak boleh bersambung langsung"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_030",
     "soalan": "Huruf 'ب' apabila berada di awal perkataan ditulis secara:",
-    "pilihan": ["Boleh menyambung huruf selepasnya", "Mesti bersendirian", "Tidak boleh disambung", "Dibuang titik"],
+    "pilihan": [
+      "Boleh menyambung huruf selepasnya",
+      "Tidak boleh disambung",
+      "Mesti bersendirian",
+      "Dibuang titik"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_031",
     "soalan": "Sambungan huruf 'ب + ا' berbunyi:",
-    "pilihan": ["Ba", "Bu", "Bi", "Bo"],
-    "jawapan": 0
+    "pilihan": [
+      "Bu",
+      "Bo",
+      "Bi",
+      "Ba"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_032",
     "soalan": "Sambungan huruf 'ب + و' berbunyi:",
-    "pilihan": ["Bu / Bo", "Ba", "Bi", "Be"],
-    "jawapan": 0
+    "pilihan": [
+      "Be",
+      "Bi",
+      "Ba",
+      "Bu / Bo"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_033",
     "soalan": "Sambungan huruf 'ب + ي' berbunyi:",
-    "pilihan": ["Bi / Be", "Ba", "Bu", "Bo"],
-    "jawapan": 0
+    "pilihan": [
+      "Bo",
+      "Bi / Be",
+      "Bu",
+      "Ba"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_034",
     "soalan": "Sambungan huruf 'ت + ا' berbunyi:",
-    "pilihan": ["Ta", "Tu", "Ti", "To"],
-    "jawapan": 0
+    "pilihan": [
+      "Tu",
+      "To",
+      "Ti",
+      "Ta"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_035",
     "soalan": "Sambungan huruf 'ت + و' berbunyi:",
-    "pilihan": ["Tu / To", "Ta", "Ti", "Te"],
-    "jawapan": 0
+    "pilihan": [
+      "Ta",
+      "Te",
+      "Tu / To",
+      "Ti"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_036",
     "soalan": "Sambungan huruf 'ت + ي' berbunyi:",
-    "pilihan": ["Ti / Te", "Ta", "Tu", "To"],
-    "jawapan": 0
+    "pilihan": [
+      "Tu",
+      "To",
+      "Ti / Te",
+      "Ta"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_037",
     "soalan": "Sambungan huruf 'ج + ا' berbunyi:",
-    "pilihan": ["Ja", "Ju", "Ji", "Jo"],
-    "jawapan": 0
+    "pilihan": [
+      "Jo",
+      "Ju",
+      "Ji",
+      "Ja"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_038",
     "soalan": "Sambungan huruf 'ج + و' berbunyi:",
-    "pilihan": ["Ju / Jo", "Ja", "Ji", "Je"],
-    "jawapan": 0
+    "pilihan": [
+      "Je",
+      "Ju / Jo",
+      "Ji",
+      "Ja"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_039",
     "soalan": "Sambungan huruf 'ج + ي' berbunyi:",
-    "pilihan": ["Ji / Je", "Ja", "Ju", "Jo"],
-    "jawapan": 0
+    "pilihan": [
+      "Jo",
+      "Ju",
+      "Ji / Je",
+      "Ja"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_040",
     "soalan": "Sambungan huruf 'چ + ا' berbunyi:",
-    "pilihan": ["Ca", "Cu", "Ci", "Co"],
-    "jawapan": 0
+    "pilihan": [
+      "Co",
+      "Ca",
+      "Cu",
+      "Ci"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_041",
     "soalan": "Sambungan huruf 'چ + و' berbunyi:",
-    "pilihan": ["Cu / Co", "Ca", "Ci", "Ce"],
-    "jawapan": 0
+    "pilihan": [
+      "Ce",
+      "Ci",
+      "Cu / Co",
+      "Ca"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_042",
     "soalan": "Sambungan huruf 'چ + ي' berbunyi:",
-    "pilihan": ["Ci / Ce", "Ca", "Cu", "Co"],
+    "pilihan": [
+      "Ci / Ce",
+      "Co",
+      "Cu",
+      "Ca"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_043",
     "soalan": "Sambungan huruf 'د + ا' berbunyi:",
-    "pilihan": ["Da", "Du", "Di", "Do"],
-    "jawapan": 0
+    "pilihan": [
+      "Di",
+      "Do",
+      "Du",
+      "Da"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_044",
     "soalan": "Sambungan huruf 'د + و' berbunyi:",
-    "pilihan": ["Du / Do", "Da", "Di", "De"],
-    "jawapan": 0
+    "pilihan": [
+      "Da",
+      "De",
+      "Di",
+      "Du / Do"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_045",
     "soalan": "Sambungan huruf 'د + ي' berbunyi:",
-    "pilihan": ["Di / De", "Da", "Du", "Do"],
-    "jawapan": 0
+    "pilihan": [
+      "Du",
+      "Di / De",
+      "Do",
+      "Da"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_046",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ba - pa'?",
-    "pilihan": ["باڤا", "بوڤو", "بيڤي", "باڤ"],
-    "jawapan": 0
+    "pilihan": [
+      "بيڤي",
+      "باڤ",
+      "بوڤو",
+      "باڤا"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_047",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'bu - ku'?",
-    "pilihan": ["بوکو", "بوكي", "باكو", "بيکو"],
-    "jawapan": 0
+    "pilihan": [
+      "باكو",
+      "بوکي",
+      "بيکو",
+      "بوکو"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_048",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'bo - la'?",
-    "pilihan": ["بولا", "بالو", "بيلا", "بولي"],
-    "jawapan": 0
+    "pilihan": [
+      "بالو",
+      "بولي",
+      "بيلا",
+      "بولا"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_049",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ba - ju'?",
-    "pilihan": ["باجو", "باجي", "بوجو", "بيجو"],
+    "pilihan": [
+      "باجو",
+      "بيجو",
+      "بوجو",
+      "باجي"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_050",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ba - tu'?",
-    "pilihan": ["باتو", "باتي", "بوتي", "بيتو"],
-    "jawapan": 0
+    "pilihan": [
+      "بيتو",
+      "باتي",
+      "بوتي",
+      "باتو"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_051",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ku - ku'?",
-    "pilihan": ["کوکو", "کاکي", "کاکو", "کيکو"],
-    "jawapan": 0
+    "pilihan": [
+      "کاکي",
+      "کوکو",
+      "کيکو",
+      "کاکو"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_052",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ka - ki'?",
-    "pilihan": ["کاکي", "کوکو", "کوکي", "کيکو"],
+    "pilihan": [
+      "کاکي",
+      "کوکي",
+      "کوکو",
+      "کيکو"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_053",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ku - da'?",
-    "pilihan": ["کودا", "کودي", "کادو", "کيدا"],
-    "jawapan": 0
+    "pilihan": [
+      "کادو",
+      "کودي",
+      "کودا",
+      "کيدا"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_054",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'su - du'?",
-    "pilihan": ["سودو", "سودي", "سادو", "سيدو"],
-    "jawapan": 0
+    "pilihan": [
+      "سيدو",
+      "سادو",
+      "سودي",
+      "سودو"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_055",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'su - su'?",
-    "pilihan": ["سوسو", "سوسي", "ساسو", "سيسو"],
-    "jawapan": 0
+    "pilihan": [
+      "ساسو",
+      "سيسو",
+      "سوسي",
+      "سوسو"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_056",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'to - pi'?",
-    "pilihan": ["توڤي", "تاڤي", "تيڤو", "توڤو"],
-    "jawapan": 0
+    "pilihan": [
+      "توڤو",
+      "توڤي",
+      "تاڤي",
+      "تيڤو"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_057",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ta - li'?",
-    "pilihan": ["تالي", "تولو", "تولا", "تيلا"],
-    "jawapan": 0
+    "pilihan": [
+      "تولو",
+      "تالي",
+      "تولا",
+      "تيلا"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_058",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ro - ti'?",
-    "pilihan": ["روتي", "راتي", "ريتو", "روتا"],
-    "jawapan": 0
+    "pilihan": [
+      "روتا",
+      "راتي",
+      "روتي",
+      "ريتو"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_059",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ro - da'?",
-    "pilihan": ["رودا", "رودي", "رادو", "ريدا"],
-    "jawapan": 0
+    "pilihan": [
+      "رودي",
+      "رودا",
+      "رادو",
+      "ريدا"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_060",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'gu - ru'?",
-    "pilihan": ["ݢورو", "ݢاري", "ݢوري", "ݢيرو"],
-    "jawapan": 0
+    "pilihan": [
+      "ݢاري",
+      "ݢورو",
+      "ݢيرو",
+      "ݢوري"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_061",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'gi - gi'?",
-    "pilihan": ["ݢيݢي", "ݢوݢو", "ݢاݢا", "ݢيݢا"],
-    "jawapan": 0
+    "pilihan": [
+      "ݢاݢا",
+      "ݢيݢي",
+      "ݢيݢا",
+      "ݢوݢو"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_062",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'gu - la'?",
-    "pilihan": ["ݢولا", "ݢالي", "ݢولي", "ݢيلا"],
-    "jawapan": 0
+    "pilihan": [
+      "ݢالي",
+      "ݢولا",
+      "ݢولي",
+      "ݢيلا"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_063",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'pa - su'?",
-    "pilihan": ["ڤاسو", "ڤاسي", "ڤوسو", "ڤيسو"],
-    "jawapan": 0
+    "pilihan": [
+      "ڤاسي",
+      "ڤوسو",
+      "ڤاسو",
+      "ڤيسو"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_064",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'pa - ku'?",
-    "pilihan": ["ڤاکو", "ڤاکي", "ڤوکو", "ڤيکو"],
+    "pilihan": [
+      "ڤاکو",
+      "ڤاکی",
+      "ڤوکو",
+      "ڤيکو"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_065",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'pi - pi'?",
-    "pilihan": ["ڤيڤي", "ڤاڤا", "ڤوڤو", "ڤيڤا"],
-    "jawapan": 0
+    "pilihan": [
+      "ڤاڤا",
+      "ڤيڤا",
+      "ڤيڤي",
+      "ڤوڤو"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_066",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ce - ri'?",
-    "pilihan": ["چيري", "چوري", "چاري", "چيرا"],
-    "jawapan": 0
+    "pilihan": [
+      "چوري",
+      "چاري",
+      "چيري",
+      "چيرا"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_067",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ci - ku'?",
-    "pilihan": ["چيکو", "چاکو", "چوکو", "چيکي"],
-    "jawapan": 0
+    "pilihan": [
+      "چاکو",
+      "چيکو",
+      "چيکي",
+      "چوکو"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_068",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'la - ri'?",
-    "pilihan": ["لاري", "لورو", "ليرا", "لايرا"],
-    "jawapan": 0
+    "pilihan": [
+      "لايرا",
+      "لاري",
+      "لورو",
+      "ليرا"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_069",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'la - bu'?",
-    "pilihan": ["لابو", "لوبا", "ليبي", "لابي"],
-    "jawapan": 0
+    "pilihan": [
+      "لوبا",
+      "لابي",
+      "ليبي",
+      "لابو"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_070",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ja - ri'?",
-    "pilihan": ["جاري", "جوري", "جورو", "جيرا"],
-    "jawapan": 0
+    "pilihan": [
+      "جيرا",
+      "جوري",
+      "جاري",
+      "جورو"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_071",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'na - si'?",
-    "pilihan": ["ناسي", "نوسو", "نيسا", "ناسو"],
+    "pilihan": [
+      "ناسي",
+      "نوسو",
+      "نيسا",
+      "ناسو"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_072",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'ma - ta'?",
-    "pilihan": ["مات", "ماتي", "ماتو", "ميت"],
-    "jawapan": 0
+    "pilihan": [
+      "ماتي",
+      "مات",
+      "ميت",
+      "ماتو"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_073",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'me - ja'?",
-    "pilihan": ["ميج", "ماجو", "ماجا", "موجو"],
-    "jawapan": 0
+    "pilihan": [
+      "ماجو",
+      "ميج",
+      "موجو",
+      "ماجا"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_074",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'da - du'?",
-    "pilihan": ["دادو", "دودي", "ديدو", "دادا"],
-    "jawapan": 0
+    "pilihan": [
+      "ديدو",
+      "دودي",
+      "دادا",
+      "دادو"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_075",
     "soalan": "Apakah ejaan Jawi yang betul bagi perkataan 'lu - ku'?",
-    "pilihan": ["لوکو", "لاکو", "ليکو", "لوکا"],
+    "pilihan": [
+      "لوکو",
+      "لوکا",
+      "لاکو",
+      "ليکو"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_076",
     "soalan": "Perkataan Jawi 'سوسو' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Susu", "Sudu", "Soto", "Sawi"],
-    "jawapan": 0
+    "pilihan": [
+      "Sudu",
+      "Soto",
+      "Susu",
+      "Sawi"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_077",
     "soalan": "Perkataan Jawi 'بوکو' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Buku", "Baki", "Biku", "Batu"],
-    "jawapan": 0
+    "pilihan": [
+      "Biku",
+      "Batu",
+      "Baki",
+      "Buku"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_078",
     "soalan": "Perkataan Jawi 'بولا' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Bola", "Beli", "Bulu", "Bila"],
-    "jawapan": 0
+    "pilihan": [
+      "Beli",
+      "Bulu",
+      "Bila",
+      "Bola"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_079",
     "soalan": "Perkataan Jawi 'کودا' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Kuda", "Kubu", "Kutu", "Kaya"],
-    "jawapan": 0
+    "pilihan": [
+      "Kutu",
+      "Kaya",
+      "Kubu",
+      "Kuda"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_080",
     "soalan": "Perkataan Jawi 'کاکي' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Kaki", "Kuku", "Koka", "Kiku"],
-    "jawapan": 0
+    "pilihan": [
+      "Kuku",
+      "Kiku",
+      "Koka",
+      "Kaki"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_081",
     "soalan": "Perkataan Jawi 'روتي' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Roti", "Ratu", "Rata", "Ratu"],
-    "jawapan": 0
+    "pilihan": [
+      "Ratu",
+      "Roti",
+      "Rata",
+      "Ritu"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_082",
     "soalan": "Perkataan Jawi 'توڤي' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Topi", "Tapi", "Tepu", "Tapa"],
-    "jawapan": 0
+    "pilihan": [
+      "Tepu",
+      "Tapa",
+      "Topi",
+      "Tapi"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_083",
     "soalan": "Perkataan Jawi 'باجو' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Baju", "Baja", "Baji", "Biji"],
-    "jawapan": 0
+    "pilihan": [
+      "Baji",
+      "Baju",
+      "Biji",
+      "Baja"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_084",
     "soalan": "Perkataan Jawi 'ݢيݢي' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Gigi", "Gugu", "Gaga", "Giga"],
-    "jawapan": 0
+    "pilihan": [
+      "Giga",
+      "Gaga",
+      "Gigi",
+      "Gugu"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_085",
     "soalan": "Perkataan Jawi 'ݢورو' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Guru", "Gari", "Garu", "Guri"],
+    "pilihan": [
+      "Guru",
+      "Gari",
+      "Guri",
+      "Garu"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_086",
     "soalan": "Perkataan Jawi 'ڤاسو' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Pasu", "Paku", "Pipi", "Padi"],
-    "jawapan": 0
+    "pilihan": [
+      "Paku",
+      "Padi",
+      "Pasu",
+      "Pipi"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_087",
     "soalan": "Perkataan Jawi 'لابو' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Labu", "Luba", "Lobi", "Labi"],
-    "jawapan": 0
+    "pilihan": [
+      "Labi",
+      "Loba",
+      "Lobi",
+      "Labu"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_088",
     "soalan": "Perkataan Jawi 'جاري' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Jari", "Juri", "Jura", "Jira"],
-    "jawapan": 0
+    "pilihan": [
+      "Juri",
+      "Jari",
+      "Jira",
+      "Jura"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_089",
     "soalan": "Perkataan Jawi 'ناسي' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Nasi", "Nusa", "Nisa", "Nasa"],
-    "jawapan": 0
+    "pilihan": [
+      "Nusa",
+      "Nasi",
+      "Nasa",
+      "Nisa"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_090",
     "soalan": "Perkataan Jawi 'دادو' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Dadu", "Dada", "Dodi", "Didi"],
-    "jawapan": 0
+    "pilihan": [
+      "Dodi",
+      "Didi",
+      "Dadu",
+      "Dada"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_091",
     "soalan": "Frasa 'بوکو ساي' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Buku saya", "Baju saya", "Bola saya", "Bapa saya"],
-    "jawapan": 0
+    "pilihan": [
+      "Baju saya",
+      "Buku saya",
+      "Bapa saya",
+      "Bola saya"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_092",
     "soalan": "Frasa 'باجو بارو' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Baju baru", "Batu baru", "Baju biru", "Baju buku"],
-    "jawapan": 0
+    "pilihan": [
+      "Batu baru",
+      "Baju baru",
+      "Baju biru",
+      "Baju buku"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_093",
     "soalan": "Frasa 'بولا بيلا' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Bola biru", "Bola bola", "Bulu biru", "Baju biru"],
-    "jawapan": 0
+    "pilihan": [
+      "Bola bola",
+      "Bola biru",
+      "Baju biru",
+      "Bulu biru"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_094",
     "soalan": "Frasa 'کودا باڤ' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Kuda bapa", "Kuda biru", "Kutu bapa", "Kuda ibu"],
-    "jawapan": 0
+    "pilihan": [
+      "Kuda ibu",
+      "Kuda bapa",
+      "Kutu bapa",
+      "Kuda biru"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_095",
     "soalan": "Frasa 'سوسو لمبو' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Susu lembu", "Susu labu", "Sudu lembu", "Soto lembu"],
-    "jawapan": 0
+    "pilihan": [
+      "Sudu lembu",
+      "Soto lembu",
+      "Susu lembu",
+      "Susu labu"
+    ],
+    "jawapan": 2
   },
   {
     "id": "jawi_1_096",
     "soalan": "Frasa 'روتي چناي' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Roti canai", "Roti kaya", "Roti bakar", "Roti manis"],
+    "pilihan": [
+      "Roti canai",
+      "Roti kaya",
+      "Roti bakar",
+      "Roti manis"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_097",
     "soalan": "Frasa 'توڤي بيرو' dalam tulisan Jawi ialah:",
-    "pilihan": ["توڤي بيلو / بيرو", "توڤي بارو", "تاڤي بيرو", "توڤي باتو"],
-    "jawapan": 0
+    "pilihan": [
+      "توڤي باتو",
+      "توڤي بيلو / بيرو",
+      "تاڤي بيرو",
+      "توڤي بارو"
+    ],
+    "jawapan": 1
   },
   {
     "id": "jawi_1_098",
     "soalan": "Frasa 'ݢيݢي ساي' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Gigi saya", "Kaki saya", "Gula saya", "Guru saya"],
+    "pilihan": [
+      "Gigi saya",
+      "Guru saya",
+      "Gula saya",
+      "Kaki saya"
+    ],
     "jawapan": 0
   },
   {
     "id": "jawi_1_099",
     "soalan": "Frasa 'ڤاسو بوڠا' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Pasu bunga", "Paku bunga", "Pasu biru", "Pintu bunga"],
-    "jawapan": 0
+    "pilihan": [
+      "Pintu bunga",
+      "Pasu biru",
+      "Paku bunga",
+      "Pasu bunga"
+    ],
+    "jawapan": 3
   },
   {
     "id": "jawi_1_100",
     "soalan": "Ayat 'اين باجو ساي' dibaca dalam Rumi sebagai:",
-    "pilihan": ["Ini baju saya", "Itu baju saya", "Ini buku saya", "Ini bola saya"],
+    "pilihan": [
+      "Ini baju saya",
+      "Ini bola saya",
+      "Ini buku saya",
+      "Itu baju saya"
+    ],
     "jawapan": 0
   }
 ]
