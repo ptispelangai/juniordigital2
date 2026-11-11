@@ -190,11 +190,11 @@
       <!-- Progress -->
       <div class="mt-4">
         <div class="flex justify-between items-center text-xs font-bold text-slate-600 mb-1">
-          <span>Soalan <span id="currentQNum" class="text-indigo-600 text-base">1</span> / <span id="totalQNum">25</span></span>
+          <span>Soalan <span id="currentQNum" class="text-indigo-600 text-base">1</span> / <span id="totalQNum">10</span></span>
           <span id="quizProgressPercent" class="text-indigo-600">4%</span>
         </div>
         <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden border border-slate-200">
-          <div id="progressBar" class="bg-indigo-600 h-full rounded-full transition-all duration-300 w-[4%]"></div>
+          <div id="progressBar" class="bg-indigo-600 h-full rounded-full transition-all duration-300 w-[10%]"></div>
         </div>
       </div>
 
@@ -382,44 +382,45 @@
       }
       renderSubjects();
     }
+function renderSubjects() {
+  const grid = document.getElementById('subjectGrid');
+  grid.innerHTML = '';
 
-    function renderSubjects() {
-      const grid = document.getElementById('subjectGrid');
-      grid.innerHTML = '';
+  let list = [];
 
-      let list = [];
+  if (activeCategory === 'akademik') {
+    if (userData.darjah <= 3) {
+      list = [
+        { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '10 Soalan • 100% Markah' },
+        { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '10 Soalan • 100% Markah' },
+        { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '10 Soalan • 100% Markah' },
+        { key: 'sains', name: 'Sains', icon: '🔬', desc: '10 Soalan • 100% Markah' },
+        { key: 'grammar', name: 'BI Grammar (Asas)', icon: '⭐', desc: 'Nota Ringkas + 10 Soalan', special: true }
+      ];
+    } else {
+      list = [
+        { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '10 Soalan • 100% Markah' },
+        { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '10 Soalan • 100% Markah' },
+        { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '10 Soalan • 100% Markah' },
+        { key: 'sains', name: 'Sains', icon: '🔬', desc: '10 Soalan • 100% Markah' },
+        { key: 'sejarah', name: 'Sejarah', icon: '🏛️', desc: '10 Soalan • 100% Markah' },
+        { key: 'am', name: 'Pengetahuan Am', icon: '🌍', desc: '10 Soalan • 100% Markah' }
+      ];
+    }
+  } else {
+    // SUBJEK KAFA / UPKK
+    list = [
+      { key: 'kafa_ibadah', name: 'Ibadah', icon: '🕌', desc: '10 Soalan • Fardhu Ain & Solat' },
+      { key: 'kafa_sirah', name: 'Sirah Nabawiyyah', icon: '📜', desc: '10 Soalan • Kisah Rasulullah SAW' },
+      { key: 'kafa_akidah', name: 'Akidah / Tauhid', icon: '🌙', desc: '10 Soalan • Rukun Iman & Islam' },
+      { key: 'kafa_adab', name: 'Adab (Akhlak Islamiah)', icon: '🤲', desc: '10 Soalan • Akhlak Terpuji' },
+      { key: 'kafa_jawi', name: 'Jawi & Khat', icon: '✍️', desc: '10 Soalan • Ejaan & Membaca Jawi' },
+      { key: 'kafa_arab', name: 'Bahasa Arab', icon: '📖', desc: '10 Soalan • Kosa Kata & Asas Arab' },
+      { key: 'kafa_tajwid', name: 'Al-Quran & Tajwid', icon: '✨', desc: '10 Soalan • Hukum Tajwid Asas' }
+    ];
+  }
 
-      if (activeCategory === 'akademik') {
-        if (userData.darjah <= 3) {
-          list = [
-            { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '25 Soalan • 100% Markah' },
-            { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '25 Soalan • 100% Markah' },
-            { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '25 Soalan • 100% Markah' },
-            { key: 'sains', name: 'Sains', icon: '🔬', desc: '25 Soalan • 100% Markah' },
-            { key: 'grammar', name: 'BI Grammar (Asas)', icon: '⭐', desc: 'Nota Ringkas + 10 Soalan', special: true }
-          ];
-        } else {
-          list = [
-            { key: 'bm', name: 'Bahasa Melayu', icon: '📖', desc: '25 Soalan • 100% Markah' },
-            { key: 'bi', name: 'Bahasa Inggeris', icon: '🔤', desc: '25 Soalan • 100% Markah' },
-            { key: 'matematik', name: 'Matematik', icon: '🔢', desc: '25 Soalan • 100% Markah' },
-            { key: 'sains', name: 'Sains', icon: '🔬', desc: '25 Soalan • 100% Markah' },
-            { key: 'sejarah', name: 'Sejarah', icon: '🏛️', desc: '25 Soalan • 100% Markah' },
-            { key: 'am', name: 'Pengetahuan Am', icon: '🌍', desc: '25 Soalan • 100% Markah' }
-          ];
-        }
-      } else {
-        // SENARAI SUBJEK KAFA / UPKK
-        list = [
-          { key: 'kafa_ibadah', name: 'Ibadah', icon: '🕌', desc: '25 Soalan • Fardhu Ain & Solat' },
-          { key: 'kafa_sirah', name: 'Sirah Nabawiyyah', icon: '📜', desc: '25 Soalan • Kisah Rasulullah SAW' },
-          { key: 'kafa_akidah', name: 'Akidah / Tauhid', icon: '🌙', desc: '25 Soalan • Rukun Iman & Islam' },
-          { key: 'kafa_adab', name: 'Adab (Akhlak Islamiah)', icon: '🤲', desc: '25 Soalan • Akhlak Terpuji' },
-          { key: 'kafa_jawi', name: 'Jawi & Khat', icon: '✍️', desc: '25 Soalan • Ejaan & Membaca Jawi' },
-          { key: 'kafa_arab', name: 'Bahasa Arab', icon: '📖', desc: '25 Soalan • Kosa Kata & Asas Arab' },
-          { key: 'kafa_tajwid', name: 'Al-Quran & Tajwid', icon: '✨', desc: '25 Soalan • Hukum Tajwid Asas' }
-        ];
-      }
+  // ... baki fungsi renderSubjects kekal sama
 
       list.forEach(sub => {
         const btn = document.createElement('div');
@@ -528,7 +529,7 @@
         btnElement.style.opacity = '1';
       }
 
-      initQuizSession(25);
+      initQuizSession(10);
     }
 
     // PILIH SOALAN RAWAK BEBAS ULANGAN
@@ -557,7 +558,7 @@
       saveActiveQuizSession();
 
       document.getElementById('quizSubjekTitle').innerText = currentSubjectName;
-      document.getElementById('quizBadge').innerText = isSpecialGrammar ? 'Tahap 1 • 10 Soalan' : `Tahun ${userData.darjah} • 25 Soalan`;
+      document.getElementById('quizBadge').innerText = isSpecialGrammar ? 'Tahap 1 • 10 Soalan' : `Tahun ${userData.darjah} • 10 Soalan`;
       document.getElementById('totalQNum').innerText = currentQuestions.length;
 
       loadQuestion();
@@ -638,52 +639,45 @@
         showScreen('screenSubjects');
       }
     }
+function submitQuiz() {
+  playSuccessSound();
+  localStorage.removeItem('active_quiz_session');
 
-    function submitQuiz() {
-      playSuccessSound();
-      localStorage.removeItem('active_quiz_session');
+  let correct = 0;
+  currentQuestions.forEach((q, idx) => {
+    if (answers[idx] === q.jawapan) correct++;
+  });
 
-      let correct = 0;
-      currentQuestions.forEach((q, idx) => {
-        if (answers[idx] === q.jawapan) correct++;
-      });
+  const totalQ = currentQuestions.length;
+  // Setiap soalan membawa 10 markah (10 x 10 = 100%)
+  const totalMarks = correct * 10;
 
-      const totalQ = currentQuestions.length;
-      let totalMarks = 0;
-      if (isSpecialGrammar) {
-        totalMarks = correct * 10;
-        document.getElementById('resScoreFraction').innerText = `${correct} / ${totalQ} Betul (10 markah/soalan)`;
-      } else {
-        totalMarks = correct * 4;
-        document.getElementById('resScoreFraction').innerText = `${correct} / ${totalQ} Betul (4 markah/soalan)`;
-      }
+  document.getElementById('resScoreFraction').innerText = `${correct} / ${totalQ} Betul (10 markah/soalan)`;
+  document.getElementById('resMarksPercent').innerText = `${totalMarks}%`;
+  document.getElementById('resNama').innerText = userData.nama;
+  document.getElementById('resKelas').innerText = `${userData.kelas} (Tahun ${userData.darjah})`;
+  document.getElementById('resSubjek').innerText = currentSubjectName;
 
-      document.getElementById('resMarksPercent').innerText = `${totalMarks}%`;
-      document.getElementById('resNama').innerText = userData.nama;
-      document.getElementById('resKelas').innerText = `${userData.kelas} (Tahun ${userData.darjah})`;
-      document.getElementById('resSubjek').innerText = currentSubjectName;
+  const gred = document.getElementById('resGred');
+  if (totalMarks >= 80) {
+    gred.innerText = "Cemerlang 🌟";
+    gred.className = "text-emerald-600 font-extrabold";
+    if (typeof confetti === 'function') confetti({ particleCount: 70, spread: 60 });
+  } else if (totalMarks >= 60) {
+    gred.innerText = "Baik 👍";
+    gred.className = "text-blue-600 font-extrabold";
+  } else {
+    gred.innerText = "Usaha Lagi 💪";
+    gred.className = "text-amber-600 font-extrabold";
+  }
 
-      const gred = document.getElementById('resGred');
-      if (totalMarks >= 80) {
-        gred.innerText = "Cemerlang 🌟";
-        gred.className = "text-emerald-600 font-extrabold";
-        if (typeof confetti === 'function') confetti({ particleCount: 70, spread: 60 });
-      } else if (totalMarks >= 60) {
-        gred.innerText = "Baik 👍";
-        gred.className = "text-blue-600 font-extrabold";
-      } else {
-        gred.innerText = "Usaha Lagi 💪";
-        gred.className = "text-amber-600 font-extrabold";
-      }
-
-      showScreen('screenResult');
-    }
+  showScreen('screenResult');
+}
 
     function restartQuizWithNewSet() {
-      playClickSound();
-      initQuizSession(isSpecialGrammar ? 10 : 25);
-    }
-
+  playClickSound();
+  initQuizSession(10);
+}
     document.addEventListener('click', function unlockAudio() {
       initAudio();
       document.removeEventListener('click', unlockAudio);
@@ -708,7 +702,7 @@
             answers = parsed.answers || {};
 
             document.getElementById('quizSubjekTitle').innerText = currentSubjectName;
-            document.getElementById('quizBadge').innerText = isSpecialGrammar ? 'Tahap 1 • 10 Soalan' : `Tahun ${userData.darjah} • 25 Soalan`;
+            document.getElementById('quizBadge').innerText = isSpecialGrammar ? 'Tahap 1 • 10 Soalan' : `Tahun ${userData.darjah} • 10 Soalan`;
             document.getElementById('totalQNum').innerText = currentQuestions.length;
 
             loadQuestion();
