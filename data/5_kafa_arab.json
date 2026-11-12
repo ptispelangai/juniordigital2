@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "arab_5_001",
+    "soalan": "Apakah perkataan Bahasa Arab bagi nombor '200' (Dua ratus)?",
+    "pilihan": [
+      "أَلْفٌ",
+      "مِائَتَانِ (Mi'atani)",
+      "ثَلَاثُمِائَةٍ",
+      "مِائَةٌ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_002",
+    "soalan": "Nombor 'ثَلَاثُمِائَةٍ' (Thalathumi'atin) mewakili angka:",
+    "pilihan": [
+      "30",
+      "3,000",
+      "300",
+      "13"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_003",
+    "soalan": "Perkataan Bahasa Arab bagi nombor '500' (Lima ratus) ialah:",
+    "pilihan": [
+      "خَمْسُمِائَةٍ",
+      "خَمْسُونَ",
+      "خَمْسَةٌ",
+      "خَمْسَةَ عَشَرَ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_004",
+    "soalan": "Nombor 'تِسْعُمِائَةٍ' (Tis'umi'atin) bermaksud:",
+    "pilihan": [
+      "Seribu (1,000)",
+      "Sembilan ratus (900)",
+      "Sembilan puluh (90)",
+      "Sembilan belas (19)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_005",
+    "soalan": "Apakah perkataan Bahasa Arab bagi nombor '1,000' (Seribu)?",
+    "pilihan": [
+      "مِلْيُونٌ",
+      "مِائَةٌ",
+      "عَشَرَةٌ",
+      "أَلْفٌ (Alfun)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_006",
+    "soalan": "Nombor 'مِائَةٌ وَخَمْسَةٌ وَعِشْرُونَ' dalam angka Rumi ialah:",
+    "pilihan": [
+      "521",
+      "125",
+      "215",
+      "152"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_007",
+    "soalan": "Nombor tertib (ordinal) 'الأَوَّلُ' (Al-Awwalu) bermaksud:",
+    "pilihan": [
+      "Yang terakhir",
+      "Yang ketiga (ke-3)",
+      "Yang pertama (ke-1)",
+      "Yang kedua (ke-2)"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_008",
+    "soalan": "Nombor tertib 'الثَّانِي' dan 'الثَّالِثُ' bermaksud:",
+    "pilihan": [
+      "Yang keempat dan yang kelima",
+      "Yang kedua dan yang ketiga",
+      "Yang kelapan dan yang kesembilan",
+      "Yang keenam dan yang ketujuh"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_009",
+    "soalan": "Ungkapan 'الصَّفُّ الخَامِسُ' (As-Safful Khamisu) bermaksud:",
+    "pilihan": [
+      "Tahun Tiga",
+      "Tahun Enam",
+      "Tahun Lima / Darjah Lima",
+      "Tahun Satu"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_010",
+    "soalan": "Perkataan Arab bagi 'Yang kesepuluh (ke-10)' ialah:",
+    "pilihan": [
+      "عَشَرَةٌ",
+      "الأَوَّلُ",
+      "العَاشِرُ",
+      "العِشْرُونَ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_011",
+    "soalan": "Apakah maksud perkataan 'قَمِيصٌ' (Qamisun)?",
+    "pilihan": [
+      "Kasut",
+      "Tali leher",
+      "Baju kemeja",
+      "Seluar panjang"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_012",
+    "soalan": "Perkataan Arab bagi 'Seluar panjang' ialah:",
+    "pilihan": [
+      "جَوْرَبٌ",
+      "فُسْتَانٌ",
+      "خِمَارٌ",
+      "سِرْوَالٌ / بَنْطَلُونٌ"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_013",
+    "soalan": "Maksud perkataan 'خِمَارٌ' (Khimarun) ialah:",
+    "pilihan": [
+      "Kopiah lelaki",
+      "Jam tangan",
+      "Tudung kepala wanita",
+      "Cermin mata"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_014",
+    "soalan": "Perkataan Arab bagi 'Kopiah / Songkok' ialah:",
+    "pilihan": [
+      "حِذَاءٌ",
+      "مِنْدِيلٌ",
+      "حِزَامٌ",
+      "قَلَنْسُوَةٌ"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_015",
+    "soalan": "Maksud perkataan 'حِذَاءٌ' (Hiza'un) ialah:",
+    "pilihan": [
+      "Kasut",
+      "Stokin",
+      "Baju kurung",
+      "Beg sekolah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_016",
+    "soalan": "Perkataan Arab bagi 'Stokin / Sarung kaki' ialah:",
+    "pilihan": [
+      "خَاتَمٌ",
+      "عِقْدٌ",
+      "قُفَّازٌ",
+      "جَوْرَبٌ"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_017",
+    "soalan": "Maksud ungkapan 'نَظَّارَةٌ' (Nazzaratun) ialah:",
+    "pilihan": [
+      "Tali pinggang",
+      "Cermin mata",
+      "Sapu tangan",
+      "Jam dinding"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_018",
+    "soalan": "Perkataan Arab bagi 'Jam tangan' ialah:",
+    "pilihan": [
+      "خَاتَمٌ",
+      "مِفْتَاحٌ",
+      "سَاعَةُ اليَدِ",
+      "سَاعَةُ الحَائِطِ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_019",
+    "soalan": "Maksud perkataan 'فُسْتَانٌ' (Fustanun) ialah:",
+    "pilihan": [
+      "Seluar pendek",
+      "Tali leher",
+      "Gaun / Baju kurung perempuan",
+      "Topi"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_020",
+    "soalan": "Perkataan Arab bagi 'Sapu tangan' ialah:",
+    "pilihan": [
+      "مِظَلَّةٌ",
+      "حَقِيبَةٌ",
+      "مِنْدِيلٌ",
+      "مِشْطٌ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_021",
+    "soalan": "Apakah maksud perkataan 'أُرْزٌ' (Urzun)?",
+    "pilihan": [
+      "Ikan",
+      "Daging",
+      "Roti",
+      "Nasi / Beras"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_022",
+    "soalan": "Perkataan Arab bagi 'Roti' ialah:",
+    "pilihan": [
+      "لَحْمٌ",
+      "خُبْزٌ",
+      "بَيْضٌ",
+      "سَمَكٌ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_023",
+    "soalan": "Maksud perkataan 'دَجَاجٌ' (Dajajun) ialah:",
+    "pilihan": [
+      "Daging lembu",
+      "Ayam",
+      "Udang",
+      "Ikan"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_024",
+    "soalan": "Perkataan Arab bagi 'Ikan' ialah:",
+    "pilihan": [
+      "سَمَكٌ",
+      "لَحْمٌ",
+      "جُبْنٌ",
+      "عَسَلٌ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_025",
+    "soalan": "Maksud perkataan 'خَضْرَاوَاتٌ' (Khadrawatun) ialah:",
+    "pilihan": [
+      "Sayur-sayuran",
+      "Minuman sejuk",
+      "Buah-buahan",
+      "Kuih-muih"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_026",
+    "soalan": "Perkataan Arab bagi 'Buah-buahan' ialah:",
+    "pilihan": [
+      "حَلْوَيَاتٌ",
+      "فَوَاكِهُ",
+      "مَأْكُولَاتٌ",
+      "خَضْرَاوَاتٌ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_027",
+    "soalan": "Maksud perkataan 'عَصِيرٌ' ('Asirun) ialah:",
+    "pilihan": [
+      "Susu segar",
+      "Jus buah-buahan",
+      "Kopi panas",
+      "Air mineral"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_028",
+    "soalan": "Perkataan Arab bagi 'Susu' ialah:",
+    "pilihan": [
+      "مَاءٌ",
+      "شَايٌ",
+      "حَلِيبٌ / لَبَنٌ",
+      "قَهْوَةٌ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_029",
+    "soalan": "Maksud perkataan 'شَايٌ' (Syayun) dan 'قَهْوَةٌ' (Qahwatun) ialah:",
+    "pilihan": [
+      "Teh dan Kopi",
+      "Air dan Jus",
+      "Susu dan Madu",
+      "Gula dan Garam"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_030",
+    "soalan": "Maksud perkataan 'عَسَلٌ' ('Asalun) ialah:",
+    "pilihan": [
+      "Madu lebah",
+      "Gula",
+      "Keju",
+      "Mentega"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_031",
+    "soalan": "Apakah maksud perkataan 'الطَّقْسُ' (At-Taqsu)?",
+    "pilihan": [
+      "Waktu",
+      "Warna",
+      "Pakaian",
+      "Cuaca"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_032",
+    "soalan": "Maksud ungkapan 'الجَوُّ حَارٌّ' (Al-Jawwu harrun) ialah:",
+    "pilihan": [
+      "Cuaca mendung",
+      "Cuaca sejuk",
+      "Cuaca panas",
+      "Hujan lebat"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_033",
+    "soalan": "Perkataan Arab bagi 'Sejuk' ialah:",
+    "pilihan": [
+      "حَارٌّ",
+      "بَارِدٌ",
+      "مُشْمِسٌ",
+      "مُمْطِرٌ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_034",
+    "soalan": "Maksud perkataan 'مَطَرٌ' (Matarun) ialah:",
+    "pilihan": [
+      "Angin",
+      "Awan",
+      "Hujan",
+      "Salji"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_035",
+    "soalan": "Maksud ungkapan 'فَصْلُ الصَّيْفِ' (Faslus-Saifi) ialah:",
+    "pilihan": [
+      "Musim luruh",
+      "Musim panas",
+      "Musim sejuk",
+      "Musim bunga"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_036",
+    "soalan": "Perkataan Arab bagi 'Musim sejuk' ialah:",
+    "pilihan": [
+      "فَصْلُ الصَّيْفِ",
+      "فَصْلُ الشِّتَاءِ",
+      "فَصْلُ الرَّبِيعِ",
+      "فَصْلُ الخَرِيفِ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_037",
+    "soalan": "Maksud ungkapan 'فَصْلُ الرَّبِيعِ' (Faslur-Rabi'i) ialah:",
+    "pilihan": [
+      "Musim bunga",
+      "Musim panas",
+      "Musim tengkujuh",
+      "Musim luruh"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_038",
+    "soalan": "Perkataan Arab bagi 'Musim luruh' ialah:",
+    "pilihan": [
+      "فَصْلُ الرَّبِيعِ",
+      "فَصْلُ الصَّيْفِ",
+      "فَصْلُ الخَرِيفِ",
+      "فَصْلُ الشِّتَاءِ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_039",
+    "soalan": "Dalam tatabahasa Arab, 'الفِعْلُ المَاضِي' (Fi'il Madhi) merujuk kepada kata kerja yang menunjukkan masa:",
+    "pilihan": [
+      "Kata kerja perintah",
+      "Kata nama tempat",
+      "Telah berlaku (masa lampau)",
+      "Sedang atau akan berlaku"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_040",
+    "soalan": "Maksud kata kerja lampau 'ذَهَبَ' (Zahaba) ialah:",
+    "pilihan": [
+      "Dia sedang pergi",
+      "Dia (lelaki) telah pergi",
+      "Dia telah pulang",
+      "Pergilah!"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_041",
+    "soalan": "Maksud kata kerja lampau 'كَتَبَتْ' (Katabat) ialah:",
+    "pilihan": [
+      "Dia (perempuan) telah menulis",
+      "Saya sedang menulis",
+      "Tulislah!",
+      "Dia (lelaki) telah menulis"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_042",
+    "soalan": "Maksud kata kerja lampau 'قَرَأْتُ' (Qara'tu) ialah:",
+    "pilihan": [
+      "Saya telah membaca",
+      "Kami sedang membaca",
+      "Dia telah membaca",
+      "Kamu telah membaca"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_043",
+    "soalan": "Dalam tatabahasa Arab, 'الفِعْلُ المُضَارِعُ' (Fi'il Mudhari') menunjukkan perbuatan yang:",
+    "pilihan": [
+      "Telah selesai berlaku semalam",
+      "Kata kerja larangan",
+      "Kata sendi nama",
+      "Sedang berlaku atau akan berlaku (masa kini/hadapan)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_044",
+    "soalan": "Bentuk 'Fi'il Mudhari'' bagi kata kerja 'جَلَسَ' (telah duduk) untuk 'Dia lelaki' ialah:",
+    "pilihan": [
+      "تَجْلِسُ",
+      "نَجْلِسُ",
+      "يَجْلِسُ",
+      "أَجْلِسُ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_045",
+    "soalan": "Bentuk 'Fi'il Mudhari'' bagi kata kerja 'شَرِبَ' (telah minum) untuk 'Kami' ialah:",
+    "pilihan": [
+      "يَشْرَبُ",
+      "تَشْرَبُ",
+      "نَشْرَبُ",
+      "أَشْرَبُ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_046",
+    "soalan": "Dalam tatabahasa Arab, 'فِعْلُ الأَمْرِ' (Fi'il Amr) bermaksud kata kerja:",
+    "pilihan": [
+      "Perintah / Suruhan",
+      "Masa lampau",
+      "Kata tanya",
+      "Masa akan datang"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_047",
+    "soalan": "Maksud kata kerja perintah 'اِقْرَأْ' (Iqra') ialah:",
+    "pilihan": [
+      "Pergilah!",
+      "Bacalah!",
+      "Tulislah!",
+      "Duduklah!"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_048",
+    "soalan": "Maksud kata kerja perintah 'اُكْتُبْ' (Uktub) ialah:",
+    "pilihan": [
+      "Bukalah!",
+      "Tulislah!",
+      "Bacalah!",
+      "Tutuplah!"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_049",
+    "soalan": "Maksud kata kerja perintah 'اِجْلِسْ' (Ijlis) ialah:",
+    "pilihan": [
+      "Duduklah!",
+      "Berdirilah!",
+      "Keluarlah!",
+      "Masuklah!"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_050",
+    "soalan": "Maksud kata kerja perintah 'اِفْتَحْ' (Iftah) ialah:",
+    "pilihan": [
+      "Ambillah!",
+      "Tutuplah!",
+      "Bukalah!",
+      "Letakkanlah!"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_051",
+    "soalan": "Maksud kata kerja perintah 'اِسْمَعْ' (Isma') ialah:",
+    "pilihan": [
+      "Lihatlah!",
+      "Bercakaplah!",
+      "Diamlah!",
+      "Dengarlah!"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_052",
+    "soalan": "Kata kerja perintah bagi perempuan 'اُدْخُلِي' (Udkhuli) bermaksud:",
+    "pilihan": [
+      "Tidurlah!",
+      "Duduklah (wahai lelaki)!",
+      "Keluarlah (wahai perempuan)!",
+      "Masuklah (wahai perempuan)!"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_053",
+    "soalan": "Apakah lawan (ضِدٌّ) bagi kata sifat 'كَبِيرٌ' (Besar)?",
+    "pilihan": [
+      "طَوِيلٌ (Panjang)",
+      "جَدِيدٌ (Baharu)",
+      "صَغِيرٌ (Kecil)",
+      "نَظِيفٌ (Bersih)"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_054",
+    "soalan": "Apakah lawan bagi kata sifat 'طَوِيلٌ' (Panjang / Tinggi)?",
+    "pilihan": [
+      "قَرِيبٌ (Dekat)",
+      "قَصِيرٌ (Pendek / Rendah)",
+      "سَرِيعٌ (Cepat)",
+      "كَبِيرٌ (Besar)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_055",
+    "soalan": "Apakah lawan bagi kata sifat 'نَظِيفٌ' (Bersih)?",
+    "pilihan": [
+      "قَدِيمٌ (Lama)",
+      "جَمِيلٌ (Cantik)",
+      "خَفِيفٌ (Ringan)",
+      "وَسِخٌ (Kotor)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_056",
+    "soalan": "Apakah lawan bagi kata sifat 'جَدِيدٌ' (Baharu)?",
+    "pilihan": [
+      "قَدِيمٌ (Lama)",
+      "بَعِيدٌ (Jauh)",
+      "صَغِيرٌ (Kecil)",
+      "ثَقِيلٌ (Berat)"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_057",
+    "soalan": "Apakah lawan bagi kata sifat 'بَعِيدٌ' (Jauh)?",
+    "pilihan": [
+      "مَفْتُوحٌ (Terbuka)",
+      "قَرِيبٌ (Dekat)",
+      "وَسِخٌ (Kotor)",
+      "طَوِيلٌ (Panjang)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_058",
+    "soalan": "Apakah lawan bagi kata sifat 'نَشِيطٌ / مُجْتَهِدٌ' (Rajin)?",
+    "pilihan": [
+      "سَعِيدٌ (Gembira)",
+      "ذَكِيٌّ (Bijak)",
+      "كَسْلَانُ (Malas)",
+      "قَوِيٌّ (Kuat)"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_059",
+    "soalan": "Apakah lawan bagi kata sifat 'سَرِيعٌ' (Cepat / Laju)?",
+    "pilihan": [
+      "صَعْبٌ (Susah)",
+      "بَطِيءٌ (Lambat / Perlahan)",
+      "ضَعِيفٌ (Lemah)",
+      "خَفِيفٌ (Ringan)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_060",
+    "soalan": "Apakah lawan bagi kata sifat 'سَهْلٌ' (Mudah / Senang)?",
+    "pilihan": [
+      "غَالٍ (Mahal)",
+      "قَلِيلٌ (Sedikit)",
+      "جَمِيلٌ (Cantik)",
+      "صَعْبٌ (Susah / Sukar)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_061",
+    "soalan": "Apakah lawan bagi kata sifat 'كَثِيرٌ' (Banyak)?",
+    "pilihan": [
+      "كَبِيرٌ (Besar)",
+      "قَلِيلٌ (Sedikit)",
+      "رَخِيصٌ (Murah)",
+      "مُغْلَقٌ (Tertutup)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_062",
+    "soalan": "Apakah lawan bagi kata sifat 'مَفْتُوحٌ' (Terbuka)?",
+    "pilihan": [
+      "جَدِيدٌ (Baharu)",
+      "نَظِيفٌ (Bersih)",
+      "حَزِينٌ (Sedih)",
+      "مُغْلَقٌ (Tertutup)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_063",
+    "soalan": "Maksud perkataan 'جَمِيلٌ' (Jamilun) ialah:",
+    "pilihan": [
+      "Cantik / Indah",
+      "Hodoh",
+      "Murah",
+      "Mahal"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_064",
+    "soalan": "Maksud perkataan 'ذَكِيٌّ' (Zakiyyun) ialah:",
+    "pilihan": [
+      "Bijak / Cerdik",
+      "Kuat",
+      "Malas",
+      "Lemah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_065",
+    "soalan": "Kata tunjuk 'هَذَا' (Haza) digunakan untuk menunjukkan benda yang dekat bagi:",
+    "pilihan": [
+      "Muzakkar (Lelaki / tunggal)",
+      "Muthanna (Dua)",
+      "Jamak (Ramai)",
+      "Muannas (Perempuan / tunggal)"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_066",
+    "soalan": "Kata tunjuk 'هَذِهِ' (Hazihi) digunakan untuk menunjukkan benda yang dekat bagi:",
+    "pilihan": [
+      "Kata kerja",
+      "Jamak lelaki",
+      "Muannas (Perempuan / tunggal)",
+      "Muzakkar (Lelaki / tunggal)"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_067",
+    "soalan": "Kata tunjuk 'ذَلِكَ' (Zalika) bermaksud 'Itu' dan digunakan bagi:",
+    "pilihan": [
+      "Dekat",
+      "Muzakkar (Lelaki / tunggal yang jauh)",
+      "Jamak (Ramai)",
+      "Muannas (Perempuan / tunggal yang jauh)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_068",
+    "soalan": "Kata tunjuk 'تِلْكَ' (Tilka) bermaksud 'Itu' dan digunakan bagi:",
+    "pilihan": [
+      "Muannas (Perempuan / tunggal yang jauh)",
+      "Kami",
+      "Muzakkar (Lelaki / tunggal yang jauh)",
+      "Saya"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_069",
+    "soalan": "Kata tunjuk 'هَؤُلَاءِ' (Ha'ula'i) digunakan untuk menunjukkan manusia yang:",
+    "pilihan": [
+      "Benda mati yang jauh",
+      "Seorang perempuan sahaja",
+      "Ramai (Jamak Muzakkar dan Muannas yang dekat)",
+      "Seorang lelaki sahaja"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_070",
+    "soalan": "Pilih kata tunjuk yang paling sesuai untuk melengkapkan ayat: '_______ مَدْرَسَةٌ كَبِيرَةٌ' (Ini sekolah yang besar):",
+    "pilihan": [
+      "هَذِهِ",
+      "هَذَا",
+      "ذَلِكَ",
+      "هَؤُلَاءِ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_071",
+    "soalan": "Pilih kata tunjuk yang paling sesuai untuk melengkapkan ayat: '_______ مَسْجِدٌ جَمِيلٌ' (Itu masjid yang cantik):",
+    "pilihan": [
+      "تِلْكَ",
+      "هَؤُلَاءِ",
+      "هَذِهِ",
+      "ذَلِكَ"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_072",
+    "soalan": "Pilih kata tunjuk yang paling sesuai untuk melengkapkan ayat: '_______ تَلَامِيذُ مُجْتَهِدُونَ' (Mereka ini murid-murid yang rajin):",
+    "pilihan": [
+      "تِلْكَ",
+      "هَؤُلَاءِ",
+      "ذَلِكَ",
+      "هَذَا"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_073",
+    "soalan": "Ayat 'أَبِي يَعْمَلُ فِي المُسْتَشْفَى' bermaksud:",
+    "pilihan": [
+      "Datuk saya tinggal di kampung",
+      "Abang saya belajar di universiti",
+      "Ayah saya bekerja di hospital",
+      "Ibu saya bekerja di sekolah"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_074",
+    "soalan": "Ayat 'أُمِّي تَطْبُخُ الطَّعَامَ فِي المَطْبَخِ' bermaksud:",
+    "pilihan": [
+      "Kakak saya sedang menyapu sampah di bilik",
+      "Ibu saya sedang memasak makanan di dapur",
+      "Adik saya sedang minum susu di ruang tamu",
+      "Ayah saya sedang membaca surat khabar"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_075",
+    "soalan": "Ayat 'التِّلْمِيذُ النَّشِيطُ يَصِلُ إِلَى المَدْرَسَةِ مُبَكِّرًا' bermaksud:",
+    "pilihan": [
+      "Murid-murid bermain bola di padang",
+      "Murid yang malas pulang dari sekolah lambat",
+      "Murid yang rajin tiba ke sekolah awal",
+      "Guru masuk ke dalam kelas pada waktu pagi"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_076",
+    "soalan": "Ayat 'نُصَلِّي الصُّبْحَ رَكْعَتَيْنِ' bermaksud:",
+    "pilihan": [
+      "Kami menunaikan solat Maghrib tiga rakaat",
+      "Kami menunaikan solat Subuh dua rakaat",
+      "Kami berpuasa pada bulan Ramadan",
+      "Kami menunaikan solat Zohor empat rakaat"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_077",
+    "soalan": "Maksud perkataan 'رَكْعَتَيْنِ' (Rak'ataini) ialah:",
+    "pilihan": [
+      "Satu rakaat",
+      "Dua rakaat",
+      "Empat rakaat",
+      "Tiga rakaat"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_078",
+    "soalan": "Maksud perkataan 'أَرْبَعَ رَكَعَاتٍ' ialah:",
+    "pilihan": [
+      "Tiga rakaat",
+      "Empat rakaat",
+      "Lima rakaat",
+      "Dua rakaat"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_079",
+    "soalan": "Perkataan Arab bagi 'Perpustakaan Sekolah' ialah:",
+    "pilihan": [
+      "مَلْعَبُ المَدْرَسَةِ",
+      "مَكْتَبَةُ المَدْرَسَةِ",
+      "مُخْتَبَرُ العُلُومِ",
+      "مَقْصَفُ المَدْرَسَةِ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_080",
+    "soalan": "Maksud ungkapan 'مَقْصَفُ المَدْرَسَةِ' (Maqsaful Madrasah) ialah:",
+    "pilihan": [
+      "Pejabat sekolah",
+      "Bilik guru",
+      "Surau sekolah",
+      "Kantin sekolah"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_081",
+    "soalan": "Maksud ungkapan 'غُرْفَةُ المُعَلِّمِينَ' ialah:",
+    "pilihan": [
+      "Bilik darjah",
+      "Bilik guru-guru",
+      "Bilik mesyuarat",
+      "Bilik tidur"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_082",
+    "soalan": "Maksud ungkapan 'مُخْتَبَرُ العُلُومِ' ialah:",
+    "pilihan": [
+      "Makmal komputer",
+      "Dewan sekolah",
+      "Perpustakaan",
+      "Makmal sains"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_083",
+    "soalan": "Perkataan Arab bagi 'Makmal Komputer' ialah:",
+    "pilihan": [
+      "مُخْتَبَرُ الحَاسُوبِ",
+      "مَصْلَّى المَدْرَسَةِ",
+      "مُخْتَبَرُ العُلُومِ",
+      "قَاعَةُ الاجْتِمَاعَاتِ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_084",
+    "soalan": "Maksud perkataan 'حَاسُوبٌ' (Hasubun) ialah:",
+    "pilihan": [
+      "Televisyen",
+      "Komputer",
+      "Telefon",
+      "Radio"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_085",
+    "soalan": "Maksud perkataan 'هَاتِفٌ جَوَّالٌ' ialah:",
+    "pilihan": [
+      "Kamera",
+      "Jam loceng",
+      "Telefon bimbit / pintar",
+      "Komputer riba"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_086",
+    "soalan": "Apakah maksud perkataan 'مُعْجَمٌ / قَامُوسٌ'?",
+    "pilihan": [
+      "Majalah",
+      "Kamus",
+      "Surat khabar",
+      "Buku cerita"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_087",
+    "soalan": "Maksud perkataan 'جَرِيدَةٌ' (Jaridatun) ialah:",
+    "pilihan": [
+      "Majalah",
+      "Buku teks",
+      "Kertas ujian",
+      "Surat khabar / Akhbar"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_088",
+    "soalan": "Perkataan Arab bagi 'Majalah' ialah:",
+    "pilihan": [
+      "رِسَالَةٌ",
+      "مَجَلَّةٌ",
+      "قِصَّةٌ",
+      "جَرِيدَةٌ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_089",
+    "soalan": "Maksud perkataan 'قِصَّةٌ' (Qissatun) ialah:",
+    "pilihan": [
+      "Puisi",
+      "Berita",
+      "Ucapan",
+      "Cerita / Kisah"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_090",
+    "soalan": "Perkataan Arab bagi 'Surat' ialah:",
+    "pilihan": [
+      "كِتَابٌ",
+      "وَرَقَةٌ",
+      "رِسَالَةٌ",
+      "دَفْتَرٌ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_091",
+    "soalan": "Maksud ungkapan 'عُطْلَةُ نِهَايَةِ الأُسْبُوعِ' ialah:",
+    "pilihan": [
+      "Hari raya",
+      "Hari persekolahan",
+      "Cuti hujung minggu",
+      "Cuti sekolah akhir tahun"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_5_092",
+    "soalan": "Perkataan Arab bagi 'Kesihatan' dalam ungkapan 'الصِّحَّةُ تَاجٌ عَلَى رُؤُوسِ الأَصِحَّاءِ' ialah:",
+    "pilihan": [
+      "الدَّوَاءُ",
+      "الصِّحَّةُ",
+      "المَرَضُ",
+      "الطَّبِيبُ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_093",
+    "soalan": "Peribahasa Arab 'النَّظَافَةُ مِنَ الإِيمَانِ' bermaksud:",
+    "pilihan": [
+      "Masa itu emas",
+      "Kebersihan itu sebahagian daripada iman",
+      "Kesabaran itu kunci kejayaan",
+      "Ilmu itu cahaya kehidupan"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_094",
+    "soalan": "Peribahasa Arab 'الوَقْتُ كَالذَّهَبِ' bermaksud:",
+    "pilihan": [
+      "Ilmu tanpa amal ibarat pokok tanpa buah",
+      "Masa itu ibarat emas",
+      "Buku itu teman setia",
+      "Bersatu teguh bercerai roboh"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_095",
+    "soalan": "Peribahasa Arab 'مَنْ جَدَّ وَجَدَ' bermaksud:",
+    "pilihan": [
+      "Sesiapa yang malas akan rugi",
+      "Sesiapa yang berusaha bersungguh-sungguh pasti akan berjaya",
+      "Sesiapa yang menanam akan menuai",
+      "Sesiapa yang bersabar akan beruntung"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_096",
+    "soalan": "Peribahasa Arab 'العِلْمُ نُورٌ' bermaksud:",
+    "pilihan": [
+      "Kejahilan itu kegelapan",
+      "Ilmu itu cahaya",
+      "Guru itu pelita",
+      "Sekolah itu taman ilmu"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_097",
+    "soalan": "Ungkapan 'بِالتَّوْفِيقِ وَالنَّجَاحِ' diucapkan kepada rakan yang akan menduduki peperiksaan yang bermaksud:",
+    "pilihan": [
+      "Semoga beroleh taufik dan kejayaan",
+      "Selamat pulang ke kampung",
+      "Terima kasih banyak-banyak",
+      "Selamat menyambut hari lahir"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_5_098",
+    "soalan": "Ungkapan 'عِيدٌ مُبَارَكٌ / كُلُّ عَامٍ وَأَنْتُمْ بِخَيْرٍ' diucapkan sempena:",
+    "pilihan": [
+      "Hari pertama persekolahan",
+      "Waktu hujan turun",
+      "Hari sukan sekolah",
+      "Sambutan Hari Raya"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_5_099",
+    "soalan": "Ungkapan 'شَفَاكَ اللَّهُ' diucapkan apabila menziarahi kawan lelaki yang sedang:",
+    "pilihan": [
+      "Berjaya dalam ujian",
+      "Sakit (Semoga Allah menyembuhkanmu)",
+      "Berbuka puasa",
+      "Bermusafir jauh"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_5_100",
+    "soalan": "Ayat 'نَحْنُ نَتَعَلَّمُ اللُّغَةَ العَرَبِيَّةَ لِنَفْهَمَ القُرْآنَ الكَرِيمَ' bermaksud:",
+    "pilihan": [
+      "Kami membaca buku cerita di perpustakaan sekolah",
+      "Kami bersolat berjemaah di masjid setiap hari",
+      "Kami menulis tulisan Jawi di dalam buku latihan",
+      "Kami mempelajari Bahasa Arab supaya kami dapat memahami Al-Quran Al-Karim"
+    ],
+    "jawapan": 3
+  }
+]
