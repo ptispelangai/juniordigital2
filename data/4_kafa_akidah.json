@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "akidah_4_001",
+    "soalan": "Berapakah bilangan sifat yang tergolong dalam bahagian 'Sifat Ma'nawiyyah' bagi Allah SWT?",
+    "pilihan": [
+      "7 sifat",
+      "5 sifat",
+      "1 sifat",
+      "4 sifat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_002",
+    "soalan": "Sifat Ma'nawiyyah ialah sifat yang melazimi dan tidak dapat dipisahkan daripada bahagian sifat:",
+    "pilihan": [
+      "Sifat Nafsiyyah",
+      "Sifat Jaiz",
+      "Sifat Salbiyyah",
+      "Sifat Ma'ani"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_003",
+    "soalan": "Sifat wajib 'Kaunuhu Qadiran' (كَوْنُهُ قَادِرًا) bermaksud keadaan Allah yang sentiasa Maha:",
+    "pilihan": [
+      "Berkehendak",
+      "Mendengar",
+      "Berkuasa",
+      "Mengetahui"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_004",
+    "soalan": "Lawan bagi sifat 'Kaunuhu Qadiran' ialah sifat mustahil 'Kaunuhu 'Ajizan' yang bermaksud keadaan Allah yang:",
+    "pilihan": [
+      "Mati",
+      "Lemah",
+      "Bisu",
+      "Jahil"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_005",
+    "soalan": "Sifat wajib 'Kaunuhu Muridan' (كَوْنُهُ مُرِيدًا) bermaksud keadaan Allah yang sentiasa Maha:",
+    "pilihan": [
+      "Berkehendak / Menentukan sesuatu",
+      "Berkata-kata",
+      "Melihat",
+      "Hidup"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_006",
+    "soalan": "Lawan bagi sifat 'Kaunuhu Muridan' ialah sifat mustahil 'Kaunuhu Karihan' yang bermaksud keadaan Allah yang:",
+    "pilihan": [
+      "Buta",
+      "Terpaksa / Tidak berkehendak",
+      "Pekak",
+      "Lemah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_007",
+    "soalan": "Sifat wajib 'Kaunuhu 'Aliman' (كَوْنُهُ عَالِمًا) bermaksud keadaan Allah yang sentiasa Maha:",
+    "pilihan": [
+      "Berkuasa",
+      "Mendengar",
+      "Melihat",
+      "Mengetahui segala sesuatu"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_008",
+    "soalan": "Lawan bagi sifat 'Kaunuhu 'Aliman' ialah sifat mustahil 'Kaunuhu Jahilan' yang bermaksud keadaan Allah yang:",
+    "pilihan": [
+      "Mati",
+      "Bisu",
+      "Jahil / Bodoh",
+      "Lemah"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_009",
+    "soalan": "Sifat wajib 'Kaunuhu Hayyan' (كَوْنُهُ حَيًّا) bermaksud keadaan Allah yang sentiasa Maha:",
+    "pilihan": [
+      "Hidup kekal abadi",
+      "Mendengar",
+      "Berkuasa",
+      "Berkata-kata"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_010",
+    "soalan": "Lawan bagi sifat 'Kaunuhu Hayyan' ialah sifat mustahil 'Kaunuhu Mayyitan' yang bermaksud keadaan Allah yang:",
+    "pilihan": [
+      "Pekak",
+      "Mati / Binasa",
+      "Buta",
+      "Jahil"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_011",
+    "soalan": "Sifat wajib 'Kaunuhu Sami'an' (كَوْنُهُ سَمِيعًا) bermaksud keadaan Allah yang sentiasa Maha:",
+    "pilihan": [
+      "Hidup",
+      "Mendengar",
+      "Melihat",
+      "Mengetahui"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_012",
+    "soalan": "Lawan bagi sifat 'Kaunuhu Sami'an' ialah sifat mustahil 'Kaunuhu Asamma' yang bermaksud keadaan Allah yang:",
+    "pilihan": [
+      "Bisu",
+      "Pekak / Tuli",
+      "Buta",
+      "Lemah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_013",
+    "soalan": "Sifat wajib 'Kaunuhu Basiran' (كَوْنُهُ بَصِيرًا) bermaksud keadaan Allah yang sentiasa Maha:",
+    "pilihan": [
+      "Berkuasa",
+      "Mendengar",
+      "Melihat",
+      "Berkata-kata"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_014",
+    "soalan": "Lawan bagi sifat 'Kaunuhu Basiran' ialah sifat mustahil 'Kaunuhu A'ma' yang bermaksud keadaan Allah yang:",
+    "pilihan": [
+      "Bisu",
+      "Buta",
+      "Mati",
+      "Pekak"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_015",
+    "soalan": "Sifat wajib 'Kaunuhu Mutakalliman' (كَوْنُهُ مُتَكَلِّمًا) bermaksud keadaan Allah yang sentiasa Maha:",
+    "pilihan": [
+      "Berkata-kata / Berfirman",
+      "Melihat",
+      "Berkehendak",
+      "Hidup"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_016",
+    "soalan": "Lawan bagi sifat 'Kaunuhu Mutakalliman' ialah sifat mustahil 'Kaunuhu Abkama' yang bermaksud keadaan Allah yang:",
+    "pilihan": [
+      "Jahil",
+      "Buta",
+      "Pekak",
+      "Bisu"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_017",
+    "soalan": "Sifat Harus (Jaiz) bagi Allah SWT hanya ada satu sahaja iaitu:",
+    "pilihan": [
+      "Melakukan sesuatu perkara yang mungkin atau meninggalkannya mengikut kehendak-Nya",
+      "Wajib memberi pahala kepada semua orang",
+      "Mustahil mencipta alam",
+      "Memerlukan bantuan malaikat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_018",
+    "soalan": "Hukum meyakini kesemua 20 sifat wajib, 20 sifat mustahil dan 1 sifat harus bagi Allah SWT bagi setiap mukallaf ialah:",
+    "pilihan": [
+      "Harus",
+      "Sunat Muakkad",
+      "Fardhu Kifayah",
+      "Wajib (Fardhu Ain)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_019",
+    "soalan": "Beriman kepada Hari Kiamat merupakan Rukun Iman yang ke:",
+    "pilihan": [
+      "Empat (4)",
+      "Keenam (6)",
+      "Tiga (3)",
+      "Lima (5)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_020",
+    "soalan": "Apakah nama alam persinggahan sementara bagi roh manusia selepas mati sebelum berlakunya Hari Kiamat?",
+    "pilihan": [
+      "Alam Dunia",
+      "Alam Mahsyar",
+      "Alam Barzakh (Alam Kubur)",
+      "Alam Rahim"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_021",
+    "soalan": "Siapakah dua malaikat yang ditugaskan menyoal manusia di dalam alam kubur?",
+    "pilihan": [
+      "Malaikat Malik dan Ridwan",
+      "Malaikat Munkar dan Nakir",
+      "Malaikat Jibril dan Mikail",
+      "Malaikat Raqib dan Atid"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_022",
+    "soalan": "Tanda-tanda Hari Kiamat terbahagi kepada dua iaitu Tanda Kecil (Sughra) dan:",
+    "pilihan": [
+      "Tanda Awal",
+      "Tanda Biasa",
+      "Tanda Sederhana",
+      "Tanda Besar (Kubra)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_023",
+    "soalan": "Antara contoh Tanda Kecil (Sughra) Hari Kiamat yang telah dan sedang berlaku ialah:",
+    "pilihan": [
+      "Keluarnya Dajjal dan Yakjuj Makjuj",
+      "Matahari terbit dari sebelah barat",
+      "Turunnya Nabi Isa a.s. dari langit",
+      "Ramai orang berlumba-lumba membina bangunan pencakar langit dan masa terasa berlalu sangat pantas"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_024",
+    "soalan": "Antara contoh Tanda Besar (Kubra) menjelang berlakunya Hari Kiamat ialah:",
+    "pilihan": [
+      "Berlakunya hujan lebat dan banjir",
+      "Matahari terbit dari sebelah barat, keluarnya Dajjal dan turunnya Nabi Isa a.s.",
+      "Ramai murid belajar di sekolah",
+      "Harga barang meningkat naik"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_025",
+    "soalan": "Apabila matahari terbit dari sebelah barat, pintu taubat bagi manusia akan:",
+    "pilihan": [
+      "Diterima seperti biasa",
+      "Dibuka lebih luas",
+      "Ditutup oleh Allah SWT dan iman orang yang baru beriman tidak lagi diterima",
+      "Ditangguhkan selama 100 tahun"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_026",
+    "soalan": "Siapakah malaikat yang ditugaskan meniup Sangkakala sebagai tanda bermulanya kehancuran alam dan kebangkitan semula?",
+    "pilihan": [
+      "Malaikat Izrail a.s.",
+      "Malaikat Israfil a.s.",
+      "Malaikat Mikail a.s.",
+      "Malaikat Jibril a.s."
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_027",
+    "soalan": "Berapa kalikah tiupan Sangkakala yang akan ditiupkan oleh Malaikat Israfil a.s.?",
+    "pilihan": [
+      "1 kali tiupan sahaja",
+      "2 kali tiupan (tiupan pertama mematikan semua makhluk, tiupan kedua menghidupkan semula semua makhluk)",
+      "7 kali tiupan",
+      "5 kali tiupan"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_028",
+    "soalan": "Hari kebangkitan semula seluruh manusia daripada kubur selepas tiupan sangkakala kedua dinamakan:",
+    "pilihan": [
+      "Yaumul Ba'th (يَوْمُ الْبَعْثِ)",
+      "Yaumul Jaza'",
+      "Yaumul Mizan",
+      "Yaumul Hisab"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_029",
+    "soalan": "Apakah maksud 'Syafaat Uzma' di Padang Mahsyar?",
+    "pilihan": [
+      "Pertolongan harta kekayaan di dunia",
+      "Pertolongan sahabat karib di sekolah",
+      "Pertolongan agung Nabi Muhammad SAW memohon kepada Allah agar dipercepatkan proses hisab ketika manusia dalam kesusahan",
+      "Membayar denda wang kepada penjaga neraka"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_030",
+    "soalan": "Hari perhitungan dan pemeriksaan setiap amalan manusia sama ada baik atau buruk di akhirat dinamakan:",
+    "pilihan": [
+      "Yaumul Hisab (يَوْمُ الْحِسَابِ)",
+      "Yaumul Fath",
+      "Yaumul Khulud",
+      "Yaumul Ba'th"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_031",
+    "soalan": "Apakah amalan PERTAMA yang akan dihisab oleh Allah SWT pada Hari Kiamat?",
+    "pilihan": [
+      "Ibadah Solat fardhu",
+      "Sedekah harta",
+      "Ibadah Haji",
+      "Puasa sunat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_032",
+    "soalan": "Orang yang beriman dan beramal soleh akan menerima buku catatan amalannya dengan tangan:",
+    "pilihan": [
+      "Tangan kiri",
+      "Dari bawah kaki",
+      "Tangan kanan",
+      "Dari belakang badan"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_033",
+    "soalan": "Orang yang kafir dan derhaka pula akan menerima buku catatan amalannya dengan:",
+    "pilihan": [
+      "Tangan kiri atau dari arah belakang badannya",
+      "Tangan kanan",
+      "Di atas kepalanya",
+      "Kedua-dua belah tangan di hadapan"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_034",
+    "soalan": "Keadaan manusia melintasi Titian Sirat di atas neraka adalah mengikut:",
+    "pilihan": [
+      "Pangkat dan jawatan di dunia",
+      "Kelajuan kereta yang dimiliki di dunia",
+      "Jumlah wang simpanan bank",
+      "Kadar amalan soleh masing-masing (ada yang sepantas kilat, angin, kuda lumba dan ada yang merangkak)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_035",
+    "soalan": "Apakah nama syurga yang paling tinggi dan paling mulia kedudukannya di sisi Allah SWT?",
+    "pilihan": [
+      "Syurga 'Adn",
+      "Syurga Firdaus",
+      "Syurga Na'im",
+      "Syurga Ma'wa"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_036",
+    "soalan": "Nikmat paling agung dan paling membahagiakan bagi penghuni syurga ialah:",
+    "pilihan": [
+      "Tinggal di dalam mahligai emas",
+      "Dapat melihat wajah Allah SWT secara langsung dan mendapat keredhaan-Nya",
+      "Memakai pakaian sutera sahaja",
+      "Makan buah-buahan syurga sahaja"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_037",
+    "soalan": "Apakah nama neraka yang paling dalam dan paling pedih azabnya (tempat orang munafik)?",
+    "pilihan": [
+      "Neraka Saqar",
+      "Neraka Huthamah",
+      "Neraka Jahim",
+      "Neraka Hawiyah"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_038",
+    "soalan": "Kesan beriman kepada Hari Kiamat terhadap tingkah laku seseorang murid ialah:",
+    "pilihan": [
+      "Suka membuang masa bermain",
+      "Sentiasa bersungguh-sungguh melakukan kebaikan dan takut melakukan maksiat kerana yakin setiap amalan akan dibalas",
+      "Berani menipu ibu bapa dan guru",
+      "Berputus asa daripada belajar dan bekerja"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_039",
+    "soalan": "Beriman kepada Qada' dan Qadar merupakan Rukun Iman yang ke:",
+    "pilihan": [
+      "Ketiga (3)",
+      "Kelima (5)",
+      "Keempat (4)",
+      "Keenam (6)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_040",
+    "soalan": "Apakah maksud 'Qada'' (قَضَاءٌ) dari segi istilah syarak?",
+    "pilihan": [
+      "Pelaksanaan atau ketentuan sesuatu perkara yang telah ditetapkan oleh Allah SWT sejak azali",
+      "Harapan dan angan-angan kosong",
+      "Usaha manusia mencapai cita-cita",
+      "Peraturan yang dibuat oleh manusia"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_041",
+    "soalan": "Apakah maksud 'Qadar' (قَدَرٌ) dari segi istilah syarak?",
+    "pilihan": [
+      "Ketentuan atau ukuran yang ditetapkan oleh Allah SWT ke atas setiap makhluk sejak azali mengikut ilmu dan kehendak-Nya",
+      "Kekayaan harta benda",
+      "Kekuatan fizikal seseorang",
+      "Nasib malang yang tidak boleh diubah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_042",
+    "soalan": "Qada' terbahagi kepada dua bahagian iaitu Qada' Mubram dan:",
+    "pilihan": [
+      "Qada' Mustahil",
+      "Qada' Harus",
+      "Qada' Wajib",
+      "Qada' Mu'allaq"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_043",
+    "soalan": "Apakah maksud 'Qada' Mubram' (قَضَاءٌ مُبْرَمٌ)?",
+    "pilihan": [
+      "Keputusan peperiksaan sekolah",
+      "Ketentuan yang boleh berubah dengan doa dan usaha",
+      "Tahap kesihatan badan",
+      "Ketentuan Allah yang muktamad dan tidak akan berubah sama sekali seperti ajal kematian dan kejadian kiamat"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_044",
+    "soalan": "Apakah maksud 'Qada' Mu'allaq' (قَضَاءٌ مُعَلَّقٌ)?",
+    "pilihan": [
+      "Jantina seseorang manusia",
+      "Ketentuan Allah yang bergantung kepada usaha, ikhtiar dan doa seseorang hamba dengan izin Allah",
+      "Ketentuan yang tidak boleh diubah langsung",
+      "Tarikh kelahiran seseorang"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_045",
+    "soalan": "Contoh bagi Qada' Mu'allaq yang boleh dicapai melalui usaha dan doa ialah:",
+    "pilihan": [
+      "Kelahiran seseorang ke dunia",
+      "Kejayaan cemerlang dalam peperiksaan hasil daripada rajin mengulang kaji dan berdoa",
+      "Tarikh kematian seseorang",
+      "Kejadian siang dan malam"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_046",
+    "soalan": "Apakah maksud 'Ikhtiar' dalam konsep Qada' dan Qadar?",
+    "pilihan": [
+      "Usaha bersungguh-sungguh yang dilakukan oleh manusia untuk mencapai sesuatu kejayaan atau kebaikan",
+      "Menyalahkan takdir apabila gagal",
+      "Duduk berdiam diri menunggu rezeki jatuh dari langit",
+      "Meniru jawapan rakan semasa ujian"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_047",
+    "soalan": "Apakah maksud 'Tawakal' selepas kita berusaha dan berdoa?",
+    "pilihan": [
+      "Berputus asa apabila ditimpa ujian",
+      "Tidak mahu berusaha langsung dan terus berserah",
+      "Berserah diri sepenuhnya kepada Allah SWT mengenai keputusan atau hasil usaha yang telah dilakukan",
+      "Berasa bangga dengan kepandaian diri sendiri"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_048",
+    "soalan": "Susunan langkah yang betul bagi seorang murid yang beriman dengan Qada' dan Qadar untuk berjaya ialah:",
+    "pilihan": [
+      "Belajar tanpa berdoa dan sombong",
+      "Usaha (Ikhtiar) -> Berdoa -> Bertawakal -> Redha",
+      "Tidur -> Tawakal -> Menyalahkan takdir",
+      "Berdoa sahaja tanpa belajar"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_049",
+    "soalan": "Sikap seorang Muslim apabila mendapat nikmat dan kejayaan ialah:",
+    "pilihan": [
+      "Bermegah-megah dan menghina kawan yang gagal",
+      "Menganggap kejayaan itu hasil kepandaian sendiri semata-mata",
+      "Bersyukur kepada Allah SWT dengan mengucapkan Alhamdulillah dan tidak sombong",
+      "Lupa menunaikan solat"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_050",
+    "soalan": "Sikap seorang Muslim apabila ditimpa musibah, ujian atau kegagalan ialah:",
+    "pilihan": [
+      "Menyalahkan Allah SWT",
+      "Meratap dan berputus asa dari rahmat Allah",
+      "Marah kepada ibu bapa dan guru",
+      "Bersabar, redha dengan ketentuan Allah, mengucapkan Inna lillahi wa inna ilaihi raji'un dan terus berusaha membaiki diri"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_051",
+    "soalan": "Nama Allah 'Al-Latif' (اللَّطِيفُ) bermaksud Allah Maha:",
+    "pilihan": [
+      "Lemah Lembut dan Maha Halus (mengetahui perkara yang tersembunyi serta mengasihi hamba-Nya)",
+      "Kaya Raya",
+      "Keras dan Pemarah",
+      "Besar dan Tinggi"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_052",
+    "soalan": "Kesan beriman dengan nama Allah 'Al-Latif' ialah kita hendaklah bersikap:",
+    "pilihan": [
+      "Sombong dan kasar",
+      "Lemah lembut dalam pertuturan, penyayang dan tidak kasar terhadap orang lain",
+      "Pemarah",
+      "Suka menengking kawan"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_053",
+    "soalan": "Nama Allah 'Al-Khabir' (الْخَبِيرُ) bermaksud Allah Maha:",
+    "pilihan": [
+      "Mengetahui segala perkara yang zahir mahupun yang tersembunyi secara mendalam dan terperinci",
+      "Pengampun",
+      "Pencipta",
+      "Pemberi Rezeki"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_054",
+    "soalan": "Nama Allah 'Al-Halim' (الْحَلِيمُ) bermaksud Allah Maha:",
+    "pilihan": [
+      "Penyantun (tidak tergesa-gesa menurunkan azab walaupun hamba-Nya melakukan dosa agar mereka sempat bertaubat)",
+      "Pencipta langit",
+      "Mendengar",
+      "Pembalas dendam"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_055",
+    "soalan": "Nama Allah 'Al-'Azim' (الْعَظِيمُ) bermaksud Allah Maha:",
+    "pilihan": [
+      "Sabar",
+      "Kecil",
+      "Agung (tiada sesuatu pun yang lebih agung dan mulia daripada-Nya)",
+      "Lembut"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_056",
+    "soalan": "Zikir yang sering kita baca semasa rukuk dalam solat bagi memuji keagungan Allah ialah:",
+    "pilihan": [
+      "Subhana Rabbiyal 'Azimi wabihamdih",
+      "Astaghfirullah",
+      "Subhana Rabbiyal A'la",
+      "Allahu Akbar"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_057",
+    "soalan": "Nama Allah 'Asy-Syakur' (الشَّكُورُ) bermaksud Allah Maha:",
+    "pilihan": [
+      "Menghukum",
+      "Mensyukuri / Membalas setiap amalan kebaikan hamba-Nya dengan ganjaran pahala yang berlipat ganda",
+      "Melihat",
+      "Pencipta"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_058",
+    "soalan": "Nama Allah 'Al-Kabir' (الْكَبِيرُ) bermaksud Allah Maha:",
+    "pilihan": [
+      "Pengampun",
+      "Besar (kebesaran-Nya mengatasi segala makhluk)",
+      "Halus",
+      "Lemah lembut"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_059",
+    "soalan": "Nama Allah 'Al-Hafiz' (الْحَفِيظُ) bermaksud Allah Maha:",
+    "pilihan": [
+      "Memelihara dan Menjaga (memelihara alam semesta dan amalan hamba-Nya)",
+      "Mendengar",
+      "Membinasakan",
+      "Menghitung"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_060",
+    "soalan": "Nama Allah 'Al-Muqit' (الْمُقِيتُ) bermaksud Allah Maha:",
+    "pilihan": [
+      "Pemaaf",
+      "Mematikan",
+      "Mencukupkan keperluan dan makanan setiap makhluk-Nya serta berkuasa ke atas segala sesuatu",
+      "Menghukum"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_061",
+    "soalan": "Apakah maksud 'Dosa' dari segi syarak?",
+    "pilihan": [
+      "Kesenangan hidup di dunia",
+      "Perkara yang harus dilakukan",
+      "Balasan buruk dan kemurkaan Allah SWT akibat melanggar larangan-Nya atau meninggalkan perintah-Nya",
+      "Ganjaran kebaikan daripada Allah"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_062",
+    "soalan": "Dosa terbahagi kepada dua kategori iaitu Dosa Besar dan:",
+    "pilihan": [
+      "Dosa Biasa",
+      "Dosa Kecil",
+      "Dosa Ringan",
+      "Dosa Harus"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_063",
+    "soalan": "Apakah maksud 'Dosa Besar'?",
+    "pilihan": [
+      "Kesalahan ringan yang terhapus dengan wuduk",
+      "Kesilapan yang tidak disengajakan",
+      "Perkara makruh yang tidak berdosa",
+      "Kesalahan berat yang dijanjikan azab neraka atau hukuman hudud/qisas di dunia oleh Allah dan Rasul-Nya"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_064",
+    "soalan": "Apakah dosa besar yang PALING BERAT dan tidak akan diampunkan oleh Allah jika pelakunya mati tanpa sempat bertaubat?",
+    "pilihan": [
+      "Bercakap bohong",
+      "Syirik (menyekutukan Allah SWT)",
+      "Mengumpat",
+      "Mencuri harta"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_065",
+    "soalan": "Antara contoh dosa besar yang berkaitan dengan hak ibu bapa ialah:",
+    "pilihan": [
+      "Menderhaka kepada kedua-dua ibu bapa ('Uququl Walidain)",
+      "Bercakap lembut dengan ibu bapa",
+      "Membantu ibu mengemas rumah",
+      "Mendoakan ibu bapa selepas solat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_066",
+    "soalan": "Antara berikut, yang manakah tergolong dalam Dosa Besar?",
+    "pilihan": [
+      "Terlupa membaca doa makan",
+      "Sengaja meninggalkan solat fardhu, membunuh, mencuri, makan riba dan meminum arak",
+      "Terlewat bangun kerana tertidur tanpa sengaja",
+      "Makan menggunakan tangan kiri kerana tangan kanan patah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_067",
+    "soalan": "Perbuatan mengambil harta orang lain secara sembunyi tanpa izin pemiliknya dinamakan:",
+    "pilihan": [
+      "Hadiah",
+      "Pinjaman",
+      "Sedekah",
+      "Mencuri (Sariqah)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_068",
+    "soalan": "Apakah hukum memakan harta anak yatim secara zalim?",
+    "pilihan": [
+      "Dimaafkan",
+      "Harus jika kita penjaganya",
+      "Makruh sahaja",
+      "Dosa besar dan pelakunya seolah-olah menelan api neraka ke dalam perutnya"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_069",
+    "soalan": "Apakah hukum menipu dan memberi saksi palsu?",
+    "pilihan": [
+      "Harus untuk menyelamatkan kawan",
+      "Dosa besar yang sangat dibenci oleh Allah dan Rasul-Nya",
+      "Tidak berdosa",
+      "Makruh ringan"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_070",
+    "soalan": "Apakah maksud 'Dosa Kecil'?",
+    "pilihan": [
+      "Dosa syirik",
+      "Perkara yang mendapat pahala",
+      "Perkara sunat",
+      "Kesalahan ringan yang tidak dijanjikan azab neraka secara khusus tetapi tetap berdosa jika dilakukan"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_071",
+    "soalan": "Bagaimanakah dosa-dosa kecil boleh berubah menjadi dosa besar?",
+    "pilihan": [
+      "Apabila dilakukan secara berterusan tanpa rasa bersalah dan tidak bertaubat",
+      "Apabila dilakukan sekali sahaja lalu menyesal",
+      "Apabila segera beristighfar",
+      "Apabila menunaikan solat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_072",
+    "soalan": "Dosa-dosa kecil dapat dihapuskan melalui amalan ibadah harian seperti:",
+    "pilihan": [
+      "Mengumpat kawan",
+      "Tidur sepanjang hari",
+      "Bermain permainan video",
+      "Berwuduk dengan sempurna, menunaikan solat fardhu lima waktu dan beristighfar"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_073",
+    "soalan": "Bagaimanakah cara menghapuskan Dosa Besar di sisi Allah SWT?",
+    "pilihan": [
+      "Menyembunyikan dosa daripada manusia",
+      "Cukup dengan tidur sahaja",
+      "Wajib melakukan Taubat Nasuha (taubat yang bersungguh-sungguh dan ikhlas)",
+      "Membayar wang kepada kawan"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_074",
+    "soalan": "Berapakah syarat sah Taubat Nasuha bagi dosa yang berkaitan dengan hak Allah SWT?",
+    "pilihan": [
+      "3 syarat (meninggalkan maksiat serta-merta, menyesal atas dosa lalu, dan berazam tidak akan mengulanginya lagi)",
+      "10 syarat",
+      "5 syarat",
+      "1 syarat sahaja"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_075",
+    "soalan": "Sekiranya dosa yang dilakukan melibatkan hak sesama manusia (seperti mencuri atau memfitnah), syarat taubat ditambah satu lagi iaitu:",
+    "pilihan": [
+      "Melupakan kesalahan tersebut",
+      "Memulangkan semula hak/harta tersebut dan meminta maaf daripada orang yang dizalimi",
+      "Berpindah ke tempat jauh",
+      "Berdiam diri sahaja tanpa meminta maaf"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_076",
+    "soalan": "Bilakah waktu kita wajib bertaubat apabila tersedar telah melakukan dosa?",
+    "pilihan": [
+      "Menunggu bulan Ramadan sahaja",
+      "Segera bertaubat tanpa menangguh-nangguhkannya",
+      "Menunggu hari raya",
+      "Menunggu sehingga umur tua"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_077",
+    "soalan": "Apakah lafaz istighfar yang sering kita ucapkan untuk memohon keampunan Allah?",
+    "pilihan": [
+      "Subhanallah",
+      "Astaghfirullahal 'Azim",
+      "Alhamdulillah",
+      "Allahu Akbar"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_078",
+    "soalan": "Maksud 'Astaghfirullahal 'Azim' ialah:",
+    "pilihan": [
+      "Segala puji bagi Allah",
+      "Tiada Tuhan melainkan Allah",
+      "Maha Suci Allah",
+      "Aku memohon keampunan kepada Allah Yang Maha Agung"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_079",
+    "soalan": "Syirik terbahagi kepada dua bahagian iaitu Syirik Jali (nyata) dan:",
+    "pilihan": [
+      "Syirik Harus",
+      "Syirik Khafi (tersembunyi)",
+      "Syirik Kecil",
+      "Syirik Sunat"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_080",
+    "soalan": "Contoh perbuatan Syirik Jali (terang-terangan) ialah:",
+    "pilihan": [
+      "Menunjuk-nunjuk solat kepada orang ramai",
+      "Solat dengan khusyuk",
+      "Menyembah berhala, matahari, pokok atau memuja kubur",
+      "Bersedekah secara ikhlas"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_081",
+    "soalan": "Contoh perbuatan Syirik Khafi (tersembunyi di dalam hati) ialah sifat:",
+    "pilihan": [
+      "Bersyukur atas nikmat",
+      "Riya' (melakukan ibadah atau kebaikan kerana ingin dipuji dan dilihat manusia, bukan ikhlas kerana Allah)",
+      "Sabar menghadapi ujian",
+      "Ikhlas kerana Allah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_082",
+    "soalan": "Apakah akibat sifat Riya' terhadap amalan ibadah seseorang?",
+    "pilihan": [
+      "Menambah pahala berganda",
+      "Disukai para malaikat",
+      "Menghapuskan pahala amalan tersebut dan mendapat dosa",
+      "Menjadikan ibadah lebih berkat"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_083",
+    "soalan": "Apakah maksud 'Ikhlas' dalam beramal?",
+    "pilihan": [
+      "Bersedekah supaya viral di media sosial",
+      "Melakukan kebaikan supaya dipuji guru",
+      "Solat hanya apabila dilihat ibu bapa",
+      "Melakukan sesuatu amalan semata-mata kerana mengharapkan keredhaan Allah SWT tanpa mengharapkan pujian manusia"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_084",
+    "soalan": "Sifat berasa diri lebih hebat, lebih pandai atau lebih mulia daripada orang lain dinamakan:",
+    "pilihan": [
+      "Qanaah",
+      "Takbur / Sombong (Ujub)",
+      "Tawaduk (Merendah diri)",
+      "Zuhud"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_085",
+    "soalan": "Siapakah makhluk pertama yang dilaknat Allah dan dihalau dari syurga kerana sifat takbur (sombong)?",
+    "pilihan": [
+      "Nabi Adam a.s.",
+      "Malaikat Jibril",
+      "Iblis laknatullah",
+      "Burung Ababil"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_086",
+    "soalan": "Lawan bagi sifat sombong ialah sifat 'Tawaduk' yang bermaksud:",
+    "pilihan": [
+      "Merendah diri dan tidak memandang hina terhadap orang lain",
+      "Mengejek orang miskin",
+      "Menolak kebenaran",
+      "Berasa diri paling mulia"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_087",
+    "soalan": "Perasaan tidak senang hati melihat kelebihan atau nikmat orang lain dan berharap nikmat itu hilang daripadanya dinamakan:",
+    "pilihan": [
+      "Syukur",
+      "Hasad Dengki",
+      "Ikhlas",
+      "Mahabbah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_088",
+    "soalan": "Rasulullah SAW mengingatkan bahawa sifat Hasad Dengki akan memakan kebaikan seperti:",
+    "pilihan": [
+      "Air memadamkan api",
+      "Angin meniup awan",
+      "Api memakan kayu bakar yang kering",
+      "Hujan menyuburkan tanaman"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_089",
+    "soalan": "Apakah maksud sifat 'Qanaah'?",
+    "pilihan": [
+      "Suka meminta-minta",
+      "Berasa cukup dan redha dengan rezeki yang dikurniakan oleh Allah SWT setelah berusaha",
+      "Sentiasa tamak haloba",
+      "Tidak pernah bersyukur"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_090",
+    "soalan": "Sifat sanggup menahan kemarahan dan memaafkan kesalahan orang lain dinamakan:",
+    "pilihan": [
+      "Pemaaf dan penyabar (Al-Hilm)",
+      "Pendendam",
+      "Zalim",
+      "Pemarah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_091",
+    "soalan": "Orang yang kuat menurut sabda Rasulullah SAW bukanlah orang yang menang bergusti, tetapi orang yang:",
+    "pilihan": [
+      "Mampu menahan dirinya ketika sedang marah",
+      "Mempunyai otot yang besar",
+      "Berani memukul kawan",
+      "Mampu mengangkat batu berat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_092",
+    "soalan": "Apabila seseorang sedang marah dalam keadaan berdiri, sunnah Nabi mengajarkannya supaya:",
+    "pilihan": [
+      "Duduk, dan jika masih marah hendaklah berbaring serta mengambil wuduk",
+      "Membaling barang di sekeliling",
+      "Menjerit sekuat hati",
+      "Memukul dinding"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_093",
+    "soalan": "Apakah hukum berputus asa daripada rahmat dan keampunan Allah SWT?",
+    "pilihan": [
+      "Haram dan merupakan ciri orang yang sesat",
+      "Tanda orang tawaduk",
+      "Harus",
+      "Sunat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "akidah_4_094",
+    "soalan": "Dua sifat mulia yang sentiasa seiring dalam hati orang beriman ialah 'Khauf' dan 'Raja'' yang bermaksud:",
+    "pilihan": [
+      "Takut kepada hantu dan syaitan",
+      "Mengharapkan pujian manusia",
+      "Takut kepada azab Allah dan sentiasa mengharapkan rahmat serta keampunan-Nya",
+      "Berani membuat dosa"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "akidah_4_095",
+    "soalan": "Apakah maksud 'Ihsan' dalam agama Islam?",
+    "pilihan": [
+      "Beribadah apabila ada orang melihat sahaja",
+      "Bersedekah kepada orang kaya sahaja",
+      "Membaca buku cerita",
+      "Beribadah kepada Allah seolah-olah kamu melihat-Nya, dan jika kamu tidak melihat-Nya maka sesungguhnya Dia melihat kamu"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_096",
+    "soalan": "Tiga teras utama dalam agama Islam yang diajarkan oleh Malaikat Jibril kepada Nabi SAW ialah:",
+    "pilihan": [
+      "Wuduk, Mandi dan Tayammum",
+      "Islam, Iman dan Ihsan",
+      "Makkah, Madinah dan Syam",
+      "Solat, Puasa dan Zakat"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_097",
+    "soalan": "Akidah yang sahih dan sejahtera berpandukan kepada:",
+    "pilihan": [
+      "Fikiran logik semata-mata",
+      "Mimpi dan ramalan ahli nujum",
+      "Cerita dongeng masyarakat",
+      "Al-Quran dan As-Sunnah mengikut fahaman Ahli Sunnah Wal Jamaah"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_098",
+    "soalan": "Mengapakah akidah diibaratkan seperti akar tunjang bagi sebatang pokok?",
+    "pilihan": [
+      "Kerana akar tidak kelihatan",
+      "Kerana akidah berada di bawah tanah",
+      "Kerana pokok tidak memerlukan daun",
+      "Kerana akidah yang teguh menjadikan iman dan ibadah seseorang kuat serta tidak mudah goyah dengan maksiat"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "akidah_4_099",
+    "soalan": "Amalan soleh seperti solat dan sedekah TIDAK akan diterima oleh Allah sekiranya seseorang itu:",
+    "pilihan": [
+      "Miskin harta benda",
+      "Rosak akidahnya (syirik atau kufur kepada Allah)",
+      "Tinggal di kampung",
+      "Masih kanak-kanak"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "akidah_4_100",
+    "soalan": "Doa yang sering dibaca untuk memohon ketetapan hati di atas agama Islam ialah:",
+    "pilihan": [
+      "Allahumma barik lana fima razaqtana",
+      "Bismika Allahumma ahya wa amut",
+      "Ghufranaka",
+      "Ya Muqallibal qulub, thabbit qalbi 'ala dinik (Wahai Tuhan yang membolak-balikkan hati, tetapkanlah hatiku di atas agama-Mu)"
+    ],
+    "jawapan": 3
+  }
+]
