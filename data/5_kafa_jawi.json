@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "jawi_5_001",
+    "soalan": "Huruf-huruf yang tergolong dalam 'Hukum Derlung' ialah:",
+    "pilihan": [
+      "ب ، ت ، ث ، ج ، ح",
+      "د ، ر ، ل ، و ، ڠ",
+      "ا ، و ، ي ، ء ، هـ",
+      "ك ، ݢ ، ق ، ف ، ڤ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_002",
+    "soalan": "Mengikut Hukum Derlung, kata dasar dua suku kata terbuka pola [a + a] yang berakhir dengan huruf د، ر، ل، و، ڠ hendaklah:",
+    "pilihan": [
+      "Dikekalkan huruf Alif (ا) di akhir perkataan (contoh: دادا، بارا، جالا، باوا، بوڠا)",
+      "Digugurkan huruf Alif di akhir perkataan",
+      "Ditambah huruf Hamzah di hujungnya",
+      "Ditukar kepada huruf Ya"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_003",
+    "soalan": "Ejaan Jawi yang betul mengikut Hukum Derlung bagi perkataan 'jala' ialah:",
+    "pilihan": [
+      "جال",
+      "جلاء",
+      "جالي",
+      "جالا"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_004",
+    "soalan": "Ejaan Jawi yang betul mengikut Hukum Derlung bagi perkataan 'bawa' ialah:",
+    "pilihan": [
+      "باوء",
+      "باوي",
+      "باو",
+      "باوا"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_005",
+    "soalan": "Ejaan Jawi yang betul mengikut Hukum Derlung bagi perkataan 'nganga' ialah:",
+    "pilihan": [
+      "ڠاڠ",
+      "ڠاءڠ",
+      "ڠاڠا",
+      "ڠيڠا"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_006",
+    "soalan": "Mengikut Hukum Luar Derlung, kata dasar dua suku kata terbuka pola [a + a] yang berakhir SELAIN huruf د، ر، ل، و، ڠ (contoh: mata, saya, nama) dieja dengan:",
+    "pilihan": [
+      "Menambah huruf Nun",
+      "Menggugurkan huruf Alif (ا) di akhir perkataan (contoh: مات، ساي، نام)",
+      "Mengekalkan huruf Alif di akhir perkataan",
+      "Menambah huruf Ha di hujungnya"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_007",
+    "soalan": "Mengikut Hukum Ka-Ga (ك / ݢ), setiap perkataan Melayu jati yang berakhir dengan suku kata terbuka 'ka' atau 'ga' dieja:",
+    "pilihan": [
+      "Dengan huruf Hamzah di hujungnya",
+      "Tanpa huruf Alif (ا) di hujungnya (contoh: بوك، موك، رݢ، باݢ)",
+      "Dengan huruf Alif di hujungnya",
+      "Dengan huruf Qaf di hujungnya"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_008",
+    "soalan": "Ejaan Jawi yang betul mengikut Hukum Ka-Ga bagi perkataan 'muka' ialah:",
+    "pilihan": [
+      "موك",
+      "موكاء",
+      "موق",
+      "موكا"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_009",
+    "soalan": "Ejaan Jawi yang betul mengikut Hukum Ka-Ga bagi perkataan 'raga' ialah:",
+    "pilihan": [
+      "راݢا",
+      "رݢ",
+      "راݢ",
+      "رك"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_010",
+    "soalan": "Ejaan Jawi yang betul mengikut Hukum Ka-Ga bagi perkataan 'tiga' ialah:",
+    "pilihan": [
+      "تيك",
+      "تيݢا",
+      "تݢا",
+      "تيݢ"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_011",
+    "soalan": "Apakah yang dimaksudkan dengan 'Homograf' dalam sistem tulisan Jawi?",
+    "pilihan": [
+      "Singkatan nama jabatan kerajaan",
+      "Perkataan yang mempunyai ejaan Rumi yang sama",
+      "Dua perkataan atau lebih yang mempunyai ejaan Jawi yang SAMA tetapi berbeza sebutan dan maknanya",
+      "Kata pinjaman daripada Bahasa Inggeris"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_012",
+    "soalan": "Perkataan homograf 'بيلق' dalam tulisan Jawi boleh dibaca sebagai:",
+    "pilihan": [
+      "Beli atau Bela",
+      "Bilik atau Belek",
+      "Bola atau Bulu",
+      "Balik atau Belok"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_013",
+    "soalan": "Perkataan homograf 'سمڤن' dalam tulisan Jawi boleh dibaca sebagai:",
+    "pilihan": [
+      "Sempit atau Sempat",
+      "Simpan atau Sampan",
+      "Sumpah atau Sampah",
+      "Sopan atau Simpang"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_014",
+    "soalan": "Perkataan homograf 'كولم' dalam tulisan Jawi boleh dibaca sebagai:",
+    "pilihan": [
+      "Kalam atau Kelum",
+      "Kuli atau Kali",
+      "Kolam atau Kulim",
+      "Kelam atau Kalam"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_015",
+    "soalan": "Perkataan homograf 'بورو' dalam tulisan Jawi boleh dibaca sebagai:",
+    "pilihan": [
+      "Bara atau Bura",
+      "Beri atau Bori",
+      "Baru atau Biru",
+      "Buru atau Boru"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_016",
+    "soalan": "Dalam sistem ejaan Jawi moden, bunyi vokal 'e pepet' di tengah perkataan (seperti pada 'emas', 'telur', 'keras') dieja dengan:",
+    "pilihan": [
+      "Menggunakan huruf Ya (ي)",
+      "Menggugurkan huruf vokal (contoh: امس، تلور، كرس)",
+      "Menggunakan huruf Alif (ا)",
+      "Menggunakan huruf Wau (و)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_017",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'selamat' (vokal e pepet pada 'se-') ialah:",
+    "pilihan": [
+      "سلمت",
+      "سالامت",
+      "سيلامت",
+      "سلامت"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_018",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'merah' (vokal e taling pada 'me-') ialah:",
+    "pilihan": [
+      "مره",
+      "ماره",
+      "مورح",
+      "ميره"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_019",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'sejarah' ialah:",
+    "pilihan": [
+      "ساجاره",
+      "سجره",
+      "سجاره",
+      "سيجاره"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_020",
+    "soalan": "Ejaan Jawi bagi perkataan 'pelabuhan' ialah:",
+    "pilihan": [
+      "ڤلابوهن",
+      "ڤلبوهن",
+      "ڤيلابوهن",
+      "ڤالابوهن"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_021",
+    "soalan": "Kata dasar 'baca' (باچ) apabila menerima akhiran '-an' menjadi 'bacaan', dieja dalam Jawi sebagai:",
+    "pilihan": [
+      "باچن",
+      "باچاين",
+      "باچاان",
+      "باچاءن"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_022",
+    "soalan": "Kata dasar 'tiru' (تيرو) apabila menerima akhiran '-an' menjadi 'tiruan', dieja dalam Jawi sebagai:",
+    "pilihan": [
+      "تيرووان",
+      "تيرون",
+      "تيروان",
+      "تيروءن"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_023",
+    "soalan": "Kata dasar 'cari' (چاري) apabila menerima akhiran '-an' menjadi 'carian', dieja dalam Jawi sebagai:",
+    "pilihan": [
+      "چريان",
+      "چاريءن",
+      "چارين",
+      "چاريان"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_024",
+    "soalan": "Kata dasar 'kaji' (كاجي) apabila menerima apitan 'peng-...-an' menjadi 'pengkajian', dieja dalam Jawi sebagai:",
+    "pilihan": [
+      "ڤڠكاجين",
+      "ڤڠكاجيان",
+      "ڤڠكاجيءن",
+      "ڤاڠكاجين"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_025",
+    "soalan": "Kata dasar 'guna' (ݢونا) apabila menerima apitan 'peng-...-an' menjadi 'penggunaan', dieja dalam Jawi sebagai:",
+    "pilihan": [
+      "ڤڠݢوناان",
+      "ڤڠݢونان",
+      "ڤاڠݢوناءن",
+      "ڤڠݢوناءن"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_026",
+    "soalan": "Bagaimanakah cara mengeja 'Kata Majmuk Rangkai Kata Bebas' (seperti 'kereta api', 'jalan raya', 'terima kasih') dalam tulisan Jawi?",
+    "pilihan": [
+      "Dieja bercantum menjadi satu perkataan",
+      "Dieja terpisah menjadi dua perkataan (contoh: كريتا اڤي، جالن راي، تريما كاسيه)",
+      "Diletakkan tanda sempang (-)",
+      "Dipisahkan dengan tanda angka dua (٢)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_027",
+    "soalan": "Ejaan Jawi yang betul bagi kata majmuk 'bandar raya' ialah:",
+    "pilihan": [
+      "بندر رايا",
+      "بندر-راي",
+      "بندر راي",
+      "بندراي"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_028",
+    "soalan": "Ejaan Jawi yang betul bagi kata majmuk 'guru besar' ialah:",
+    "pilihan": [
+      "ݢورو بسار",
+      "ݢوروبسر",
+      "ݢورو-بسر",
+      "ݢورو بسر"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_029",
+    "soalan": "Kata majmuk yang telah mantap penggunaannya dalam bahasa Melayu (seperti 'tanggungjawab', 'kerjasama', 'antarabangsa') dieja dalam Jawi secara:",
+    "pilihan": [
+      "Bercantum sebagai satu perkataan (contoh: تڠݢوڠجواب، كرجاسام، انتارابڠسا)",
+      "Menggunakan huruf besar",
+      "Terpisah menjadi dua perkataan",
+      "Menggunakan tanda angka dua (٢)"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_030",
+    "soalan": "Ejaan Jawi yang betul bagi kata majmuk mantap 'kerjasama' ialah:",
+    "pilihan": [
+      "كرجاساما",
+      "كرجا سام",
+      "كرج-سام",
+      "كرجاسام"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_031",
+    "soalan": "Ejaan Jawi yang betul bagi kata majmuk mantap 'sukarela' ialah:",
+    "pilihan": [
+      "سوك ريلا",
+      "سوكاريلا",
+      "سوكاريلاا",
+      "سوك-ريلا"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_032",
+    "soalan": "Ejaan Jawi yang betul bagi kata majmuk mantap 'warganegara' ialah:",
+    "pilihan": [
+      "ورݢانݢار",
+      "وارݢانݢارا",
+      "ورݢ نݢارا",
+      "ورݢانݢارا"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_033",
+    "soalan": "Ejaan Jawi yang betul bagi kata majmuk mantap 'antarabangsa' ialah:",
+    "pilihan": [
+      "انتارا بڠسا",
+      "انتارابڠسا",
+      "انتارابڠس",
+      "انترا بڠسا"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_034",
+    "soalan": "Ejaan Jawi yang betul bagi kata majmuk mantap 'tandatangan' ialah:",
+    "pilihan": [
+      "تندتڠن",
+      "تنداتاڠن",
+      "تندا-تاڠن",
+      "تندا تاڠن"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_035",
+    "soalan": "Ejaan Jawi yang betul bagi kata majmuk mantap 'setiausaha' ialah:",
+    "pilihan": [
+      "ستياءوسها",
+      "ستياءوسه",
+      "ستيااوسها",
+      "ستيا اوسها"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_036",
+    "soalan": "Ejaan Jawi yang betul bagi kata majmuk mantap 'bumiputera' ialah:",
+    "pilihan": [
+      "بوميڤوتير",
+      "بوميڤوترا",
+      "بومي-ڤوترا",
+      "بومي ڤوترا"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_037",
+    "soalan": "Kata ganda penuh dalam tulisan Jawi (seperti 'anak-anak') ditulis menggunakan tanda:",
+    "pilihan": [
+      "Tanda noktah dua (:)",
+      "Tanda sempang (-)",
+      "Tanda koma (،)",
+      "Angka dua Arab (٢) tanpa tanda sempang (contoh: انق٢)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_038",
+    "soalan": "Kata ganda separa dan kata ganda berentak (seperti 'dedaun', 'gunung-ganang', 'kuih-muih') dieja dalam Jawi menggunakan:",
+    "pilihan": [
+      "Diletakkan dalam kurungan",
+      "Angka dua Arab (٢)",
+      "Disambung terus tanpa jarak",
+      "Tanda sempang (-) dan bukannya angka dua (contoh: ݢونوڠ-ݢانڠ، كوءيه-موءيه)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_039",
+    "soalan": "Ejaan Jawi yang betul bagi kata ganda berentak 'gotong-royong' ialah:",
+    "pilihan": [
+      "ݢوتوڠ-رويوڠ",
+      "ݢوتڠ-رويڠ",
+      "ݢوتوڠ٢",
+      "ݢوتوڠرويوڠ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_040",
+    "soalan": "Ejaan Jawi yang betul bagi kata ganda berimbuhan 'berlari-lari' ialah:",
+    "pilihan": [
+      "برلاري٢",
+      "برلاري لاري",
+      "بارلاري-لاري",
+      "برلاري-لاري"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_041",
+    "soalan": "Ejaan Jawi yang betul bagi kata ganda berimbuhan 'tolong-menolong' ialah:",
+    "pilihan": [
+      "تولوڠ-منولوڠ",
+      "تولڠ-منولڠ",
+      "تولوڠ٢",
+      "تولوڠ منولوڠ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_042",
+    "soalan": "Ejaan Jawi yang betul bagi kata ganda 'sayur-mayur' ialah:",
+    "pilihan": [
+      "سايور-مايور",
+      "سيور-ميور",
+      "سايور٢",
+      "سايورمايور"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_043",
+    "soalan": "Ejaan Jawi yang betul bagi istilah agama 'syariat' ialah:",
+    "pilihan": [
+      "شريعت",
+      "شريعة",
+      "سريعت",
+      "شريعه"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_044",
+    "soalan": "Ejaan Jawi yang betul bagi istilah agama 'akidah' ialah:",
+    "pilihan": [
+      "عقيدة",
+      "اقيدة",
+      "عقيده",
+      "اكيده"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_045",
+    "soalan": "Ejaan Jawi yang betul bagi istilah agama 'mukjizat' ialah:",
+    "pilihan": [
+      "معجزة",
+      "معجزت",
+      "موعجيزة",
+      "موكجيزت"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_046",
+    "soalan": "Ejaan Jawi yang betul bagi istilah agama 'silaturrahim' ialah:",
+    "pilihan": [
+      "سلاتورهيم",
+      "صلة الرهيم",
+      "صلة الرحيم",
+      "سيلاتورهيم"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_047",
+    "soalan": "Ejaan Jawi yang betul bagi istilah agama 'istighfar' ialah:",
+    "pilihan": [
+      "استغفر",
+      "إستغفار / استغفار",
+      "ايستيغفار",
+      "ايستغفار"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_048",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan serapan Arab 'ilmu' ialah:",
+    "pilihan": [
+      "ايلمو",
+      "علمو",
+      "علم",
+      "عيلمو"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_049",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan serapan Arab 'dunia' ialah:",
+    "pilihan": [
+      "دونيا",
+      "دنياا",
+      "دونياا",
+      "دنيا"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_050",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan serapan Arab 'akhirat' ialah:",
+    "pilihan": [
+      "آخيرت",
+      "أخيرة / آخرة",
+      "اخيرت",
+      "اهيرت"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_051",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan pinjaman Inggeris 'ekonomi' ialah:",
+    "pilihan": [
+      "ايكونمي",
+      "اكونومي",
+      "ايكونومي",
+      "ايقونومي"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_052",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan pinjaman Inggeris 'elektronik' ialah:",
+    "pilihan": [
+      "ايليكترونيق",
+      "اليكترونيک",
+      "ايليكترونيک",
+      "ايليكتروينک"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_053",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan pinjaman Inggeris 'globalisasi' ialah:",
+    "pilihan": [
+      "ݢلوبليساسي",
+      "كولوباليساسي",
+      "ݢلوباليساسي",
+      "جلو باليساسي"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_054",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan pinjaman Inggeris 'demokrasi' ialah:",
+    "pilihan": [
+      "دموكراسي",
+      "ديموكاراسي",
+      "ديموقراسي",
+      "ديموكراسي"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_055",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan pinjaman Inggeris 'industri' ialah:",
+    "pilihan": [
+      "ايندوسري",
+      "ايندوستيري",
+      "ايندوستري",
+      "اندوستري"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_056",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan pinjaman Inggeris 'kurikulum' ialah:",
+    "pilihan": [
+      "قوريكولوم",
+      "كريكولوم",
+      "كوريكولوم",
+      "كوريكولم"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_057",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan pinjaman Inggeris 'kokurikulum' ialah:",
+    "pilihan": [
+      "كوكوريكولوم",
+      "قوقوريكولوم",
+      "كوكوريكولم",
+      "كو كوريكولوم"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_058",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan pinjaman Inggeris 'struktur' ialah:",
+    "pilihan": [
+      "ستروقتور",
+      "سيتروكتور",
+      "ستروكتور",
+      "استروكتور"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_059",
+    "soalan": "Siapakah tokoh kaligrafi Islam terkenal pada zaman Kerajaan Abbasiyyah yang digelar 'Imam al-Khattatin' dan mengasaskan kaedah ukuran titik (nuqtah)?",
+    "pilihan": [
+      "Imam Al-Ghazali",
+      "Ibnu Sina",
+      "Al-Khawarizmi",
+      "Ibnu Muqlah"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_060",
+    "soalan": "Selain Ibnu Muqlah, dua orang lagi tokoh agung seni khat Islam klasik yang menyempurnakan kaedah Khat Nasakh dan Thuluth ialah:",
+    "pilihan": [
+      "Ibnu Al-Bawwab dan Yaqut Al-Musta'simi",
+      "Al-Farabi dan Al-Kindi",
+      "Tariq bin Ziyad dan Khalid al-Walid",
+      "Ibnu Battuta dan Ibnu Khaldun"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_061",
+    "soalan": "Dalam kaedah penulisan Khat Nasakh, bagaimanakah keadaan kepala huruf seperti Mim (م), Fa (ف), Qaf (ق) dan Waw (و)?",
+    "pilihan": [
+      "Berlubang / terbuka di bahagian tengah kepalanya",
+      "Tertutup rapat keseluruhannya",
+      "Ditulis berbentuk segi empat",
+      "Tidak mempunyai kepala"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_062",
+    "soalan": "Dalam kaedah penulisan Khat Riq'ah pula, bagaimanakah keadaan kepala huruf seperti Mim (م), Fa (ف), Qaf (ق) dan Waw (و)?",
+    "pilihan": [
+      "Ditinggalkan tanpa kepala",
+      "Berlubang besar",
+      "Tertutup / penuh (tidak berlubang)",
+      "Diletakkan titik di dalam lubang"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_063",
+    "soalan": "Dalam Khat Riq'ah, titik dua (..) dan titik tiga (...) ditulis secara:",
+    "pilihan": [
+      "Dibuang terus tanpa titik",
+      "Terpisah satu per satu secara bulat",
+      "Ditulis di bawah garisan semuanya",
+      "Bersambung menjadi satu garisan pendek (untuk 2 titik) dan bentuk bumbung/segi tiga kecil (untuk 3 titik)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_064",
+    "soalan": "Dalam Khat Riq'ah, huruf-huruf yang bahagian ekornya turun ke bawah garisan asas (baseline) hanya terhad kepada beberapa huruf sahaja yang terhimpun dalam kalimah:",
+    "pilihan": [
+      "جُمِعَ ( ج ، ح ، خ ، ع ، غ ، م ، هـ di tengah )",
+      "د ، ذ ، ر ، ز",
+      "ا ، ب ، ت ، ث",
+      "ك ، ل ، ن ، ي"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_065",
+    "soalan": "Huruf 'س' dan 'ش' dalam Khat Riq'ah boleh ditulis dalam dua bentuk iaitu:",
+    "pilihan": [
+      "Bergigi lima",
+      "Tegak seperti huruf Alif",
+      "Bulat seperti huruf Mim",
+      "Bergigi tiga atau tanpa gigi (garisan lurus mendatar)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_066",
+    "soalan": "Ketinggian huruf Alif (ا) dalam Khat Nasakh biasanya diukur sebanyak:",
+    "pilihan": [
+      "12 titik",
+      "5 hingga 6 titik (nuqtah)",
+      "1 titik sahaja",
+      "2 titik"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_067",
+    "soalan": "Ketinggian huruf Alif (ا) dalam Khat Riq'ah pula lebih pendek dan tegap iaitu diukur sebanyak:",
+    "pilihan": [
+      "1 titik",
+      "10 titik",
+      "7 titik",
+      "3 titik (nuqtah)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_068",
+    "soalan": "Mengapakah Khat Nasakh dinamakan 'Nasakh' (yang bermaksud menyalin)?",
+    "pilihan": [
+      "Kerana ia digunakan secara meluas oleh para penulis untuk menyalin naskhah Al-Quran dan kitab-kitab ilmu",
+      "Kerana ia hanya digunakan untuk menghias dinding istana",
+      "Kerana ia berasal dari negara China",
+      "Kerana ia tidak mempunyai titik"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_069",
+    "soalan": "Apakah fungsi utama dakwat hitam dan bekas dakwat yang diletakkan benang sutera (Liqah) di dalamnya dalam penulisan khat tradisional?",
+    "pilihan": [
+      "Menajamkan mata pen buluh",
+      "Membersihkan tangan penulis",
+      "Mengawal kadar dakwat pada mata pen supaya tidak menitik dan merosakkan kertas",
+      "Mewarnakan kertas menjadi hitam"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_070",
+    "soalan": "Kertas yang paling sesuai untuk latihan menulis seni khat menggunakan dakwat basah ialah:",
+    "pilihan": [
+      "Kertas tisu nipis",
+      "Kertas licin (art paper / kertas khat) supaya dakwat tidak kembang dan mata pen lancar bergerak",
+      "Kertas surat khabar lama",
+      "Kertas pasir kasar"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_071",
+    "soalan": "Peribahasa Jawi 'بݢاي اور دڠن تبينغ' bermaksud:",
+    "pilihan": [
+      "Orang yang suka bermusuhan",
+      "Hidup bermasyarakat yang saling bantu-membantu antara satu sama lain",
+      "Orang yang mementingkan diri sendiri",
+      "Orang yang malas bekerja"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_072",
+    "soalan": "Peribahasa Jawi 'دمان بومي دڤيجق، دسيتو لاڠيت دجونجوڠ' dibaca sebagai:",
+    "pilihan": [
+      "Di mana bumi dipijak, di situ langit dijunjung",
+      "Di mana ada kemahuan, di situ ada jalan",
+      "Biar putih tulang, jangan putih mata",
+      "Sediakan payung sebelum hujan"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_073",
+    "soalan": "Peribahasa Jawi 'سڤرتي كاچڠ لوڤاكن كوليت' merujuk kepada sikap orang yang:",
+    "pilihan": [
+      "Suka bersedekah kepada orang miskin",
+      "Sangat mengenang budi ibu bapa",
+      "Melupakan jasa dan budi orang yang pernah menolongnya setelah berjaya",
+      "Rajin menanam pokok kacang"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_074",
+    "soalan": "Peribahasa Jawi 'هوجن امس دنݢري اورڠ، هوجن باتو دنݢري سنديري' mengajar kita supaya:",
+    "pilihan": [
+      "Sentiasa mencintai dan menyayangi tanah air sendiri walau bagaimana baik sekalipun negara luar",
+      "Mencari emas di tempat orang",
+      "Membenci negara sendiri",
+      "Berpindah ke luar negara selama-lamanya"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_075",
+    "soalan": "Pantun Jawi: 'بواه چمڤدق دلوار ڤاݢر، امبيل ݢاله تولوڠ جولوقكن' — baris ketiga pantun terkenal ini berbunyi:",
+    "pilihan": [
+      "ڤوكوق چمڤدق بربواه لبت",
+      "ماري كيت برسام-سام",
+      "كالاو ساله تولوڠ تونجوقكن",
+      "ساي بودق بارو بلاجر"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_076",
+    "soalan": "Ungkapan pembuka ucapan dalam syarahan atau pidato 'السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ' diikuti dengan kata alu-aluan 'يڠ دحرمتي توان ڤڠروسي مجليس' yang bermaksud:",
+    "pilihan": [
+      "Yang berbahagia Guru Besar",
+      "Barisan hakim yang bijaksana",
+      "Para hadirin sekalian",
+      "Yang dihormati Tuan Pengerusi Majlis"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_077",
+    "soalan": "Perkataan 'ڤنليتين' dalam tulisan Rumi ialah:",
+    "pilihan": [
+      "Pelatihan",
+      "Penilaian",
+      "Penilitian",
+      "Penelitian"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_078",
+    "soalan": "Perkataan 'ڤمباڠونن' dalam tulisan Rumi ialah:",
+    "pilihan": [
+      "Pembahagian",
+      "Pembuangan",
+      "Pembelajaran",
+      "Pembangunan"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_079",
+    "soalan": "Perkataan 'كومونيكاسي' dalam tulisan Rumi ialah:",
+    "pilihan": [
+      "Komputer",
+      "Komunikasi",
+      "Komuniti",
+      "Komersial"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_080",
+    "soalan": "Perkataan 'تراديسيونل' dalam tulisan Rumi ialah:",
+    "pilihan": [
+      "Transformasi",
+      "Transisi",
+      "Tradisional",
+      "Transportasi"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_081",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'penyelidikan' ialah:",
+    "pilihan": [
+      "ڤاڽليديقن",
+      "ڤڽليديكان",
+      "ڤنليديقن",
+      "ڤڽليديقن"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_082",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'mengutamakan' ialah:",
+    "pilihan": [
+      "ماڠوتاماكن",
+      "مڠاوتاماكن",
+      "مڠوتاماكن",
+      "مڠوتماكن"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_083",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'memartabatkan' ialah:",
+    "pilihan": [
+      "ممرتباتكن",
+      "ميمرتبتكن",
+      "ممرتبتكن",
+      "مامرتبتكن"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_084",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'kebijaksanaan' ialah:",
+    "pilihan": [
+      "كبجقساناءن",
+      "كبيجقسانان",
+      "كابيجقساناءن",
+      "كبيجقساناءن"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_085",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'kesinambungan' ialah:",
+    "pilihan": [
+      "كسينمبوڠن",
+      "كاسينمبوڠن",
+      "كسنمبوڠن",
+      "كسينامبوڠن"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_086",
+    "soalan": "Ayat 'توليسن جاوي مروڤاكن ايدينتيتي دان واريسن بڠسا ملايو' dibaca sebagai:",
+    "pilihan": [
+      "Tulisan Jawi merupakan identiti dan warisan bangsa Melayu",
+      "Tulisan Jawi wajib dipelihara sepanjang zaman",
+      "Tulisan Jawi digunakan dalam urusan surat-menyurat",
+      "Tulisan Jawi sangat mudah dipelajari oleh semua murid"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_087",
+    "soalan": "Ayat 'كيت مستيله براوسها برسوڠݢوه-سوڠݢوه اونتوق منچاڤاي كجاياءن' dibaca:",
+    "pilihan": [
+      "Kita hendaklah rajin membaca buku di perpustakaan",
+      "Kita wajib menghormati ibu bapa dan guru setiap masa",
+      "Kita perlu menjaga kebersihan diri dan alam sekitar",
+      "Kita mestilah berusaha bersungguh-sungguh untuk mencapai kejayaan"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_088",
+    "soalan": "Dalam penulisan surat kiriman rasmi bertulisan Jawi, tarikh surat ditulis di bahagian:",
+    "pilihan": [
+      "Sebelah kiri atas (bertentangan dengan alamat pengirim di sebelah kanan)",
+      "Di bahagian bawah sekali selepas tandatangan",
+      "Tidak perlu menulis tarikh",
+      "Di tengah-tengah perenggan isi"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_089",
+    "soalan": "Singkatan bagi 'Jabatan Kemajuan Islam Malaysia' (JAKIM) apabila ditulis sebagai akronim penuh dalam Jawi ialah:",
+    "pilihan": [
+      "جاكيم",
+      "جاقيم",
+      "جاكيمـ",
+      "ج.ا.ك.ي.م."
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_090",
+    "soalan": "Singkatan bagi 'Ujian Penilaian Kelas KAFA' (UPKK) dalam tulisan Jawi ditulis:",
+    "pilihan": [
+      "ا.ف.ك.ك.",
+      "ع.ڤ.ق.ق.",
+      "اوڤكك",
+      "ا.ڤ.ك.ك."
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_091",
+    "soalan": "Batu bersurat tertua di Semenanjung Tanah Melayu yang membuktikan penggunaan tulisan Jawi sejak abad ke-14 Masihi ditemui di:",
+    "pilihan": [
+      "Kuala Berang, Terengganu (Batu Bersurat Terengganu)",
+      "Bandar Hilir, Melaka",
+      "Alor Setar, Kedah",
+      "Kota Bharu, Kelantan"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_092",
+    "soalan": "Apakah peranan utama tulisan Jawi pada zaman Kesultanan Melayu Melaka?",
+    "pilihan": [
+      "Hanya digunakan untuk melukis gambar",
+      "Sebagai tulisan rasmi pentadbiran negara, surat-menyurat diraja, undang-undang dan penyebaran ilmu Islam",
+      "Tidak digunakan langsung",
+      "Hanya digunakan oleh pedagang luar"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_093",
+    "soalan": "Hukum Kanun Melaka dan Undang-Undang Laut Melaka pada zaman dahulu ditulis menggunakan tulisan:",
+    "pilihan": [
+      "Tulisan Jawi",
+      "Tulisan Rumi",
+      "Tulisan Sanskrit",
+      "Tulisan Latin"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_094",
+    "soalan": "Antara huruf Jawi berikut, manakah kumpulan 6 huruf tambahan yang dicipta oleh ulama Melayu untuk menyesuaikan bunyi bahasa Melayu?",
+    "pilihan": [
+      "ص ، ض ، ط ، ظ ، ع ، غ",
+      "د ، ذ ، ر ، ز ، س ، ش",
+      "ا ، ب ، ت ، ث ، ج ، ح",
+      "چ ، ڠ ، ڤ ، ݢ ، ۏ ، ڽ"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "jawi_5_095",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'penghargaan' ialah:",
+    "pilihan": [
+      "ڤاڠهرݢاءن",
+      "ڤڠهرݢاءن",
+      "ڤڠهرݢاان",
+      "ڤڠهرݢان"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_096",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'keistimewaan' ialah:",
+    "pilihan": [
+      "كيستيميواءن",
+      "كأيستيميوان",
+      "كأيستيميواءن",
+      "كءيستيميواءن"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_097",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'menyempurnakan' ialah:",
+    "pilihan": [
+      "مڽمڤورناكن",
+      "منسمڤورناكن",
+      "ماڽمڤورناكن",
+      "مڽمڤورناكان"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "jawi_5_098",
+    "soalan": "Ejaan Jawi yang betul bagi perkataan 'bertanggungjawab' ialah:",
+    "pilihan": [
+      "برتڠݢوڠجوب",
+      "برتڠݢوڠجواب",
+      "بارتڠݢوڠجواب",
+      "بر تڠݢوڠ جواب"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "jawi_5_099",
+    "soalan": "Mengapakah murid-murid KAFA perlu mahir membaca dan menulis Jawi dengan baik?",
+    "pilihan": [
+      "Untuk lulus ujian matematik",
+      "Kerana tulisan Rumi tidak boleh digunakan lagi",
+      "Kerana ia memudahkan pembacaan Al-Quran, memahami kitab-kitab agama dan memartabatkan warisan bangsa",
+      "Untuk menunjuk kepandaian kepada rakan"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "jawi_5_100",
+    "soalan": "Ayat 'ماريله كيت برسام-سام ممرتبتكن توليسن جاوي' dibaca sebagai:",
+    "pilihan": [
+      "Kita bangga menjadi rakyat Malaysia",
+      "Marilah kita belajar tulisan Jawi setiap hari",
+      "Marilah kita bersama-sama memartabatkan tulisan Jawi",
+      "Tulisan Jawi sangat cantik dan mudah ditulis"
+    ],
+    "jawapan": 2
+  }
+]
