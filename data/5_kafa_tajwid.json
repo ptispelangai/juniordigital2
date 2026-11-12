@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "tajwid_5_001",
+    "soalan": "Apakah maksud 'Makhraj Huruf' dari segi istilah ilmu tajwid?",
+    "pilihan": [
+      "Cara memberhentikan bacaan di akhir ayat",
+      "Tempat keluar huruf-huruf Hijaiyyah yang membezakan bunyi satu huruf dengan huruf yang lain",
+      "Kadar panjang bacaan mad",
+      "Tanda baris di atas dan di bawah huruf"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_002",
+    "soalan": "Berapakah bilangan bahagian UMUM makhraj huruf menurut pendapat masyhur ulama tajwid (Imam Ibnul Jazari)?",
+    "pilihan": [
+      "5 bahagian umum (dan 17 makhraj khusus)",
+      "7 bahagian",
+      "3 bahagian",
+      "10 bahagian"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_003",
+    "soalan": "Lima bahagian umum makhraj huruf ialah Al-Jauf (rongga mulut & tekak), Al-Halq (kerongkong), Al-Lisan (lidah), Asy-Syafatain (dua bibir) dan:",
+    "pilihan": [
+      "Al-Khaisyum (pangkal hidung)",
+      "As-Sadr (dada)",
+      "Al-Uzn (telinga)",
+      "Al-Qalb (jantung)"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_004",
+    "soalan": "Huruf-huruf yang keluar daripada bahagian 'Al-Jauf' (rongga mulut dan kerongkong) ialah:",
+    "pilihan": [
+      "Huruf Halkum",
+      "Huruf Qalqalah",
+      "Tiga huruf Mad ( ا ، و ، ي )",
+      "Huruf Bibir"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_005",
+    "soalan": "Bahagian 'Al-Halq' (kerongkong/tekak) terbahagi kepada tiga bahagian (pangkal, tengah dan hujung) yang mengeluarkan 6 huruf iaitu:",
+    "pilihan": [
+      "ب ، م ، و ، ف",
+      "ء ، هـ ، ع ، ح ، غ ، خ",
+      "ق ، ك",
+      "ت ، د ، ط"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_006",
+    "soalan": "Huruf yang keluar daripada pangkal kerongkong (Aqsal Halq) yang paling dalam ialah:",
+    "pilihan": [
+      "Ghain dan Kha ( غ ، خ )",
+      "Ain dan Ha ( ع ، ح )",
+      "Qaf dan Kaf ( ق ، ك )",
+      "Hamzah dan Ha' ( ء ، هـ )"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_007",
+    "soalan": "Huruf yang keluar daripada bahagian 'Al-Khaisyum' (pangkal hidung) ialah:",
+    "pilihan": [
+      "Bunyi dengung (Ghunnah) bagi huruf Nun dan Mim yang berdengung",
+      "Huruf Alif dan Hamzah",
+      "Huruf Sad dan Dhad",
+      "Huruf Ra' dan Lam"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_008",
+    "soalan": "Berapakah bilangan huruf yang keluar daripada bahagian 'Asy-Syafatain' (dua bibir mulut)?",
+    "pilihan": [
+      "4 huruf ( ف ، ب ، م ، و )",
+      "6 huruf",
+      "10 huruf",
+      "2 huruf"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_009",
+    "soalan": "Huruf Fa' ( ف ) keluar daripada:",
+    "pilihan": [
+      "Tengah kerongkong",
+      "Pangkal hidung",
+      "Perut bibir bawah dirapatkan dengan hujung dua gigi kacip atas",
+      "Pangkal lidah"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_010",
+    "soalan": "Huruf Dhad ( ض ) merupakan huruf yang paling istimewa dalam Bahasa Arab dan keluar daripada:",
+    "pilihan": [
+      "Hujung lidah",
+      "Salah satu tepi lidah (atau kedua-duanya) bertemu dengan gigi geraham atas",
+      "Dua bibir mulut",
+      "Pangkal tekak"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_011",
+    "soalan": "Huruf Qaf ( ق ) dan Kaf ( ك ) keluar daripada bahagian:",
+    "pilihan": [
+      "Pangkal lidah (Aqsal Lisan) bertemu langit-langit lembut/keras",
+      "Hujung lidah",
+      "Dua bibir",
+      "Kerongkong"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_012",
+    "soalan": "Huruf Jim ( ج ), Syin ( ش ) dan Ya' ( ي bukan mad ) keluar daripada bahagian:",
+    "pilihan": [
+      "Pangkal hidung",
+      "Pangkal tekak",
+      "Bibir mulut",
+      "Tengah lidah (Wasatul Lisan) bertemu langit-langit atas"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_013",
+    "soalan": "Apakah maksud 'Sifat Huruf' dalam ilmu tajwid?",
+    "pilihan": [
+      "Tempat berhenti bacaan",
+      "Keadaan atau cara bunyi huruf yang berlaku ketika huruf itu keluar daripada makhrajnya (seperti lantunan, desiran, tebal atau nipis)",
+      "Bilangan ayat dalam surah",
+      "Jenis-jenis tanda waqaf"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_014",
+    "soalan": "Lawan bagi sifat 'Al-Hams' (keluar nafas ketika menyebut huruf) ialah sifat:",
+    "pilihan": [
+      "Al-Isti'la'",
+      "Asy-Syiddah",
+      "Al-Itbaq",
+      "Al-Jahr (tertahan nafas / suara kuat dan jelas)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_015",
+    "soalan": "Sifat 'Asy-Syiddah' bermaksud tertahan suara ketika menyebut huruf, dan hurufnya terhimpun dalam kalimah:",
+    "pilihan": [
+      "أَجِدْ قَطٍ بَكَتْ ( أ ، ج ، د ، ق ، ط ، ب ، ك ، ت )",
+      "لِنْ عُمَرُ",
+      "فَحَثَّهُ شَخْصٌ سَكَتَ",
+      "خُصَّ ضَغْطٍ قِظْ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_016",
+    "soalan": "Sifat pertengahan antara tertahan suara (Syiddah) dan terlepas suara (Rakhawah) dinamakan 'At-Tawassut' yang hurufnya terhimpun dalam kalimah:",
+    "pilihan": [
+      "فِرَّ مِنْ لُبٍّ",
+      "لِنْ عُمَرُ ( ل ، ن ، ع ، م ، ر )",
+      "يَنْمُو",
+      "قُطْبُ جَدٍّ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_017",
+    "soalan": "Sifat tunggal (tidak berlawanan) 'As-Safir' (الصَّفِيرُ) bermaksud bunyi desiran kuat seperti siulan burung/belalang, dan berlaku pada 3 huruf iaitu:",
+    "pilihan": [
+      "و ، ي ، ا",
+      "ل ، ر ، ن",
+      "ق ، ط ، ب",
+      "ص ، ز ، س"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_018",
+    "soalan": "Sifat tunggal 'Al-Qalqalah' bermaksud lantunan bunyi yang kuat ketika menyebut huruf sukun, dan berlaku pada 5 huruf iaitu:",
+    "pilihan": [
+      "ص ، ز ، س",
+      "ي ، ن ، م ، و",
+      "ء ، هـ ، ع ، ح",
+      "ق ، ط ، ب ، ج ، د (قُطْبُ جَدٍّ)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_019",
+    "soalan": "Sifat tunggal 'Al-Lin' (اللِّينُ) bermaksud menyebut huruf dengan lembut dan mudah tanpa memberatkan lidah, iaitu pada huruf:",
+    "pilihan": [
+      "Nun bertasydid",
+      "Wau sukun (وْ) dan Ya' sukun (يْ) yang didahului oleh huruf berbaris Fathah (contoh: خَوْفٌ / قُرَيْشٍ)",
+      "Qaf sukun",
+      "Alif sukun"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_020",
+    "soalan": "Sifat tunggal 'At-Tafasysyi' (التَّفَشِّي) bermaksud angin yang bertebaran luas di dalam mulut ketika menyebut huruf:",
+    "pilihan": [
+      "Sad ( ص )",
+      "Syin ( ش )",
+      "Jim ( ج )",
+      "Sin ( س )"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_021",
+    "soalan": "Sifat tunggal 'At-Takrir' (التَّكْرِيرُ) bermaksud getaran hujung lidah yang berlaku pada huruf:",
+    "pilihan": [
+      "Mim ( م )",
+      "Nun ( ن )",
+      "Lam ( ل )",
+      "Ra' ( ر ) — hendaklah dikawal supaya tidak bergetar berlebihan"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_022",
+    "soalan": "Sifat tunggal 'Al-Istitalah' (الِاسْتِطَالَةُ) bermaksud memanjangkan suara dari pangkal tepi lidah hingga ke hujung lidah yang hanya dimiliki oleh huruf:",
+    "pilihan": [
+      "Zha' ( ظ )",
+      "Sad ( ص )",
+      "Ta' ( ط )",
+      "Dhad ( ض )"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_023",
+    "soalan": "Apakah maksud 'Waqaf' dan 'Ibtida'' dalam bacaan Al-Quran?",
+    "pilihan": [
+      "Waqaf ialah membaca awal surah, Ibtida' ialah akhir surah",
+      "Waqaf ialah membaca laju, Ibtida' ialah membaca perlahan",
+      "Waqaf ialah mendengung, Ibtida' ialah melantun",
+      "Waqaf ialah memberhentikan bacaan sejenak untuk mengambil nafas, manakala Ibtida' ialah memulakan semula bacaan selepas waqaf"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_024",
+    "soalan": "Waqaf pada tempat yang telah sempurna makna ayatnya dan tiada kaitan lagi dengan ayat selepasnya (seperti di hujung surah atau akhir kisah) dinamakan:",
+    "pilihan": [
+      "Waqaf Hasan",
+      "Waqaf Tam (Waqaf Sempurna)",
+      "Waqaf Idhtirari",
+      "Waqaf Qabih"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_025",
+    "soalan": "Memberhentikan bacaan pada tempat yang merosakkan makna ayat atau membawa maksud yang bertentangan dengan ajaran Islam dinamakan:",
+    "pilihan": [
+      "Waqaf Qabih (Waqaf Buruk - dilarang berhenti dengan sengaja)",
+      "Waqaf Lazim",
+      "Waqaf Tam",
+      "Waqaf Kafi"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_026",
+    "soalan": "Contoh Waqaf Qabih yang dilarang berhenti padanya ialah berhenti pada kalimah 'لَا تَقْرَبُوا الصَّلَاةَ' (Jangan kamu hampiri solat) tanpa menyambungnya dengan kalimah:",
+    "pilihan": [
+      "رَبِّ الْعَالَمِينَ",
+      "وَأَنْتُمْ سُكَارَى (sedangkan kamu dalam keadaan mabuk)",
+      "بِسْمِ اللَّهِ",
+      "الْحَمْدُ لِلَّهِ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_027",
+    "soalan": "Tanda titik tiga bertindih dua tempat ( ۛ ... ۛ ) di dalam Al-Quran dinamakan 'Waqaf Mu'anaqah' yang bermaksud:",
+    "pilihan": [
+      "Wajib berhenti pada kedua-dua tempat",
+      "Dilarang berhenti pada kedua-duanya",
+      "Harus berhenti pada SALAH SATU daripada dua tanda tersebut sahaja (tidak boleh berhenti pada kedua-duanya)",
+      "Wajib sujud tilawah"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_028",
+    "soalan": "Contoh ayat yang mempunyai tanda Waqaf Mu'anaqah ( ۛ ... ۛ ) pada permulaan Surah Al-Baqarah ialah:",
+    "pilihan": [
+      "مَالِكِ يَوْمِ الدِّينِ",
+      "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ",
+      "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_029",
+    "soalan": "Apakah maksud 'Saktah' (السَّكْتَةُ) dalam Riwayat Hafs 'an 'Asim?",
+    "pilihan": [
+      "Membaca dengan suara yang sangat kuat",
+      "Berhenti lama sambil mengambil nafas baru",
+      "Memberhentikan suara sejenak (kadar 2 harakat) TANPA mengambil nafas baru kemudian meneruskan bacaan",
+      "Mendengungkan bacaan selama 6 harakat"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_030",
+    "soalan": "Berapakah tempat bacaan Saktah yang wajib diketahui dalam Al-Quran mengikut Riwayat Hafs 'an 'Asim?",
+    "pilihan": [
+      "20 tempat",
+      "4 tempat (Surah Al-Kahfi ayat 1, Surah Yasin ayat 52, Surah Al-Qiyamah ayat 27 dan Surah Al-Mutaffifin ayat 14)",
+      "1 tempat sahaja",
+      "10 tempat"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_031",
+    "soalan": "Dalam mashaf Al-Quran Rasm Uthmani, tanda bacaan Saktah ditandai dengan huruf kecil:",
+    "pilihan": [
+      "قلى (Qaf Lam Ya)",
+      "س (Sin kecil) di atas kalimah",
+      "ج (Jim kecil)",
+      "م (Mim kecil)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_032",
+    "soalan": "Mad Wajib Muttasil berlaku apabila huruf mad bertemu dengan huruf Hamzah (ء) di dalam:",
+    "pilihan": [
+      "Satu kalimah yang sama (kadar bacaannya 4 atau 5 harakat)",
+      "Dua kalimah yang berasingan",
+      "Awal surah sahaja",
+      "Akhir ayat sahaja"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_033",
+    "soalan": "Contoh bacaan Mad Wajib Muttasil ialah kalimah:",
+    "pilihan": [
+      "الْعَالَمِينَ",
+      "قُلْ هُوَ اللَّهُ",
+      "إِنَّا أَعْطَيْنَاكَ",
+      "جَاءَ / السَّمَاءُ / أُولَٰئِكَ"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_034",
+    "soalan": "Mad Jaiz Munfasil berlaku apabila huruf mad di akhir kalimah pertama bertemu dengan huruf Hamzah (ء) di awal:",
+    "pilihan": [
+      "Kalimah yang sama",
+      "Kalimah yang kedua (kadar bacaannya 4 atau 5 harakat)",
+      "Huruf Qalqalah",
+      "Huruf yang bertasydid"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_035",
+    "soalan": "Contoh bacaan Mad Jaiz Munfasil yang terdapat dalam Surah Al-Kautsar ialah:",
+    "pilihan": [
+      "إِنَّا أَعْطَيْنَاكَ (Innaaa a'tainaaka)",
+      "وَانْحَرْ",
+      "فَصَلِّ لِرَبِّكَ",
+      "هُوَ الْأَبْتَرُ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_036",
+    "soalan": "Mad Aridh Lissukun berlaku apabila huruf mad bertemu dengan huruf yang dimatikan kerana:",
+    "pilihan": [
+      "Waqaf (berhenti bacaan di akhir kalimah) dengan kadar 2, 4 atau 6 harakat",
+      "Tanwin di tengah ayat",
+      "Sukun asli di tengah kalimah",
+      "Sabdu di awal ayat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_037",
+    "soalan": "Mad Badal berlaku apabila huruf Hamzah mendahului huruf Mad dalam satu kalimah (seperti آمَنُوا / إِيمَانًا / أُوتُوا), dan dibaca dengan kadar:",
+    "pilihan": [
+      "1 harakat",
+      "2 harakat",
+      "6 harakat wajib",
+      "4 atau 5 harakat"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_038",
+    "soalan": "Mad 'Iwad berlaku apabila waqaf (berhenti) pada huruf yang berbaris dua di atas (Fathatain ً ) selain Ta Marbutah (contoh: عَلِيمًا حَكِيمًا -> Hakiimaa), dibaca dengan kadar:",
+    "pilihan": [
+      "2 harakat (menggantikan tanwin atas kepada mad alif)",
+      "Berdengung 2 harakat",
+      "Qalqalah",
+      "6 harakat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_039",
+    "soalan": "Mad Lin berlaku apabila waqaf (berhenti) pada huruf selepas huruf Lin (وْ / يْ yang sebelumnya baris Fathah), contohnya pada akhir ayat Surah Quraisy:",
+    "pilihan": [
+      "قُرَيْشٍ / الصَّيْفِ / الْبَيْتِ / خَوْفٍ (dibaca 2, 4 atau 6 harakat)",
+      "بِسْمِ اللَّهِ",
+      "قُلْ أَعُوذُ",
+      "مَالِكِ يَوْمِ الدِّينِ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_040",
+    "soalan": "Mad Farq berlaku apabila Hamzah Istifham (hamzah pertanyaan) bertemu dengan Alif Lam Ta'rif dan dibaca panjang 6 harakat untuk membezakan ayat pertanyaan dengan ayat penyata, contohnya:",
+    "pilihan": [
+      "آللَّهُ / آالذَّكَرَيْنِ",
+      "بِسْمِ اللَّهِ",
+      "الْحَمْدُ لِلَّهِ",
+      "رَبِّ الْعَالَمِينَ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_041",
+    "soalan": "Mengapakah kalimah 'الدُّنْيَا' (Ad-Dunya) tidak dibaca secara Idgham Ma'al Ghunnah walaupun Nun Sakinah bertemu huruf Ya?",
+    "pilihan": [
+      "Kerana huruf Ya bertanda sukun",
+      "Kerana ia kata pinjaman",
+      "Kerana ia terletak di akhir surah",
+      "Kerana Nun Sakinah dan huruf Ya bertemu di dalam SATU KALIMAH yang sama, maka hukumnya ialah Izhar Mutlaq (dibaca jelas tanpa dengung)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_042",
+    "soalan": "Berapakah bilangan kalimah di dalam Al-Quran yang termasuk dalam hukum pengecualian 'Izhar Mutlaq'?",
+    "pilihan": [
+      "10 kalimah",
+      "4 kalimah sahaja (الدُّنْيَا ، بُنْيَانٌ ، قِنْوَانٌ ، صِنْوَانٌ)",
+      "2 kalimah sahaja",
+      "15 kalimah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_043",
+    "soalan": "Surah Al-Insyirah (Alam Nasyrah) mengandungi penegasan Allah bahawa sesungguhnya di samping setiap kesusahan itu pasti ada:",
+    "pilihan": [
+      "Ketakutan",
+      "Kemudahan (إِنَّ مَعَ الْعُسْرِ يُسْرًا)",
+      "Kerugian",
+      "Kegelapan"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_044",
+    "soalan": "Ayat terakhir dalam Surah Al-Insyirah ('وَإِلَىٰ رَبِّكَ فَارْغَبْ') memerintahkan umat Islam supaya:",
+    "pilihan": [
+      "Bergantung kepada kekayaan manusia",
+      "Berputus asa apabila ditimpa ujian",
+      "Hanya kepada Tuhanmulah (Allah) hendaknya kamu berharap dan memohon pertolongan",
+      "Meminta pertolongan kepada berhala"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_045",
+    "soalan": "Dalam Surah At-Tin, Allah bersumpah dengan empat perkara mulia iaitu buah Tin, buah Zaitun, Bukit Tursina dan:",
+    "pilihan": [
+      "Kota Baitul Maqdis",
+      "Sungai Nil",
+      "Negeri yang aman ini (Kota Suci Makkah)",
+      "Bukit Uhud"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_046",
+    "soalan": "Ayat ke-4 Surah At-Tin ('لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ') menegaskan bahawa Allah telah menciptakan manusia dalam:",
+    "pilihan": [
+      "Keadaan yang sangat lemah tanpa akal",
+      "Bentuk yang sama seperti haiwan",
+      "Keadaan yang hina",
+      "Sebaik-baik kejadian dan bentuk rupa paras"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_047",
+    "soalan": "Surah Al-Qadr menceritakan tentang kemuliaan malam diturunkan Al-Quran iaitu:",
+    "pilihan": [
+      "Malam Aidilfitri",
+      "Malam Lailatul Qadar",
+      "Malam Isra' Mikraj",
+      "Malam Nisfu Sya'ban"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_048",
+    "soalan": "Dalam Surah Al-Qadr, ibadah pada malam Lailatul Qadar adalah lebih baik daripada beribadah selama:",
+    "pilihan": [
+      "Sepuluh tahun",
+      "Seribu bulan (bersamaan lebih 83 tahun)",
+      "Seratus bulan",
+      "Lima puluh hari"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_049",
+    "soalan": "Pada malam Lailatul Qadar, para malaikat dan Ar-Ruh turun ke bumi dengan izin Tuhan mereka. Siapakah yang dimaksudkan dengan 'Ar-Ruh' dalam ayat tersebut?",
+    "pilihan": [
+      "Malaikat Malik a.s.",
+      "Malaikat Mikail a.s.",
+      "Malaikat Israfil a.s.",
+      "Malaikat Jibril a.s."
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_050",
+    "soalan": "Malam Lailatul Qadar penuh dengan kesejahteraan dan keselamatan sehingga terbitnya:",
+    "pilihan": [
+      "Waktu Asar",
+      "Waktu Zohor",
+      "Waktu Tengah Malam",
+      "Waktu Fajar (Subuh)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_051",
+    "soalan": "Dalam Surah Al-Bayyinah ayat 5, Allah memerintahkan manusia supaya beribadah dengan ikhlas kepada-Nya, mendirikan solat dan menunaikan zakat kerana itulah:",
+    "pilihan": [
+      "Adat resam bangsa",
+      "Perkara sunat",
+      "Agama yang lurus dan benar (دِينُ الْقَيِّمَةِ)",
+      "Pilihan sementara"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_052",
+    "soalan": "Dalam Surah Al-Bayyinah, orang-orang yang beriman dan beramal soleh digelar sebagai 'خَيْرُ الْبَرِيَّةِ' yang bermaksud:",
+    "pilihan": [
+      "Penduduk bumi",
+      "Sekalian manusia biasa",
+      "Golongan yang rugi",
+      "Sebaik-baik makhluk di sisi Allah SWT"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_053",
+    "soalan": "Surah Az-Zalzalah menceritakan tentang peristiwa dahsyat pada Hari Kiamat apabila:",
+    "pilihan": [
+      "Bumi digoncangkan dengan goncangan yang amat dahsyat dan mengeluarkan segala isi kandungannya",
+      "Air laut menjadi kering kontang",
+      "Hujan turun selama 40 hari",
+      "Pokok-pokok berbunga lebat"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_054",
+    "soalan": "Dua ayat terakhir Surah Az-Zalzalah menegaskan bahawa setiap amalan kebaikan atau kejahatan walaupun sebesar:",
+    "pilihan": [
+      "Gunung Uhud sahaja",
+      "Sebiji kurma sahaja",
+      "Zarrah (atom / debu halus) pasti akan dilihat dan dibalas oleh Allah SWT",
+      "Lautan luas sahaja"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_055",
+    "soalan": "Apakah maksud perkataan 'Al-'Adiyat' dalam Surah Al-'Adiyat?",
+    "pilihan": [
+      "Unta padang pasir",
+      "Kuda-kuda perang yang berlari kencang dengan termengah-mengah",
+      "Angin taufan",
+      "Burung-burung di langit"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_056",
+    "soalan": "Dalam Surah Al-'Adiyat, Allah menegur sifat buruk kebanyakan manusia yang sangat ingkar (tidak bersyukur) kepada nikmat Tuhannya dan sangat:",
+    "pilihan": [
+      "Taat kepada perintah Allah",
+      "Rajin bersedekah",
+      "Suka membantu fakir miskin",
+      "Cintakan harta benda secara berlebihan (bakhil)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_057",
+    "soalan": "Apakah maksud perkataan 'Al-Qari'ah' dalam Surah Al-Qari'ah?",
+    "pilihan": [
+      "Hari Kiamat yang menggentarkan hati manusia",
+      "Syurga yang indah",
+      "Malam yang gelap gelita",
+      "Waktu Subuh yang cerah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_058",
+    "soalan": "Dalam Surah Al-Qari'ah, bagaimanakah keadaan manusia dan gunung-ganang pada hari berlakunya Kiamat?",
+    "pilihan": [
+      "Semua manusia tidur lena",
+      "Gunung-ganang menjadi semakin tinggi dan kukuh",
+      "Manusia duduk tenang di dalam rumah",
+      "Manusia bertempiaran seperti anai-anai yang berterbangan dan gunung-ganang berterbangan seperti bulu yang dihambur-hamburkan"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_059",
+    "soalan": "Dalam Surah Al-Qari'ah, orang yang berat timbangan amal kebaikannya akan berada dalam kehidupan yang:",
+    "pilihan": [
+      "Kegelisahan",
+      "Biasa sahaja",
+      "Senang dan diredhai di dalam syurga",
+      "Sengsara dan penuh azab"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_060",
+    "soalan": "Apakah maksud 'Neraka Hawiyah' yang disebut di akhir Surah Al-Qari'ah?",
+    "pilihan": [
+      "Api neraka yang sangat panas lagi dalam",
+      "Taman syurga",
+      "Titian Sirat",
+      "Padang Mahsyar"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_061",
+    "soalan": "Surah At-Takathur memberi amaran keras kepada manusia yang dilalaikan oleh perlumbaan:",
+    "pilihan": [
+      "Menuntut ilmu agama",
+      "Mengerjakan amal soleh",
+      "Mengumpul harta kekayaan dan bermegah-megah sehingga mereka masuk ke dalam kubur",
+      "Bersedekah kepada anak yatim"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_062",
+    "soalan": "Ayat terakhir Surah At-Takathur ('ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ') bermaksud:",
+    "pilihan": [
+      "Sesungguhnya manusia itu dalam kerugian",
+      "Maka dirikanlah solat dan berkorbanlah",
+      "Bacalah dengan nama Tuhanmu",
+      "Kemudian kamu pasti akan ditanya pada hari itu (Kiamat) tentang segala nikmat yang telah dikurniakan kepada kamu"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_063",
+    "soalan": "Hukum tajwid pada kalimah 'مَنْ يَعْمَلْ' dalam Surah Az-Zalzalah ialah:",
+    "pilihan": [
+      "Iqlab",
+      "Izhar Halqi",
+      "Idgham Ma'al Ghunnah (Nun sukun bertemu Ya)",
+      "Ikhfa' Haqiqi"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_064",
+    "soalan": "Hukum tajwid pada kalimah 'شَرًّا يَرَهُ' dalam Surah Az-Zalzalah ialah:",
+    "pilihan": [
+      "Izhar Halqi",
+      "Idgham Ma'al Ghunnah (Tanwin bertemu Ya)",
+      "Idgham Bila Ghunnah",
+      "Iqlab"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_065",
+    "soalan": "Hukum tajwid pada kalimah 'يَوْمَئِذٍ يَصْدُرُ' dalam Surah Az-Zalzalah ialah:",
+    "pilihan": [
+      "Izhar Halqi",
+      "Idgham Ma'al Ghunnah",
+      "Ikhfa' Syafawi",
+      "Qalqalah Kubra"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_066",
+    "soalan": "Hukum tajwid pada kalimah 'فَإِنَّ مَعَ الْعُسْرِ' dalam Surah Al-Insyirah ialah:",
+    "pilihan": [
+      "Izhar Halqi",
+      "Wajibah Ghunnah (Nun bertasydid dibaca dengung 2 harakat)",
+      "Iqlab",
+      "Qalqalah Sughra"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_067",
+    "soalan": "Hukum tajwid pada kalimah 'أَلَمْ نَشْرَحْ' dalam Surah Al-Insyirah (Mim sukun bertemu Nun) ialah:",
+    "pilihan": [
+      "Ikhfa' Syafawi",
+      "Izhar Syafawi",
+      "Idgham Mislain",
+      "Izhar Halqi"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_068",
+    "soalan": "Hukum tajwid pada kalimah 'وَرَفَعْنَا لَكَ ذِكْرَكَ' pada huruf Alif di hujung 'وَرَفَعْنَا' ialah:",
+    "pilihan": [
+      "Mad Wajib Muttasil",
+      "Mad Asli (dibaca panjang 2 harakat)",
+      "Mad Lazim",
+      "Wajibah Ghunnah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_069",
+    "soalan": "Pada kalimah 'لَقَدْ خَلَقْنَا' dalam Surah At-Tin, huruf Dal sukun (دْ) dan Qaf sukun (قْ) di tengah kalimah dibaca dengan hukum:",
+    "pilihan": [
+      "Qalqalah Sughra (lantunan kecil di tengah kalimah)",
+      "Qalqalah Kubra",
+      "Idgham",
+      "Izhar Halqi"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_070",
+    "soalan": "Pada kalimah 'بَلَدٍ أَمِينٍ' dalam Surah At-Tin, hukum Tanwin bertemu Hamzah ialah:",
+    "pilihan": [
+      "Izhar Halqi",
+      "Iqlab",
+      "Ikhfa' Haqiqi",
+      "Idgham Ma'al Ghunnah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_071",
+    "soalan": "Pada kalimah 'مِنْ أَلْفِ شَهْرٍ' dalam Surah Al-Qadr, hukum Nun sukun bertemu Hamzah ialah:",
+    "pilihan": [
+      "Idgham Bila Ghunnah",
+      "Iqlab",
+      "Izhar Halqi",
+      "Ikhfa' Haqiqi"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_072",
+    "soalan": "Pada kalimah 'سَلَامٌ هِيَ' dalam Surah Al-Qadr, hukum Tanwin bertemu huruf Ha' (هـ) ialah:",
+    "pilihan": [
+      "Idgham",
+      "Izhar Halqi",
+      "Ikhfa'",
+      "Iqlab"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_073",
+    "soalan": "Pada kalimah 'فِيها كُتُبٌ قَيِّمَةٌ' dalam Surah Al-Bayyinah, hukum Tanwin bertemu huruf Qaf ialah:",
+    "pilihan": [
+      "Ikhfa' Haqiqi",
+      "Izhar Halqi",
+      "Idgham",
+      "Iqlab"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_074",
+    "soalan": "Pada kalimah 'رَسُولٌ مِنَ اللَّهِ' dalam Surah Al-Bayyinah, hukum Tanwin bertemu huruf Mim ialah:",
+    "pilihan": [
+      "Ikhfa' Haqiqi",
+      "Iqlab",
+      "Idgham Ma'al Ghunnah",
+      "Izhar Halqi"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_075",
+    "soalan": "Pada kalimah 'خَيْرُ الْبَرِيَّةِ' dan 'شَرُّ الْبَرِيَّةِ', huruf Lam pada 'الْبَرِيَّةِ' dihukum:",
+    "pilihan": [
+      "Alif Lam Qamariyyah (Lam bertanda sukun dibaca jelas)",
+      "Idgham",
+      "Alif Lam Syamsiyyah",
+      "Iqlab"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_076",
+    "soalan": "Huruf-huruf Alif Lam Qamariyyah terhimpun dalam ungkapan:",
+    "pilihan": [
+      "اِبْغِ حَجَّكَ وَخَفْ عَقِيمَهُ (14 huruf)",
+      "يَرْمَلُونَ",
+      "خُصَّ ضَغْطٍ قِظْ",
+      "قُطْبُ جَدٍّ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_077",
+    "soalan": "Alif Lam Syamsiyyah berlaku apabila Alif Lam bertemu dengan 14 huruf Syamsiyyah, dan cara membacanya ialah:",
+    "pilihan": [
+      "Membunyikan huruf Lam dengan jelas",
+      "Memasukkan bunyi Lam terus ke dalam huruf Syamsiyyah yang bertanda tasydid (sabdu) tanpa membunyikan huruf Lam",
+      "Melantunkan huruf Lam",
+      "Memanjangkan huruf Alif 6 harakat"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_078",
+    "soalan": "Contoh kalimah yang mengandungi hukum Alif Lam Syamsiyyah ialah:",
+    "pilihan": [
+      "الشَّمْسُ / الرَّحْمَٰنُ / النَّاسُ",
+      "الْأَرْضُ",
+      "الْغَفُورُ",
+      "الْقَمَرُ / الْحَمْدُ / الْكِتَابُ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_079",
+    "soalan": "Apabila waqaf (berhenti) pada huruf Qalqalah di akhir kalimah yang tidak bersabdu (contoh: الْفَلَقِ / أَحَدٌ / مُحِيطٌ), hukumnya ialah:",
+    "pilihan": [
+      "Qalqalah Kubra (lantunan besar)",
+      "Qalqalah Sughra",
+      "Qalqalah Akbar",
+      "Izhar Halqi"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_080",
+    "soalan": "Apabila waqaf (berhenti) pada huruf Qalqalah di akhir kalimah yang bertanda TASYDID / sabdu (contoh: وَتَبَّ / الْحَقُّ / الْحَجُّ), hukumnya ialah:",
+    "pilihan": [
+      "Qalqalah Akbar (lantunan paling kuat selepas ditekan sabdu)",
+      "Izhar Syafawi",
+      "Qalqalah Sughra",
+      "Mad Lin"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_081",
+    "soalan": "Pada kalimah 'لَمْ يَلِدْ وَلَمْ يُولَدْ' dalam Surah Al-Ikhlas, huruf Dal di akhir kedua-dua kalimah dibaca secara:",
+    "pilihan": [
+      "Mad Asli",
+      "Qalqalah Kubra (ketika waqaf)",
+      "Qalqalah Sughra",
+      "Berdengung 2 harakat"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_082",
+    "soalan": "Apakah hukum bacaan Ra' pada kalimah 'رَبِّ الْفَلَقِ' (Ra' berbaris Fathah)?",
+    "pilihan": [
+      "Tafkhim (tebal)",
+      "Tarqiq (nipis)",
+      "Saktah",
+      "Jawazul Wajhain"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_083",
+    "soalan": "Apakah hukum bacaan Ra' pada kalimah 'مِنْ شَرِّ' (Ra' berbaris Kasrah)?",
+    "pilihan": [
+      "Dengung",
+      "Tafkhim (tebal)",
+      "Tarqiq (nipis)",
+      "Qalqalah"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_084",
+    "soalan": "Apakah hukum bacaan Ra' sukun pada kalimah 'فِرْعَوْنَ' (Ra' sukun didahului baris Kasrah asli dan selepasnya bukan huruf Isti'la')?",
+    "pilihan": [
+      "Tarqiq (nipis)",
+      "Qalqalah",
+      "Tafkhim (tebal)",
+      "Iqlab"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_085",
+    "soalan": "Pada kalimah 'وَالْعَصْرِ', apabila waqaf (berhenti bacaan), huruf Ra' sukun didahului huruf sukun dan sebelumnya berbaris Fathah, maka Ra' dibaca:",
+    "pilihan": [
+      "Tarqiq (nipis)",
+      "Tafkhim (tebal)",
+      "Dengung",
+      "Imalah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_086",
+    "soalan": "Pada kalimah 'خُسْرٍ' dalam Surah Al-'Asr, apabila waqaf (berhenti), huruf Ra' sukun didahului huruf sukun dan sebelumnya berbaris Dhommah, maka Ra' dibaca:",
+    "pilihan": [
+      "Tafkhim (tebal)",
+      "Qalqalah",
+      "Tashil",
+      "Tarqiq (nipis)"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_087",
+    "soalan": "Pada kalimah 'ذِي حِجْرٍ' dalam Surah Al-Fajr, apabila waqaf (berhenti), huruf Ra' sukun didahului huruf sukun dan sebelumnya berbaris Kasrah, maka Ra' dibaca:",
+    "pilihan": [
+      "Tafkhim (tebal)",
+      "Tarqiq (nipis)",
+      "Saktah",
+      "Dengung"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "tajwid_5_088",
+    "soalan": "Tanda 'ع' (Ain kecil) yang terletak di tepi halaman Al-Quran menandakan:",
+    "pilihan": [
+      "Tanda Ruku' (pembahagian bahagian ayat mengikut kesatuan topik / bacaan dalam solat)",
+      "Tanda Waqaf Lazim",
+      "Tanda Saktah",
+      "Tanda Sujud Tilawah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_089",
+    "soalan": "Tanda bintang berbucu lapan ( ۞ ) di dalam mashaf Al-Quran menandakan permulaan:",
+    "pilihan": [
+      "Waqaf Tam",
+      "Sujud Tilawah",
+      "Hizb / Rubu' Hizb (pembahagian bahagian juzuk Al-Quran)",
+      "Surah baharu"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_090",
+    "soalan": "Apakah nama mashaf Al-Quran standard yang digunakan di seluruh dunia Islam hari ini yang disusun pada zaman Khalifah Uthman bin Affan r.a.?",
+    "pilihan": [
+      "Mashaf Rasm Uthmani",
+      "Mashaf Kufi",
+      "Mashaf Qadim",
+      "Mashaf Imla'i"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_091",
+    "soalan": "Siapakah sahabat yang dilantik oleh Khalifah Uthman bin Affan r.a. mengetuai jawatankuasa penyalinan semula mashaf Al-Quran?",
+    "pilihan": [
+      "Salman al-Farisi r.a.",
+      "Abu Hurairah r.a.",
+      "Zaid bin Thabit r.a.",
+      "Bilal bin Rabah r.a."
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_092",
+    "soalan": "Siapakah tokoh ilmuwan Islam yang mula-mula meletakkan tanda titik pada huruf-huruf Al-Quran bagi memudahkan umat Islam bukan Arab membacanya?",
+    "pilihan": [
+      "Abu Al-Aswad Ad-Du'ali (dan disempurnakan oleh Nasr bin Asim serta Khalil bin Ahmad)",
+      "Al-Khawarizmi",
+      "Ibnu Khaldun",
+      "Ibnu Battuta"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_093",
+    "soalan": "Membaca Al-Quran dengan suara yang merdu, berlagu secara sopan dan menjaga hukum tajwid dinamakan:",
+    "pilihan": [
+      "Saktah",
+      "Waqaf Qabih",
+      "Lahn Jali",
+      "Tarannum / Tahsin As-Saut"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_094",
+    "soalan": "Antara lagu-lagu Tarannum Al-Quran yang masyhur dipelajari di Malaysia ialah:",
+    "pilihan": [
+      "Syair Melayu",
+      "Nasyid moden",
+      "Bayyati, Soba, Hijaz, Nahawand, Rast, Sikah dan Jiharkah",
+      "Pop dan Rock"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_095",
+    "soalan": "Sabda Rasulullah SAW: 'Hiasilah bacaan Al-Quran itu dengan...':",
+    "pilihan": [
+      "Suara-suara kamu (yang merdu dan bertajwid)",
+      "Ketawa dan gurauan",
+      "Muzik yang kuat",
+      "Bacaan yang terlalu laju"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "tajwid_5_096",
+    "soalan": "Apakah hukum membaca Al-Quran sambil bermain-main atau ketawa sehingga merosakkan sebutan ayat suci?",
+    "pilihan": [
+      "Sunat",
+      "Makruh ringan",
+      "Haram dan berdosa kerana mempersendakan kalam Allah",
+      "Harus"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_097",
+    "soalan": "Kelebihan ibu bapa yang mendidik anak-anak mereka membaca, menghafaz dan mengamalkan Al-Quran pada Hari Kiamat ialah:",
+    "pilihan": [
+      "Akan ditanya dengan soalan yang sukar",
+      "Sama seperti orang yang lalai",
+      "Tidak mendapat apa-apa kelebihan",
+      "Akan dipakaikan mahkota cahaya yang sinarnya lebih terang daripada cahaya matahari di dunia"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "tajwid_5_098",
+    "soalan": "Apakah maksud 'Khatam Al-Quran'?",
+    "pilihan": [
+      "Menyimpan Al-Quran di dalam almari",
+      "Membaca Surah Al-Fatihah sahaja",
+      "Menamatkan bacaan keseluruhan 30 juzuk Al-Quran (114 surah) dari Surah Al-Fatihah hingga Surah An-Nas",
+      "Membeli mashaf Al-Quran baharu"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_099",
+    "soalan": "Selepas khatam membaca Al-Quran sehingga Surah An-Nas, kita disunatkan untuk:",
+    "pilihan": [
+      "Berhenti membaca Al-Quran selama-lamanya",
+      "Menyimpan Al-Quran di tempat tersembunyi",
+      "Membaca doa Khatam Al-Quran dan memulakan semula bacaan dari awal (Surah Al-Fatihah dan awal Al-Baqarah)",
+      "Menutup mashaf dan tidak membukanya lagi"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "tajwid_5_100",
+    "soalan": "Semoga dengan menguasai ilmu tajwid, murid-murid dapat membaca Al-Quran dengan:",
+    "pilihan": [
+      "Laju tanpa memahami makna",
+      "Fasih, tepat makhrajnya, sempurna hukum tajwidnya serta mendapat keredhaan dan syafaat Al-Quran di akhirat",
+      "Sekadar untuk menunjuk-nunjuk kepada kawan",
+      "Mengabaikan adab-adab membaca Al-Quran"
+    ],
+    "jawapan": 1
+  }
+]
