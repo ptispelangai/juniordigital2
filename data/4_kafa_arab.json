@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "arab_4_001",
+    "soalan": "Apakah maksud nombor 'ثَلَاثُونَ' (Thalathuna)?",
+    "pilihan": [
+      "Tiga puluh (30)",
+      "Dua puluh (20)",
+      "Empat puluh (40)",
+      "Tiga belas (13)"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_002",
+    "soalan": "Perkataan Bahasa Arab bagi nombor '40' (Empat puluh) ialah:",
+    "pilihan": [
+      "أَرْبَعُونَ",
+      "خَمْسُونَ",
+      "سِتُّونَ",
+      "أَرْبَعَةٌ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_003",
+    "soalan": "Nombor 'خَمْسُونَ' (Khamsuna) bermaksud:",
+    "pilihan": [
+      "Lima ratus (500)",
+      "Lima belas (15)",
+      "Lima puluh (50)",
+      "Lima (5)"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_004",
+    "soalan": "Perkataan Bahasa Arab bagi nombor '60' (Enam puluh) ialah:",
+    "pilihan": [
+      "سِتُّونَ",
+      "سَبْعُونَ",
+      "ثَمَانُونَ",
+      "تِسْعُونَ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_005",
+    "soalan": "Nombor 'سَبْعُونَ' (Sab'una) mewakili nombor:",
+    "pilihan": [
+      "Sembilan puluh (90)",
+      "Tujuh puluh (70)",
+      "Tujuh (7)",
+      "Tujuh belas (17)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_006",
+    "soalan": "Perkataan Bahasa Arab bagi nombor '80' (Lapan puluh) ialah:",
+    "pilihan": [
+      "عِشْرُونَ",
+      "ثَمَانُونَ",
+      "سِتُّونَ",
+      "تِسْعُونَ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_007",
+    "soalan": "Nombor 'تِسْعُونَ' (Tis'una) bermaksud:",
+    "pilihan": [
+      "Sembilan (9)",
+      "Seratus (100)",
+      "Sembilan belas (19)",
+      "Sembilan puluh (90)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_008",
+    "soalan": "Apakah perkataan Bahasa Arab bagi nombor '100' (Seratus)?",
+    "pilihan": [
+      "مِائَةٌ (Mi'atun)",
+      "أَلْفٌ",
+      "عِشْرُونَ",
+      "عَشَرَةٌ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_009",
+    "soalan": "Nombor 'خَمْسَةٌ وَعِشْرُونَ' dalam angka Rumi ialah:",
+    "pilihan": [
+      "52",
+      "35",
+      "25",
+      "15"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_010",
+    "soalan": "Nombor 'اِثْنَانِ وَثَلَاثُونَ' dalam angka Rumi ialah:",
+    "pilihan": [
+      "32",
+      "23",
+      "42",
+      "12"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_011",
+    "soalan": "Perkataan Arab bagi nombor '45' ialah:",
+    "pilihan": [
+      "خَمْسَةٌ وَأَرْبَعُونَ",
+      "خَمْسَةَ عَشَرَ",
+      "أَرْبَعَةٌ وَخَمْسُونَ",
+      "أَرْبَعُونَ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_012",
+    "soalan": "Nombor 'تِسْعَةٌ وَتِسْعُونَ' mewakili nombor:",
+    "pilihan": [
+      "99",
+      "100",
+      "88",
+      "66"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_013",
+    "soalan": "Apakah maksud perkataan 'السَّاعَةُ' (As-Sa'atu)?",
+    "pilihan": [
+      "Tahun",
+      "Jam / Masa",
+      "Bulan",
+      "Hari"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_014",
+    "soalan": "Ungkapan 'كَمِ السَّاعَةُ الآنَ؟' (Kamissa'atul an?) bermaksud:",
+    "pilihan": [
+      "Berapa harga jam ini?",
+      "Bilakah kamu pulang?",
+      "Di manakah jam kamu?",
+      "Pukul berapakah sekarang?"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_015",
+    "soalan": "Maksud ungkapan 'السَّاعَةُ الوَاحِدَةُ' ialah:",
+    "pilihan": [
+      "Pukul tiga (3:00)",
+      "Pukul sepuluh (10:00)",
+      "Pukul satu (1:00)",
+      "Pukul dua (2:00)"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_016",
+    "soalan": "Ungkapan 'السَّاعَةُ الثَّانِيَةُ' bermaksud:",
+    "pilihan": [
+      "Pukul empat (4:00)",
+      "Pukul enam (6:00)",
+      "Pukul lapan (8:00)",
+      "Pukul dua (2:00)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_017",
+    "soalan": "Perkataan Arab bagi 'Pukul tiga (3:00)' ialah:",
+    "pilihan": [
+      "السَّاعَةُ الخَامِسَةُ",
+      "السَّاعَةُ الثَّالِثَةُ",
+      "السَّاعَةُ الرَّابِعَةُ",
+      "السَّاعَةُ السَّابِعَةُ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_018",
+    "soalan": "Maksud ungkapan 'السَّاعَةُ السَّادِسَةُ صَبَاحًا' ialah:",
+    "pilihan": [
+      "Pukul 12:00 tengah hari",
+      "Pukul 6:00 pagi",
+      "Pukul 7:00 pagi",
+      "Pukul 6:00 petang"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_019",
+    "soalan": "Perkataan 'وَالنِّصْفُ' (Wannis-fu) dalam bacaan jam bermaksud:",
+    "pilihan": [
+      "Tepat",
+      "Setengah / 30 minit",
+      "Suku / 15 minit",
+      "Kurang 5 minit"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_020",
+    "soalan": "Perkataan 'وَالرُّبْعُ' (Warrub-'u) dalam bacaan jam bermaksud:",
+    "pilihan": [
+      "45 minit",
+      "Tepat",
+      "Suku / 15 minit",
+      "Setengah / 30 minit"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_021",
+    "soalan": "Ungkapan 'السَّاعَةُ السَّابِعَةُ وَالنِّصْفُ' bermaksud:",
+    "pilihan": [
+      "Pukul 7:00 tepat",
+      "Pukul 7:30",
+      "Pukul 8:30",
+      "Pukul 7:15"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_022",
+    "soalan": "Ungkapan 'السَّاعَةُ العَاشِرَةُ وَالرُّبْعُ' bermaksud:",
+    "pilihan": [
+      "Pukul 10:15",
+      "Pukul 10:00",
+      "Pukul 10:30",
+      "Pukul 11:15"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_023",
+    "soalan": "Perkataan 'تَمَامًا' (Tamaman) selepas waktu jam bermaksud:",
+    "pilihan": [
+      "Tepat (contoh: Pukul 5:00 tepat)",
+      "Lebih setengah jam",
+      "Lewat",
+      "Kurang suku"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_024",
+    "soalan": "Ungkapan 'السَّاعَةُ الثَّانِيَةَ عَشْرَةَ ظُهْرًا' bermaksud:",
+    "pilihan": [
+      "Pukul 10:00 pagi",
+      "Pukul 12:00 tengah hari",
+      "Pukul 12:00 tengah malam",
+      "Pukul 2:00 petang"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_025",
+    "soalan": "Apakah maksud perkataan 'مُسْتَشْفَى' (Mustasyfa)?",
+    "pilihan": [
+      "Hospital",
+      "Masjid",
+      "Pasar",
+      "Sekolah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_026",
+    "soalan": "Perkataan Arab bagi 'Pejabat Pos' ialah:",
+    "pilihan": [
+      "مَطَارٌ",
+      "مَرْكَزُ الشُّرْطَةِ",
+      "مَكْتَبُ البَرِيدِ",
+      "مَحَطَّةٌ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_027",
+    "soalan": "Maksud ungkapan 'مَرْكَزُ الشُّرْطَةِ' (Markazusy Syurtah) ialah:",
+    "pilihan": [
+      "Balai Polis",
+      "Pejabat Pos",
+      "Balai Bomba",
+      "Klinik"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_028",
+    "soalan": "Perkataan Arab bagi 'Lapangan Terbang' ialah:",
+    "pilihan": [
+      "مَطْعَمٌ",
+      "مِينَاءٌ",
+      "مَطَارٌ",
+      "مَلْعَبٌ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_029",
+    "soalan": "Maksud perkataan 'مَكْتَبَةٌ' (Maktabatun) ialah:",
+    "pilihan": [
+      "Bilik guru",
+      "Kantin",
+      "Perpustakaan / Kedai buku",
+      "Tandas"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_030",
+    "soalan": "Perkataan Arab bagi 'Restoran / Kedai makan' ialah:",
+    "pilihan": [
+      "مَطْعَمٌ",
+      "مَتْحَفٌ",
+      "مَسْجِدٌ",
+      "مَطْبَخٌ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_031",
+    "soalan": "Maksud perkataan 'سُوقٌ' (Suqun) ialah:",
+    "pilihan": [
+      "Pasar",
+      "Hotel",
+      "Taman permainan",
+      "Rumah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_032",
+    "soalan": "Perkataan Arab bagi 'Muzium' ialah:",
+    "pilihan": [
+      "مَتْحَفٌ",
+      "مَصْنَعٌ",
+      "مَزْرَعَةٌ",
+      "مَلْعَبٌ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_033",
+    "soalan": "Maksud perkataan 'مَلْعَبٌ' (Mal'abun) ialah:",
+    "pilihan": [
+      "Padang / Gelanggang permainan",
+      "Makmal",
+      "Bilik darjah",
+      "Surau"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_034",
+    "soalan": "Perkataan Arab bagi 'Stesen (bas / kereta api)' ialah:",
+    "pilihan": [
+      "مَحَطَّةٌ",
+      "شَارِعٌ",
+      "مِينَاءٌ",
+      "مَطَارٌ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_035",
+    "soalan": "Maksud perkataan 'حَدِيقَةُ الحَيَوَانَاتِ' ialah:",
+    "pilihan": [
+      "Hutan rimba",
+      "Taman bunga",
+      "Kebun sayur",
+      "Taman haiwan / Zoo"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_036",
+    "soalan": "Perkataan Arab bagi 'Masjid' ialah:",
+    "pilihan": [
+      "فُنْدُقٌ",
+      "مَدْرَسَةٌ",
+      "مَسْجِدٌ",
+      "بَيْتٌ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_037",
+    "soalan": "Apakah maksud perkataan 'طَبِيبٌ' (Tabibun)?",
+    "pilihan": [
+      "Jururawat",
+      "Jurutera",
+      "Doktor (lelaki)",
+      "Polis"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_038",
+    "soalan": "Perkataan Arab bagi 'Jururawat (perempuan)' ialah:",
+    "pilihan": [
+      "طَبِيبَةٌ",
+      "مُمَرِّضَةٌ",
+      "شُرْطِيَّةٌ",
+      "مُعَلِّمَةٌ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_039",
+    "soalan": "Maksud perkataan 'شُرْطِيٌّ' (Syurtiyyun) ialah:",
+    "pilihan": [
+      "Ahli bomba",
+      "Tentera / Askar",
+      "Anggota polis",
+      "Pemandu"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_040",
+    "soalan": "Perkataan Arab bagi 'Askar / Tentera' ialah:",
+    "pilihan": [
+      "فَلَّاحٌ",
+      "جُنْدِيٌّ",
+      "تَاجِرٌ",
+      "شُرْطِيٌّ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_041",
+    "soalan": "Maksud perkataan 'مُهَنْدِسٌ' (Muhandisun) ialah:",
+    "pilihan": [
+      "Arkitek",
+      "Jurutera",
+      "Doktor gigi",
+      "Peguam"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_042",
+    "soalan": "Perkataan Arab bagi 'Petani / Pesawah' ialah:",
+    "pilihan": [
+      "خَيَّاطٌ",
+      "نَجَّارٌ",
+      "صَيَّادٌ",
+      "فَلَّاحٌ"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_043",
+    "soalan": "Maksud perkataan 'صَيَّادٌ' (Sayyadun) ialah:",
+    "pilihan": [
+      "Tukang jahit",
+      "Nelayan / Pemburu",
+      "Peniaga",
+      "Tukang kayu"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_044",
+    "soalan": "Perkataan Arab bagi 'Peniaga / Pedagang' ialah:",
+    "pilihan": [
+      "سَائِقٌ",
+      "حَلَّاقٌ",
+      "تَاجِرٌ",
+      "طَبَّاخٌ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_045",
+    "soalan": "Maksud perkataan 'طَيَّارٌ' (Tayyarun) ialah:",
+    "pilihan": [
+      "Juruterbang",
+      "Angkasawan",
+      "Pemandu bas",
+      "Kelasi kapal"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_046",
+    "soalan": "Perkataan Arab bagi 'Tukang masak / Cef' ialah:",
+    "pilihan": [
+      "خَبَّازٌ",
+      "طَبَّاخٌ",
+      "حَدَّادٌ",
+      "نَجَّارٌ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_047",
+    "soalan": "Di manakah tempat bekerja bagi seorang 'طَبِيبٌ' (Doktor)?",
+    "pilihan": [
+      "فِي المَطَارِ (Di lapangan terbang)",
+      "فِي المُسْتَشْفَى (Di hospital)",
+      "فِي المَزْرَعَةِ (Di ladang)",
+      "فِي البَحْرِ (Di laut)"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_048",
+    "soalan": "Di manakah tempat bekerja bagi seorang 'مُعَلِّمٌ' (Guru)?",
+    "pilihan": [
+      "فِي المَطْعَمِ (Di restoran)",
+      "فِي مَرْكَزِ الشُّرْطَةِ (Di balai polis)",
+      "فِي السُّوقِ (Di pasar)",
+      "فِي المَدْرَسَةِ (Di sekolah)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_049",
+    "soalan": "Ungkapan 'أُرِيدُ أَنْ أَكُونَ طَبِيبًا' bermaksud:",
+    "pilihan": [
+      "Saya pergi ke hospital",
+      "Saya bercita-cita ingin menjadi seorang doktor",
+      "Doktor itu merawat pesakit",
+      "Ayah saya seorang doktor"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_050",
+    "soalan": "Maksud kata kerja 'أَسْتَيْقِظُ' (Astaiqizu) ialah:",
+    "pilihan": [
+      "Saya bangun daripada tidur",
+      "Saya mandi",
+      "Saya makan",
+      "Saya tidur"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_051",
+    "soalan": "Maksud kata kerja 'أَتَوَضَّأُ' (Atawaddha'u) ialah:",
+    "pilihan": [
+      "Saya membaca",
+      "Saya solat",
+      "Saya berwuduk",
+      "Saya menulis"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_052",
+    "soalan": "Maksud kata kerja 'أُصَلِّي' (Usolli) ialah:",
+    "pilihan": [
+      "Saya berdoa",
+      "Saya bersedekah",
+      "Saya menunaikan solat",
+      "Saya berpuasa"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_053",
+    "soalan": "Maksud kata kerja 'أَتَنَاوَلُ الفُطُورَ' ialah:",
+    "pilihan": [
+      "Saya bersarapan pagi",
+      "Saya memasak nasi",
+      "Saya minum susu",
+      "Saya makan malam"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_054",
+    "soalan": "Maksud kata kerja 'أَذْهَبُ إِلَى المَدْرَسَةِ' ialah:",
+    "pilihan": [
+      "Saya pergi ke sekolah",
+      "Saya belajar di kelas",
+      "Saya pulang dari sekolah",
+      "Saya bermain di padang"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_055",
+    "soalan": "Maksud kata kerja 'أَقْرَأُ الكِتَابَ' ialah:",
+    "pilihan": [
+      "Saya menutup buku",
+      "Saya membaca buku",
+      "Saya menulis pelajaran",
+      "Saya membuka pintu"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_056",
+    "soalan": "Maksud kata kerja 'أَكْتُبُ الدَّرْسَ' ialah:",
+    "pilihan": [
+      "Saya menulis pelajaran",
+      "Saya menghafal ayat",
+      "Saya mendengar penjelasan",
+      "Saya melukis gambar"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_057",
+    "soalan": "Maksud kata kerja 'أَلْعَبُ كُرَةَ القَدَمِ' ialah:",
+    "pilihan": [
+      "Saya bermain bola sepak",
+      "Saya berlari",
+      "Saya bermain badminton",
+      "Saya berenang"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_058",
+    "soalan": "Maksud kata kerja 'أَرْجِعُ مِنَ المَدْرَسَةِ' ialah:",
+    "pilihan": [
+      "Saya pergi ke masjid",
+      "Saya pulang dari sekolah",
+      "Saya masuk ke rumah",
+      "Saya keluar dari rumah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_059",
+    "soalan": "Maksud kata kerja 'أَنَامُ مُبَكِّرًا' ialah:",
+    "pilihan": [
+      "Saya bangun awal",
+      "Saya makan dengan sopan",
+      "Saya tidur awal",
+      "Saya belajar bersungguh-sungguh"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_060",
+    "soalan": "Kata kerja untuk perbuatan 'Minum' bagi 'Saya' ialah:",
+    "pilihan": [
+      "أَقُومُ",
+      "أَجْلِسُ",
+      "أَشْرَبُ",
+      "آكُلُ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_061",
+    "soalan": "Kata kerja untuk perbuatan 'Duduk' bagi 'Saya' ialah:",
+    "pilihan": [
+      "أَجْرِي",
+      "أَمْشِي",
+      "أَقِفُ",
+      "أَجْلِسُ"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_062",
+    "soalan": "Maksud kata arah 'أَمَامَ' (Amama) ialah:",
+    "pilihan": [
+      "Di hadapan",
+      "Di bawah",
+      "Di atas",
+      "Di belakang"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_063",
+    "soalan": "Perkataan Arab bagi 'Di belakang' ialah:",
+    "pilihan": [
+      "وَرَاءَ / خَلْفَ",
+      "فَوْقَ",
+      "أَمَامَ",
+      "تَحْتَ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_064",
+    "soalan": "Maksud kata arah 'فَوْقَ' (Fauqa) ialah:",
+    "pilihan": [
+      "Di bawah",
+      "Di luar",
+      "Di dalam",
+      "Di atas"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_065",
+    "soalan": "Perkataan Arab bagi 'Di bawah' ialah:",
+    "pilihan": [
+      "تَحْتَ",
+      "فَوْقَ",
+      "جَانِبَ",
+      "بَيْنَ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_066",
+    "soalan": "Maksud kata arah 'جَانِبَ' (Janiba) ialah:",
+    "pilihan": [
+      "Di hadapan",
+      "Di tengah",
+      "Di sebelah / Di sisi",
+      "Di atas"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_067",
+    "soalan": "Maksud kata arah 'بَيْنَ' (Baina) ialah:",
+    "pilihan": [
+      "Di bawah",
+      "Di antara",
+      "Di belakang",
+      "Di dalam"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_068",
+    "soalan": "Maksud huruf jar 'فِي' (Fi) ialah:",
+    "pilihan": [
+      "Ke",
+      "Di / Di dalam",
+      "Atas",
+      "Dari"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_069",
+    "soalan": "Maksud huruf jar 'عَلَى' ('Ala) ialah:",
+    "pilihan": [
+      "Dari",
+      "Di dalam",
+      "Dengan",
+      "Di atas"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_070",
+    "soalan": "Maksud huruf jar 'مِنْ' (Min) dan 'إِلَى' (Ila) secara berturutan ialah:",
+    "pilihan": [
+      "Dari dan Ke",
+      "Di dan Atas",
+      "Untuk dan Dengan",
+      "Seperti dan Kepunyaan"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_071",
+    "soalan": "Ayat 'الكِتَابُ عَلَى المَكْتَبِ' bermaksud:",
+    "pilihan": [
+      "Pen itu berada di bawah kerusi",
+      "Buku itu berada di dalam beg",
+      "Guru itu berdiri di hadapan kelas",
+      "Buku itu berada di atas meja"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_072",
+    "soalan": "Ayat 'القَلَمُ فِي المِقْلَمَةِ' bermaksud:",
+    "pilihan": [
+      "Buku itu di dalam beg",
+      "Pen itu di atas meja",
+      "Pen itu berada di dalam kotak pensel",
+      "Pembaris itu di bawah buku"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_073",
+    "soalan": "Kata ganti nama 'هُوَ' (Huwa) digunakan untuk:",
+    "pilihan": [
+      "Dia (seorang perempuan)",
+      "Kami",
+      "Dia (seorang lelaki)",
+      "Saya"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_074",
+    "soalan": "Kata ganti nama 'هِيَ' (Hiya) digunakan untuk:",
+    "pilihan": [
+      "Dia (seorang perempuan)",
+      "Mereka",
+      "Awak lelaki",
+      "Dia (seorang lelaki)"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_075",
+    "soalan": "Kata ganti nama 'نَحْنُ' (Nahnu) bermaksud:",
+    "pilihan": [
+      "Saya",
+      "Mereka",
+      "Awak semua",
+      "Kami / Kita"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_076",
+    "soalan": "Kata ganti nama 'هُمْ' (Hum) bermaksud:",
+    "pilihan": [
+      "Awak berdua",
+      "Kami",
+      "Dia seorang",
+      "Mereka (lelaki / ramai)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_077",
+    "soalan": "Kata ganti nama 'أَنْتُمْ' (Antum) bermaksud:",
+    "pilihan": [
+      "Saya",
+      "Awak seorang perempuan",
+      "Dia",
+      "Kamu semua (lelaki / ramai)"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_078",
+    "soalan": "Kata tanya 'مَا / مَاذَا' (Ma / Maza) bermaksud:",
+    "pilihan": [
+      "Di mana",
+      "Bila",
+      "Apa / Apakah",
+      "Siapa"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_079",
+    "soalan": "Kata tanya 'مَنْ' (Man) bermaksud:",
+    "pilihan": [
+      "Berapa",
+      "Siapa / Siapakah",
+      "Bagaimana",
+      "Apa"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_080",
+    "soalan": "Kata tanya 'أَيْنَ' (Aina) bermaksud:",
+    "pilihan": [
+      "Mengapa",
+      "Adakah",
+      "Bila",
+      "Di mana / Ke mana"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_081",
+    "soalan": "Kata tanya 'مَتَى' (Mata) bermaksud:",
+    "pilihan": [
+      "Berapa",
+      "Siapa",
+      "Di mana",
+      "Bila / Bilakah"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_082",
+    "soalan": "Kata tanya 'كَيْفَ' (Kaifa) bermaksud:",
+    "pilihan": [
+      "Bagaimana",
+      "Di mana",
+      "Apa",
+      "Siapa"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_083",
+    "soalan": "Kata tanya 'كَمْ' (Kam) bermaksud:",
+    "pilihan": [
+      "Adakah",
+      "Mengapa",
+      "Bila",
+      "Berapa"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_084",
+    "soalan": "Kata tanya 'هَلْ' (Hal) bermaksud:",
+    "pilihan": [
+      "Siapakah",
+      "Adakah (dijawab dengan نَعَمْ atau لَا)",
+      "Bilakah",
+      "Di manakah"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_085",
+    "soalan": "Kata tanya 'لِمَاذَا' (Limaza) bermaksud:",
+    "pilihan": [
+      "Berapa",
+      "Mengapa / Kenapa",
+      "Siapa",
+      "Di mana"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_086",
+    "soalan": "Soalan 'مَا اسْمُكَ؟' (Masmuka?) bermaksud:",
+    "pilihan": [
+      "Berapakah umur kamu?",
+      "Apa khabar kamu?",
+      "Siapakah nama kamu (lelaki)?",
+      "Di manakah rumah kamu?"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_087",
+    "soalan": "Soalan 'أَيْنَ تَسْكُنُ؟' (Aina taskunu?) bermaksud:",
+    "pilihan": [
+      "Apakah hobi kamu?",
+      "Di manakah kamu belajar?",
+      "Bilakah kamu tidur?",
+      "Di manakah kamu tinggal?"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_088",
+    "soalan": "Jawapan bagi soalan 'أَيْنَ تَسْكُنُ؟' yang betul ialah:",
+    "pilihan": [
+      "اِسْمِي أَحْمَدُ",
+      "أَسْكُنُ فِي كُوَانْتَان (Saya tinggal di Kuantan)",
+      "أَنَا تِلْمِيذٌ",
+      "عُمْرِي عَشْرُ سَنَوَاتٍ"
+    ],
+    "jawapan": 1
+  },
+  {
+    "id": "arab_4_089",
+    "soalan": "Soalan 'كَمْ عُمْرُكَ؟' (Kam 'umruka?) bermaksud:",
+    "pilihan": [
+      "Berapakah harga buku ini?",
+      "Berapakah bilangan adik-beradik kamu?",
+      "Berapakah umur kamu?",
+      "Pukul berapakah sekarang?"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_090",
+    "soalan": "Dalam Bahasa Arab, kata nama yang berakhir dengan huruf Ta Marbutah (ـة / ة) kebiasaannya menunjukkan:",
+    "pilihan": [
+      "Kata kerja",
+      "Muzakkar (Lelaki)",
+      "Muannas (Perempuan)",
+      "Kata tanya"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_091",
+    "soalan": "Antara perkataan berikut, yang manakah merupakan kata nama 'Muannas' (Perempuan)?",
+    "pilihan": [
+      "مُعَلِّمٌ",
+      "مُهَنْدِسٌ",
+      "طَبِيبَةٌ (Doktor perempuan)",
+      "تِلْمِيذٌ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_092",
+    "soalan": "Bentuk 'Muthanna' (menunjukkan bilangan DUA) bagi perkataan 'كِتَابٌ' (sebuah buku) ialah:",
+    "pilihan": [
+      "كِتَابَانِ (Dua buah buku)",
+      "مَكْتَبَةٌ",
+      "مَكْتَبٌ",
+      "كُتُبٌ"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_093",
+    "soalan": "Bentuk 'Muthanna' (bilangan DUA) bagi perkataan 'قَلَمٌ' (sebatang pen) ialah:",
+    "pilihan": [
+      "أَقْلَامٌ",
+      "قَلَمٌ وَاحِدٌ",
+      "قَلَمَانِ (Dua batang pen)",
+      "مِقْلَمَةٌ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_094",
+    "soalan": "Bentuk 'Jamak' (bilangan BANYAK - 3 ke atas) bagi perkataan 'تِلْمِيذٌ' (murid lelaki) ialah:",
+    "pilihan": [
+      "تِلْمِيذَةٌ",
+      "مُعَلِّمُونَ",
+      "تَلَامِيذُ (Murid-murid)",
+      "تِلْمِيذَانِ"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_095",
+    "soalan": "Perkataan 'حَمْدًا لِلَّهِ' atau 'الْحَمْدُ لِلَّهِ' bermaksud:",
+    "pilihan": [
+      "Segala puji bagi Allah",
+      "Allah Maha Besar",
+      "Dengan nama Allah",
+      "Maha Suci Allah"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_096",
+    "soalan": "Ungkapan 'بَارَكَ اللَّهُ فِيكَ' bermaksud:",
+    "pilihan": [
+      "Selamat jalan",
+      "Semoga cepat sembuh",
+      "Selamat hari raya",
+      "Semoga Allah memberkatimu"
+    ],
+    "jawapan": 3
+  },
+  {
+    "id": "arab_4_097",
+    "soalan": "Ungkapan 'جَزَاكَ اللَّهُ خَيْرًا' diucapkan untuk:",
+    "pilihan": [
+      "Bertanya khabar",
+      "Mengucapkan selamat pagi",
+      "Mendoakan kebaikan sebagai tanda terima kasih kepada seseorang",
+      "Meminta maaf"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_098",
+    "soalan": "Ayat 'هَذَا فَصْلٌ نَظِيفٌ' bermaksud:",
+    "pilihan": [
+      "Ini kelas yang bersih",
+      "Ini masjid yang luas",
+      "Ini sekolah yang besar",
+      "Ini rumah yang cantik"
+    ],
+    "jawapan": 0
+  },
+  {
+    "id": "arab_4_099",
+    "soalan": "Ayat 'أُحِبُّ اللُّغَةَ العَرَبِيَّةَ' bermaksud:",
+    "pilihan": [
+      "Saya menulis tulisan Jawi",
+      "Saya membaca Al-Quran",
+      "Saya mencintai Bahasa Arab",
+      "Saya pergi ke sekolah"
+    ],
+    "jawapan": 2
+  },
+  {
+    "id": "arab_4_100",
+    "soalan": "Bahasa Arab sangat istimewa dan wajib dipelajari oleh umat Islam kerana ia adalah bahasa:",
+    "pilihan": [
+      "Perdagangan semata-mata",
+      "Sukan antarabangsa",
+      "Pelancongan sahaja",
+      "Al-Quran Al-Karim dan ibadah solat"
+    ],
+    "jawapan": 3
+  }
+]
